@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 13:12:57 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 17 Sep 2026 13:15:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Alarm we wschodniej Polsce. Wojsko poderwało myśliwce</title>
             <link>https://www.fakt.pl/polityka/alarm-we-wschodniej-polsce-wojsko-poderwalo-mysliwce/1f4m7rb</link>
@@ -76,5 +76,11 @@
             <description>— Bardzo blisko polskiej granicy, niedaleko ukraińskiego Jagodzina koło Dorohuska, znowu zaatakowano prawdopodobnie stację benzynową — powiedział Donald Tusk. Premier poinformował również, że tej nocy będzie jechał przez Ukrainę.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f75c2bdb-30ce-4e11-bba1-2f4967334638.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 17 Sep 2026 13:12:57 GMT</pubDate>
-            <guid isPermaLink="false">40cd0afa-6fcc-4589-8a19-6374f94c02a0</guid></item></channel>
+            <guid isPermaLink="false">40cd0afa-6fcc-4589-8a19-6374f94c02a0</guid></item><item>
+            <title>Breaking Policja wezwana do biura Grzegorza Brauna. Jeden przedmiot wzbudził podejrzenia pracowników</title>
+            <link>https://www.fakt.pl/polityka/policja-wezwana-do-biura-grzegorza-brauna-podejrzana-przesylka/v20xy8f</link>
+            <description>Policja i straż pożarna zostały wezwane w czwartek 17 września do biura Grzegorza Brauna w Warszawie. Powodem była przesyłka, której zawartość zaniepokoiła pracowników. — Przez kopertę wyglądało to na fiolkę — mówi w rozmowie z &quot;Faktem&quot; Jan Krysiak, dyrektor biura europosła. — Śledczy nie potwierdzili, aby przesyłka tworzyła zagrożenie — przekazał &quot;Faktowi&quot; asp. Jakub Pacyniak.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/91762b88-796f-4b1f-8ef5-31ff2f6d9c2d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 13:15:00 GMT</pubDate>
+            <guid isPermaLink="false">d3b58e5c-7ac2-4a9a-b12f-5fac5f80bc9a</guid></item></channel>
             </rss>
