@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 13:15:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 17 Sep 2026 15:17:38 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Alarm we wschodniej Polsce. Wojsko poderwało myśliwce</title>
             <link>https://www.fakt.pl/polityka/alarm-we-wschodniej-polsce-wojsko-poderwalo-mysliwce/1f4m7rb</link>
@@ -82,5 +82,11 @@
             <description>Policja i straż pożarna zostały wezwane w czwartek 17 września do biura Grzegorza Brauna w Warszawie. Powodem była przesyłka, której zawartość zaniepokoiła pracowników. — Przez kopertę wyglądało to na fiolkę — mówi w rozmowie z &quot;Faktem&quot; Jan Krysiak, dyrektor biura europosła. — Śledczy nie potwierdzili, aby przesyłka tworzyła zagrożenie — przekazał &quot;Faktowi&quot; asp. Jakub Pacyniak.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/91762b88-796f-4b1f-8ef5-31ff2f6d9c2d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 17 Sep 2026 13:15:00 GMT</pubDate>
-            <guid isPermaLink="false">d3b58e5c-7ac2-4a9a-b12f-5fac5f80bc9a</guid></item></channel>
+            <guid isPermaLink="false">d3b58e5c-7ac2-4a9a-b12f-5fac5f80bc9a</guid></item><item>
+            <title>Breaking Pilne wystąpienie Tuska. To planuje Rosja wobec Polski</title>
+            <link>https://www.fakt.pl/polityka/donald-tusk-o-strategii-rosji-uderzenia-dronami-i-rakietami-w-polske/6yexmm6</link>
+            <description>— Rosja zdecydowała się na nową strategię prowadzenia wojny — powiedział Donald Tusk w Sejmie. — W planie w ocenie wywiadów są hybrydowe uderzenia dronami i rakietami na państwa wspierające Ukrainę, w tym Polskę — dodał premier.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 15:17:38 GMT</pubDate>
+            <guid isPermaLink="false">f73cbaab-10a4-4cba-b8e5-974e5e94c87b</guid></item></channel>
             </rss>
