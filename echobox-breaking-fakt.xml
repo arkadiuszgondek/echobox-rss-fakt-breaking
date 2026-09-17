@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 11:31:13 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 17 Sep 2026 13:12:57 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tragedia podczas konwoju na Śląsku. &quot;Potwierdzamy&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/slask/tragedia-podczas-konwoju-pod-klobuckiem-nie-zyje-mezczyzna/mbxln6p</link>
-            <description>Tragedia podczas konwoju na Śląsku. – Potwierdzamy, że w dniu dzisiejszym doszło do tragicznego zdarzenia w postaci śmierci funkcjonariusza Służby Więziennej – przekazuje &quot;Faktowi&quot; ppłk Arleta Pęconek, rzecznik Służby Więziennej.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f86f556e-9a56-48ca-bf53-6612ec3e04f5.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 15 Sep 2026 13:03:51 GMT</pubDate>
-            <guid isPermaLink="false">6065f5f9-e16b-4e01-8003-95d5b686a8b2</guid></item><item>
             <title>Breaking Alarm we wschodniej Polsce. Wojsko poderwało myśliwce</title>
             <link>https://www.fakt.pl/polityka/alarm-we-wschodniej-polsce-wojsko-poderwalo-mysliwce/1f4m7rb</link>
             <description>Wojsko Polskie poderwało po godz. 7 rano 16 września myśliwce we wschodniej części kraju w związku z nowym rosyjskim atakiem na Ukrainę. &quot;Działania te mają charakter prewencyjny i są ukierunkowane na zabezpieczenie przestrzeni powietrznej&quot; — przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych RP. Wydano również alert RCB i zamknięto lotniska w Rzeszowie i Lublinie. Po ponad pół godziny alarm odwołano.</description>
@@ -76,5 +70,11 @@
             <description>Na Dolnym Śląsku trwają przeszukania w śledztwie w sprawie raportu &quot;Polaków portret własny&quot;, m.in. w nieruchomości Barbary Mróz-Gorgoń, ale także innych osób — przekazał w czwartek 17 września rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/9734af28-f633-4837-945c-52fa871c7109.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 17 Sep 2026 11:31:13 GMT</pubDate>
-            <guid isPermaLink="false">01ce15ff-7a7e-445a-9d38-60a28bec152b</guid></item></channel>
+            <guid isPermaLink="false">01ce15ff-7a7e-445a-9d38-60a28bec152b</guid></item><item>
+            <title>Breaking Tusk mówił o ataku przy granicy. Nagle poinformował. &quot;Tej nocy będę jechał przez Ukrainę&quot;</title>
+            <link>https://www.fakt.pl/polityka/alert-rcb-donald-tusk-mowil-o-ataku-tej-nocy-bede-jechal-przez-ukraine/pewtxts</link>
+            <description>— Bardzo blisko polskiej granicy, niedaleko ukraińskiego Jagodzina koło Dorohuska, znowu zaatakowano prawdopodobnie stację benzynową — powiedział Donald Tusk. Premier poinformował również, że tej nocy będzie jechał przez Ukrainę.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f75c2bdb-30ce-4e11-bba1-2f4967334638.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 13:12:57 GMT</pubDate>
+            <guid isPermaLink="false">40cd0afa-6fcc-4589-8a19-6374f94c02a0</guid></item></channel>
             </rss>
