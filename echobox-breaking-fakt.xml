@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 10:59:48 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 17 Sep 2026 11:31:13 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tragedia podczas konwoju na Śląsku. &quot;Potwierdzamy&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/slask/tragedia-podczas-konwoju-pod-klobuckiem-nie-zyje-mezczyzna/mbxln6p</link>
@@ -70,5 +70,11 @@
             <description>Nagły, potężny huk słyszany w czwartek, 17 września m.in. w Łodzi, mógł przypominać eksplozję lub uderzenie pioruna. W rzeczywistości był skutkiem przekroczenia bariery dźwięku przez samolot lecący z prędkością ponaddźwiękową. To zjawisko, nazywane sonic boom, jest naturalnym efektem lotu szybszego od dźwięku.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/fad92b7f-a208-4585-9382-ed8a6077dffe.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 17 Sep 2026 10:59:48 GMT</pubDate>
-            <guid isPermaLink="false">1538e3b5-b2bb-4c82-a59e-232341eec520</guid></item></channel>
+            <guid isPermaLink="false">1538e3b5-b2bb-4c82-a59e-232341eec520</guid></item><item>
+            <title>Breaking Przeszukanie u Barbary Mróz-Gorgoń. Nowe informacje w sprawie kontrowersyjnego raportu</title>
+            <link>https://www.fakt.pl/polityka/przeszukanie-u-barbary-mroz-gorgon-jest-ruch-prokuratury/sx923cp</link>
+            <description>Na Dolnym Śląsku trwają przeszukania w śledztwie w sprawie raportu &quot;Polaków portret własny&quot;, m.in. w nieruchomości Barbary Mróz-Gorgoń, ale także innych osób — przekazał w czwartek 17 września rzecznik Prokuratury Okręgowej w Warszawie prok. Piotr Antoni Skiba.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9734af28-f633-4837-945c-52fa871c7109.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 11:31:13 GMT</pubDate>
+            <guid isPermaLink="false">01ce15ff-7a7e-445a-9d38-60a28bec152b</guid></item></channel>
             </rss>
