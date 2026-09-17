@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 17:08:22 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 17 Sep 2026 17:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Alarm we wschodniej Polsce. Wojsko poderwało myśliwce</title>
             <link>https://www.fakt.pl/polityka/alarm-we-wschodniej-polsce-wojsko-poderwalo-mysliwce/1f4m7rb</link>
@@ -91,8 +91,14 @@
             <guid isPermaLink="false">f73cbaab-10a4-4cba-b8e5-974e5e94c87b</guid></item><item>
             <title>Breaking Wojsko poderwało myśliwce. &quot;Dowództwo uruchomiło niezbędne siły&quot;</title>
             <link>https://www.fakt.pl/polityka/atak-rosji-na-ukraine-polska-poderwala-mysliwce-dwa-lotniska-zawieszone/wnwc5v8</link>
-            <description>&quot;W związku z kolejnymi uderzeniami wykonywanymi przez Federację Rosyjską za pomocą środków napadu powietrznego na cele w centralnej części Ukrainy, w polskiej przestrzeni powietrznej prewencyjnie operuje lotnictwo wojskowe&quot; — przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych.</description>
+            <description>Dowództwo Operacyjne Rodzajów Sił Zbrojnych reaguje na kolejny atak Rosji na Ukrainę. &quot;W polskiej przestrzeni powietrznej prewencyjnie operuje lotnictwo wojskowe&quot; — przekazało wojsko. W związku z sytuacją tymczasowo zawieszono działalność lotnisk w Lublinie i Rzeszowie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
             <pubDate>Thu, 17 Sep 2026 17:08:22 GMT</pubDate>
-            <guid isPermaLink="false">540d02c1-f562-44bc-bd0c-5119b87c3d47</guid></item></channel>
+            <guid isPermaLink="false">540d02c1-f562-44bc-bd0c-5119b87c3d47</guid></item><item>
+            <title>Breaking Donald Trump napisał o &quot;przyjacielu&quot; Karolu Nawrockim. &quot;Poczyniono znaczące postępy&quot;</title>
+            <link>https://www.fakt.pl/polityka/donald-trump-o-bazie-usa-w-polsce-i-karolu-nawrockim-wspaniale-wiadomosci/lsechn2</link>
+            <description>Donald Trump poinformował o postępach w sprawie utworzenia bazy amerykańskiej armii w Polsce. Prezydent USA wskazał przy tym na rolę Karola Nawrockiego i zapowiedział, że miejsce jej powstania może zostać podane wkrótce. &quot;Wspaniałe wiadomości! Dzięki odważnemu przywództwu mojego przyjaciela, Karola Nawrockiego, prezydenta Polski, poczyniono znaczące postępy&quot; — napisał Trump.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e7afe9a9-8627-41fb-a2d6-fe9966edcfe0.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 17:45:00 GMT</pubDate>
+            <guid isPermaLink="false">4100aded-81ba-470b-a134-63d7e39e22ca</guid></item></channel>
             </rss>
