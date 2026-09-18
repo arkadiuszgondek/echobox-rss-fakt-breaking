@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 18 Sep 2026 10:44:41 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 18 Sep 2026 11:28:21 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Dramatyczne odkrycie w Ośnie Lubuskim. Na skwerku znaleziono roznegliżowane zwłoki starszej kobiety</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/zwloki-kobiety-przy-sciezce-w-osnie-lubuskim-policja-bada-sprawe/0ld62b2</link>
-            <description>Mieszkańcy Ośna Lubuskiego (woj. lubuskie) są w szoku po tym, co wydarzyło się w środę 16 września rano. Przechodnie natknęli się na półnagie zwłoki kobiety na skwerku, tuż przy popularnej ścieżce spacerowej. Policja i prokuratura od rana pracują na miejscu, wyjaśniając, co dokładnie się stało.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b4179752-452e-4a66-8a2f-c97504ead103.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 11:41:35 GMT</pubDate>
-            <guid isPermaLink="false">37dc38de-3694-46d4-8fde-247ea1c3beb5</guid></item><item>
             <title>Breaking Cudak dostał się do gabinetu i zaczął zwalniać. Kurowska zdumiona. &quot;Wybili przejście w ścianie&quot;</title>
             <link>https://www.fakt.pl/polityka/slawomir-cudak-wszedl-do-gabinetu-w-aws-maria-kurowska-z-pis-przez-sciane/gg8twg9</link>
             <description>Po niemal tygodniu Sławomirowi Cudakowi udało się dostać do gabinetu rektora Akademii Wymiaru Sprawiedliwości. Zaskoczyło to Marię Kurowską. Posłanka PiS blokuje bowiem wejście do pomieszczenia. &quot;Prawdopodobnie wybili przejście w ścianie!&quot; — napisała w mediach społecznościowych. Niedługo później Cudak zwolnił kilka osób.</description>
@@ -101,10 +95,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/6f7e4476-4358-4d7b-86e3-ebdf951d87a3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 18 Sep 2026 08:10:00 GMT</pubDate>
             <guid isPermaLink="false">4a8cd3b1-1bc4-4af5-8b19-54ab45a53d94</guid></item><item>
-            <title>Breaking Węgrzy zdecydowali. Wiadomo co z kierowcą, podejrzanym o spowodowanie wypadku polskich pielgrzymów</title>
+            <title>Breaking Węgrzy zdecydowali. Wiadomo, co z kierowcą podejrzanym o spowodowanie wypadku polskich pielgrzymów</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/polski-kierowca-autokaru-po-wypadku-na-wegrzech-sad-przedluza-areszt/070x75w</link>
-            <description>W piątek 18 września upłynął termin aresztu zastosowanego wobec kierowcy polskiego autokaru, który w połowie września spowodował tragiczny wypadek na autostradzie M3 na Węgrzech. W zdarzeniu zginęło 12 pielgrzymów z Polski, a kilkadziesiąt innych osób odniosło obrażenia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>W piątek 18 września upłynął termin tymczasowego aresztowania zastosowanego wobec kierowcy polskiego autokaru, który w połowie września spowodował tragiczny wypadek na autostradzie M3 na Węgrzech. W zdarzeniu zginęło 12 pielgrzymów z Polski, a kilkadziesiąt innych odniosło obrażenia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1dc770db-b7f0-42f7-930a-ac7bd1bdb3f7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 18 Sep 2026 10:44:41 GMT</pubDate>
-            <guid isPermaLink="false">79469714-0b23-4123-b118-1261c72012dc</guid></item></channel>
+            <guid isPermaLink="false">79469714-0b23-4123-b118-1261c72012dc</guid></item><item>
+            <title>Breaking Płonąca suszarnia w Osięcinach. 18 zastępów straży walczy z ogniem, są ranni</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/pozar-w-osiecinach-ogromne-plomienie-i-dramatyczna-akcja-strazakow/v41vp90</link>
+            <description>W piątek, 18 września, Osięciny w powiecie radziejowskim (woj. kujawsko-pomorskie) stały się areną dramatycznych wydarzeń. Przed południem w suszarni jednej z miejscowych firm wybuchł ogromny pożar. Na miejscu natychmiast pojawiło się aż 18 zastępów straży pożarnej, w tym specjalistyczne jednostki z Włocławka. Są ranni.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/74d755c9-5add-4967-a2db-3dd349e73618.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 18 Sep 2026 11:28:21 GMT</pubDate>
+            <guid isPermaLink="false">15370edb-eacb-4c2c-b835-9f2d93be2e50</guid></item></channel>
             </rss>
