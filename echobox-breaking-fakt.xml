@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 18 Sep 2026 04:59:41 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 18 Sep 2026 08:10:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Koszalin. Rodzina nie mogła się dodzwonić. W mieszkaniu znaleziono zwłoki starszego małżeństwa</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/tragedia-w-koszalinie-policja-wyjasnia-smierc-starszego-malzenstwa/cqjcglc</link>
-            <description>Koszalin żyje szokującym wydarzeniem, do którego doszło wieczorem, we wtorek, 15 września, w jednym z mieszkań przy ul. Wyspiańskiego. Policja, wezwana przez zaniepokojoną rodzinę, odkryła ciała 69-letniej kobiety i 63-letniego mężczyzny. Drzwi do mieszkania otworzył 53-letni mężczyzna, który został zatrzymany przez funkcjonariuszy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/fadb9b20-651e-4800-9079-7c7d924d6ea3.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 07:36:27 GMT</pubDate>
-            <guid isPermaLink="false">58141ca0-dffb-4a42-b4f5-98613af84ec7</guid></item><item>
             <title>Breaking W to był uzbrojony. Nowe informacje o rosyjskim dronie na plaży</title>
             <link>https://www.fakt.pl/polityka/dron-na-plazy-byl-uzbrojony-nowe-informacje-z-prokuratury/wtptqk2</link>
             <description>Bezzałogowiec znaleziony na plaży w Rusinowie był uzbrojony w ważącą ok. 4 kg głowicę bojową, która została zneutralizowana — poinformowała prokuratura. Obiekt został zabezpieczony. To najprawdopodobniej rosyjski dron Gerbera 2.</description>
@@ -100,5 +94,11 @@
             <description>Donald Trump ogłosił, że dzięki &quot;odważnemu przywództwu&quot; Karola Nawrockiego poczynione zostały znaczne postępy w kierunku utworzenia bazy USA w Polsce. — Jeżeli rękę do tego dołożył pan prezydent Nawrocki, jeżeli rękę dołożył pan Kosiniak, pan premier Tusk, minister Sikorski, chwała każdemu z nich — powiedział na antenie TVN24 Włodzimierz Czarzasty.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/8155a811-ec79-4c3e-bc25-72ef98fac74b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 18 Sep 2026 04:59:41 GMT</pubDate>
-            <guid isPermaLink="false">465fc803-fb93-4c73-842e-5655ce65f671</guid></item></channel>
+            <guid isPermaLink="false">465fc803-fb93-4c73-842e-5655ce65f671</guid></item><item>
+            <title>Breaking Pierwsze starcie PiS z ludźmi Morawieckiego. Sejm zdecydował w sprawie wicemarszałka</title>
+            <link>https://www.fakt.pl/polityka/sejm-wybral-nowego-wicemarszalka-starcie-marcina-horaly-z-marcinem-ociepa/w0gtj7w</link>
+            <description>Sejm 18 września zdecydował o wyborze nowego wicemarszałka. O miejsce w Prezydium Sejmu ubiegali się Marcin Ociepa z PiS oraz Marcin Horała z klubu Mateusza Morawieckiego Rozwój Plus. To pokłosie rozłamu na prawicy i wystąpieniu z partii Kaczyńskiego byłego premiera i związanych z nim parlamentarzystów. Posłowie wybrali Marcina Horałę na stanowisko wicemarszałka.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 18 Sep 2026 08:10:00 GMT</pubDate>
+            <guid isPermaLink="false">4a8cd3b1-1bc4-4af5-8b19-54ab45a53d94</guid></item></channel>
             </rss>
