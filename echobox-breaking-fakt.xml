@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 20 Sep 2026 18:25:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 20 Sep 2026 20:15:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Dzwoniła po pomoc. Kiedy służby jechały na miejsce, mężczyzna zaczął strzelać. Tragedia w Małopolsce</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/tragedia-w-sieprawiu-padly-strzaly-zginal-mezczyzna-ranna-kobieta/rh367eb</link>
@@ -11,16 +11,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/9a135c2f-68ce-47cc-beec-72800261fd37.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 19 Sep 2026 06:14:00 GMT</pubDate>
             <guid isPermaLink="false">8d8039a2-adfa-49aa-bb35-20de084841e2</guid></item><item>
-            <title>Breaking Wybory w Niemczech. Pierwsze sondaże exit poll. Tu skrajnie prawicowa AfD miała zdobyć aż 37 proc.</title>
-            <link>https://www.fakt.pl/polityka/wybory-w-niemczech-afd-przed-spd-lewica-prowadzi-w-berlinie-sa-pierwsze-wyniki/x83ew4f</link>
-            <description>AfD uzyskuje 37 proc. głosów w Meklemburgii-Pomorzu Przednim, wyprzedzając SPD o 1,5 pkt proc. Z kolei w Berlinie na pierwszym miejscu znalazła się Lewica z poparciem 24,5 proc. — wynika z pierwszych prognoz wyborczych przygotowanych przez infratest dimap dla ARD. W obu landach poparcie traci CDU kanclerza Friedricha Merza. Szczególnie duży spadek chadecy odnotowują w Berlinie, gdzie uzyskali 20 proc. głosów wobec 28,2 proc. w 2023 r.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/39c86525-7c9a-4903-86b7-9a68dfb2c7e9.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 20 Sep 2026 16:10:00 GMT</pubDate>
-            <guid isPermaLink="false">3de04e21-da6d-4314-b47c-00e9aefc295f</guid></item><item>
-            <title>Breaking Wybory w Rosji. Są pierwsze wyniki. Taki wynik patii Putina</title>
+            <title>Breaking Wybory w Rosji. Spływają kolejne wyniki. Taki rezultat partii Putina</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-jedna-rosja-otrzymala-5754-proc-glosow/de9tmc4</link>
-            <description>Jedna Rosja, partia władzy związana z Władimirem Putinem, otrzymała 57,54 proc. głosów w wyborach do Dumy Państwowej — poinformowała w niedzielę (20 września) rosyjska Centralna Komisja Wyborcza. To częściowe wyniki głosowania, które trwało od piątku. Według rosyjskich władz frekwencja na godz. 20.55 czasu moskiewskiego wyniosła 56,66 proc.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <description>Jedna Rosja, partia Władimira Putina, otrzymała 57,54 proc. głosów w wyborach do Dumy Państwowej — wynika z pierwszych danych przekazanych przez rosyjską Centralną Komisję Wyborczą. W niedzielę (20 września) opublikowano również dwa badania exit poll. Państwowy ośrodek WCIOM wskazuje na 49,4 proc. poparcia dla partii władzy, a instytut INSOMAR — 52,8 proc.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/451c56d1-9ec5-44be-a9c2-1ac214414b9b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 20 Sep 2026 18:25:00 GMT</pubDate>
-            <guid isPermaLink="false">cdffb973-62f1-4936-81f6-652897991d2a</guid></item></channel>
+            <guid isPermaLink="false">cdffb973-62f1-4936-81f6-652897991d2a</guid></item><item>
+            <title>Breaking Wybory w Niemczech. CDU o krok od katastrofy. Skrajnie prawicowa AfD miała zdobyć aż 37,9 proc.</title>
+            <link>https://www.fakt.pl/polityka/wybory-w-niemczech-afd-przed-spd-lewica-prowadzi-w-berlinie-sa-pierwsze-wyniki/x83ew4f</link>
+            <description>AfD uzyskuje 37,9 proc. głosów w Meklemburgii-Pomorzu Przednim, wyprzedzając SPD o 1,5 pkt proc. Z kolei w Berlinie na pierwszym miejscu znalazła się Lewica z poparciem 24,5 proc. — wynika z pierwszych prognoz wyborczych przygotowanych przez infratest dimap dla ARD. W obu landach poparcie traci CDU kanclerza Friedricha Merza, a Meklemburgii grozi im nie wejście do regionalnego parlamentu. Szczególnie duży spadek chadecy odnotowują w Berlinie, gdzie uzyskali 20 proc. głosów wobec 28,2 proc. w 2023 r.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/39c86525-7c9a-4903-86b7-9a68dfb2c7e9.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 20 Sep 2026 20:15:00 GMT</pubDate>
+            <guid isPermaLink="false">3de04e21-da6d-4314-b47c-00e9aefc295f</guid></item></channel>
             </rss>
