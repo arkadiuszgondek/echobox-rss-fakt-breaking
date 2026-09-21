@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 21 Sep 2026 08:55:52 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 21 Sep 2026 10:58:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Wybory w Rosji. Spływają kolejne wyniki. Taki rezultat partii Putina</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-jedna-rosja-otrzymala-5754-proc-glosow/de9tmc4</link>
@@ -31,8 +31,14 @@
             <guid isPermaLink="false">d4bee1a6-7cd6-42c3-87ff-3f0c2a12ad8c</guid></item><item>
             <title>Breaking Noc poślubna zakończona tragedią. Mąż zatrzymany po śmierci żony na Opolszczyźnie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/skorogoszcz-rodzinna-tragedia-po-slubie-kobieta-zginela-w-noc-poslubna/dqpg8c9</link>
-            <description>Wstrząsające wydarzenia rozegrały się w nocy z soboty na niedzielę w miejscowości Skorogoszcz na Opolszczyźnie. Policja została wezwana do jednego z domów, gdzie doszło do rodzinnej awantury. Niestety, na miejscu znaleziono ciało około 40-letniej kobiety. W związku ze sprawą zatrzymano jej męża. &quot;Fakt&quot; dowiedział się, że ofiara zginęła od ciosów siekierą. Poprzedzającego dnia para wzięła ślub.</description>
+            <description>Wstrząsające wydarzenia rozegrały się w nocy z soboty na niedzielę w miejscowości Skorogoszcz na Opolszczyźnie. Policja została wezwana do jednego z domów, gdzie doszło do rodzinnej awantury. Niestety, na miejscu znaleziono ciało 41-letniej kobiety. W związku ze sprawą zatrzymano jej męża (47 l.). &quot;Fakt&quot; dowiedział się, że ofiara zginęła od ciosów siekierą. Dzień wcześniej para wzięła ślub.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e4f60a8c-51ad-4d18-88a2-90a66d05579a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 21 Sep 2026 08:55:52 GMT</pubDate>
-            <guid isPermaLink="false">1edbc9e4-7454-4804-93bc-2a7aa2a3126f</guid></item></channel>
+            <guid isPermaLink="false">1edbc9e4-7454-4804-93bc-2a7aa2a3126f</guid></item><item>
+            <title>Breaking Pacjent zapytał Dawida Kacprzyka o aferę. &quot;Mam to w d...&quot;. Jest nagranie</title>
+            <link>https://www.fakt.pl/polityka/dawid-kacprzyk-przyjmuje-pacjentow-w-jaktorowie-skomentowal-afere/fpl2fg3</link>
+            <description>Dawid Kacprzyk, bohater afery w Szpitalu Południowym, leczy pacjentów w Jaktorowie (woj. mazowieckie). Pytany o milionowe zarobki, wprost stwierdza: &quot;mam to w d...&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f13e9134-cf70-41ab-9fe3-913cda7cd6e3.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 21 Sep 2026 10:58:00 GMT</pubDate>
+            <guid isPermaLink="false">a4d7ec23-5f50-4f73-a4ce-96f6d6c2b0c6</guid></item></channel>
             </rss>
