@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 21 Sep 2026 10:58:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 22 Sep 2026 07:20:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Wybory w Rosji. Spływają kolejne wyniki. Taki rezultat partii Putina</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-jedna-rosja-otrzymala-5754-proc-glosow/de9tmc4</link>
@@ -40,5 +40,17 @@
             <description>Dawid Kacprzyk, bohater afery w Szpitalu Południowym, leczy pacjentów w Jaktorowie (woj. mazowieckie). Pytany o milionowe zarobki, wprost stwierdza: &quot;mam to w d...&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f13e9134-cf70-41ab-9fe3-913cda7cd6e3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 21 Sep 2026 10:58:00 GMT</pubDate>
-            <guid isPermaLink="false">a4d7ec23-5f50-4f73-a4ce-96f6d6c2b0c6</guid></item></channel>
+            <guid isPermaLink="false">a4d7ec23-5f50-4f73-a4ce-96f6d6c2b0c6</guid></item><item>
+            <title>Breaking Berek wykonał ruch wobec Nawrockiego w sprawie TK. &quot;Niezwłoczne działanie&quot;</title>
+            <link>https://www.fakt.pl/polityka/maciej-berek-napisal-do-karola-nawrockiego-chodzi-o-slubowanie-sedziego-tk/f9c903t</link>
+            <description>Maciej Berek skierował do Karola Nawrockiego pismo w sprawie ślubowania na sędziego Trybunału Konstytucyjnego. Wybrany przez Sejm były minister poinformował, że mimo upływu terminu, w którym powinna rozpocząć się jego kadencja, Kancelaria Prezydenta nie skontaktowała się z nim w sprawie uroczystości. &quot;Zwracam się więc z prośbą o niezwłoczne wskazanie miejsca i czasu&quot; — napisał Berek w liście do prezydenta.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/Yzk7MDA_/9c1b49cff716df09c90515078896b567.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 21 Sep 2026 11:30:00 GMT</pubDate>
+            <guid isPermaLink="false">ce7269ae-79eb-4242-8197-a9a95b7b0f74</guid></item><item>
+            <title>Breaking Odnaleziono rzeczy zaginionej Emilii Koprowskiej</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-z-koszalina-znaleziono-rzeczy-kobiety/ycqbxvr</link>
+            <description>Policjanci odnaleźli rzeczy należące do zaginionej przed trzema tygodniami Emilii Koprowskiej z Koszalina (woj. zachodniopomorskie). To damski plecak oraz klucze - podaje &quot;Głos Szczeciński&quot;. Z tego względu wznowiono poszukiwania kobiety na szeroką skalę.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 22 Sep 2026 07:20:00 GMT</pubDate>
+            <guid isPermaLink="false">2037aece-329b-4c7e-9696-00859ec55847</guid></item></channel>
             </rss>
