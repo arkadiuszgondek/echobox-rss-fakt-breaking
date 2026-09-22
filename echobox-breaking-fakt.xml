@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 22 Sep 2026 07:20:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 22 Sep 2026 08:05:41 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Wybory w Rosji. Spływają kolejne wyniki. Taki rezultat partii Putina</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-jedna-rosja-otrzymala-5754-proc-glosow/de9tmc4</link>
@@ -49,8 +49,14 @@
             <guid isPermaLink="false">ce7269ae-79eb-4242-8197-a9a95b7b0f74</guid></item><item>
             <title>Breaking Odnaleziono rzeczy zaginionej Emilii Koprowskiej</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-z-koszalina-znaleziono-rzeczy-kobiety/ycqbxvr</link>
-            <description>Policjanci odnaleźli rzeczy należące do zaginionej przed trzema tygodniami Emilii Koprowskiej z Koszalina (woj. zachodniopomorskie). To damski plecak oraz klucze - podaje &quot;Głos Szczeciński&quot;. Z tego względu wznowiono poszukiwania kobiety na szeroką skalę.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <description>Policjanci odnaleźli rzeczy należące do zaginionej przed trzema tygodniami Emilii Koprowskiej z Koszalina (woj. zachodniopomorskie). To damski plecak oraz klucze — podaje &quot;Głos Szczeciński&quot;. Z tego względu wznowiono poszukiwania kobiety na szeroką skalę.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4ec72a40-2918-42ca-bb02-ffdd6a164672.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 22 Sep 2026 07:20:00 GMT</pubDate>
-            <guid isPermaLink="false">2037aece-329b-4c7e-9696-00859ec55847</guid></item></channel>
+            <guid isPermaLink="false">2037aece-329b-4c7e-9696-00859ec55847</guid></item><item>
+            <title>Breaking Dramat w podlaskiej podstawówce. &quot;Zaatakował dziewczynkę toporkiem&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/dramat-w-szkole-w-powiecie-kolnenskim-zaatakowano-dziewczynke-toporkiem/5d4bg25</link>
+            <description>Dramatyczne sceny w jednej ze szkół podstawowych w powiecie kolneńskim (woj. podlaskie). Jak podało RMF FM, 11-letni uczeń ciężko ranił ostrym narzędziem 10-latkę. Ranne dziecko zabrano do szpitala.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 22 Sep 2026 08:05:41 GMT</pubDate>
+            <guid isPermaLink="false">9fb60ba4-874d-4ef9-bd05-5a7c72c17316</guid></item></channel>
             </rss>
