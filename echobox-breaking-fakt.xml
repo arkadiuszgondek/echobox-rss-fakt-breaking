@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 23 Sep 2026 04:33:25 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 23 Sep 2026 06:44:28 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Media: Kinga Duda miała wypadek. Opuściła szpital o nietypowej porze</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/media-kinga-duda-miala-wypadek-na-s7-wiemy-w-jakim-stanie-jest-31-latka/w3rcwg0</link>
-            <description>Luksusowy jaguar z impetem uderzył w bariery na trasie S7, a z nieoficjalnych doniesień mediów wynika, że za kierownicą mogła siedzieć córka byłego prezydenta, Kinga Duda. Policja oficjalnie zabiera głos. — Do zdarzenia doszło 20 września ok. godz. 21 w miejscowości Szewce [woj. świętokrzyskie] — przekazał w rozmowie z &quot;Faktem&quot; podkomisarz Maciej Ślusarczyk z zespołu prasowego KWP w Kielcach. Kobieta początkowo trafiła pod opiekę lekarzy. — Poszkodowana opuściła szpital — ujawniają nam służby. Znamy szczegóły nocnego incydentu.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/YTE7MDA_/58fa744b-42ca-4710-b265-3fcc0eb6c6bf.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 21 Sep 2026 05:20:00 GMT</pubDate>
-            <guid isPermaLink="false">576f78d3-8f95-4808-89eb-3bf6e1ec5005</guid></item><item>
             <title>Breaking Macierewicz wypalił do Kłeczka: Pan się myli! Poszło o wiertarki i AWS </title>
             <link>https://www.fakt.pl/polityka/antoni-macierewicz-do-milosza-kleczka-pan-sie-myli-kulisy-protestu-w-aws/lm1czwl</link>
             <description>Antoni Macierewicz pojawił się w programie Miłosza Kłeczka, gdy dziennikarz rozmawiał z posłanką PiS Marią Kurowską o jej proteście w Akademii Wymiaru Sprawiedliwości. Prowadzący zapytał byłego ministra obrony, dlaczego politycy PiS nie rozwiercili zamków w drzwiach prowadzących do gabinetu rektora. — Pan się myli — odpowiedział Macierewicz.</description>
@@ -76,5 +70,11 @@
             <description>Karol i Marta Nawroccy przebywają w Stanach Zjednoczonych. We wtorek wieczorem para prezydencka udała się na doroczną kolację wydawaną przez Donalda Trumpa. Towarzyszył im fotoreporter &quot;Faktu&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/76fa86a2-4af9-4025-96a3-54157544f2b3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 04:33:25 GMT</pubDate>
-            <guid isPermaLink="false">a51722b0-89f2-4f63-85e0-d7ee1356800b</guid></item></channel>
+            <guid isPermaLink="false">a51722b0-89f2-4f63-85e0-d7ee1356800b</guid></item><item>
+            <title>Breaking Dwie osoby zatrzymane przez CBA. Nieoficjalnie: to urzędniczka Kancelarii Prezydenta</title>
+            <link>https://www.fakt.pl/polityka/cba-zatrzymalo-dwie-osoby-nieoficjalnie-wsrod-nich-urzedniczka-kancelarii-nawrockiego/vezs97m</link>
+            <description>Funkcjonariusze CBA zatrzymali dwie osoby w związku kampanią &quot;Sprawiedliwe sądy&quot; — przekazała &quot;Faktowi&quot; prok. Dorota Sokołowska-Mach. Jak podają media, chodzi urzędniczkę Kancelarii Prezydenta.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/MGU7MDA_/f7a89f99-db64-4ecc-81ff-c63891a6702d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 23 Sep 2026 06:44:28 GMT</pubDate>
+            <guid isPermaLink="false">4ae44138-8e40-4030-88e5-4eb047e28643</guid></item></channel>
             </rss>
