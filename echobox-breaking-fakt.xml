@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 23 Sep 2026 06:44:28 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 23 Sep 2026 07:35:02 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Macierewicz wypalił do Kłeczka: Pan się myli! Poszło o wiertarki i AWS </title>
-            <link>https://www.fakt.pl/polityka/antoni-macierewicz-do-milosza-kleczka-pan-sie-myli-kulisy-protestu-w-aws/lm1czwl</link>
-            <description>Antoni Macierewicz pojawił się w programie Miłosza Kłeczka, gdy dziennikarz rozmawiał z posłanką PiS Marią Kurowską o jej proteście w Akademii Wymiaru Sprawiedliwości. Prowadzący zapytał byłego ministra obrony, dlaczego politycy PiS nie rozwiercili zamków w drzwiach prowadzących do gabinetu rektora. — Pan się myli — odpowiedział Macierewicz.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b3510ecf-6574-4553-a368-5d0491138a72.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 21 Sep 2026 07:10:00 GMT</pubDate>
-            <guid isPermaLink="false">d4bee1a6-7cd6-42c3-87ff-3f0c2a12ad8c</guid></item><item>
             <title>Breaking Noc poślubna zakończona tragedią. Mąż zatrzymany po śmierci żony na Opolszczyźnie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/skorogoszcz-rodzinna-tragedia-po-slubie-kobieta-zginela-w-noc-poslubna/dqpg8c9</link>
             <description>Wstrząsające wydarzenia rozegrały się w nocy z soboty na niedzielę w miejscowości Skorogoszcz na Opolszczyźnie. Policja została wezwana do jednego z domów, gdzie doszło do rodzinnej awantury. Niestety, na miejscu znaleziono ciało 41-letniej kobiety. W związku ze sprawą zatrzymano jej męża (47 l.). &quot;Fakt&quot; dowiedział się, że ofiara zginęła od ciosów siekierą. Dzień wcześniej para wzięła ślub.</description>
@@ -71,10 +65,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/76fa86a2-4af9-4025-96a3-54157544f2b3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 04:33:25 GMT</pubDate>
             <guid isPermaLink="false">a51722b0-89f2-4f63-85e0-d7ee1356800b</guid></item><item>
-            <title>Breaking Dwie osoby zatrzymane przez CBA. Nieoficjalnie: to urzędniczka Kancelarii Prezydenta</title>
+            <title>Breaking Dwie osoby zatrzymane przez CBA. Nieoficjalnie: wśród nich urzędniczka Kancelarii Prezydenta</title>
             <link>https://www.fakt.pl/polityka/cba-zatrzymalo-dwie-osoby-nieoficjalnie-wsrod-nich-urzedniczka-kancelarii-nawrockiego/vezs97m</link>
-            <description>Funkcjonariusze CBA zatrzymali dwie osoby w związku kampanią &quot;Sprawiedliwe sądy&quot; — przekazała &quot;Faktowi&quot; prok. Dorota Sokołowska-Mach. Jak podają media, chodzi urzędniczkę Kancelarii Prezydenta.</description>
+            <description>Funkcjonariusze CBA zatrzymali dwie osoby w związku z kampanią &quot;Sprawiedliwe Sądy&quot; — przekazała &quot;Faktowi&quot; prok. Dorota Sokołowska-Mach. Jak podają media, chodzi o urzędniczkę Kancelarii Prezydenta i pracownika TV Republika.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/MGU7MDA_/f7a89f99-db64-4ecc-81ff-c63891a6702d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 06:44:28 GMT</pubDate>
-            <guid isPermaLink="false">4ae44138-8e40-4030-88e5-4eb047e28643</guid></item></channel>
+            <guid isPermaLink="false">4ae44138-8e40-4030-88e5-4eb047e28643</guid></item><item>
+            <title>Breaking Atak w podstawówce pod Kolnem. &quot;Widziałem, jak Czarek uderza toporkiem Nikolę&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/widzial-atak-w-szkole-pod-kolnem-relacja-swiadka-uderza-toporkiem-nikole/t08lnhj</link>
+            <description>– Widziałem, jak Czarek uderza toporkiem Nikolę – mówi w rozmowie z se.pl 13-letni Marcel. W podkolneńskiej podstawówce 11-latek zaatakował młodszą o rok uczennicę. 10-latka trafiła do szpitala. Mieszkańcy opowiadają mediom o zatrzymanym chłopcu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/80b49f76-bf7f-4c9c-9ff6-9bfa517659bf.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 23 Sep 2026 07:35:02 GMT</pubDate>
+            <guid isPermaLink="false">b450c86b-511e-497e-8204-155d306b1c75</guid></item></channel>
             </rss>
