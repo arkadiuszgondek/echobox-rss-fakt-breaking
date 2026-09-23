@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 22 Sep 2026 21:01:33 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 23 Sep 2026 04:33:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Media: Kinga Duda miała wypadek. Opuściła szpital o nietypowej porze</title>
             <link>https://www.fakt.pl/wydarzenia/polska/media-kinga-duda-miala-wypadek-na-s7-wiemy-w-jakim-stanie-jest-31-latka/w3rcwg0</link>
@@ -70,5 +70,11 @@
             <description>Katarzyna G., matka Bartosza G., oskarżonego o zabójstwo Mai z Mławy, stawiała podczas zatrzymania czynny opór — ustalił nieoficjalnie &quot;Fakt&quot;. Miała się zabarykadować i poturbować policjanta. W związku z jej zatrzymaniem został już przesłuchany pełnomocnik rodziny Mai, mec. Wojciech Kasprzyk. — Wystąpiłem o przyznanie mi ochrony policyjnej — mówi nam adwokat.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/ab92e08b-526c-4f82-8424-8e4338726c78.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 22 Sep 2026 21:01:33 GMT</pubDate>
-            <guid isPermaLink="false">580a96a8-5959-40ff-b2e3-12ca298a19ae</guid></item></channel>
+            <guid isPermaLink="false">580a96a8-5959-40ff-b2e3-12ca298a19ae</guid></item><item>
+            <title>Breaking Karol i Marta Nawroccy przyłapani przez fotoreporterów. Tak ubrali się na kolację u Trumpa</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-i-marta-nawrocka-w-nowym-jorku-tak-ubrali-sie-na-kolacje-u-trumpa/v0gcw3x</link>
+            <description>Karol i Marta Nawroccy przebywają w Stanach Zjednoczonych. We wtorek wieczorem para prezydencka udała się na doroczną kolację wydawaną przez Donalda Trumpa. Towarzyszył im fotoreporter &quot;Faktu&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/76fa86a2-4af9-4025-96a3-54157544f2b3.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 23 Sep 2026 04:33:25 GMT</pubDate>
+            <guid isPermaLink="false">a51722b0-89f2-4f63-85e0-d7ee1356800b</guid></item></channel>
             </rss>
