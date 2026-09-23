@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 23 Sep 2026 13:00:53 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 23 Sep 2026 19:32:23 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Odnaleziono rzeczy zaginionej Emilii Koprowskiej</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-z-koszalina-znaleziono-rzeczy-kobiety/ycqbxvr</link>
@@ -76,5 +76,17 @@
             <description>Zbigniew Ziobro nie zapłacił kar zasądzonych wobec niego w związku z niestawiennictwem na przesłuchaniach przed sejmową komisją ds. Pegasusa — ustaliło TVP Info. Prawomocne orzeczenia dotyczą pięciu tys. zł, ale łącznie chodzi o 11 tys. zł. &quot;Zasądzone należności są egzekwowane przez komornika sądowego&quot; — poinformowała wiceprezes Sądu Okręgowego w Warszawie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/65fb1dd9-f49e-4c86-87d0-44643a4c193a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 13:00:53 GMT</pubDate>
-            <guid isPermaLink="false">05631630-bee9-4cfb-b9b8-2a62f37037a8</guid></item></channel>
+            <guid isPermaLink="false">05631630-bee9-4cfb-b9b8-2a62f37037a8</guid></item><item>
+            <title>Breaking Wojsko szuka obiektu w Żuławce Sztumskiej. DORSZ tłumaczy, dlaczego nie został zestrzelony</title>
+            <link>https://www.fakt.pl/bezpieczenstwo/obiekt-znad-rosji-zniknal-z-radarow-trwaja-poszukiwania-pod-malborkiem/p98gdn5</link>
+            <description>Setki mundurowych przeczesują tereny Żuławki Sztumskiej na Pomorzu po utracie odczytu z radarów. — Nasze samoloty nie rozpoznały, nie zidentyfikowały tego obiektu (...). To nie była prędkość ani drona, ani pocisku — przyznaje w rozmowie z &quot;Faktem&quot; ppłk Jacek Goryszewski z DORSZ. Czego szuka wojsko?</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/42f3a3fb-417d-4d23-9f38-85add866508c.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 23 Sep 2026 13:57:00 GMT</pubDate>
+            <guid isPermaLink="false">8ae6af14-24c4-4f5d-bbac-463e2dd0c9e1</guid></item><item>
+            <title>Breaking Karol Nawrocki przemawia w ONZ. Od tego zaczął</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-w-onz-wazne-wystapienie-prezydenta-polski/qwvhpev</link>
+            <description>Karol Nawrocki rozpoczął popołudniową sesję debaty generalnej w ramach 81. sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku. — To jeden z najtrudniejszych, w moim przekonaniu, momentów od czasu powołania organizacji — powiedział na wstępie prezydent Polski.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 23 Sep 2026 19:32:23 GMT</pubDate>
+            <guid isPermaLink="false">a842f21c-b724-45fb-9b6d-3a9dea690758</guid></item></channel>
             </rss>
