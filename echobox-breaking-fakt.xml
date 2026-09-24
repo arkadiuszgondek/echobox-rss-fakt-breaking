@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 24 Sep 2026 05:26:50 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 24 Sep 2026 08:15:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Odnaleziono rzeczy zaginionej Emilii Koprowskiej</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-z-koszalina-znaleziono-rzeczy-kobiety/ycqbxvr</link>
-            <description>Policjanci odnaleźli rzeczy należące do zaginionej przed trzema tygodniami Emilii Koprowskiej z Koszalina (woj. zachodniopomorskie). To damski plecak oraz klucze — dowiedział się &quot;Fakt&quot;. Przedmioty zostały znalezione na polu. Z tego względu wznowiono poszukiwania kobiety na szeroką skalę.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/4ec72a40-2918-42ca-bb02-ffdd6a164672.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 22 Sep 2026 07:20:00 GMT</pubDate>
-            <guid isPermaLink="false">2037aece-329b-4c7e-9696-00859ec55847</guid></item><item>
-            <title>Breaking Dramat w podlaskiej podstawówce. &quot;Zaatakował dziewczynkę toporkiem&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/dramat-w-szkole-w-powiecie-kolnenskim-zaatakowano-dziewczynke-toporkiem/5d4bg25</link>
-            <description>Stała na szkolnym korytarzu, gdy zaczęły padać ciosy. 10-latka została zaatakowana przez o rok starszego ucznia w szkole pod Kolnem (woj. podlaskie). Chłopiec ranił ją toporkiem. Jak przekazuje &quot;Faktowi&quot; nadkom. Marta Rodzik z podlaskiej policji, dziecko było przypadkową ofiarą.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ca115973-a281-4d19-9039-e7de44947795.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 22 Sep 2026 08:05:41 GMT</pubDate>
-            <guid isPermaLink="false">9fb60ba4-874d-4ef9-bd05-5a7c72c17316</guid></item><item>
             <title>Breaking Tusk o patologiach w służbie zdrowia. &quot;Rekordzista pracował 72 godziny na dobę&quot;</title>
             <link>https://www.fakt.pl/polityka/rzad-bierze-sie-za-pensje-lekarzy-donald-tusk-o-patologiach-rekordzista-z-braniewa/fmk5cxl</link>
             <description>— Ortopeda w Grójcu zarobił 3,2 mln zł za rok. Rekordowy szpital wydawał na wypłaty 115 proc. ze swoich środków budżetowych. Rekordzista, lekarz z Braniewa — według danych — pracował 72 godziny na dobę. Dlatego podjęliśmy decyzję, żeby ograniczyć kominy płacowe — powiedział Donald Tusk.</description>
@@ -94,5 +82,11 @@
             <description>Oficjalne wyniki ostatnich wyborów parlamentarnych w Rosji pokazały rekordowo wysoką frekwencję oraz najlepszy rezultat w historii partii Jedna Rosja, utożsamianej z Władimirem Putinem. Niezależni analitycy twierdzą jednak, że rzeczywiste poparcie dla ugrupowania mogło być znacznie niższe, a liczba oddanych głosów została zawyżona.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/451c56d1-9ec5-44be-a9c2-1ac214414b9b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 24 Sep 2026 05:26:50 GMT</pubDate>
-            <guid isPermaLink="false">d61ca801-2cf4-41d3-8a38-82aa29683d0a</guid></item></channel>
+            <guid isPermaLink="false">d61ca801-2cf4-41d3-8a38-82aa29683d0a</guid></item><item>
+            <title>Breaking Ofensywa Święczkowskiego. TK wszczyna postępowanie. Trzech sędziów może stracić urząd</title>
+            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-wszczal-postepowanie-wobec-trojga-sedziow-tk/9696679</link>
+            <description>Bogdan Święczkowski wszczął postępowanie, które może zakończyć się zarzutami dyscyplinarnymi wobec trojga sędziów Trybunału Konstytucyjnego. Chodzi o Magdalenę Bentkowską, Dariusza Szostka i Sławomira Patyrę. Prezes TK podjął decyzję na wniosek jednego z sędziów. W komunikacie wskazano, że postępowanie może zakończyć się &quot;złożeniem ww. sędziów TK z urzędu&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 24 Sep 2026 08:15:00 GMT</pubDate>
+            <guid isPermaLink="false">a3bdaaa5-0dc2-4afc-81ac-135062fc0bc9</guid></item></channel>
             </rss>
