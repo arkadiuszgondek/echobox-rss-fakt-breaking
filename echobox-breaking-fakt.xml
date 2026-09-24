@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 24 Sep 2026 11:45:22 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 24 Sep 2026 13:25:07 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zaskakujący zwrot w sprawie Mai z Mławy. Matka Bartosza G. zatrzymana!</title>
             <link>https://www.fakt.pl/wydarzenia/zaskakujacy-zwrot-w-sprawie-mai-z-mlawy-matka-bartosza-g-zatrzymana/c4p3gm1</link>
@@ -100,5 +100,11 @@
             <description>Nie żyje ksiądz po ataku nożownika w klasztorze sióstr benedyktynek w Jarosławiu (woj. podkarpackie). Napastnik ranił nożem łącznie czterech mężczyzn i jedną kobietę. 31-latek najpierw wbiegł do kawiarni. — On chciał nas po prostu mordować. Najpierw zadawał ciosy tam, a później uciekł do kościoła — mówi siostra Barbara Dendor.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e6468ca0-0441-4e4d-8d6c-3ab6b839c5c3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 24 Sep 2026 11:45:22 GMT</pubDate>
-            <guid isPermaLink="false">b4ddd047-c12a-4bc8-8ce1-1ed02b2f62ba</guid></item></channel>
+            <guid isPermaLink="false">b4ddd047-c12a-4bc8-8ce1-1ed02b2f62ba</guid></item><item>
+            <title>Breaking Atak nożownika w klasztorze. Tusk zabrał głos. &quot;Z całą surowością&quot;</title>
+            <link>https://www.fakt.pl/polityka/donald-tusk-reaguje-na-atak-nozownika-w-klasztorze-w-jaroslawiu/3lkrc1m</link>
+            <description>&quot;Sprawca to obywatel Ukrainy. Będzie ukarany z całą surowością polskiego prawa&quot; — napisał Donald Tusk po ataku nożownika w klasztorze w Jarosławiu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 24 Sep 2026 13:25:07 GMT</pubDate>
+            <guid isPermaLink="false">13b64b53-cf78-4c88-9a0a-055e557357a8</guid></item></channel>
             </rss>
