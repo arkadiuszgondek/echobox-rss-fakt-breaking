@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 24 Sep 2026 09:06:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 24 Sep 2026 11:10:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tusk o patologiach w służbie zdrowia. &quot;Rekordzista pracował 72 godziny na dobę&quot;</title>
             <link>https://www.fakt.pl/polityka/rzad-bierze-sie-za-pensje-lekarzy-donald-tusk-o-patologiach-rekordzista-z-braniewa/fmk5cxl</link>
@@ -89,10 +89,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/71f31352-c007-49d3-9180-c9150b174f60.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 24 Sep 2026 08:15:00 GMT</pubDate>
             <guid isPermaLink="false">a3bdaaa5-0dc2-4afc-81ac-135062fc0bc9</guid></item><item>
-            <title>Breaking Atak nożownika w klasztorze sióstr benedyktynek w Jarosławiu. Pięć osób rannych</title>
+            <title>Breaking Atak nożownika w klasztorze sióstr benedyktynek w Jarosławiu. Nie żyje ksiądz, cztery osoby ranne</title>
             <link>https://www.fakt.pl/wydarzenia/atak-nozownika-w-klasztorze-siostr-benedyktynek-w-jaroslawiu-sa-ranni/k8t7d13</link>
-            <description>Do ataku z użyciem noża doszło w czwartek (24 września) na terenie klasztoru sióstr benedyktynek w Jarosławiu na Podkarpaciu. Jak donosi RMF FM, rannych zostało pięć osób. Sprawca został zatrzymany.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Do ataku z użyciem noża doszło w czwartek (24 września) na terenie klasztoru sióstr benedyktynek w Jarosławiu na Podkarpaciu. Jak informuje policja w Jarosławiu, napastnik ranił nożem czterech mężczyzn i kobietę. Sprawca został zatrzymany. To 31-letni obywatel Ukrainy. — Jedna z osób zmarła — przekazała &quot;Faktowi&quot; asp. sztab. Anna Długosz z KPP w Jarosławiu. Ofiarą śmiertelną jest ksiądz.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/0807d29f-2b96-413d-982e-fda24c545967.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 24 Sep 2026 09:06:00 GMT</pubDate>
-            <guid isPermaLink="false">ca8fc3d5-3ec0-4cee-9ecf-49015e388384</guid></item></channel>
+            <guid isPermaLink="false">ca8fc3d5-3ec0-4cee-9ecf-49015e388384</guid></item><item>
+            <title>Breaking Strzały do policjanta na Dolnym Śląsku. Ranny mundurowy ewakuowany śmigłowcem</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/strzelanina-na-dolnym-slasku-policjant-ranny-podczas-interwencji/g56081e</link>
+            <description>Mundurowy postrzelony w powiecie bolesławieckim (woj. dolnośląskie). Podejrzany o oddanie strzałów został już zatrzymany – informują służby. Śmigłowiec LPR zabrał rannego do szpitala, ale stan policjanta pozostaje nieznany.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 24 Sep 2026 11:10:00 GMT</pubDate>
+            <guid isPermaLink="false">dfd55d8b-994f-46af-9fe2-4c4e7f3d9c7c</guid></item></channel>
             </rss>
