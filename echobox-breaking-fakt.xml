@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 23 Sep 2026 19:32:23 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 24 Sep 2026 05:26:50 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Odnaleziono rzeczy zaginionej Emilii Koprowskiej</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-z-koszalina-znaleziono-rzeczy-kobiety/ycqbxvr</link>
@@ -83,10 +83,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/42f3a3fb-417d-4d23-9f38-85add866508c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 13:57:00 GMT</pubDate>
             <guid isPermaLink="false">8ae6af14-24c4-4f5d-bbac-463e2dd0c9e1</guid></item><item>
-            <title>Breaking Karol Nawrocki przemawia w ONZ. Od tego zaczął</title>
+            <title>Breaking Karol Nawrocki grzmiał w ONZ. Mówił o &quot;grzechu pierworodnym&quot; i Rosji</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-w-onz-wazne-wystapienie-prezydenta-polski/qwvhpev</link>
-            <description>Karol Nawrocki rozpoczął popołudniową sesję debaty generalnej w ramach 81. sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku. — To jeden z najtrudniejszych, w moim przekonaniu, momentów od czasu powołania organizacji — powiedział na wstępie prezydent Polski.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <description>— To jeden z najtrudniejszych, w moim przekonaniu, momentów od czasu powołania organizacji — tymi słowami Karol Nawrocki rozpoczął popołudniową sesję debaty generalnej w ramach 81. sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku. Prezydent wskazał, co uważa za &quot;swoisty grzech pierworodny ONZ&quot;. W ostrych słowach skrytykował Rosję i wezwał sojuszników do wspólnych, zdecydowanych działań.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/63b66db5-50f3-4889-aaa7-d60162241ff7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 23 Sep 2026 19:32:23 GMT</pubDate>
-            <guid isPermaLink="false">a842f21c-b724-45fb-9b6d-3a9dea690758</guid></item></channel>
+            <guid isPermaLink="false">a842f21c-b724-45fb-9b6d-3a9dea690758</guid></item><item>
+            <title>Breaking Zwolennicy Putina nie zdobyli nawet 40 procent? Analitycy pokazali prawdziwy wynik wyborów</title>
+            <link>https://www.fakt.pl/polityka/wybory-w-rosji-pod-lupa-eksperci-wskazuja-na-konkretne-falszerstwa/2bm2l9x</link>
+            <description>Oficjalne wyniki ostatnich wyborów parlamentarnych w Rosji pokazały rekordowo wysoką frekwencję oraz najlepszy rezultat w historii partii Jedna Rosja, utożsamianej z Władimirem Putinem. Niezależni analitycy twierdzą jednak, że rzeczywiste poparcie dla ugrupowania mogło być znacznie niższe, a liczba oddanych głosów została zawyżona.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/451c56d1-9ec5-44be-a9c2-1ac214414b9b.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 24 Sep 2026 05:26:50 GMT</pubDate>
+            <guid isPermaLink="false">d61ca801-2cf4-41d3-8a38-82aa29683d0a</guid></item></channel>
             </rss>
