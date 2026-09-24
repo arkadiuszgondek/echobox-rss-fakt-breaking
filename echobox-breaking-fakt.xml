@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 24 Sep 2026 13:25:07 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 24 Sep 2026 14:04:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zaskakujący zwrot w sprawie Mai z Mławy. Matka Bartosza G. zatrzymana!</title>
             <link>https://www.fakt.pl/wydarzenia/zaskakujacy-zwrot-w-sprawie-mai-z-mlawy-matka-bartosza-g-zatrzymana/c4p3gm1</link>
@@ -104,7 +104,13 @@
             <title>Breaking Atak nożownika w klasztorze. Tusk zabrał głos. &quot;Z całą surowością&quot;</title>
             <link>https://www.fakt.pl/polityka/donald-tusk-reaguje-na-atak-nozownika-w-klasztorze-w-jaroslawiu/3lkrc1m</link>
             <description>&quot;Sprawca to obywatel Ukrainy. Będzie ukarany z całą surowością polskiego prawa&quot; — napisał Donald Tusk po ataku nożownika w klasztorze w Jarosławiu.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/23411442-8221-4328-b774-b0e54cdab4fa.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 24 Sep 2026 13:25:07 GMT</pubDate>
-            <guid isPermaLink="false">13b64b53-cf78-4c88-9a0a-055e557357a8</guid></item></channel>
+            <guid isPermaLink="false">13b64b53-cf78-4c88-9a0a-055e557357a8</guid></item><item>
+            <title>Breaking Zginął ksiądz, prezydent Nawrocki grzmi. &quot;Państwo musi działać bezwzględnie&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/ostra-reakcja-prezydenta-na-atak-w-jaroslawiu-nawrocki-zada-stanowczosci-sluzb/4wkrjjk</link>
+            <description>&quot;Oczekuję, że właściwe służby szybko i dokładnie wyjaśnią wszystkie okoliczności&quot; – napisał na platformie X Karol Nawrocki. To kolejna stanowcza reakcja na zbrodnię w jarosławskim opactwie. Prezydent stawia jasne żądania.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 24 Sep 2026 14:04:00 GMT</pubDate>
+            <guid isPermaLink="false">6fb4f50f-d3ae-4c7f-9855-cc758c6c5583</guid></item></channel>
             </rss>
