@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 25 Sep 2026 06:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 25 Sep 2026 08:53:21 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Pokaz mody w ministerstwie rolnictwa. Resort wyjaśnia: promowano polskie jabłka, sery i miody</title>
-            <link>https://www.fakt.pl/polityka/zamknieta-impreza-w-ministerstwie-rolnictwa-resort-tlumaczy-i-odpiera-zarzuty/nkbps7x</link>
-            <description>Media społecznościowe zalały nagrania i relacje z &quot;imprezy&quot; w murach Ministerstwa Rolnictwa i Rozwoju Wsi przy ul. Wspólnej. Widać na nich bawiących się celebrytów i spacerujące po wybiegu modelki. Resort wydał w tej sprawie oświadczenie. Zarzuca wprowadzanie opinii publicznej w błąd i przekonuje, że wydarzenie było &quot;bezkosztowym dla podatnika narzędziem promującym rodzime produkty rolno-spożywcze, takie jak polskie jabłka, sery czy miody&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/8e3a7957-4b18-4139-9e02-ee09cc426690.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 23 Sep 2026 09:20:26 GMT</pubDate>
-            <guid isPermaLink="false">b7edb45d-c599-449f-bda1-2503ef7e48fa</guid></item><item>
             <title>Breaking Atak w podstawówce pod Kolnem. &quot;Widziałem, jak Czarek uderza toporkiem&quot;. Skontaktowaliśmy się ze szkołą</title>
             <link>https://www.fakt.pl/wydarzenia/polska/bialystok/widzial-atak-w-szkole-pod-kolnem-relacja-swiadka-uderza-toporkiem-nikole/t08lnhj</link>
             <description>– Widziałem, jak Czarek uderza toporkiem Nikolę – mówi w rozmowie z se.pl 13-letni Marcel. W podkolneńskiej podstawówce 11-latek zaatakował młodszą o rok uczennicę. 10-latka trafiła do szpitala. &quot;Fakt&quot; próbował się skontaktować z dyrekcją szkoły. – Proszę nas zrozumieć – usłyszeliśmy.</description>
@@ -100,5 +94,11 @@
             <description>Maciej Berek został zapytany w Polsat News, czy rozważa scenariusz siłowego wejścia do Trybunału Konstytucyjnego pod eskortą policji. Sędzia TK w odpowiedzi wskazał na podgrzewanie emocji przez Bogdana Święczkowskiego i agresywne zachowanie protestujących zgromadzonych pod Trybunałem. — Sędziowie TK mają prawo korzystać z eskorty policji, jeśli obawiają się o swoje bezpieczeństwo — stwierdził.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/MTc7MDA_/8e34970b-687e-4835-93ae-aba2f716d35f.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 25 Sep 2026 06:45:00 GMT</pubDate>
-            <guid isPermaLink="false">0066d7d1-4d5e-44a1-8f75-062e83183381</guid></item></channel>
+            <guid isPermaLink="false">0066d7d1-4d5e-44a1-8f75-062e83183381</guid></item><item>
+            <title>Breaking Tragedia w Jarosławiu. Nożownik Ihor M. na razie bez zarzutów. &quot;Będzie wniosek o areszt&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/atak-nozownika-w-jaroslawiu-ihor-m-podejrzany-o-zabojstwo-ksiedza/tclk71n</link>
+            <description>31-letni Ihor M., który jest podejrzany o atak z nożem w ręku w klasztorze w Jarosławiu, nie usłyszał na razie zarzutów. Prokuratorzy czekają na zgodę lekarzy. Ale już wiadomo, że mężczyzna będzie odpowiadał za zabójstwo 72-letniego księdza Stanisława i usiłowanie zabójstwa czterech innych osób oraz spowodowanie ciężkich obrażeń poszkodowanych. Za te czyny grozi mu dożywocie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4a2a571f-aaf8-4993-9d28-f72e1b5e30c9.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 25 Sep 2026 08:53:21 GMT</pubDate>
+            <guid isPermaLink="false">572b8ed8-08cd-4326-a2e4-fe87fb71c1b0</guid></item></channel>
             </rss>
