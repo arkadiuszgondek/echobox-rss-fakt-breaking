@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 25 Sep 2026 08:53:21 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 25 Sep 2026 10:50:10 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Atak w podstawówce pod Kolnem. &quot;Widziałem, jak Czarek uderza toporkiem&quot;. Skontaktowaliśmy się ze szkołą</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/widzial-atak-w-szkole-pod-kolnem-relacja-swiadka-uderza-toporkiem-nikole/t08lnhj</link>
-            <description>– Widziałem, jak Czarek uderza toporkiem Nikolę – mówi w rozmowie z se.pl 13-letni Marcel. W podkolneńskiej podstawówce 11-latek zaatakował młodszą o rok uczennicę. 10-latka trafiła do szpitala. &quot;Fakt&quot; próbował się skontaktować z dyrekcją szkoły. – Proszę nas zrozumieć – usłyszeliśmy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/80b49f76-bf7f-4c9c-9ff6-9bfa517659bf.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 23 Sep 2026 10:10:02 GMT</pubDate>
-            <guid isPermaLink="false">b450c86b-511e-497e-8204-155d306b1c75</guid></item><item>
-            <title>Breaking &quot;Naruszył polską przestrzeń powietrzną&quot;. Rosyjski śmigłowiec na północy kraju</title>
-            <link>https://www.fakt.pl/polityka/naruszenie-przestrzeni-powietrznej-rp-przez-rosyjski-smiglowiec-mi-8/3y2dxl9</link>
-            <description>Na północ od Braniewa (woj. warmińsko-mazurskie) obca maszyna przekroczyła granicę RP. Poderwano polskie myśliwce. Dowództwo Operacyjne RSZ nie ma złudzeń: &quot;Rosja po raz kolejny testuje gotowość naszej obrony powietrznej&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/0b9dd604-7d5e-4265-86a6-4de85d4a9124.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 23 Sep 2026 11:38:00 GMT</pubDate>
-            <guid isPermaLink="false">0d513a88-0e10-49f4-9762-822092de4c3b</guid></item><item>
             <title>Breaking Komornik już działa w sprawie Ziobry. Chodzi o tysiące złotych</title>
             <link>https://www.fakt.pl/polityka/zbigniew-ziobro-nie-zaplacil-kar-egzekwowane-przez-komornika/wjtf1pf</link>
             <description>Zbigniew Ziobro nie zapłacił kar zasądzonych wobec niego w związku z niestawiennictwem na przesłuchaniach przed sejmową komisją ds. Pegasusa — ustaliło TVP Info. Prawomocne orzeczenia dotyczą pięciu tys. zł, ale łącznie chodzi o 11 tys. zł. &quot;Zasądzone należności są egzekwowane przez komornika sądowego&quot; — poinformowała wiceprezes Sądu Okręgowego w Warszawie.</description>
@@ -100,5 +88,11 @@
             <description>31-letni Ihor M., który jest podejrzany o atak z nożem w ręku w klasztorze w Jarosławiu, nie usłyszał na razie zarzutów. Prokuratorzy czekają na zgodę lekarzy. Ale już wiadomo, że mężczyzna będzie odpowiadał za zabójstwo 72-letniego księdza Stanisława i usiłowanie zabójstwa czterech innych osób oraz spowodowanie ciężkich obrażeń poszkodowanych. Za te czyny grozi mu dożywocie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4a2a571f-aaf8-4993-9d28-f72e1b5e30c9.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 25 Sep 2026 08:53:21 GMT</pubDate>
-            <guid isPermaLink="false">572b8ed8-08cd-4326-a2e4-fe87fb71c1b0</guid></item></channel>
+            <guid isPermaLink="false">572b8ed8-08cd-4326-a2e4-fe87fb71c1b0</guid></item><item>
+            <title>Breaking Litwini opowiedzieli nam o planach ewakuacyjnych. Ważna rola Polski</title>
+            <link>https://www.fakt.pl/polityka/plany-ewakuacji-wilna-i-calej-litwy-na-wypadek-wojny-wladze-podaly-szczegoly/9b3phvc</link>
+            <description>Władze Litwy przekazały &quot;Faktowi&quot; najnowsze plany ewakuacji mieszkańców w sytuacji ataku Rosji. — Droga w kierunku Polski jest jedną z opcji, ale wszystkie miejsca docelowe znajdują się na terenie kraju — przekazał nam ratusz Wilna. Rząd litewski dodał, że skierowanie ludności do innych państw, w tym Polski, będzie podjęte w ostateczności.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/094012e5-d82e-488d-a60f-d66c25a97e37.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 25 Sep 2026 10:50:10 GMT</pubDate>
+            <guid isPermaLink="false">af606c64-38a3-4b34-84b5-b86b3b4e7c51</guid></item></channel>
             </rss>
