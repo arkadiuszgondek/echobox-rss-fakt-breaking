@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 25 Sep 2026 13:04:19 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 25 Sep 2026 21:18:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Wojsko szuka obiektu w Żuławce Sztumskiej. DORSZ tłumaczy, dlaczego nie został zestrzelony</title>
-            <link>https://www.fakt.pl/bezpieczenstwo/obiekt-znad-rosji-zniknal-z-radarow-trwaja-poszukiwania-pod-malborkiem/p98gdn5</link>
-            <description>Setki mundurowych przeczesują tereny Żuławki Sztumskiej na Pomorzu po utracie odczytu z radarów. — Nasze samoloty nie rozpoznały, nie zidentyfikowały tego obiektu (...). To nie była prędkość ani drona, ani pocisku — przyznaje w rozmowie z &quot;Faktem&quot; ppłk Jacek Goryszewski z DORSZ. Czego szuka wojsko?</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/42f3a3fb-417d-4d23-9f38-85add866508c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 23 Sep 2026 13:57:00 GMT</pubDate>
-            <guid isPermaLink="false">8ae6af14-24c4-4f5d-bbac-463e2dd0c9e1</guid></item><item>
-            <title>Breaking Karol Nawrocki grzmiał w ONZ. Mówił o &quot;grzechu pierworodnym&quot; i Rosji</title>
-            <link>https://www.fakt.pl/polityka/karol-nawrocki-w-onz-wazne-wystapienie-prezydenta-polski/qwvhpev</link>
-            <description>— To jeden z najtrudniejszych, w moim przekonaniu, momentów od czasu powołania organizacji — tymi słowami Karol Nawrocki rozpoczął popołudniową sesję debaty generalnej w ramach 81. sesji Zgromadzenia Ogólnego ONZ w Nowym Jorku. Prezydent wskazał, co uważa za &quot;swoisty grzech pierworodny ONZ&quot;. W ostrych słowach skrytykował Rosję i wezwał sojuszników do wspólnych, zdecydowanych działań.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/63b66db5-50f3-4889-aaa7-d60162241ff7.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 23 Sep 2026 19:32:23 GMT</pubDate>
-            <guid isPermaLink="false">a842f21c-b724-45fb-9b6d-3a9dea690758</guid></item><item>
             <title>Breaking Zwolennicy Putina nie zdobyli nawet 40 procent? Analitycy pokazali prawdziwy wynik wyborów</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-pod-lupa-eksperci-wskazuja-na-konkretne-falszerstwa/2bm2l9x</link>
             <description>Oficjalne wyniki ostatnich wyborów parlamentarnych w Rosji pokazały rekordowo wysoką frekwencję oraz najlepszy rezultat w historii partii Jedna Rosja, utożsamianej z Władimirem Putinem. Niezależni analitycy twierdzą jednak, że rzeczywiste poparcie dla ugrupowania mogło być znacznie niższe, a liczba oddanych głosów została zawyżona.</description>
@@ -98,7 +86,13 @@
             <title>Breaking Rusza śledztwo ws. pożaru stacji Starlink. Mowa o &quot;rosyjskich służbach specjalnych&quot;</title>
             <link>https://www.fakt.pl/polityka/pozar-stacji-starlink-w-woli-krobowskiej-prokuratura-bada-role-rosji/mnltyyf</link>
             <description>Prokuratura Krajowa wszczęła śledztwo w sprawie pożaru stacji Starlink w Woli Krobowskiej. — W sprawie zachodzi uzasadnione podejrzenie, że sprawcy działali na polecenie rosyjskich służb specjalnych i na rzecz obcego wywiadu przeciwko Rzeczypospolitej Polskiej — przekazał Onetowi prok. Przemysław Nowak.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/eb3ddcda-7bf0-49d7-8b49-568864ebaea8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 25 Sep 2026 13:04:19 GMT</pubDate>
-            <guid isPermaLink="false">e022faf5-7bbf-41ca-a1ab-2b14799372c8</guid></item></channel>
+            <guid isPermaLink="false">e022faf5-7bbf-41ca-a1ab-2b14799372c8</guid></item><item>
+            <title>Breaking Nie żyje policjant postrzelony podczas akcji w Kraśniku Górnym. Miał 29 lat</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/nie-zyje-policjant-postrzelony-podczas-akcji-w-krasniku-gornym-mial-29-lat/xfdtdlg</link>
+            <description>Nie żyje policjant, który został postrzelony podczas interwencji w Kraśniku Górnym niedaleko Bolesławca. Dramat rozegrał się w czwartek, 24 września. Wiadomość o śmierci sierż. Natana Sieronia późnym wieczorem w piątek, 25 września przekazała Polska Policja w mediach społecznościowych.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZTI7MDA_/cd708f0f-c680-47eb-b13e-64627755768f.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 25 Sep 2026 21:18:00 GMT</pubDate>
+            <guid isPermaLink="false">3ba3a6cd-4812-4024-86e4-cc390e847c3f</guid></item></channel>
             </rss>
