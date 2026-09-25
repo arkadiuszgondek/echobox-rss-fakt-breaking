@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 25 Sep 2026 10:50:10 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 25 Sep 2026 12:18:55 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Komornik już działa w sprawie Ziobry. Chodzi o tysiące złotych</title>
             <link>https://www.fakt.pl/polityka/zbigniew-ziobro-nie-zaplacil-kar-egzekwowane-przez-komornika/wjtf1pf</link>
@@ -94,5 +94,11 @@
             <description>Władze Litwy przekazały &quot;Faktowi&quot; najnowsze plany ewakuacji mieszkańców w sytuacji ataku Rosji. — Droga w kierunku Polski jest jedną z opcji, ale wszystkie miejsca docelowe znajdują się na terenie kraju — przekazał nam ratusz Wilna. Rząd litewski dodał, że skierowanie ludności do innych państw, w tym Polski, będzie podjęte w ostateczności.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/094012e5-d82e-488d-a60f-d66c25a97e37.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 25 Sep 2026 10:50:10 GMT</pubDate>
-            <guid isPermaLink="false">af606c64-38a3-4b34-84b5-b86b3b4e7c51</guid></item></channel>
+            <guid isPermaLink="false">af606c64-38a3-4b34-84b5-b86b3b4e7c51</guid></item><item>
+            <title>Breaking Głośna interwencja rzeczniczki praw dziecka. Sprawą zajęła się prokuratura</title>
+            <link>https://www.fakt.pl/polityka/monika-horna-cieslak-pod-lupa-prokuratury-jest-zawiadomienie-ws-rpd/xsc90sg</link>
+            <description>Do Prokuratury Krajowej wpłynęło zawiadomienie o podejrzeniu popełnienia przestępstwa przez rzeczniczkę praw dziecka. Chodzi o interwencję dotyczącą rodziny z warszawskiej Białołęki.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/YTE7MDA_/39e95c8f-3240-4e6b-8bf5-9085e11727fd.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 25 Sep 2026 12:18:55 GMT</pubDate>
+            <guid isPermaLink="false">ccb218a9-9e2d-4fe1-8b8a-06d700d946a4</guid></item></channel>
             </rss>
