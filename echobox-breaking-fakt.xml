@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 26 Sep 2026 10:11:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 26 Sep 2026 11:28:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Strzały do policjanta na Dolnym Śląsku. Ranny mundurowy ewakuowany śmigłowcem</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/strzelanina-na-dolnym-slasku-policjant-ranny-podczas-interwencji/g56081e</link>
-            <description>Podczas próby zatrzymania mężczyzny ściganego za kradzieże w pow. bolesławieckim (woj. dolnośląskie) napastnik użył broni. — Doszło do postrzelenia jednego z policjantów i funkcjonariusze również oddali strzały — przekazała &quot;Faktowi&quot; podkomisarz Anna Kublik-Rościszewska. Śmigłowiec LPR zabrał rannego do szpitala, a na miejscu pracuje prokurator.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/df220afa-478a-4cb3-ab93-4909e81be881.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 24 Sep 2026 11:10:00 GMT</pubDate>
-            <guid isPermaLink="false">dfd55d8b-994f-46af-9fe2-4c4e7f3d9c7c</guid></item><item>
             <title>Breaking Zakonnica widziała atak nożownika w klasztorze. &quot;Księża bronili wiernych. Uratowali ich&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/smiertelny-atak-nozownika-w-klasztorze-zakonnica-relacjonuje-tragedie/kh18rk1</link>
             <description>Nie żyje ksiądz po ataku nożownika w klasztorze sióstr benedyktynek w Jarosławiu (woj. podkarpackie). Napastnik ranił nożem łącznie czterech mężczyzn i jedną kobietę. 31-latek najpierw wbiegł do kawiarni. — On chciał nas po prostu mordować. Najpierw zadawał ciosy tam, a później uciekł do kościoła — mówi siostra Barbara Dendor.</description>
@@ -83,10 +77,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/c81f9162-65eb-4b8b-af2a-da4df53e32ec.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 08:04:00 GMT</pubDate>
             <guid isPermaLink="false">33ef7438-aabc-40d3-890b-0cee8ea47adf</guid></item><item>
-            <title>Breaking Dramatyczny wypadek w Opolu. Samochód wjechał w pieszych</title>
+            <title>Breaking Dramatyczny wypadek w Opolu. Samochód wjechał w pieszych. Ucierpiała nastolatka</title>
             <link>https://www.fakt.pl/wydarzenia/dramatyczny-wypadek-w-opolu-samochod-wjechal-w-pieszych/2tnq9ph</link>
-            <description>Dramatyczny wypadek w Opolu. Na skrzyżowaniu ul. Ozimskiej i Reymonta zderzyły się dwa samochody. Jeden z nich wjechał na chodnik i uderzył w pieszych. — Na razie mamy informację, że poszkodowana została jedna osoba. Była opatrywana przez ratowników na miejscu, ale akcja ratunkowa trwa — powiedział &quot;Faktowi&quot; mł. asp. Karol Maryszczak z opolskiej policji.</description>
+            <description>Dramatyczny wypadek w Opolu. Na skrzyżowaniu ul. Ozimskiej i Reymonta zderzyły się dwa samochody. Jeden z nich wjechał na chodnik i uderzył w pieszych. — 34-letnia kobieta kierująca Toyotą nie ustąpiła pierwszeństwa 40-latce kierującej Seatem. W wyniku uderzenia Seat znalazł się na chodniku. Poszkodowana została piesza. To 17-latka — powiedział &quot;Faktowi&quot; mł. asp. Karol Maryszczak z opolskiej policji.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/0c4d1362-292a-43f4-9c21-19aad1b1c1c0.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 10:11:00 GMT</pubDate>
-            <guid isPermaLink="false">ddeae35e-e292-4f79-872f-ba67d9206cc4</guid></item></channel>
+            <guid isPermaLink="false">ddeae35e-e292-4f79-872f-ba67d9206cc4</guid></item><item>
+            <title>Breaking Śmierć policjanta po strzelaninie. Prokuratura ujawnia nowe szczegóły akcji w Kraśniku Górnym</title>
+            <link>https://www.fakt.pl/wydarzenia/smierc-policjanta-pod-boleslawcem-prokuratura-ujawnia-nowe-szczegoly/q4ss99n</link>
+            <description>Sierż. Natan Sieroń zginął podczas interwencji w Kraśniku Górnym pod Bolesławcem. Prokuratura poinformowała, że 33-letni mężczyzna podejrzany o śmiertelne postrzelenie funkcjonariusza został tymczasowo aresztowany na trzy miesiące. Śledczy zapowiadają kolejne czynności, w tym opinię balistyczną i sekcję zwłok.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 26 Sep 2026 11:28:00 GMT</pubDate>
+            <guid isPermaLink="false">c5e62da1-afa5-4b27-9070-7bfdb6aec423</guid></item></channel>
             </rss>
