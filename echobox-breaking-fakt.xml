@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 26 Sep 2026 11:28:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 26 Sep 2026 11:57:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Zakonnica widziała atak nożownika w klasztorze. &quot;Księża bronili wiernych. Uratowali ich&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/smiertelny-atak-nozownika-w-klasztorze-zakonnica-relacjonuje-tragedie/kh18rk1</link>
-            <description>Nie żyje ksiądz po ataku nożownika w klasztorze sióstr benedyktynek w Jarosławiu (woj. podkarpackie). Napastnik ranił nożem łącznie czterech mężczyzn i jedną kobietę. 31-latek najpierw wbiegł do kawiarni. — On chciał nas po prostu mordować. Najpierw zadawał ciosy tam, a później uciekł do kościoła — mówi siostra Barbara Dendor.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/e6468ca0-0441-4e4d-8d6c-3ab6b839c5c3.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 24 Sep 2026 11:45:22 GMT</pubDate>
-            <guid isPermaLink="false">b4ddd047-c12a-4bc8-8ce1-1ed02b2f62ba</guid></item><item>
             <title>Breaking Atak nożownika w klasztorze. Tusk zabrał głos. &quot;Z całą surowością&quot;</title>
             <link>https://www.fakt.pl/polityka/donald-tusk-reaguje-na-atak-nozownika-w-klasztorze-w-jaroslawiu/3lkrc1m</link>
             <description>&quot;Sprawca to obywatel Ukrainy. Będzie ukarany z całą surowością polskiego prawa&quot; — napisał Donald Tusk po ataku nożownika w klasztorze w Jarosławiu.</description>
@@ -86,7 +80,13 @@
             <title>Breaking Śmierć policjanta po strzelaninie. Prokuratura ujawnia nowe szczegóły akcji w Kraśniku Górnym</title>
             <link>https://www.fakt.pl/wydarzenia/smierc-policjanta-pod-boleslawcem-prokuratura-ujawnia-nowe-szczegoly/q4ss99n</link>
             <description>Sierż. Natan Sieroń zginął podczas interwencji w Kraśniku Górnym pod Bolesławcem. Prokuratura poinformowała, że 33-letni mężczyzna podejrzany o śmiertelne postrzelenie funkcjonariusza został tymczasowo aresztowany na trzy miesiące. Śledczy zapowiadają kolejne czynności, w tym opinię balistyczną i sekcję zwłok.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1ea728a5-28a2-4e6c-9f6e-34a6040f08dc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 11:28:00 GMT</pubDate>
-            <guid isPermaLink="false">c5e62da1-afa5-4b27-9070-7bfdb6aec423</guid></item></channel>
+            <guid isPermaLink="false">c5e62da1-afa5-4b27-9070-7bfdb6aec423</guid></item><item>
+            <title>Breaking Tragedia w Kościerzynie. Nie żyje 3-letnie dziecko przygniecione przez samochód</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/tragedia-w-koscierzynie-nie-zyje-3-letnie-dziecko-przygniecione-przez-samochod/06e72l1</link>
+            <description>Tragedia w Kościerzynie. Nie żyje 3-letnie dziecko, które zostało przygniecione przez samochód w garażu przy ul. Kartuskiej. — Obecnie trwają czynności pod nadzorem prokuratora mające wyjaśnić przyczynę i okoliczności tego zdarzenia — &quot;Faktowi&quot; asp. Żaneta Podolska z Komendy Powiatowej Policji w Kościerzynie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 26 Sep 2026 11:57:00 GMT</pubDate>
+            <guid isPermaLink="false">008740eb-641c-47b2-82cb-0f920d553a88</guid></item></channel>
             </rss>
