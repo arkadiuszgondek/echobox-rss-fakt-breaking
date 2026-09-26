@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 25 Sep 2026 21:18:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 26 Sep 2026 05:14:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zwolennicy Putina nie zdobyli nawet 40 procent? Analitycy pokazali prawdziwy wynik wyborów</title>
             <link>https://www.fakt.pl/polityka/wybory-w-rosji-pod-lupa-eksperci-wskazuja-na-konkretne-falszerstwa/2bm2l9x</link>
@@ -89,10 +89,10 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/eb3ddcda-7bf0-49d7-8b49-568864ebaea8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 25 Sep 2026 13:04:19 GMT</pubDate>
             <guid isPermaLink="false">e022faf5-7bbf-41ca-a1ab-2b14799372c8</guid></item><item>
-            <title>Breaking Nie żyje policjant postrzelony podczas akcji w Kraśniku Górnym. Miał 29 lat</title>
+            <title>Breaking Zmarł policjant postrzelony podczas akcji w Kraśniku Górnym. Miał 29 lat</title>
             <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/nie-zyje-policjant-postrzelony-podczas-akcji-w-krasniku-gornym-mial-29-lat/xfdtdlg</link>
-            <description>Nie żyje policjant, który został postrzelony podczas interwencji w Kraśniku Górnym niedaleko Bolesławca. Dramat rozegrał się w czwartek, 24 września. Wiadomość o śmierci sierż. Natana Sieronia późnym wieczorem w piątek, 25 września przekazała Polska Policja w mediach społecznościowych.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/ZTI7MDA_/cd708f0f-c680-47eb-b13e-64627755768f.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 25 Sep 2026 21:18:00 GMT</pubDate>
+            <description>Nie żyje policjant, który został postrzelony podczas interwencji w Kraśniku Górnym niedaleko Bolesławca. Dramat rozegrał się w czwartek, 24 września. Wiadomość o śmierci sierż. Natana Sieronia późnym wieczorem w piątek, 25 września, w mediach społecznościowych przekazała Polska Policja.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f1f5141f-4541-456b-82d1-ab95e6528efb.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 26 Sep 2026 05:14:00 GMT</pubDate>
             <guid isPermaLink="false">3ba3a6cd-4812-4024-86e4-cc390e847c3f</guid></item></channel>
             </rss>
