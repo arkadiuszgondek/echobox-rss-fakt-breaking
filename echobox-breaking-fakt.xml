@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 26 Sep 2026 12:52:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 26 Sep 2026 15:43:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Jarosław Kaczyński zeznawał w prokuraturze. Tak tłumaczył się z flagowego projektu PiS</title>
             <link>https://www.fakt.pl/polityka/jaroslaw-kaczynski-przesluchany-przez-prokurature-ws-polskiej-fundacji-narodowej/gezjj13</link>
@@ -82,5 +82,11 @@
             <description>Cztery osoby zginęły, a dwie pozostają zaginione po potężnej eksplozji i zawaleniu trzypiętrowego budynku mieszkalnego w ateńskiej dzielnicy Plaka. Wśród poszukiwanych byli zagraniczni turyści. Służby nadal przeszukują gruzy, a przyczyna wybuchu nie została jeszcze oficjalnie ustalona.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/656d167a-7890-4c98-a170-ce3b86a0b072.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 12:52:00 GMT</pubDate>
-            <guid isPermaLink="false">7733cfdb-c776-412c-a785-3690ed73dcf8</guid></item></channel>
+            <guid isPermaLink="false">7733cfdb-c776-412c-a785-3690ed73dcf8</guid></item><item>
+            <title>Breaking Dwa dni po krwawym ataku pokazał się wiernym. Ranny ksiądz wygłosił homilię. Tak modlił się za ofiarę</title>
+            <link>https://www.fakt.pl/wydarzenia/jaroslawskie-opactwo-otwarte-po-ataku-ranny-ksiadz-wyglosi-homilie/xvqsks7</link>
+            <description>Dwa dni po krwawym ataku Jarosławskie Opactwo ponownie otworzyło swoje drzwi dla wiernych. W miejscu, w którym doszło do tragedii, w sobotę (26 września) odbyłą się msza święta i modlitwa różańcowa za zamordowanego ks. Stanisława Zbojnowicza. Homilię wygłosił ks. Adrian, jeden z duchownych poszkodowanych w ataku. Przy ołtarzu stanął w opatrunku i z posiniaczoną twarzą.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/bb8996b0-2b57-4ad1-afac-362824450787.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 26 Sep 2026 15:43:00 GMT</pubDate>
+            <guid isPermaLink="false">05ab8d61-3805-4d5d-b9c6-95119c028a94</guid></item></channel>
             </rss>
