@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 27 Sep 2026 11:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 27 Sep 2026 17:47:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Głośna interwencja rzeczniczki praw dziecka. Sprawą zajęła się prokuratura</title>
-            <link>https://www.fakt.pl/polityka/monika-horna-cieslak-pod-lupa-prokuratury-jest-zawiadomienie-ws-rpd/xsc90sg</link>
-            <description>Do Prokuratury Krajowej wpłynęło zawiadomienie o podejrzeniu popełnienia przestępstwa przez rzeczniczkę praw dziecka. Chodzi o interwencję dotyczącą rodziny z warszawskiej Białołęki.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/YTE7MDA_/39e95c8f-3240-4e6b-8bf5-9085e11727fd.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 25 Sep 2026 12:18:55 GMT</pubDate>
-            <guid isPermaLink="false">ccb218a9-9e2d-4fe1-8b8a-06d700d946a4</guid></item><item>
-            <title>Breaking Rusza śledztwo ws. pożaru stacji Starlink. Mowa o &quot;rosyjskich służbach specjalnych&quot;</title>
-            <link>https://www.fakt.pl/polityka/pozar-stacji-starlink-w-woli-krobowskiej-prokuratura-bada-role-rosji/mnltyyf</link>
-            <description>Prokuratura Krajowa wszczęła śledztwo w sprawie pożaru stacji Starlink w Woli Krobowskiej. — W sprawie zachodzi uzasadnione podejrzenie, że sprawcy działali na polecenie rosyjskich służb specjalnych i na rzecz obcego wywiadu przeciwko Rzeczypospolitej Polskiej — przekazał Onetowi prok. Przemysław Nowak.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/eb3ddcda-7bf0-49d7-8b49-568864ebaea8.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 25 Sep 2026 13:04:19 GMT</pubDate>
-            <guid isPermaLink="false">e022faf5-7bbf-41ca-a1ab-2b14799372c8</guid></item><item>
             <title>Breaking Zmarł policjant postrzelony podczas akcji w Kraśniku Górnym. Miał 29 lat</title>
             <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/nie-zyje-policjant-postrzelony-podczas-akcji-w-krasniku-gornym-mial-29-lat/xfdtdlg</link>
             <description>Nie żyje policjant, który został postrzelony podczas interwencji w Kraśniku Górnym niedaleko Bolesławca. Dramat rozegrał się w czwartek, 24 września. Wiadomość o śmierci sierż. Natana Sieronia późnym wieczorem w piątek, 25 września, w mediach społecznościowych przekazała Polska Policja.</description>
@@ -35,12 +23,6 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/0c4d1362-292a-43f4-9c21-19aad1b1c1c0.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 10:11:00 GMT</pubDate>
             <guid isPermaLink="false">ddeae35e-e292-4f79-872f-ba67d9206cc4</guid></item><item>
-            <title>Breaking Śmierć policjanta po strzelaninie. Prokuratura ujawnia nowe szczegóły akcji w Kraśniku Górnym</title>
-            <link>https://www.fakt.pl/wydarzenia/smierc-policjanta-pod-boleslawcem-prokuratura-ujawnia-nowe-szczegoly/q4ss99n</link>
-            <description>Sierż. Natan Sieroń zginął podczas interwencji w Kraśniku Górnym pod Bolesławcem. Prokuratura poinformowała, że 33-letni mężczyzna podejrzany o śmiertelne postrzelenie funkcjonariusza został tymczasowo aresztowany na trzy miesiące. Śledczy zapowiadają kolejne czynności, w tym opinię balistyczną i sekcję zwłok.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1ea728a5-28a2-4e6c-9f6e-34a6040f08dc.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 26 Sep 2026 11:28:00 GMT</pubDate>
-            <guid isPermaLink="false">c5e62da1-afa5-4b27-9070-7bfdb6aec423</guid></item><item>
             <title>Breaking Tragedia w Kościerzynie. Nie żyje 3-letnie dziecko przygniecione przez samochód</title>
             <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/tragedia-w-koscierzynie-nie-zyje-3-letnie-dziecko-przygniecione-przez-samochod/06e72l1</link>
             <description>Tragedia w Kościerzynie (woj. pomorskie). Nie żyje 3-letnie dziecko, które zostało przygniecione przez samochód w garażu przy ul. Kartuskiej. — Obecnie trwają czynności pod nadzorem prokuratora mające wyjaśnić przyczynę i okoliczności tego zdarzenia — &quot;Faktowi&quot; asp. Żaneta Podolska z kościerskiej policji.</description>
@@ -65,10 +47,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/bb8996b0-2b57-4ad1-afac-362824450787.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 26 Sep 2026 15:43:00 GMT</pubDate>
             <guid isPermaLink="false">05ab8d61-3805-4d5d-b9c6-95119c028a94</guid></item><item>
-            <title>Breaking Tragedia podczas miejskiej imprezy. 6-letnie dziecko odnalezione w stawie</title>
+            <title>Breaking Tragedia podczas rodzinnej imprezy. 6-letnie dziecko odnalezione w stawie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/dabie-kujawskie-tragedia-pod-wloclawkiem-nie-zyje-szescioletni-chlopiec/lhpjcpf</link>
-            <description>26 września podczas przyjęcia w Dąbiu Kujawskim zginął 6-latek, którego ciało znaleziono w restauracyjnym stawie. – Jest za wcześnie wyrokować, czy to zdarzenie będzie kwalifikowane jako nieszczęśliwy wypadek, czy też jako takie, które wypełnia znamiona przestępstwa – mówi prok. Małgorzata Kręcicka z włocławskiej prokuratury. Śledczy badają nagrania z kamer i ustalają, jak chłopiec zniknął z oczu dorosłych.</description>
+            <description>26 września podczas przyjęcia w Dąbiu Kujawskim (woj. kujawsko-pomorskie) zginął 6-latek, którego ciało znaleziono w restauracyjnym stawie. — Jest za wcześnie wyrokować, czy to zdarzenie będzie kwalifikowane jako nieszczęśliwy wypadek, czy też jako takie, które wypełnia znamiona przestępstwa — mówi &quot;Faktowi&quot; prok. Małgorzata Kręcicka z włocławskiej prokuratury. Śledczy badają nagrania z kamer i ustalają, jak chłopiec zniknął z oczu dorosłych.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/1fe29ce3-6ebf-4994-979b-f4b8757e49bc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 27 Sep 2026 11:45:00 GMT</pubDate>
-            <guid isPermaLink="false">31657a18-a36a-4c64-8a1a-10eae2caf797</guid></item></channel>
+            <guid isPermaLink="false">31657a18-a36a-4c64-8a1a-10eae2caf797</guid></item><item>
+            <title>Breaking Śmierć policjanta po strzelaninie. Prokuratura ujawnia nowe szczegóły akcji w Kraśniku Górnym</title>
+            <link>https://www.fakt.pl/wydarzenia/smierc-policjanta-pod-boleslawcem-prokuratura-ujawnia-nowe-szczegoly/q4ss99n</link>
+            <description>Sierż. Natan Sieroń zginął podczas interwencji w Kraśniku Górnym pod Bolesławcem. Prokuratura poinformowała, że 33-letni mężczyzna podejrzany o śmiertelne postrzelenie funkcjonariusza został tymczasowo aresztowany na trzy miesiące. Śledczy zapowiadają kolejne czynności, w tym opinię balistyczną i sekcję zwłok.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/fdd8b13e-b2ee-49e4-be9c-8f95548257c9.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 27 Sep 2026 17:47:00 GMT</pubDate>
+            <guid isPermaLink="false">c5e62da1-afa5-4b27-9070-7bfdb6aec423</guid></item></channel>
             </rss>
