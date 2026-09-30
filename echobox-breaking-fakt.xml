@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 29 Sep 2026 18:34:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 30 Sep 2026 08:56:22 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking To już. Rządowy samolot leci na Filipiny po Piotra Moczulskiego. Ruszyła akcja ratunkowa</title>
-            <link>https://www.fakt.pl/wydarzenia/samolot-rzadowy-o-7-rusza-po-piotra-moczulskiego-znamy-szczegoly/thvwj62</link>
-            <description>Wystartował samolot rządowy po Piotra Moczulskiego, który po dramatycznym wypadku utknął na Filipinach — potwierdził oficjalnie dla &quot;Faktu&quot; rzecznik MON. Na pokładzie obecny jest m.in. brat poszkodowanego.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/dc22a2e0-36ae-493e-89d9-c5fcd9e70750.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 28 Sep 2026 04:22:27 GMT</pubDate>
-            <guid isPermaLink="false">ddd05f2f-1400-4435-baf6-e3f9e00054b7</guid></item><item>
             <title>Breaking Ewakuacja przejścia granicznego Dorohusk-Jagodzin. Dron leciał w stronę Polski. MON reaguje</title>
             <link>https://www.fakt.pl/polityka/ewakuacja-przejscia-dorohusk-jagodzin-w-poblizu-mial-spasc-dron/11svrs8</link>
             <description>Przejście graniczne Dorohusk-Jagodzin zostało ewakuowane w związku z rosyjskim atakiem na zachodnią Ukrainę. W pobliżu granicy miał spaść dron. Według ukraińskich źródeł bezzałogowiec miał wcześniej lecieć w kierunku Polski. Z nieoficjalnych informacji wynika, że został zestrzelony przez ukraińskie wojsko. &quot;Nie doszło do naruszenia polskiej przestrzeni powietrznej&quot; — poinformował szef MON Władysław Kosiniak-Kamysz.</description>
@@ -34,5 +28,11 @@
             <description>Jeden z największych polskich dostawców systemów księgowych online padł ofiarą poważnego cyberataku. W wyniku incydentu doszło do wycieku wrażliwych danych użytkowników Fakturowni oraz ich kontrahentów. Sprawą zajmują się już państwowe służby i eksperci ds. cyberbezpieczeństwa, a firma wydała pilne zalecenia dla swoich klientów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/39ec256b-074c-4753-b210-41a7970b44cc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 29 Sep 2026 18:34:00 GMT</pubDate>
-            <guid isPermaLink="false">a834aeff-8554-4bef-9b81-0e4e87853ee4</guid></item></channel>
+            <guid isPermaLink="false">a834aeff-8554-4bef-9b81-0e4e87853ee4</guid></item><item>
+            <title>Breaking Milik straci prawo jazdy? Policja wznawia działania po rajdzie piłkarza</title>
+            <link>https://www.fakt.pl/wydarzenia/milik-straci-prawo-jazdy-policja-wznawia-dzialania-po-rajdzie-pilkarza/wdlnswc</link>
+            <description>Policjanci puścili wolno Arkadiusza Milika po tym, jak łamał przepisy drogowe na ich oczach. Po publikacji &quot;Faktu&quot; komendant rejonowy Policji Warszawa Śródmieście podjął decyzję o wznowieniu działań w tej sprawie. Skutki dla piłkarza mogą być wyjątkowo dotkliwe.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a209d913-bd72-4d65-9649-307eddab9881.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 08:56:22 GMT</pubDate>
+            <guid isPermaLink="false">23664574-6d07-4a78-9aaf-e886cfeff0e3</guid></item></channel>
             </rss>
