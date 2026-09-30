@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 30 Sep 2026 17:17:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 30 Sep 2026 20:26:52 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Milik łamał przepis za przepisem. Policja puściła go wolno. Mamy wszystko nagrane</title>
             <link>https://www.fakt.pl/wydarzenia/arkadiusz-milik-lamal-przepisy-na-oczach-policjantow-puscili-go-bez-kary/074yp3l</link>
@@ -47,10 +47,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/57d5fb1d-a97f-4acc-8967-45a89b7cd43a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 14:07:35 GMT</pubDate>
             <guid isPermaLink="false">c38a5e4d-8b1b-4555-84c1-6d24a1ebe857</guid></item><item>
+            <title>Breaking Awantura na urodzinach Lecha Wałęsy. Puściły mu nerwy. &quot;Wyrzucicie go, czy ja mam go wyrzucić?&quot;</title>
+            <link>https://www.fakt.pl/polityka/awantura-na-urodzinach-lecha-walesy-pokazali-mu-skany-dokumentow/gs57zey</link>
+            <description>Do ostrego spięcia doszło podczas obchodów 83. urodzin Lecha Wałęsy w Muzeum Narodowym w Warszawie. Reporter telewizji wPolsce24 pokazał byłemu prezydentowi skany dokumentów związanych z teczkami TW &quot;Bolka&quot; i zapytał, czy je rozpoznaje. Zachowanie spotkało się z wulgarną odpowiedzią Wałęsy, który później zażądał usunięcia dziennikarza.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/00532ae5-aca4-49a8-940b-894a0fd15389.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
+            <guid isPermaLink="false">0040a71e-f837-472a-9d51-b2b0c2c53600</guid></item><item>
             <title>Breaking Samolot nagle zaczął tracić wysokość. Pasażerowie wdarli się do kokpitu, wszędzie była krew. Mamy nagranie z pokładu</title>
             <link>https://www.fakt.pl/wydarzenia/atak-na-pokladzie-flydubai-wstrzasajace-nagranie-z-pokladu/wx1zrnp</link>
             <description>Wstrząsające sceny rozegrały się kilkanaście tysięcy metrów nad ziemią. W kokpicie samolotu lecącego z Dubaju do Tel Awiwu doszło do ataku na jednego z pilotów. Maszyna zaczęła gwałtownie tracić wysokość, a na pokładzie wybuchła panika. Ostatecznie napastnika powstrzymali pasażerowie. Według izraelskich służb atak miał podłoże terrorystyczne. Dotarliśmy do wstrząsającego nagrania z pokładu.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/1fd329b2-9e8b-4f7a-b726-ed15dcba9b82.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 17:17:00 GMT</pubDate>
-            <guid isPermaLink="false">d07756d8-4664-4999-a8d8-617fdd80ce0d</guid></item></channel>
+            <guid isPermaLink="false">d07756d8-4664-4999-a8d8-617fdd80ce0d</guid></item><item>
+            <title>Breaking Kobieta i jej synek postrzeleni przez mężczyznę. Tragiczny finał</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/uzbrojony-mezczyzna-zaatakowal-w-bialymstoku-kobiete-z-dzieckiem/7kq2469</link>
+            <description>Mrożące krew w żyłach wydarzenia rozegrały się w Dojlidach Górnych w Białymstoku. W jednym z domów doszło do awantury. Uzbrojony mężczyzna groził kobiecie i dziecku. 46-latka i niespełna dwuletni chłopiec zostali ranni. Sprawca uciekł, a potem odebrał sobie życie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2b2b3cf8-05d8-480d-b54e-e05f19625503.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 20:26:52 GMT</pubDate>
+            <guid isPermaLink="false">04182ed9-27de-4493-9d35-8fdc08d324a8</guid></item></channel>
             </rss>
