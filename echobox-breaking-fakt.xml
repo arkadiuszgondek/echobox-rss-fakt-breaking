@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 30 Sep 2026 08:56:22 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 30 Sep 2026 12:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ewakuacja przejścia granicznego Dorohusk-Jagodzin. Dron leciał w stronę Polski. MON reaguje</title>
             <link>https://www.fakt.pl/polityka/ewakuacja-przejscia-dorohusk-jagodzin-w-poblizu-mial-spasc-dron/11svrs8</link>
@@ -32,7 +32,13 @@
             <title>Breaking Milik straci prawo jazdy? Policja wznawia działania po rajdzie piłkarza</title>
             <link>https://www.fakt.pl/wydarzenia/milik-straci-prawo-jazdy-policja-wznawia-dzialania-po-rajdzie-pilkarza/wdlnswc</link>
             <description>Policjanci puścili wolno Arkadiusza Milika po tym, jak łamał przepisy drogowe na ich oczach. Po publikacji &quot;Faktu&quot; komendant rejonowy Policji Warszawa Śródmieście podjął decyzję o wznowieniu działań w tej sprawie. Skutki dla piłkarza mogą być wyjątkowo dotkliwe.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/a209d913-bd72-4d65-9649-307eddab9881.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/97afbc8c-33fc-4516-ba90-a2f72e29b9a6.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 08:56:22 GMT</pubDate>
-            <guid isPermaLink="false">23664574-6d07-4a78-9aaf-e886cfeff0e3</guid></item></channel>
+            <guid isPermaLink="false">23664574-6d07-4a78-9aaf-e886cfeff0e3</guid></item><item>
+            <title>Breaking Przełom w sprawie Marcina Romanowskiego. Sąd podjął  decyzję </title>
+            <link>https://www.fakt.pl/polityka/sad-wydal-list-zelazny-marcinowi-romanowskiemu-moze-wrocic-do-polski/10r7n42</link>
+            <description>Sąd Okręgowy w Warszawie wydał Marcinowi Romanowskiemu list żelazny — poinformował jego obrońca mec. Bartosz Lewandowski. Po uprawomocnieniu się decyzji uchylony zostanie tymczasowy areszt, a były wiceminister sprawiedliwości będzie mógł wrócić do Polski bez obawy o zatrzymanie. — Nie mam wątpliwości, że Marcin Romanowski przyjedzie do Polski — powiedział adwokat.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 12:45:00 GMT</pubDate>
+            <guid isPermaLink="false">39f97fd3-d3b1-48f4-9db5-295a8a3cfa3d</guid></item></channel>
             </rss>
