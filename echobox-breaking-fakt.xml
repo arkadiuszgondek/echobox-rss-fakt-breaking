@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 30 Sep 2026 12:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 30 Sep 2026 14:07:35 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ewakuacja przejścia granicznego Dorohusk-Jagodzin. Dron leciał w stronę Polski. MON reaguje</title>
             <link>https://www.fakt.pl/polityka/ewakuacja-przejscia-dorohusk-jagodzin-w-poblizu-mial-spasc-dron/11svrs8</link>
@@ -35,10 +35,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/97afbc8c-33fc-4516-ba90-a2f72e29b9a6.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 08:56:22 GMT</pubDate>
             <guid isPermaLink="false">23664574-6d07-4a78-9aaf-e886cfeff0e3</guid></item><item>
-            <title>Breaking Przełom w sprawie Marcina Romanowskiego. Sąd podjął  decyzję </title>
+            <title>Breaking Jest decyzja w sprawie policjantów, którzy puścili wolno Milika </title>
+            <link>https://www.fakt.pl/wydarzenia/milik-lamal-przepisy-zapadla-decyzja-w-sprawie-policjantow-ktorzy-go-pouczyli/zd6s6hg</link>
+            <description>Na ich oczach Milik łamał poważne przepisy drogowe, a oni jedynie go pouczyli. Po artykule &quot;Faktu&quot; policja zajęła się piłkarzem i zapowiedziała skierowanie wniosku o ukaranie do sądu. Jak nieoficjalnie dowiedział się &quot;Fakt&quot;, zapadła też decyzja w sprawie mundurowych z patrolu, który tak łagodnie potraktował sportowca. Nie będzie żadnych konsekwencji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5f46aeaf-e6a2-4979-8393-c375676f59ea.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 12:24:06 GMT</pubDate>
+            <guid isPermaLink="false">b5b93c6f-bf76-43a7-8d8d-39d77ddb1a1e</guid></item><item>
+            <title>Breaking Przełom w sprawie Marcina Romanowskiego. Sąd podjął  decyzję [Zdjęcia]</title>
             <link>https://www.fakt.pl/polityka/sad-wydal-list-zelazny-marcinowi-romanowskiemu-moze-wrocic-do-polski/10r7n42</link>
             <description>Sąd Okręgowy w Warszawie wydał Marcinowi Romanowskiemu list żelazny — poinformował jego obrońca mec. Bartosz Lewandowski. Po uprawomocnieniu się decyzji uchylony zostanie tymczasowy areszt, a były wiceminister sprawiedliwości będzie mógł wrócić do Polski bez obawy o zatrzymanie. — Nie mam wątpliwości, że Marcin Romanowski przyjedzie do Polski — powiedział adwokat.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/45c27058-3f9a-4dcb-a2f3-35775aa2ddb2.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 12:45:00 GMT</pubDate>
-            <guid isPermaLink="false">39f97fd3-d3b1-48f4-9db5-295a8a3cfa3d</guid></item></channel>
+            <guid isPermaLink="false">39f97fd3-d3b1-48f4-9db5-295a8a3cfa3d</guid></item><item>
+            <title>Breaking Piotr Moczulski jest już w Polsce! Samolot rządowy wylądował. Koniec dramatu na Filipinach</title>
+            <link>https://www.fakt.pl/wydarzenia/piotr-moczulski-jest-juz-w-polsce-rzadowy-samolot-wyladowal-w-warszawie/65r2g2q</link>
+            <description>Samolot rządowy z Piotrem Moczulskim na pokładzie wylądował w Polsce — informuje pan Tomasz, brat mężczyzny, który przez nieszczęśliwy wypadek ponad dwa lata temu utknął na Filipinach. Informacje &quot;Faktowi&quot; potwierdził również rzecznik MON. Teraz Piotr trafi do Uniwersyteckiego Szpitala Klinicznego w Białymstoku.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/57d5fb1d-a97f-4acc-8967-45a89b7cd43a.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 30 Sep 2026 14:07:35 GMT</pubDate>
+            <guid isPermaLink="false">c38a5e4d-8b1b-4555-84c1-6d24a1ebe857</guid></item></channel>
             </rss>
