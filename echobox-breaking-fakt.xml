@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 01 Oct 2026 17:05:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 01 Oct 2026 18:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Gigant od faktur zaatakowany. Wyciekły dane setek tysięcy klientów</title>
             <link>https://www.fakt.pl/pieniadze/wyciekly-dane-uzytkownikow-fakturowni-firma-wydala-pilny-komunikat/ncfz044</link>
@@ -62,7 +62,13 @@
             <title>Breaking Trump zapytany o stałą bazę w Polsce. Wskazał na Nawrockiego </title>
             <link>https://www.fakt.pl/polityka/donald-trump-o-stalej-bazie-usa-w-polsce-wspomnial-o-karolu-nawrockim/1ezs3fb</link>
             <description>Donald Trump został zapytany o możliwość utworzenia stałej amerykańskiej bazy wojskowej w Polsce. Prezydent USA potwierdził, że sprawa jest analizowana, i wskazał przy tym na relacje z Karolem Nawrockim. — Mamy wielki szacunek dla prezydenta Polski, więc analizujemy tę kwestię. I to może się zdarzyć — powiedział.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e7afe9a9-8627-41fb-a2d6-fe9966edcfe0.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 01 Oct 2026 17:05:00 GMT</pubDate>
-            <guid isPermaLink="false">78467e8d-8e70-491f-bfbd-6215c1801746</guid></item></channel>
+            <guid isPermaLink="false">78467e8d-8e70-491f-bfbd-6215c1801746</guid></item><item>
+            <title>Breaking Orędzie Karola Nawrockiego. Uderzył w premiera Tuska</title>
+            <link>https://www.fakt.pl/polityka/oredzie-prezydenta-karola-nawrockiego-o-cenach-paliw-uderzyl-w-donalda-tuska/wskbkpr</link>
+            <description>Karol Nawrocki wystąpił w czwartek 1 października z orędziem do Polaków. Prezydent zabrał głos w czasie narastającego sporu między Pałacem Prezydenckim a rządem Donalda Tuska. W przemówieniu prezydent uderzył w premiera w sprawie wysokich cen paliw. - Przekonywał, że wie, jak to zrobić i że wystarczy jedna prosta decyzja. Dziś tych prostych decyzji nie może podjąć, a zamiast tego zasłania się ustawą - mówił Nawrocki.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 01 Oct 2026 18:00:00 GMT</pubDate>
+            <guid isPermaLink="false">53cee972-b287-42b8-9053-2a798cb5046c</guid></item></channel>
             </rss>
