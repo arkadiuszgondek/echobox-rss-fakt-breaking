@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 30 Sep 2026 20:26:52 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 01 Oct 2026 08:26:45 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Milik łamał przepis za przepisem. Policja puściła go wolno. Mamy wszystko nagrane</title>
             <link>https://www.fakt.pl/wydarzenia/arkadiusz-milik-lamal-przepisy-na-oczach-policjantow-puscili-go-bez-kary/074yp3l</link>
@@ -64,5 +64,11 @@
             <description>Mrożące krew w żyłach wydarzenia rozegrały się w Dojlidach Górnych w Białymstoku. W jednym z domów doszło do awantury. Uzbrojony mężczyzna groził kobiecie i dziecku. 46-latka i niespełna dwuletni chłopiec zostali ranni. Sprawca uciekł, a potem odebrał sobie życie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2b2b3cf8-05d8-480d-b54e-e05f19625503.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 30 Sep 2026 20:26:52 GMT</pubDate>
-            <guid isPermaLink="false">04182ed9-27de-4493-9d35-8fdc08d324a8</guid></item></channel>
+            <guid isPermaLink="false">04182ed9-27de-4493-9d35-8fdc08d324a8</guid></item><item>
+            <title>Breaking Piotr Moczulski jest już w Polsce. Nowe informacje ze szpitala</title>
+            <link>https://www.fakt.pl/wydarzenia/piotr-moczulski-jest-juz-w-polsce-trafil-do-szpitala-w-bialymstoku/01s9yp9</link>
+            <description>Piotr Moczulski po dwuletnim pobycie w szpitalu na Filipinach powrócił rządowym samolotem do Polski i trafił do Uniwersyteckiego Szpitala Klinicznego w Białymstoku. - Pacjent w stanie niepogorszonym przybył do naszego szpitala. Wykonane były kontrolne badania, które uznaliśmy, że powinniśmy na ten moment wykonać i został umieszczony w jednej z naszych klinik - przekazała podczas konferencji prasowej Katarzyna Malinowska-Olczyk, rzeczniczka szpitala.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2bde3ca9-d0ec-438a-99b9-f60312b57c0d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 01 Oct 2026 08:26:45 GMT</pubDate>
+            <guid isPermaLink="false">52e97be1-aa3e-4da0-b6f2-2877f98851c0</guid></item></channel>
             </rss>
