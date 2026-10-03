@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 03 Oct 2026 07:12:44 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 03 Oct 2026 07:37:56 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Trump zapytany o stałą bazę w Polsce. Wskazał na Nawrockiego </title>
             <link>https://www.fakt.pl/polityka/donald-trump-o-stalej-bazie-usa-w-polsce-wspomnial-o-karolu-nawrockim/1ezs3fb</link>
@@ -19,8 +19,14 @@
             <guid isPermaLink="false">53cee972-b287-42b8-9053-2a798cb5046c</guid></item><item>
             <title>Breaking Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8</link>
-            <description>W miejscowości Podzamcze pod Łęczną (woj. lubelskie) doszło do wstrząsającej tragedii, która na długo pozostanie wszystkim w pamięci. 25-letni Jakub, oblany benzyną i podpalony przez ojca swojego przyjaciela, zmarł po czterech miesiącach dramatycznej walki o życie. Sprawca, były żołnierz WOT, czeka na proces w areszcie.</description>
+            <description>W miejscowości Podzamcze pod Łęczną (woj. lubelskie) doszło do wstrząsającej tragedii, która na długo pozostanie wszystkim w pamięci. 25-letni Jakub, oblany benzyną i podpalony przez ojca swojego przyjaciela, zmarł po czterech miesiącach dramatycznej walki o życie. Sprawca, były żołnierz WOT, czeka na proces w areszcie. Prokuratora poinformowała &quot;Fakt&quot;, że zarządzono sekcję zwłok.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b465a668-ee0a-452e-891d-e3bd8008e8fd.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 03 Oct 2026 07:12:44 GMT</pubDate>
-            <guid isPermaLink="false">fb962dde-fd89-4bb2-abdf-a6a2915e0be9</guid></item></channel>
+            <guid isPermaLink="false">fb962dde-fd89-4bb2-abdf-a6a2915e0be9</guid></item><item>
+            <title>Breaking Marcin Przydacz zabrał głos z Waszyngtonu. &quot;Jest zielone światło&quot;</title>
+            <link>https://www.fakt.pl/polityka/marcin-przydacz-o-stalej-bazie-usa-jest-zielone-swiatlo/z608sdz</link>
+            <description>Jest zielone światło ze strony Białego Domu w sprawie stałej bazy USA w Polsce — zapewnił Marcin Przydacz. Prezydencki minister po rozmowach z urzędnikami w Waszyngtonie dodał jednak, że &quot;definitywnie o tym, czy baza powstała, czy nie będziemy wiedzieć&quot;, kiedy Donald Trump przyjedzie ją otworzyć.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b8395f63-ba27-4876-b6a2-a551b9f9f9a1.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 03 Oct 2026 07:37:56 GMT</pubDate>
+            <guid isPermaLink="false">62e234f2-ff2f-4529-a34e-7aaf9c61011d</guid></item></channel>
             </rss>
