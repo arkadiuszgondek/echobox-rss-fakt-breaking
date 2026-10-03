@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 03 Oct 2026 07:37:56 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 03 Oct 2026 13:57:29 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Trump zapytany o stałą bazę w Polsce. Wskazał na Nawrockiego </title>
             <link>https://www.fakt.pl/polityka/donald-trump-o-stalej-bazie-usa-w-polsce-wspomnial-o-karolu-nawrockim/1ezs3fb</link>
@@ -28,5 +28,17 @@
             <description>Jest zielone światło ze strony Białego Domu w sprawie stałej bazy USA w Polsce — zapewnił Marcin Przydacz. Prezydencki minister po rozmowach z urzędnikami w Waszyngtonie dodał jednak, że &quot;definitywnie o tym, czy baza powstała, czy nie będziemy wiedzieć&quot;, kiedy Donald Trump przyjedzie ją otworzyć.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b8395f63-ba27-4876-b6a2-a551b9f9f9a1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 03 Oct 2026 07:37:56 GMT</pubDate>
-            <guid isPermaLink="false">62e234f2-ff2f-4529-a34e-7aaf9c61011d</guid></item></channel>
+            <guid isPermaLink="false">62e234f2-ff2f-4529-a34e-7aaf9c61011d</guid></item><item>
+            <title>Breaking &quot;Adin, dwa, tri&quot;. Głosem &quot;leczył&quot; przed ekranami. Nie żyje Anatolij Kaszpirowski</title>
+            <link>https://www.fakt.pl/wydarzenia/swiat/fenomen-kaszpirowskiego-w-polsce-miliony-wierzyly-w-jego-uzdrawianie/spyy118</link>
+            <description>To koniec pewnej epoki. Anatolij Kaszpirowski, znany z hipnotyzujących seansów w telewizji, zmarł w wieku 87 lat. Informację o śmierci rosyjskiego &quot;uzdrowiciela&quot; podała telewizja. W latach 90. ubiegłego wieku Rosjanin był wielką gwiazdą w Polsce. Podczas jego seansów przed telewizorami zasiadało wiele milionów Polaków.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f9aa1dcd-ef7e-4405-99c6-2722793eac42.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 03 Oct 2026 10:13:15 GMT</pubDate>
+            <guid isPermaLink="false">27bfb166-ccc8-4b96-aa35-a4d130461289</guid></item><item>
+            <title>Breaking To on miał wykraść dane milionów Polaków. Tylko udaje Hindusa? </title>
+            <link>https://www.fakt.pl/polityka/wyciekly-dane-milionow-polakow-nowe-wiesci-o-hakerze-to-polak/sjtlzel</link>
+            <description>Za cyberataki m.in. na serwisy MyDr i Fakturownia odpowiadać ma haker z grupy Fingerprint — ustaliła &quot;Rzeczpospolita&quot;. Cyberprzestępca zapewnia, że nie działa dla zysku i deklaruje pomoc w ulepszaniu zabezpieczeń. Z relacji informatora dziennika wynika, że choć ten posługuje się &quot;językiem angielskim w stylu hinduskim&quot;, służby podejrzewają, że może być Polakiem.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/NDY7MDA_/f56706837ef9d4139f45cc7eb4f70b22.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 03 Oct 2026 13:57:29 GMT</pubDate>
+            <guid isPermaLink="false">7d00a189-b08e-4e81-8fa9-c2fe510833c8</guid></item></channel>
             </rss>
