@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 03 Oct 2026 14:40:58 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 04 Oct 2026 08:54:11 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Trump zapytany o stałą bazę w Polsce. Wskazał na Nawrockiego </title>
-            <link>https://www.fakt.pl/polityka/donald-trump-o-stalej-bazie-usa-w-polsce-wspomnial-o-karolu-nawrockim/1ezs3fb</link>
-            <description>Donald Trump został zapytany o możliwość utworzenia stałej amerykańskiej bazy wojskowej w Polsce. Prezydent USA potwierdził, że sprawa jest analizowana, i wskazał przy tym na relacje z Karolem Nawrockim. — Mamy wielki szacunek dla prezydenta Polski, więc analizujemy tę kwestię. I to może się zdarzyć — powiedział.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/e7afe9a9-8627-41fb-a2d6-fe9966edcfe0.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 01 Oct 2026 17:05:00 GMT</pubDate>
-            <guid isPermaLink="false">78467e8d-8e70-491f-bfbd-6215c1801746</guid></item><item>
-            <title>Breaking Prezydent podpisał kluczową ustawę. Ogłosił to w orędziu. &quot;Obniżki mają nastąpić od razu&quot;</title>
-            <link>https://www.fakt.pl/polityka/oredzie-prezydenta-karola-nawrockiego-o-cenach-paliw-uderzyl-w-donalda-tuska/wskbkpr</link>
-            <description>Karol Nawrocki wystąpił w czwartek 1 października z orędziem do Polaków. Prezydent zabrał głos w czasie narastającego sporu między Pałacem Prezydenckim a rządem Donalda Tuska. Prezydent poinformował, że podpisał ustawę o nadmiarowych zyskach koncernów paliwowych i uderzył w premiera. - Obniżki cen paliw mają nastąpić od razu i powinny doprowadzić ceny paliw do poziomu obiecanego Polakom w kampanii wyborczej - stwierdził.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3c121061-f2b1-4407-b788-b850b85eb283.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 01 Oct 2026 18:00:00 GMT</pubDate>
-            <guid isPermaLink="false">53cee972-b287-42b8-9053-2a798cb5046c</guid></item><item>
             <title>Breaking Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8</link>
             <description>W miejscowości Podzamcze pod Łęczną (woj. lubelskie) doszło do wstrząsającej tragedii, która na długo pozostanie wszystkim w pamięci. 25-letni Jakub, oblany benzyną i podpalony przez ojca swojego przyjaciela, zmarł po czterech miesiącach dramatycznej walki o życie. Sprawca, były żołnierz WOT, czeka na proces w areszcie. Prokuratora poinformowała &quot;Fakt&quot;, że zarządzono sekcję zwłok.</description>
@@ -46,5 +34,11 @@
             <description>W ocenie Radosława Sikorskiego w kwestii stałej bazy USA w Polsce &quot;głównym, a w zasadzie jedynym zadaniem państwowym&quot; Karola Nawrockiego jest wyegzekwowanie przychylnej decyzji Donalda Trumpa. Szef MSZ stwierdził, że głowa państwa powinna wykorzystać swoją &quot;domniemaną bliskość&quot; z prezydentem USA.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/NmM7MDA_/a52bc3a6-2e5f-4a83-ad7e-542f715933fd.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 03 Oct 2026 14:40:58 GMT</pubDate>
-            <guid isPermaLink="false">740fbfd5-53b4-42fb-af62-e81254363529</guid></item></channel>
+            <guid isPermaLink="false">740fbfd5-53b4-42fb-af62-e81254363529</guid></item><item>
+            <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
+            <description>Nie żyje siostra Anastazja Pustelnik, jedna z najbardziej rozpoznawalnych autorek książek kulinarnych w Polsce. Zakonnica przez lata zdobywała popularność dzięki prostym przepisom, domowej kuchni i charakterystycznemu podejściu do gotowania. Informację o śmierci siostry Anastazji przekazał portal deon.pl.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/fd3273ac-a83c-43a7-ae23-cfa574c35b25.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 04 Oct 2026 08:54:11 GMT</pubDate>
+            <guid isPermaLink="false">d38c1fb2-4408-400b-89f3-96d56ba386b7</guid></item></channel>
             </rss>
