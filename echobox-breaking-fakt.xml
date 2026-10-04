@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 04 Oct 2026 08:54:11 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 04 Oct 2026 11:41:31 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8</link>
@@ -40,5 +40,11 @@
             <description>Nie żyje siostra Anastazja Pustelnik, jedna z najbardziej rozpoznawalnych autorek książek kulinarnych w Polsce. Zakonnica przez lata zdobywała popularność dzięki prostym przepisom, domowej kuchni i charakterystycznemu podejściu do gotowania. Informację o śmierci siostry Anastazji przekazał portal deon.pl.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/fd3273ac-a83c-43a7-ae23-cfa574c35b25.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 04 Oct 2026 08:54:11 GMT</pubDate>
-            <guid isPermaLink="false">d38c1fb2-4408-400b-89f3-96d56ba386b7</guid></item></channel>
+            <guid isPermaLink="false">d38c1fb2-4408-400b-89f3-96d56ba386b7</guid></item><item>
+            <title>Breaking Zmarł Waldemar Krysiak. Bloger i publicysta miał 36 lat. W sieci był znany jako &quot;Myślozbir&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-waldemar-krysiak-publikowal-jako-myslozbir-bloger-mial-36-lat/tm16hx6</link>
+            <description>Nie żyje Waldemar Krysiak, bloger i publicysta znany w internecie jako &quot;Myślozbir&quot; oraz autor projektu &quot;Gej przeciwko światu&quot;. Informację o jego śmierci przekazał w niedzielę bliski przyjaciel Roman Warszawski. Krysiak miał 36 lat, a według relacji przyjaciela przyczyną jego nagłej śmierci był zawał serca.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/c941a048-cb2e-436a-91fc-ae1cf1c81da7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 04 Oct 2026 11:41:31 GMT</pubDate>
+            <guid isPermaLink="false">aef8c433-ace5-41d5-88f2-244a9925be0a</guid></item></channel>
             </rss>
