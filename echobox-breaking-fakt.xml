@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 04 Oct 2026 11:41:31 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 04 Oct 2026 13:35:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8</link>
@@ -46,5 +46,11 @@
             <description>Nie żyje Waldemar Krysiak, bloger i publicysta znany w internecie jako &quot;Myślozbir&quot; oraz autor projektu &quot;Gej przeciwko światu&quot;. Informację o jego śmierci przekazał w niedzielę bliski przyjaciel Roman Warszawski. Krysiak miał 36 lat, a według relacji przyjaciela przyczyną jego nagłej śmierci był zawał serca.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/c941a048-cb2e-436a-91fc-ae1cf1c81da7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 04 Oct 2026 11:41:31 GMT</pubDate>
-            <guid isPermaLink="false">aef8c433-ace5-41d5-88f2-244a9925be0a</guid></item></channel>
+            <guid isPermaLink="false">aef8c433-ace5-41d5-88f2-244a9925be0a</guid></item><item>
+            <title>Breaking &quot;Uwaga! Alert RCB&quot;. Polskie wojsko poderwało myśliwce</title>
+            <link>https://www.fakt.pl/polityka/alert-rcb-w-lubelskiem-i-podkarpackiem-operuje-polskie-lotnictwo/nw7jzl6</link>
+            <description>Rządowe Centrum Bezpieczeństwa poinformowało o nadaniu komunikatu systemem SMS powszechnie znanym jako Alert RCB do odbiorców na terenie woj. podkarpackiego i lubelskiego, z uwagi na rosyjski atak powietrzny na terenie Ukrainy. &quot;W przestrzeni RP operuje polskie lotnictwo&quot; — nadano w komunikacie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 04 Oct 2026 13:35:00 GMT</pubDate>
+            <guid isPermaLink="false">5b4862f8-8114-4078-a6bb-214e610817a5</guid></item></channel>
             </rss>
