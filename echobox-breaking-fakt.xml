@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 05 Oct 2026 16:48:19 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 05 Oct 2026 19:57:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
@@ -44,7 +44,13 @@
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
             <description>Do osób przebywających na wschodzie kraju trafił pilny komunikat o rosyjskim ataku tuż za naszą granicą. Nad głowami latają polskie myśliwce.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/ecbea1ec-6d23-45b4-b39e-e825b8fec6c4.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 05 Oct 2026 16:48:19 GMT</pubDate>
-            <guid isPermaLink="false">fde3fb3f-11fa-4357-9d8f-db41080ec138</guid></item></channel>
+            <guid isPermaLink="false">fde3fb3f-11fa-4357-9d8f-db41080ec138</guid></item><item>
+            <title>Breaking Porwanie dziecka na Śląsku. Policja szuka dwuletniego chłopca</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/slask/zaginal-dwuletni-julian-z-dabrowy-gorniczej-rozpoczeto-poszukiwania/0dlm3hg</link>
+            <description>Dąbrowscy policjanci poszukują dwuletniego Juliana. Ojciec chłopca zgłosił jego uprowadzenie. Sprawa ma charakter porwania rodzicielskiego. Funkcjonariusze apelują o czujność w całym kraju, bo dziecko może przebywać poza Śląskiem. Kluczowy w poszukiwaniach jest jeden szczegół ubioru chłopca.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 05 Oct 2026 19:57:00 GMT</pubDate>
+            <guid isPermaLink="false">2d7e29a4-7a69-4375-9785-458763415880</guid></item></channel>
             </rss>
