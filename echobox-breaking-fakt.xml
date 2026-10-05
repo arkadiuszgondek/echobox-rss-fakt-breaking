@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 05 Oct 2026 09:56:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 05 Oct 2026 16:48:19 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking To on miał wykraść dane milionów Polaków. Tylko udaje Hindusa? </title>
-            <link>https://www.fakt.pl/polityka/wyciekly-dane-milionow-polakow-nowe-wiesci-o-hakerze-to-polak/sjtlzel</link>
-            <description>Za cyberataki m.in. na serwisy MyDr i Fakturownia odpowiadać ma haker z grupy Fingerprint — ustaliła &quot;Rzeczpospolita&quot;. Cyberprzestępca zapewnia, że nie działa dla zysku i deklaruje pomoc w ulepszaniu zabezpieczeń. Z relacji informatora dziennika wynika, że choć ten posługuje się &quot;językiem angielskim w stylu hinduskim&quot;, służby podejrzewają, że może być Polakiem.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/NDY7MDA_/f56706837ef9d4139f45cc7eb4f70b22.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 03 Oct 2026 13:57:29 GMT</pubDate>
-            <guid isPermaLink="false">7d00a189-b08e-4e81-8fa9-c2fe510833c8</guid></item><item>
-            <title>Breaking Sikorski wskazał główne zadanie Nawrockiego. &quot;Wyegzekwować&quot;</title>
-            <link>https://www.fakt.pl/polityka/stala-baza-usa-radoslaw-sikorski-wskazal-zadanie-karola-nawrockiego/01g7he0</link>
-            <description>W ocenie Radosława Sikorskiego w kwestii stałej bazy USA w Polsce &quot;głównym, a w zasadzie jedynym zadaniem państwowym&quot; Karola Nawrockiego jest wyegzekwowanie przychylnej decyzji Donalda Trumpa. Szef MSZ stwierdził, że głowa państwa powinna wykorzystać swoją &quot;domniemaną bliskość&quot; z prezydentem USA.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/NmM7MDA_/a52bc3a6-2e5f-4a83-ad7e-542f715933fd.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 03 Oct 2026 14:40:58 GMT</pubDate>
-            <guid isPermaLink="false">740fbfd5-53b4-42fb-af62-e81254363529</guid></item><item>
             <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
             <description>Nie żyje siostra Anastazja Pustelnik, jedna z najbardziej rozpoznawalnych autorek książek kulinarnych w Polsce. Zakonnica przez lata zdobywała popularność dzięki prostym przepisom, domowej kuchni i charakterystycznemu podejściu do gotowania. Informację o śmierci siostry Anastazji przekazał portal deon.pl.</description>
@@ -52,5 +40,11 @@
             <description>Śledczy przekazali najnowsze informacje w sprawie śmiertelnego potrącenia pieszego w Nowym Sączu (woj. małopolskie). Choć wcześniej informowano, że kierowca Volkswagena, który wjechał w 51-letniego mężczyznę, poruszał się z dużą prędkością, dziś wiadomo już, że było to aż 120 km na godz. Jak dowiedział się &quot;Fakt&quot;, śledczy podejrzewają też, że tuż przed tragedią doszło do nielegalnego wyścigu. Zatrzymano kierowcę drugiego samochodu.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7bf96136-6b43-46ad-9249-1c452d5fcb6b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 05 Oct 2026 09:56:00 GMT</pubDate>
-            <guid isPermaLink="false">429b9630-9875-4a35-8280-80e3915a0420</guid></item></channel>
+            <guid isPermaLink="false">429b9630-9875-4a35-8280-80e3915a0420</guid></item><item>
+            <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
+            <description>Do osób przebywających na wschodzie kraju trafił pilny komunikat o rosyjskim ataku tuż za naszą granicą. Nad głowami latają polskie myśliwce.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 05 Oct 2026 16:48:19 GMT</pubDate>
+            <guid isPermaLink="false">fde3fb3f-11fa-4357-9d8f-db41080ec138</guid></item></channel>
             </rss>
