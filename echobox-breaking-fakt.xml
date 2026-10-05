@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 05 Oct 2026 08:41:05 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 05 Oct 2026 09:56:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking &quot;Adin, dwa, tri&quot;. Głosem &quot;leczył&quot; przed ekranami. Nie żyje Anatolij Kaszpirowski</title>
-            <link>https://www.fakt.pl/wydarzenia/swiat/fenomen-kaszpirowskiego-w-polsce-miliony-wierzyly-w-jego-uzdrawianie/spyy118</link>
-            <description>To koniec pewnej epoki. Anatolij Kaszpirowski, znany z hipnotyzujących seansów w telewizji, zmarł w wieku 87 lat. Informację o śmierci rosyjskiego &quot;uzdrowiciela&quot; podała telewizja. W latach 90. ubiegłego wieku Rosjanin był wielką gwiazdą w Polsce. Podczas jego seansów przed telewizorami zasiadało wiele milionów Polaków.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f9aa1dcd-ef7e-4405-99c6-2722793eac42.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 03 Oct 2026 10:13:15 GMT</pubDate>
-            <guid isPermaLink="false">27bfb166-ccc8-4b96-aa35-a4d130461289</guid></item><item>
             <title>Breaking To on miał wykraść dane milionów Polaków. Tylko udaje Hindusa? </title>
             <link>https://www.fakt.pl/polityka/wyciekly-dane-milionow-polakow-nowe-wiesci-o-hakerze-to-polak/sjtlzel</link>
             <description>Za cyberataki m.in. na serwisy MyDr i Fakturownia odpowiadać ma haker z grupy Fingerprint — ustaliła &quot;Rzeczpospolita&quot;. Cyberprzestępca zapewnia, że nie działa dla zysku i deklaruje pomoc w ulepszaniu zabezpieczeń. Z relacji informatora dziennika wynika, że choć ten posługuje się &quot;językiem angielskim w stylu hinduskim&quot;, służby podejrzewają, że może być Polakiem.</description>
@@ -47,10 +41,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/55103749-28e4-4b83-8e8b-b13eadba2ff6.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 05 Oct 2026 06:16:29 GMT</pubDate>
             <guid isPermaLink="false">8d1c095c-ca29-4e9d-91e1-f93646db8dd3</guid></item><item>
-            <title>Breaking Awantura wokół koni Karola Nawrockiego. Rzecznik prezydenta tłumaczy. &quot;Potrzeba igrzysk&quot;</title>
+            <title>Breaking Awantura wokół koni Karola Nawrockiego. Rzecznik prezydenta tłumaczy</title>
             <link>https://www.fakt.pl/polityka/nawrocki-ma-trzy-konie-leskiewicz-tlumaczy-sikorski-domaga-sie-wyjasnien/7sx9vc8</link>
             <description>— Rządzący postanowili przykryć swoje nieudolności, ogromne problemy z finansami publicznymi, kolejkami do lekarzy tematem związanym z końmi — stwierdził rzecznik prasowy Karola Nawrockiego. — Kiedy nie ma chleba, potrzeba igrzysk — dodał Rafał Leśkiewicz. Tymczasem politycy koalicji rządzącej domagają się wyjaśnień w sprawie koni.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/3fcd6ccc-9351-4d8f-a260-c79a35ab2238.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 05 Oct 2026 08:41:05 GMT</pubDate>
-            <guid isPermaLink="false">9da6a04a-9ca3-4909-90d4-85e169eebd1e</guid></item></channel>
+            <guid isPermaLink="false">9da6a04a-9ca3-4909-90d4-85e169eebd1e</guid></item><item>
+            <title>Breaking Jechał 120 km/h. Wstrząsające ustalenia po śmierci pieszego w Nowym Sączu</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/smiertelne-potracenie-pieszego-w-nowym-saczu-szokujace-ustalenia-pokuratury/kk3ledh</link>
+            <description>Śledczy przekazali najnowsze informacje w sprawie śmiertelnego potrącenia pieszego w Nowym Sączu (woj. małopolskie). Choć wcześniej informowano, że kierowca Volkswagena, który wjechał w 51-letniego mężczyznę, poruszał się z dużą prędkością, dziś wiadomo już, że było to aż 120 km na godz. Jak dowiedział się &quot;Fakt&quot;, śledczy podejrzewają też, że tuż przed tragedią doszło do nielegalnego wyścigu. Zatrzymano kierowcę drugiego samochodu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/7bf96136-6b43-46ad-9249-1c452d5fcb6b.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 05 Oct 2026 09:56:00 GMT</pubDate>
+            <guid isPermaLink="false">429b9630-9875-4a35-8280-80e3915a0420</guid></item></channel>
             </rss>
