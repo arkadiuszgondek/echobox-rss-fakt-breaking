@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 05 Oct 2026 06:16:29 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 05 Oct 2026 08:41:05 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Dramatyczne wieści z Łęcznej. Podpalony przez żołnierza WOT Jakub nie żyje</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lublin/leczna-w-zalobie-zmarl-25-letni-jakub-podpalony-przez-bylego-zolnierza-wot/2dtrzf8</link>
-            <description>W miejscowości Podzamcze pod Łęczną (woj. lubelskie) doszło do wstrząsającej tragedii, która na długo pozostanie wszystkim w pamięci. 25-letni Jakub, oblany benzyną i podpalony przez ojca swojego przyjaciela, zmarł po czterech miesiącach dramatycznej walki o życie. Sprawca, były żołnierz WOT, czeka na proces w areszcie. Prokuratora poinformowała &quot;Fakt&quot;, że zarządzono sekcję zwłok.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b465a668-ee0a-452e-891d-e3bd8008e8fd.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 03 Oct 2026 07:12:44 GMT</pubDate>
-            <guid isPermaLink="false">fb962dde-fd89-4bb2-abdf-a6a2915e0be9</guid></item><item>
-            <title>Breaking Marcin Przydacz zabrał głos z Waszyngtonu. &quot;Jest zielone światło&quot;</title>
-            <link>https://www.fakt.pl/polityka/marcin-przydacz-o-stalej-bazie-usa-jest-zielone-swiatlo/z608sdz</link>
-            <description>Jest zielone światło ze strony Białego Domu w sprawie stałej bazy USA w Polsce — zapewnił Marcin Przydacz. Prezydencki minister po rozmowach z urzędnikami w Waszyngtonie dodał jednak, że &quot;definitywnie o tym, czy baza powstała, czy nie będziemy wiedzieć&quot;, kiedy Donald Trump przyjedzie ją otworzyć.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b8395f63-ba27-4876-b6a2-a551b9f9f9a1.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 03 Oct 2026 07:37:56 GMT</pubDate>
-            <guid isPermaLink="false">62e234f2-ff2f-4529-a34e-7aaf9c61011d</guid></item><item>
             <title>Breaking &quot;Adin, dwa, tri&quot;. Głosem &quot;leczył&quot; przed ekranami. Nie żyje Anatolij Kaszpirowski</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/fenomen-kaszpirowskiego-w-polsce-miliony-wierzyly-w-jego-uzdrawianie/spyy118</link>
             <description>To koniec pewnej epoki. Anatolij Kaszpirowski, znany z hipnotyzujących seansów w telewizji, zmarł w wieku 87 lat. Informację o śmierci rosyjskiego &quot;uzdrowiciela&quot; podała telewizja. W latach 90. ubiegłego wieku Rosjanin był wielką gwiazdą w Polsce. Podczas jego seansów przed telewizorami zasiadało wiele milionów Polaków.</description>
@@ -58,5 +46,11 @@
             <description>To nie była spokojna noc w Grojcu pod Oświęcimiem (woj. małopolskie). Przed kościołem św. Wawrzyńca zebrał się tłum parafian. &quot;Ty tchórzu&quot; – słychać było okrzyki wiernych. Doszło do przepychanek. Koło godz. 1 pod eskortą policji ewakuowano biskupa Romana Pindla.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/55103749-28e4-4b83-8e8b-b13eadba2ff6.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 05 Oct 2026 06:16:29 GMT</pubDate>
-            <guid isPermaLink="false">8d1c095c-ca29-4e9d-91e1-f93646db8dd3</guid></item></channel>
+            <guid isPermaLink="false">8d1c095c-ca29-4e9d-91e1-f93646db8dd3</guid></item><item>
+            <title>Breaking Awantura wokół koni Karola Nawrockiego. Rzecznik prezydenta tłumaczy. &quot;Potrzeba igrzysk&quot;</title>
+            <link>https://www.fakt.pl/polityka/nawrocki-ma-trzy-konie-leskiewicz-tlumaczy-sikorski-domaga-sie-wyjasnien/7sx9vc8</link>
+            <description>— Rządzący postanowili przykryć swoje nieudolności, ogromne problemy z finansami publicznymi, kolejkami do lekarzy tematem związanym z końmi — stwierdził rzecznik prasowy Karola Nawrockiego. — Kiedy nie ma chleba, potrzeba igrzysk — dodał Rafał Leśkiewicz. Tymczasem politycy koalicji rządzącej domagają się wyjaśnień w sprawie koni.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3fcd6ccc-9351-4d8f-a260-c79a35ab2238.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 05 Oct 2026 08:41:05 GMT</pubDate>
+            <guid isPermaLink="false">9da6a04a-9ca3-4909-90d4-85e169eebd1e</guid></item></channel>
             </rss>
