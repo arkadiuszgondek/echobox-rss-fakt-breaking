@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 07:43:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 09:33:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
-            <description>Nie żyje siostra Anastazja Pustelnik, jedna z najbardziej rozpoznawalnych autorek książek kulinarnych w Polsce. Zakonnica przez lata zdobywała popularność dzięki prostym przepisom, domowej kuchni i charakterystycznemu podejściu do gotowania. Informację o śmierci siostry Anastazji przekazał portal deon.pl.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/fd3273ac-a83c-43a7-ae23-cfa574c35b25.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 04 Oct 2026 08:54:11 GMT</pubDate>
-            <guid isPermaLink="false">d38c1fb2-4408-400b-89f3-96d56ba386b7</guid></item><item>
             <title>Breaking Zmarł Waldemar Krysiak. Bloger i publicysta miał 36 lat. W sieci był znany jako &quot;Myślozbir&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-waldemar-krysiak-publikowal-jako-myslozbir-bloger-mial-36-lat/tm16hx6</link>
             <description>Nie żyje Waldemar Krysiak, bloger i publicysta znany w internecie jako &quot;Myślozbir&quot; oraz autor projektu &quot;Gej przeciwko światu&quot;. Informację o jego śmierci przekazał w niedzielę bliski przyjaciel Roman Warszawski. Krysiak miał 36 lat, a według relacji przyjaciela przyczyną jego nagłej śmierci był zawał serca.</description>
@@ -70,5 +64,11 @@
             <description>Wjechał w 20-latkę przechodzącą przez przejście dla pieszych, zostawił ją nieprzytomną bez pomocy i uciekł. Policjanci zatrzymali mężczyznę podejrzanego o potrącenie młodej kobiety w Piastowie (woj. mazowieckie). Razem z nim zatrzymano też pasażerkę samochodu.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/46dd3e0b-a210-4811-86d7-a039ed9ec08c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 07:43:00 GMT</pubDate>
-            <guid isPermaLink="false">f4a01ae0-6d94-4f7f-9f8e-45fd568e1de8</guid></item></channel>
+            <guid isPermaLink="false">f4a01ae0-6d94-4f7f-9f8e-45fd568e1de8</guid></item><item>
+            <title>Breaking Akcja ABW. Ludzie Obajtka zatrzymani. &quot;Nie podaruję&quot;</title>
+            <link>https://www.fakt.pl/polityka/prokuratura-menadzerowie-orlenu-zatrzymani-przez-abw-daniel-obajtek-grzmi/pc5fkth</link>
+            <description>ABW zatrzymała pięciu byłych i obecnych menadżerów Orlenu. — Zostali zatrzymani moi byli menadżerowie. Nie podaruję — powiedział Daniel Obajtek.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 09:33:25 GMT</pubDate>
+            <guid isPermaLink="false">907e600e-ca55-4ae1-be8a-f0210dbfaa91</guid></item></channel>
             </rss>
