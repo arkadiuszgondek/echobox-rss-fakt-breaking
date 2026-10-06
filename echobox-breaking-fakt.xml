@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 03:49:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 06:12:50 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
@@ -52,5 +52,11 @@
             <description>Dąbrowscy policjanci prowadzili poszukiwania 2-letniego Juliana. Ojciec chłopca zgłosił jego uprowadzenie. Sprawa miała charakter porwania rodzicielskiego. Od razu ruszyły intensywne poszukiwania. Po kilku godzinach funkcjonariusze przekazali nowe wieści — chłopiec się odnalazł.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e4f21dbc-5db1-4fd0-81d1-d4661d557719.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 03:49:00 GMT</pubDate>
-            <guid isPermaLink="false">2d7e29a4-7a69-4375-9785-458763415880</guid></item></channel>
+            <guid isPermaLink="false">2d7e29a4-7a69-4375-9785-458763415880</guid></item><item>
+            <title>Breaking Świadek śmiertelnego potrącenia w Nowym Sączu miał ruszyć na pomoc. &quot;Byłem tam z dziećmi na spacerze&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/tragedia-na-przejsciu-w-nowym-saczu-swiadek-mial-ruszyc-z-pomoca/m9c5smf</link>
+            <description>Pieszy został śmiertelnie potrącony na oznakowanym przejściu w Nowym Sączu, a jego ratowaniem zajęli się przypadkowi świadkowie, w tym przejeżdżająca tamtędy lekarka. Jeden ze światków tragicznego wydarzenia zabrał głos. Jak powiedział — był w tym miejscu na spacerze z dziećmi.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4fb33e55-25b3-4dba-b259-b15fdce9bf00.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 06:12:50 GMT</pubDate>
+            <guid isPermaLink="false">0842e4c2-8629-4eb2-8f3e-9d3de100fd32</guid></item></channel>
             </rss>
