@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 07:15:47 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 07:43:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
@@ -62,7 +62,13 @@
             <title>Breaking Atak dronów u wybrzeży Bułgarii. Jeden statek zatonął, drugi płonie</title>
             <link>https://www.fakt.pl/polityka/bulgaria-atak-dronow-na-statki-jeden-zatonal/c7ynz4t</link>
             <description>Na wodach Morza Czarnego trwa zakrojona na szeroką skalę akcja ratunkowa. Jak donoszą media, doszło tam do ataku dronów. Jeden ze statków zatonął, a na drugim wybuchł pożar.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a7261bf-181d-4ab4-a953-c77f66a3d4dc.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/aaa2d154-8a32-44a2-b385-8058803ced11.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 07:15:47 GMT</pubDate>
-            <guid isPermaLink="false">d4b2d7e2-ecf4-461b-bce1-7975ac539663</guid></item></channel>
+            <guid isPermaLink="false">d4b2d7e2-ecf4-461b-bce1-7975ac539663</guid></item><item>
+            <title>Breaking Potrącił 20-latkę na pasach i uciekł. Kobieta jest w śpiączce</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/potracenie-na-pasach-w-piastowie-20-latka-jest-w-spiaczce-kierowca-uciekl/7emwx00</link>
+            <description>Wjechał w 20-latkę przechodzącą przez przejście dla pieszych, zostawił ją nieprzytomną bez pomocy i uciekł. Policjanci zatrzymali mężczyznę podejrzanego o potrącenie młodej kobiety w Piastowie (woj. mazowieckie). Razem z nim zatrzymano też pasażerkę samochodu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/46dd3e0b-a210-4811-86d7-a039ed9ec08c.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 07:43:00 GMT</pubDate>
+            <guid isPermaLink="false">f4a01ae0-6d94-4f7f-9f8e-45fd568e1de8</guid></item></channel>
             </rss>
