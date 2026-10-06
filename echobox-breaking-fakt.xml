@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 09:33:25 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 10:20:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zmarł Waldemar Krysiak. Bloger i publicysta miał 36 lat. W sieci był znany jako &quot;Myślozbir&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-waldemar-krysiak-publikowal-jako-myslozbir-bloger-mial-36-lat/tm16hx6</link>
@@ -67,8 +67,14 @@
             <guid isPermaLink="false">f4a01ae0-6d94-4f7f-9f8e-45fd568e1de8</guid></item><item>
             <title>Breaking Akcja ABW. Ludzie Obajtka zatrzymani. &quot;Nie podaruję&quot;</title>
             <link>https://www.fakt.pl/polityka/prokuratura-menadzerowie-orlenu-zatrzymani-przez-abw-daniel-obajtek-grzmi/pc5fkth</link>
-            <description>ABW zatrzymała pięciu byłych i obecnych menadżerów Orlenu. — Zostali zatrzymani moi byli menadżerowie. Nie podaruję — powiedział Daniel Obajtek.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego zatrzymali pięciu byłych i obecnych menadżerów spółki Orlen. — Zostali zatrzymani moi byli menadżerowie. Nie podaruję — zapowiedział Daniel Obajtek.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5fd0e0f5-da90-4c91-ac8a-cdb027d9a3f2.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 09:33:25 GMT</pubDate>
-            <guid isPermaLink="false">907e600e-ca55-4ae1-be8a-f0210dbfaa91</guid></item></channel>
+            <guid isPermaLink="false">907e600e-ca55-4ae1-be8a-f0210dbfaa91</guid></item><item>
+            <title>Breaking Generał ocenił decyzję Nawrockiego. Powiedział o racji stanu</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-powola-wieslawa-kukule-general-mieczyslaw-bieniek-komentuje/s9vdnb5</link>
+            <description>Gen. Wiesław Kukuła pozostanie szefem Sztabu Generalnego Wojska Polskiego na kolejną kadencję. Gen. Mieczysław Bieniek w rozmowie z &quot;Faktem&quot; pozytywnie ocenił decyzję Karola Nawrockiego. — W zakresie bezpieczeństwa zarówno rząd, jak i pan prezydent działają w jednym duchu. I to jest właśnie racja stanu — podkreślił wojskowy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e8c4adbb-fdc8-4c3f-9df6-10319fb22c0d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 10:20:00 GMT</pubDate>
+            <guid isPermaLink="false">57d5afde-8b58-4fb7-8d33-63d553f8e94b</guid></item></channel>
             </rss>
