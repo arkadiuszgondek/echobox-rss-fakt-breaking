@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 06:12:50 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 07:15:47 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Siostra Anastazja nie żyje. Z jezuickiej kuchni trafiła do polskich domów. Sprzedała miliony książek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-siostra-anastazja-jej-przepisy-z-jezuickiej-kuchni-znaly-miliony/m0ldn5r</link>
@@ -58,5 +58,11 @@
             <description>Pieszy został śmiertelnie potrącony na oznakowanym przejściu w Nowym Sączu, a jego ratowaniem zajęli się przypadkowi świadkowie, w tym przejeżdżająca tamtędy lekarka. Jeden ze światków tragicznego wydarzenia zabrał głos. Jak powiedział — był w tym miejscu na spacerze z dziećmi.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4fb33e55-25b3-4dba-b259-b15fdce9bf00.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 06:12:50 GMT</pubDate>
-            <guid isPermaLink="false">0842e4c2-8629-4eb2-8f3e-9d3de100fd32</guid></item></channel>
+            <guid isPermaLink="false">0842e4c2-8629-4eb2-8f3e-9d3de100fd32</guid></item><item>
+            <title>Breaking Atak dronów u wybrzeży Bułgarii. Jeden statek zatonął, drugi płonie</title>
+            <link>https://www.fakt.pl/polityka/bulgaria-atak-dronow-na-statki-jeden-zatonal/c7ynz4t</link>
+            <description>Na wodach Morza Czarnego trwa zakrojona na szeroką skalę akcja ratunkowa. Jak donoszą media, doszło tam do ataku dronów. Jeden ze statków zatonął, a na drugim wybuchł pożar.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a7261bf-181d-4ab4-a953-c77f66a3d4dc.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 07:15:47 GMT</pubDate>
+            <guid isPermaLink="false">d4b2d7e2-ecf4-461b-bce1-7975ac539663</guid></item></channel>
             </rss>
