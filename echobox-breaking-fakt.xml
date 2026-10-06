@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 11:20:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 06 Oct 2026 12:56:12 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Zmarł Waldemar Krysiak. Bloger i publicysta miał 36 lat. W sieci był znany jako &quot;Myślozbir&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/nie-zyje-waldemar-krysiak-publikowal-jako-myslozbir-bloger-mial-36-lat/tm16hx6</link>
-            <description>Nie żyje Waldemar Krysiak, bloger i publicysta znany w internecie jako &quot;Myślozbir&quot; oraz autor projektu &quot;Gej przeciwko światu&quot;. Informację o jego śmierci przekazał w niedzielę bliski przyjaciel Roman Warszawski. Krysiak miał 36 lat, a według relacji przyjaciela przyczyną jego nagłej śmierci był zawał serca.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/c941a048-cb2e-436a-91fc-ae1cf1c81da7.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 04 Oct 2026 11:41:31 GMT</pubDate>
-            <guid isPermaLink="false">aef8c433-ace5-41d5-88f2-244a9925be0a</guid></item><item>
             <title>Breaking &quot;Uwaga! Alert RCB&quot;. Polskie wojsko poderwało myśliwce</title>
             <link>https://www.fakt.pl/polityka/alert-rcb-w-lubelskiem-i-podkarpackiem-operuje-polskie-lotnictwo/nw7jzl6</link>
             <description>Rządowe Centrum Bezpieczeństwa poinformowało o nadaniu komunikatu systemem SMS powszechnie znanym jako Alert RCB do odbiorców na terenie woj. podkarpackiego i lubelskiego, z uwagi na rosyjski atak powietrzny na terenie Ukrainy. &quot;W przestrzeni RP operuje polskie lotnictwo&quot; — nadano w komunikacie.</description>
@@ -79,8 +73,14 @@
             <guid isPermaLink="false">57d5afde-8b58-4fb7-8d33-63d553f8e94b</guid></item><item>
             <title>Breaking &quot;Ogłoszony został alarm. Trwa obława&quot;. Ciało kobiety w domu, policja szuka jej syna</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/zagorze-oblawa-na-49-latka-policja-w-chrzanowie-szuka-syna-ofiary/cnv13n3</link>
-            <description>6 października służby odebrały zgłoszenie o odnalezieniu zwłok 73-letniej kobiety w Zagórzu pod Chrzanowem (woj. małopolskie). Na jej ciele ujawniono niepokojące ślady. Komenda natychmiast postawiła mundurowych na nogi, a w powietrze poderwano śmigłowiec.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>6 października służby odebrały zgłoszenie o odnalezieniu zwłok 73-letniej kobiety w Zagórzu pod Chrzanowem (woj. małopolskie). — Nie jest to zgon naturalny — informuje rzeczniczka prasowa KWP w Krakowie podinsp. Katarzyna Cisło. W okolicy prowadzona jest potężna obława na 49-latka. Z powietrza uciekiniera namierza specjalistyczny sprzęt z termowizją.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1216a234-19cd-4e46-a8d2-ff5a8cce02dd.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 11:20:00 GMT</pubDate>
-            <guid isPermaLink="false">89827111-0e84-41c6-80bf-42d8901a1b3e</guid></item></channel>
+            <guid isPermaLink="false">89827111-0e84-41c6-80bf-42d8901a1b3e</guid></item><item>
+            <title>Breaking Szwecja wysyła wsparcie do Polski. Chodzi o misję NATO</title>
+            <link>https://www.fakt.pl/polityka/szwecja-wysyla-wsparcie-do-polski-chodzi-o-misje-nato/eccvtgz</link>
+            <description>Szwecja wyśle do Polski systemy obrony powietrznej Patriot – poinformował we wtorek (6 października) szwedzki premier Ulf Kristersson, uzasadniając tę decyzję zagrożeniem ze strony Rosji.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/Y2Q7MDA_/b6d7216c-c5e5-4186-8251-bdc68aeea991.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 06 Oct 2026 12:56:12 GMT</pubDate>
+            <guid isPermaLink="false">7907b277-d21a-45d1-8dfc-42e6cbad26ad</guid></item></channel>
             </rss>
