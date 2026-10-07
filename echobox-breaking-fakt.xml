@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 07:33:01 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 09:54:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Awantura wokół koni Karola Nawrockiego. Rzecznik prezydenta tłumaczy</title>
-            <link>https://www.fakt.pl/polityka/nawrocki-ma-trzy-konie-leskiewicz-tlumaczy-sikorski-domaga-sie-wyjasnien/7sx9vc8</link>
-            <description>— Rządzący postanowili przykryć swoje nieudolności, ogromne problemy z finansami publicznymi, kolejkami do lekarzy tematem związanym z końmi — stwierdził rzecznik prasowy Karola Nawrockiego. — Kiedy nie ma chleba, potrzeba igrzysk — dodał Rafał Leśkiewicz. Tymczasem politycy koalicji rządzącej domagają się wyjaśnień w sprawie koni.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3fcd6ccc-9351-4d8f-a260-c79a35ab2238.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 05 Oct 2026 08:41:05 GMT</pubDate>
-            <guid isPermaLink="false">9da6a04a-9ca3-4909-90d4-85e169eebd1e</guid></item><item>
-            <title>Breaking Jechał 120 km/h. Wstrząsające ustalenia po śmierci pieszego w Nowym Sączu</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/smiertelne-potracenie-pieszego-w-nowym-saczu-szokujace-ustalenia-pokuratury/kk3ledh</link>
-            <description>Śledczy przekazali najnowsze informacje w sprawie śmiertelnego potrącenia pieszego w Nowym Sączu (woj. małopolskie). Choć wcześniej informowano, że kierowca Volkswagena, który wjechał w 51-letniego mężczyznę, poruszał się z dużą prędkością, dziś wiadomo już, że było to aż 120 km na godz. Jak dowiedział się &quot;Fakt&quot;, śledczy podejrzewają też, że tuż przed tragedią doszło do nielegalnego wyścigu. Zatrzymano kierowcę drugiego samochodu.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7bf96136-6b43-46ad-9249-1c452d5fcb6b.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 05 Oct 2026 09:56:00 GMT</pubDate>
-            <guid isPermaLink="false">429b9630-9875-4a35-8280-80e3915a0420</guid></item><item>
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
             <description>Do osób przebywających na wschodzie kraju trafił pilny komunikat o rosyjskim ataku tuż za naszą granicą. Nad głowami latają polskie myśliwce.</description>
@@ -82,5 +70,11 @@
             <description>Na największe poparcie wciąż może liczyć Koalicja Obywatelska — wynika z sondażu United Surveys dla Wirtualnej Polski. Jest ono jednak za małe, aby KO mogła rządzić. Większość może zdobyć jednak koalicja partii prawicowych.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/92b85d7d-ad88-4157-873f-4c78978153f1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 07:33:01 GMT</pubDate>
-            <guid isPermaLink="false">b54135c9-2609-4d2b-ae48-0c6d4d8b2e4d</guid></item></channel>
+            <guid isPermaLink="false">b54135c9-2609-4d2b-ae48-0c6d4d8b2e4d</guid></item><item>
+            <title>Breaking Atak nożownika w szkole w Ostrołęce. Trwa akcja służb</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/nozownik-zaatakowal-w-szkole-w-ostrolece-co-najmniej-dwie-osoby-poszkodowane/sk3eqs7</link>
+            <description>W Zespole Szkół Zawodowych nr 4 w Ostrołęce (woj. mazowieckie) miało dojść do ataku nożownika. Poszkodowane zostały co najmniej dwie osoby. Na miejscu działają służby, trwa akcja ratunkowa. Podejrzanego o dokonanie ataku dotąd nie zatrzymano.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 09:54:00 GMT</pubDate>
+            <guid isPermaLink="false">0e0e420e-a600-4b1f-8934-f4fe0329b88c</guid></item></channel>
             </rss>
