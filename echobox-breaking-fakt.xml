@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 11:43:22 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 12:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
@@ -83,7 +83,7 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/6bf0b3b1-2f6b-43a6-ad51-c0d5709c7ed5.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 09:54:00 GMT</pubDate>
             <guid isPermaLink="false">0e0e420e-a600-4b1f-8934-f4fe0329b88c</guid></item><item>
-            <title>Breaking Ruszyła batalia sądowa. Mama Mai z Mławy: ma taką minę, jakby nic nie zrobił</title>
+            <title>Breaking Ruszyła batalia sądowa. Mama zamordowanej Mai z Mławy stanęła przed kamerą. Emocjonalna reakcja</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/zabojstwo-16-letniej-mai-z-mlawy-rusza-proces-bartosza-g-w-plocku/k27s38h</link>
             <description>Nasz reporter był w sądzie w Płocku, gdzie 7 października ruszył proces Bartosza G. oskarżonego o zabójstwo 16-letniej Mai z Mławy. Matka ofiary, zapytana przez dziennikarzy, wyznała: — Bardzo boli, zobaczyć go. Stoi, jakby nigdy nic nie zrobił.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/5c2036b3-8b53-4982-b666-1e2e09154e8d.jpeg" length="0" type="image/jpeg"/>
@@ -94,5 +94,11 @@
             <description>Wstrząsające są relacje osób, które były w Zespole Szkół Zawodowych w Ostrołęce (woj. mazowieckie) podczas ataku nożownika. — Uczniowie skakali przez kałuże krwi i widzieli te zakrwawione osoby — opowiadała w TVN24 reporterka Marta Abramczyk.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/5c84cbe1-f52d-4b30-8f4e-c96fe5408471.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 11:43:22 GMT</pubDate>
-            <guid isPermaLink="false">149a2042-4722-4f8a-b20c-1af3fc861ff9</guid></item></channel>
+            <guid isPermaLink="false">149a2042-4722-4f8a-b20c-1af3fc861ff9</guid></item><item>
+            <title>Breaking Tragedia w jednostce. Nad ranem znaleźli martwego żołnierza. Na miejscu prokurator</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/znaleziono-cialo-zolnierza-na-warcie-komunikat-zandarmerii-wojskowej/elfqnd3</link>
+            <description>7 października nad ranem na terenie jednostki wojskowej w woj. warmińsko-mazurski znaleziono ciało żołnierza — informuje Żandarmeria Wojskowa. Mężczyzna pełnił w nocy służbę wartowniczą. Wojskowi śledczy zabezpieczyli teren, by odtworzyć przebieg zdarzeń z ostatnich godzin przed świtem.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ODQ7MDA_/45d4d816-29d0-432a-9c43-2c8143d61822.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">8d3171b2-f2c9-4876-8f3a-04c5a8935d4a</guid></item></channel>
             </rss>
