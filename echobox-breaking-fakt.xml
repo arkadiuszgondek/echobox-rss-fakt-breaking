@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 12:00:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 12:28:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
@@ -100,5 +100,11 @@
             <description>7 października nad ranem na terenie jednostki wojskowej w woj. warmińsko-mazurski znaleziono ciało żołnierza — informuje Żandarmeria Wojskowa. Mężczyzna pełnił w nocy służbę wartowniczą. Wojskowi śledczy zabezpieczyli teren, by odtworzyć przebieg zdarzeń z ostatnich godzin przed świtem.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/ODQ7MDA_/45d4d816-29d0-432a-9c43-2c8143d61822.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-            <guid isPermaLink="false">8d3171b2-f2c9-4876-8f3a-04c5a8935d4a</guid></item></channel>
+            <guid isPermaLink="false">8d3171b2-f2c9-4876-8f3a-04c5a8935d4a</guid></item><item>
+            <title>Breaking Uczniowie wyrzucili przez okno plecak nożownika. Na miejscu sztab pirotechników</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-nozownika-w-szkole-w-ostrolece-na-miejscu-pirotechnicy/dbh0ctc</link>
+            <description>19-latek z nożem zaatakował w Zespole Szkół Zawodowych w Ostrołęce. Rannych zostało aż osiem osób, w tym uczniowie placówki i przypadkowi przechodnie. Sprawcę szybko zatrzymano, ale przed szkołę na sygnale pędziły oddziały kontrterrorystyczne. Jak informuje RMF FM, na miejsce sprowadzeni zostali pirotechnicy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 12:28:00 GMT</pubDate>
+            <guid isPermaLink="false">805521f7-2370-4095-83d5-afd501db4e96</guid></item></channel>
             </rss>
