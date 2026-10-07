@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 09:54:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 10:37:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
@@ -71,10 +71,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/92b85d7d-ad88-4157-873f-4c78978153f1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 07:33:01 GMT</pubDate>
             <guid isPermaLink="false">b54135c9-2609-4d2b-ae48-0c6d4d8b2e4d</guid></item><item>
-            <title>Breaking Atak nożownika w szkole w Ostrołęce. Trwa akcja służb</title>
+            <title>Breaking Prokurator o szczegółach tragedii na A1. Zażądał maksymalnej kary. &quot;Zaczął przegrywać&quot;. Ojciec Majtczaka wyszedł z sali</title>
+            <link>https://www.fakt.pl/wydarzenia/prokurator-o-szczegolach-tragedii-na-a1-zazadal-maksymalnej-kary-zaczal-przegrywac/plj3w71</link>
+            <description>To już koniec procesu Sebastiana Majtczaka. Prokurator zażądał maksymalnej kary ośmiu lat więzienia oraz wysokich odszkodowań dla rodziny ofiar. Podczas mowy końcowej opowiedział o wstrząsających szczegółach wypadku. Te słowa mogą pogrążyć do końca sprawcę wypadku na A1, w którym zginęła trzyosobowa rodzina z Myszkowa.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/174f6471-d219-4819-9438-d5a6e84118fb.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 09:28:26 GMT</pubDate>
+            <guid isPermaLink="false">662b96b0-470c-4b55-a24a-c843a64550fb</guid></item><item>
+            <title>Breaking Atak nożownika w szkole w Ostrołęce. Siedem osób poszkodowanych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/nozownik-zaatakowal-w-szkole-w-ostrolece-co-najmniej-dwie-osoby-poszkodowane/sk3eqs7</link>
-            <description>W Zespole Szkół Zawodowych nr 4 w Ostrołęce (woj. mazowieckie) miało dojść do ataku nożownika. Poszkodowane zostały co najmniej dwie osoby. Na miejscu działają służby, trwa akcja ratunkowa. Podejrzanego o dokonanie ataku dotąd nie zatrzymano.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>W Zespole Szkół Zawodowych nr 4 w Ostrołęce (woj. mazowieckie) doszło do ataku nożownika. Poszkodowanych zostało siedem osób. Na miejscu działają służby, trwa akcja ratunkowa. — Podejrzany 19-latek został zatrzymany przez policję — mówi &quot;Faktowi&quot; Piotr Pokorski z mazowieckiej policji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/13a94884-17ac-454e-b51e-68f8eba811b2.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 09:54:00 GMT</pubDate>
-            <guid isPermaLink="false">0e0e420e-a600-4b1f-8934-f4fe0329b88c</guid></item></channel>
+            <guid isPermaLink="false">0e0e420e-a600-4b1f-8934-f4fe0329b88c</guid></item><item>
+            <title>Breaking Ruszyła batalia sądowa. Mama Mai z Mławy: ma taką minę, jakby nic nie zrobił</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/zabojstwo-16-letniej-mai-z-mlawy-rusza-proces-bartosza-g-w-plocku/k27s38h</link>
+            <description>Nasz reporter był w sądzie w Płocku, gdzie 7 października ruszył proces Bartosza G. oskarżonego o zabójstwo 16-letniej Mai z Mławy. Matka ofiary, zapytana przez dziennikarzy, wyznała: — Bardzo boli, zobaczyć go. Stoi, jakby nigdy nic nie zrobił.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5c2036b3-8b53-4982-b666-1e2e09154e8d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 10:37:00 GMT</pubDate>
+            <guid isPermaLink="false">be71c9da-ad59-4354-b578-f17e655ee538</guid></item></channel>
             </rss>
