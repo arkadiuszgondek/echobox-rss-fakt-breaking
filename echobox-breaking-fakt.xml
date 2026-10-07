@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 15:31:36 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 17:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
-            <description>Do osób przebywających na wschodzie kraju trafił pilny komunikat o rosyjskim ataku tuż za naszą granicą. Nad głowami latają polskie myśliwce.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ecbea1ec-6d23-45b4-b39e-e825b8fec6c4.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 05 Oct 2026 16:48:19 GMT</pubDate>
-            <guid isPermaLink="false">fde3fb3f-11fa-4357-9d8f-db41080ec138</guid></item><item>
             <title>Breaking Porwanie dziecka na Śląsku. Policja szukała dwuletniego chłopca</title>
             <link>https://www.fakt.pl/wydarzenia/polska/slask/zaginal-dwuletni-julian-z-dabrowy-gorniczej-rozpoczeto-poszukiwania/0dlm3hg</link>
             <description>Dąbrowscy policjanci prowadzili poszukiwania 2-letniego Juliana. Ojciec chłopca zgłosił jego uprowadzenie. Sprawa miała charakter porwania rodzicielskiego. Od razu ruszyły intensywne poszukiwania. Po kilku godzinach funkcjonariusze przekazali nowe wieści — chłopiec się odnalazł.</description>
@@ -101,12 +95,6 @@
             <enclosure url="http://ocdn.eu/images/pulscms/ODQ7MDA_/45d4d816-29d0-432a-9c43-2c8143d61822.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
             <guid isPermaLink="false">8d3171b2-f2c9-4876-8f3a-04c5a8935d4a</guid></item><item>
-            <title>Breaking Uczniowie wyrzucili przez okno plecak nożownika. Na miejscu sztab pirotechników</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-nozownika-w-szkole-w-ostrolece-na-miejscu-pirotechnicy/dbh0ctc</link>
-            <description>19-letni obywatel Polski z nożem zaatakował w Zespole Szkół Zawodowych w Ostrołęce. Rannych zostało aż osiem osób, w tym uczniowie placówki i przypadkowi przechodnie. Sprawcę szybko zatrzymano, ale przed szkołę na sygnale pędziły oddziały kontrterrorystyczne. Jak informuje RMF FM, na miejsce sprowadzeni zostali pirotechnicy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/2d45552f-eaca-4f50-98ad-229493bc5579.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 07 Oct 2026 12:28:00 GMT</pubDate>
-            <guid isPermaLink="false">805521f7-2370-4095-83d5-afd501db4e96</guid></item><item>
             <title>Breaking Dawid K. usłyszał zarzuty. Prokuratura zabiera głos</title>
             <link>https://www.fakt.pl/polityka/dawid-k-z-zarzutami-nowe-informacje-warszawskiej-prokuratury/xqzjrsg</link>
             <description>Na briefingu Prokuratury Okręgowej w Warszawie w sprawie nieprawidłowości w warszawskim Szpitalu Południowym, podano informacje na temat Dawida K. Wcześniej prokurator przedstawił zarzuty młodemu lekarzowi. Były koordynator SOR-u został już przesłuchany. Prok. Piotr Antoni Skiba poinformował o szczegółach czynności, jakie podjęli śledczy. Dawid K. nie przyznał się do popełnienia zarzucanego mu czynu i złożył &quot;bardzo obszerne, wielogodzinne wyjaśnienia&quot;.</description>
@@ -118,5 +106,11 @@
             <description>Wszedł do szkoły zawodowej w Ostrołęce (woj. mazowieckie) i zaatakował osiem osób. Jakub Z. (19 l.), uczeń klasy maturalnej, zranił sześcioro nauczycieli i uczniów, a poza terenem szkoły zaatakował kolejne dwie osoby. Służby zatrzymały go kilkadziesiąt minut po ataku. Prokuratura wszczyna śledztwo w sprawie usiłowania zabójstwa. – Dokonał samookaleczenia, udzielana jest mu pomoc medyczna – mówi &quot;Faktowi&quot; prok. Elżbieta Edyta Łukasiewicz, rzecznik ostrołęckiej prokuratury.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/72ee28f6-6a3a-4b8f-88b3-46f3bd9d9534.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 15:31:36 GMT</pubDate>
-            <guid isPermaLink="false">5eff24fb-7fb1-495a-bc5b-fb8478c3425f</guid></item></channel>
+            <guid isPermaLink="false">5eff24fb-7fb1-495a-bc5b-fb8478c3425f</guid></item><item>
+            <title>Breaking Wiadomo już, co było w plecaku Jakuba Z. Uczniowie wyrzucili płonącą rzecz przez okno </title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-nozownika-w-szkole-w-ostrolece-na-miejscu-pirotechnicy/dbh0ctc</link>
+            <description>19-letni obywatel Polski z nożem zaatakował w Zespole Szkół Zawodowych w Ostrołęce. Ranni zostali uczniowie placówki i przypadkowi przechodnie. Sprawcę szybko zatrzymano, ale przed szkołę na sygnale pędziły oddziały kontrterrorystyczne. Na miejsce sprowadzeni zostali pirotechnicy. Dymiąca własność napastnika wyleciała przez okno. Wiadomo już, co było w środku.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2d45552f-eaca-4f50-98ad-229493bc5579.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 17:00:00 GMT</pubDate>
+            <guid isPermaLink="false">805521f7-2370-4095-83d5-afd501db4e96</guid></item></channel>
             </rss>
