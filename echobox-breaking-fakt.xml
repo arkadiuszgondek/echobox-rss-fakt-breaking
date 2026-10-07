@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 06 Oct 2026 18:26:31 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 07:33:01 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nocna awantura w parafii w Grojcu. Biskup ewakuowany przez policję bocznym wyjściem. &quot;Ty tchórzu&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/kosciol-w-grojcu-otoczy-przez-parafian-policja-ewakuowala-biskupa/z1dqrzs</link>
-            <description>To nie była spokojna noc w Grojcu pod Oświęcimiem (woj. małopolskie). Przed kościołem św. Wawrzyńca zebrał się tłum parafian. &quot;Ty tchórzu&quot; – słychać było okrzyki wiernych. Doszło do przepychanek. Koło godz. 1 pod eskortą policji ewakuowano biskupa Romana Pindla.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/55103749-28e4-4b83-8e8b-b13eadba2ff6.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 05 Oct 2026 06:16:29 GMT</pubDate>
-            <guid isPermaLink="false">8d1c095c-ca29-4e9d-91e1-f93646db8dd3</guid></item><item>
             <title>Breaking Awantura wokół koni Karola Nawrockiego. Rzecznik prezydenta tłumaczy</title>
             <link>https://www.fakt.pl/polityka/nawrocki-ma-trzy-konie-leskiewicz-tlumaczy-sikorski-domaga-sie-wyjasnien/7sx9vc8</link>
             <description>— Rządzący postanowili przykryć swoje nieudolności, ogromne problemy z finansami publicznymi, kolejkami do lekarzy tematem związanym z końmi — stwierdził rzecznik prasowy Karola Nawrockiego. — Kiedy nie ma chleba, potrzeba igrzysk — dodał Rafał Leśkiewicz. Tymczasem politycy koalicji rządzącej domagają się wyjaśnień w sprawie koni.</description>
@@ -82,5 +76,11 @@
             <description>Potwierdziły się informacje, że Krystian Koprowski, mąż zaginionej w Darłowie Emilii, został poddany badaniu wariografem. — Trwało ono kilka godzin — przekazała &quot;Faktowi&quot; st. asp. Izabela Sreberska. Prokuratura wcześniej informowała, że będzie to specyficzny dowód w sprawie poszukiwanej kobiety.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/053fda75-66a3-465b-8117-3025562feb54.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 06 Oct 2026 18:26:31 GMT</pubDate>
-            <guid isPermaLink="false">baa9bb7e-8419-442c-bd89-be2a51ce0d19</guid></item></channel>
+            <guid isPermaLink="false">baa9bb7e-8419-442c-bd89-be2a51ce0d19</guid></item><item>
+            <title>Breaking Fatalny sondaż dla rządu. Prawica może przejąć władzę </title>
+            <link>https://www.fakt.pl/polityka/kaczynski-mentzen-braun-i-morawiecki-u-wladzy-nowy-sondaz/307h9eg</link>
+            <description>Na największe poparcie wciąż może liczyć Koalicja Obywatelska — wynika z sondażu United Surveys dla Wirtualnej Polski. Jest ono jednak za małe, aby KO mogła rządzić. Większość może zdobyć jednak koalicja partii prawicowych.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/92b85d7d-ad88-4157-873f-4c78978153f1.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 07:33:01 GMT</pubDate>
+            <guid isPermaLink="false">b54135c9-2609-4d2b-ae48-0c6d4d8b2e4d</guid></item></channel>
             </rss>
