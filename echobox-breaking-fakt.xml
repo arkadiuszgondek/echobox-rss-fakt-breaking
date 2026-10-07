@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 07 Oct 2026 12:28:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 07 Oct 2026 15:31:36 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Huk myśliwców na wschodzie. Mieszkańcy dostali ostrzeżenie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rosyjski-atak-na-ukraine-alert-rcb-dla-mieszkancow-woj-lubelskiego/v3bm28p</link>
@@ -103,8 +103,20 @@
             <guid isPermaLink="false">8d3171b2-f2c9-4876-8f3a-04c5a8935d4a</guid></item><item>
             <title>Breaking Uczniowie wyrzucili przez okno plecak nożownika. Na miejscu sztab pirotechników</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-nozownika-w-szkole-w-ostrolece-na-miejscu-pirotechnicy/dbh0ctc</link>
-            <description>19-latek z nożem zaatakował w Zespole Szkół Zawodowych w Ostrołęce. Rannych zostało aż osiem osób, w tym uczniowie placówki i przypadkowi przechodnie. Sprawcę szybko zatrzymano, ale przed szkołę na sygnale pędziły oddziały kontrterrorystyczne. Jak informuje RMF FM, na miejsce sprowadzeni zostali pirotechnicy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>19-letni obywatel Polski z nożem zaatakował w Zespole Szkół Zawodowych w Ostrołęce. Rannych zostało aż osiem osób, w tym uczniowie placówki i przypadkowi przechodnie. Sprawcę szybko zatrzymano, ale przed szkołę na sygnale pędziły oddziały kontrterrorystyczne. Jak informuje RMF FM, na miejsce sprowadzeni zostali pirotechnicy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2d45552f-eaca-4f50-98ad-229493bc5579.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 07 Oct 2026 12:28:00 GMT</pubDate>
-            <guid isPermaLink="false">805521f7-2370-4095-83d5-afd501db4e96</guid></item></channel>
+            <guid isPermaLink="false">805521f7-2370-4095-83d5-afd501db4e96</guid></item><item>
+            <title>Breaking Dawid K. usłyszał zarzuty. Prokuratura zabiera głos</title>
+            <link>https://www.fakt.pl/polityka/dawid-k-z-zarzutami-nowe-informacje-warszawskiej-prokuratury/xqzjrsg</link>
+            <description>Na briefingu Prokuratury Okręgowej w Warszawie w sprawie nieprawidłowości w warszawskim Szpitalu Południowym, podano informacje na temat Dawida K. Wcześniej prokurator przedstawił zarzuty młodemu lekarzowi. Były koordynator SOR-u został już przesłuchany. Prok. Piotr Antoni Skiba poinformował o szczegółach czynności, jakie podjęli śledczy. Dawid K. nie przyznał się do popełnienia zarzucanego mu czynu i złożył &quot;bardzo obszerne, wielogodzinne wyjaśnienia&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5e143697-4a40-440c-a193-9940ca996597.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 12:51:48 GMT</pubDate>
+            <guid isPermaLink="false">af43b456-8de7-4b97-a82b-715a36190c96</guid></item><item>
+            <title>Breaking Atak w szkole w Ostrołęce. Śledczy ujawniają nowe informacje. &quot;Po kilkudziesięciu minutach&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-w-szkole-w-ostrolece-sledczy-ujawniaja-nowe-fakty-o-rannych-i-sprawcy/173qdsm</link>
+            <description>Wszedł do szkoły zawodowej w Ostrołęce (woj. mazowieckie) i zaatakował osiem osób. Jakub Z. (19 l.), uczeń klasy maturalnej, zranił sześcioro nauczycieli i uczniów, a poza terenem szkoły zaatakował kolejne dwie osoby. Służby zatrzymały go kilkadziesiąt minut po ataku. Prokuratura wszczyna śledztwo w sprawie usiłowania zabójstwa. – Dokonał samookaleczenia, udzielana jest mu pomoc medyczna – mówi &quot;Faktowi&quot; prok. Elżbieta Edyta Łukasiewicz, rzecznik ostrołęckiej prokuratury.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/72ee28f6-6a3a-4b8f-88b3-46f3bd9d9534.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 07 Oct 2026 15:31:36 GMT</pubDate>
+            <guid isPermaLink="false">5eff24fb-7fb1-495a-bc5b-fb8478c3425f</guid></item></channel>
             </rss>
