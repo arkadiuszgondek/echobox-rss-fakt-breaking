@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 08 Oct 2026 15:52:42 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 08 Oct 2026 17:40:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Mąż zaginionej Emilii spędził kilka godzin na komendzie. &quot;Przeszedł badanie&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/maz-zaginionej-emilii-koprowskiej-poddany-badaniu-wariografem/l08b92j</link>
-            <description>Potwierdziły się informacje, że Krystian Koprowski, mąż zaginionej w Darłowie Emilii, został poddany badaniu wariografem. — Trwało ono kilka godzin — przekazała &quot;Faktowi&quot; st. asp. Izabela Sreberska. Prokuratura wcześniej informowała, że będzie to specyficzny dowód w sprawie poszukiwanej kobiety.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/053fda75-66a3-465b-8117-3025562feb54.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 06 Oct 2026 18:26:31 GMT</pubDate>
-            <guid isPermaLink="false">baa9bb7e-8419-442c-bd89-be2a51ce0d19</guid></item><item>
             <title>Breaking Fatalny sondaż dla rządu. Prawica może przejąć władzę </title>
             <link>https://www.fakt.pl/polityka/kaczynski-mentzen-braun-i-morawiecki-u-wladzy-nowy-sondaz/307h9eg</link>
             <description>Na największe poparcie wciąż może liczyć Koalicja Obywatelska — wynika z sondażu United Surveys dla Wirtualnej Polski. Jest ono jednak za małe, aby KO mogła rządzić. Większość może zdobyć jednak koalicja partii prawicowych.</description>
@@ -98,7 +92,13 @@
             <title>Breaking Prezydent reaguje na ataki w szkołach. Nawiązał do słów Tuska</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-po-serii-atakow-prezydent-odniosl-sie-do-slow-donalda-tuska/f2ke31y</link>
             <description>&quot;Z głębokim smutkiem przyjąłem informacje o tragicznych wydarzeniach w polskich szkołach&quot; — napisał Karol Nawrocki. Prezydent odniósł się także do słów Donalda Tuska. &quot;Bezpieczeństwo Polaków jest podstawowym obowiązkiem państwa&quot; — podkreślił.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/8bac1fa4-2386-43af-a023-ba96f1604148.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 08 Oct 2026 15:52:42 GMT</pubDate>
-            <guid isPermaLink="false">f6f7e2d7-ae49-46cb-b210-3c8a245d6db8</guid></item></channel>
+            <guid isPermaLink="false">f6f7e2d7-ae49-46cb-b210-3c8a245d6db8</guid></item><item>
+            <title>Breaking 15-latek zamordował szkolną woźną. Jego siostra ujawnia, co działo się w domu. &quot;Myśleliśmy, że żartuje&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/zabojstwo-woznej-w-szkole-leszczydole-nowinach-siostra-wiktora-zabiera-glos/rx20fdm</link>
+            <description>— Mówił, że ma w planie spalić kościół i podźgać ludzi. Ale nikt nie brał jego słów na poważnie, bo myśleliśmy, że on żartuje — mówi &quot;Faktowi&quot; siostra Wiktora, który zamordował szkolną woźną w szkole podstawowej w Leszczydole-Nowinach (woj. mazowieckie).</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2cefc414-c21c-4f71-b581-fada977b40d1.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 08 Oct 2026 17:40:00 GMT</pubDate>
+            <guid isPermaLink="false">3f1df6b2-cf73-4c97-ab13-b7ffee07a5ba</guid></item></channel>
             </rss>
