@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 08 Oct 2026 17:40:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 08 Oct 2026 19:05:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Fatalny sondaż dla rządu. Prawica może przejąć władzę </title>
             <link>https://www.fakt.pl/polityka/kaczynski-mentzen-braun-i-morawiecki-u-wladzy-nowy-sondaz/307h9eg</link>
@@ -100,5 +100,17 @@
             <description>— Mówił, że ma w planie spalić kościół i podźgać ludzi. Ale nikt nie brał jego słów na poważnie, bo myśleliśmy, że on żartuje — mówi &quot;Faktowi&quot; siostra Wiktora, który zamordował szkolną woźną w szkole podstawowej w Leszczydole-Nowinach (woj. mazowieckie).</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2cefc414-c21c-4f71-b581-fada977b40d1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 08 Oct 2026 17:40:00 GMT</pubDate>
-            <guid isPermaLink="false">3f1df6b2-cf73-4c97-ab13-b7ffee07a5ba</guid></item></channel>
+            <guid isPermaLink="false">3f1df6b2-cf73-4c97-ab13-b7ffee07a5ba</guid></item><item>
+            <title>Breaking Prokuratura zakończyła czynności z Jakubem Z. &quot;Przyznał się&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/ostroleka-jakub-z-doprowadzony-do-prokuratury-sledczy-ujawnili-ustalenia/xssmer3</link>
+            <description>W Prokuraturze Okręgowej w Ostrołęce zakończyły się czynności procesowe z zatrzymanym 19-latkiem, podejrzanym o brutalny atak w Zespole Szkół Zawodowych nr 4. Śledczy podczas konferencji prasowej ujawnili, jakie zarzuty usłyszał Jakub Z. i co ustalili w sprawie brutalnego ataku na uczniów i nauczycieli. Wiadomo już, że 19-latek przyznał się do winy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a4fd357-ab62-471d-b77a-2857922ec1ff.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 08 Oct 2026 18:43:00 GMT</pubDate>
+            <guid isPermaLink="false">0a02b562-dcb0-4a0a-a815-13613766f688</guid></item><item>
+            <title>Breaking Za ten manewr zabiorą prawo jazdy. Nowe przepisy przyjęte</title>
+            <link>https://www.fakt.pl/pieniadze/sejm-zaostrza-kary-dla-kierowcow-na-przejazdach-kolejowych-nowe-przepisy-juz-wkrotce/6lcdeg2</link>
+            <description>Sejm przyjął projekt ustawy zaostrzającej kary za wykroczenia na przejazdach kolejowych. Według nowych przepisów za ignorowanie znaku STOP, czerwonego światła i zamykających się rogatek kierowcy mają tracić czasowo prawo jazdy. Obecnie za niebezpieczny manewr na torowisku grozi co najwyżej mandat i punkty karne.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZjI7MDA_/6ae712cb-cb23-49b2-ad09-6af407164783.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 08 Oct 2026 19:05:00 GMT</pubDate>
+            <guid isPermaLink="false">88065678-2f9c-477e-bdb7-1873082202ec</guid></item></channel>
             </rss>
