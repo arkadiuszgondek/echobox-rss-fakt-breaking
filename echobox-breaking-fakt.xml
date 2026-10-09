@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 08 Oct 2026 19:05:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 09 Oct 2026 08:10:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Fatalny sondaż dla rządu. Prawica może przejąć władzę </title>
-            <link>https://www.fakt.pl/polityka/kaczynski-mentzen-braun-i-morawiecki-u-wladzy-nowy-sondaz/307h9eg</link>
-            <description>Na największe poparcie wciąż może liczyć Koalicja Obywatelska — wynika z sondażu United Surveys dla Wirtualnej Polski. Jest ono jednak za małe, aby KO mogła rządzić. Większość może zdobyć jednak koalicja partii prawicowych.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/92b85d7d-ad88-4157-873f-4c78978153f1.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 07 Oct 2026 07:33:01 GMT</pubDate>
-            <guid isPermaLink="false">b54135c9-2609-4d2b-ae48-0c6d4d8b2e4d</guid></item><item>
             <title>Breaking Prokurator o szczegółach tragedii na A1. Zażądał maksymalnej kary. &quot;Zaczął przegrywać&quot;. Ojciec Majtczaka wyszedł z sali</title>
             <link>https://www.fakt.pl/wydarzenia/prokurator-o-szczegolach-tragedii-na-a1-zazadal-maksymalnej-kary-zaczal-przegrywac/plj3w71</link>
             <description>To już koniec procesu Sebastiana Majtczaka. Prokurator zażądał maksymalnej kary ośmiu lat więzienia oraz wysokich odszkodowań dla rodziny ofiar. Podczas mowy końcowej opowiedział o wstrząsających szczegółach wypadku. Te słowa mogą pogrążyć do końca sprawcę wypadku na A1, w którym zginęła trzyosobowa rodzina z Myszkowa.</description>
@@ -112,5 +106,17 @@
             <description>Sejm przyjął projekt ustawy zaostrzającej kary za wykroczenia na przejazdach kolejowych. Według nowych przepisów za ignorowanie znaku STOP, czerwonego światła i zamykających się rogatek kierowcy mają tracić czasowo prawo jazdy. Obecnie za niebezpieczny manewr na torowisku grozi co najwyżej mandat i punkty karne.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/ZjI7MDA_/6ae712cb-cb23-49b2-ad09-6af407164783.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 08 Oct 2026 19:05:00 GMT</pubDate>
-            <guid isPermaLink="false">88065678-2f9c-477e-bdb7-1873082202ec</guid></item></channel>
+            <guid isPermaLink="false">88065678-2f9c-477e-bdb7-1873082202ec</guid></item><item>
+            <title>Breaking Sztab kryzysowy w Piasecznie. Władze otrzymały informacje o &quot;challenge&#39;u&quot;. Pilny apel do rodziców</title>
+            <link>https://www.fakt.pl/wydarzenia/sztab-kryzysowy-w-piasecznie-w-sprawie-szkol-informacje-o-challengeu/hexxm5b</link>
+            <description>W czwartek wieczorem w Piasecznie zwołano pilną naradę władz z policją, strażą miejską i dyrektorami szkół w związku z serią niepokojących zdarzeń na terenie mazowieckich szkół. Jak dowiedział się reporter &quot;Faktu&quot;, władze otrzymały informacje, że trwa ogólnopolski &quot;challenge&quot;, w którym uczniowie pojawiają się w szkołach z nożami i atakują przypadkowe osoby. — Dzieci, które mogą zostać w domu, niech nie przychodzą do szkoły. Placówki będą patrolowane przez policję i straż miejską — poinformowała Hanna Kułakowska-Michalak, wiceburmistrz miasta.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/89d06fdf-257a-4d83-8284-1b41410e9c67.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 08 Oct 2026 19:55:00 GMT</pubDate>
+            <guid isPermaLink="false">97f95717-73f2-42ce-acb7-23e62bbfe6de</guid></item><item>
+            <title>Breaking Glapiński stanie przed Trybunałem Stanu? Komisja podjęła decyzję</title>
+            <link>https://www.fakt.pl/polityka/komisja-rekomenduje-postawienie-adama-glapinskiego-przed-trybunalem-stanu/0458r2v</link>
+            <description>Sejmowa Komisja Odpowiedzialności Konstytucyjnej opowiedziała się za postawieniem prezesa Narodowego Banku Polskiego Adama Glapińskiego przed Trybunałem Stanu. W piątek (9 października) przyjęła sprawozdanie z prac, które trwały od maja 2024 r. To kolejny krok w postępowaniu dotyczącym szefa banku centralnego. Ostateczną decyzję będzie musiał jednak podjąć Sejm.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 09 Oct 2026 08:10:00 GMT</pubDate>
+            <guid isPermaLink="false">c3106023-3593-4569-a85c-9ea95c46a145</guid></item></channel>
             </rss>
