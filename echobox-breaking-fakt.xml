@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 11 Oct 2026 13:10:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 11 Oct 2026 13:50:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Seria ataków w polskich szkołach. Policja podała nowe dane. Ponad 70 zatrzymanych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/seria-atakow-uczniow-w-polskich-szkolach-policja-podala-nowe-dane/m864mxm</link>
@@ -41,10 +41,10 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/5ffb39cb-1985-45d8-9295-8808052229a5.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 11 Oct 2026 11:10:01 GMT</pubDate>
             <guid isPermaLink="false">7ba9c704-e320-4c77-b3f0-a517f847b38d</guid></item><item>
-            <title>Breaking Nowe fakty w sprawie możliwego zamachu na premiera i szefa MON. Media dotarły do imienia </title>
+            <title>Breaking Nowe informacje o zamachowcu w sprawie możliwego ataku na premiera i szefa MON. Media ujawniają </title>
             <link>https://www.fakt.pl/polityka/mozliwy-zamach-na-donalda-tuska-ujawniono-szczegoly-zgloszenia/vxkb0d3</link>
-            <description>Nowe informacje w sprawie możliwego zamachu na premiera Donalda Tuska i szefa MON Władysława Kosiniaka-Kamysza. Jak ujawnia TVN24, osoba, która zawiadomiła służby o zagrożeniu, miała wcześniej kontaktować się z radykalną organizacją w poszukiwaniu chętnych do przeprowadzenia ataku. W zgłoszeniu pojawia się również mężczyzna o imieniu Krzysztof. Rozmowy miały dotyczyć m.in. broni palnej i planowanego zabójstwa masowego.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 11 Oct 2026 13:10:00 GMT</pubDate>
+            <description>Nowe ustalenia w sprawie możliwego zamachu na premiera Donalda Tuska i szefa MON Władysława Kosiniaka-Kamysza. Jak informuje &quot;Rzeczpospolita&quot;, autor maila, który trafił do Służby Ochrony Państwa, nie był zamachowcem, lecz przekazał informacje o planowanych atakach. Z kolei &quot;Gazeta Wyborcza&quot; ustaliła, że wiadomość zawierała dane dotyczące miejsc pobytu polityków.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/acfa1eaa-6495-4b65-8f62-76ca2dfe34f5.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 11 Oct 2026 13:50:00 GMT</pubDate>
             <guid isPermaLink="false">a651c39b-6e75-467e-acb4-655f048d4ffb</guid></item></channel>
             </rss>
