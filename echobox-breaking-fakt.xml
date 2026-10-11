@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 11 Oct 2026 19:00:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 11 Oct 2026 21:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Seria ataków w polskich szkołach. Policja podała nowe dane. Ponad 70 zatrzymanych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/seria-atakow-uczniow-w-polskich-szkolach-policja-podala-nowe-dane/m864mxm</link>
@@ -59,10 +59,10 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/9daa7118-95c4-4711-bff5-f818b21c2175.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 11 Oct 2026 14:47:00 GMT</pubDate>
             <guid isPermaLink="false">1fc37cec-7918-496a-9ed8-2311e51ce60d</guid></item><item>
-            <title>Breaking Starcie Gibały z Piątkowską. Są pierwsze wyniki wyborów w Krakowie. Miażdżące zwycięstwo </title>
+            <title>Breaking To już oficjalne. Odeszły ostatnie nadzieje. PKW właśnie to ogłosiła. 12 lat czekania </title>
             <link>https://www.fakt.pl/polityka/lukasz-gibala-wygral-wybory-w-krakowie-sa-wyniki-exit-poll-pokonal-piatkowska/8elrsdq</link>
-            <description>Łukasz Gibała wygrał drugą turę przedterminowych wyborów prezydenta Krakowa — wynika z sondażowych wyników IPSOS exit poll. Kandydat stowarzyszenia Kraków dla Mieszkańców pokonał Monikę Piątkowską, popieraną przez Koalicję Obywatelską i Polskie Stronnictwo Ludowe. Według badania Gibała uzyskał 61 proc. głosów, a jego kontrkandydatka 39 proc. Przyjmuje się, że błąd statystyczny wynosi 3 proc.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 11 Oct 2026 19:00:00 GMT</pubDate>
+            <description>Łukasz Gibała dopiął swego po 12 latach starań o fotel prezydenta Krakowa. Po przeliczeniu głosów z 60 proc. obwodowych komisji Państwowa Komisja Wyborcza ogłosiła zwycięstwo Łukasza Gibłay. Monika Piątkowska nie może już realnie liczyć na odwrócenie rezultatu. Wszystko wskazuje na zdecydowane zwycięstwo Gibały. W badaniu late poll zdobył 63 proc. głosów, przy 37 proc. dla swojej rywalki.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/7412837b-cc6a-434e-90ff-a14604525d1e.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 11 Oct 2026 21:00:00 GMT</pubDate>
             <guid isPermaLink="false">ded16190-ff7d-46b8-8991-51875c559a6f</guid></item></channel>
             </rss>
