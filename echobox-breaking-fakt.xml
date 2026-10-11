@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 11 Oct 2026 13:50:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 11 Oct 2026 14:30:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Seria ataków w polskich szkołach. Policja podała nowe dane. Ponad 70 zatrzymanych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/seria-atakow-uczniow-w-polskich-szkolach-policja-podala-nowe-dane/m864mxm</link>
@@ -46,5 +46,11 @@
             <description>Nowe ustalenia w sprawie możliwego zamachu na premiera Donalda Tuska i szefa MON Władysława Kosiniaka-Kamysza. Jak informuje &quot;Rzeczpospolita&quot;, autor maila, który trafił do Służby Ochrony Państwa, nie był zamachowcem, lecz przekazał informacje o planowanych atakach. Z kolei &quot;Gazeta Wyborcza&quot; ustaliła, że wiadomość zawierała dane dotyczące miejsc pobytu polityków.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/acfa1eaa-6495-4b65-8f62-76ca2dfe34f5.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 11 Oct 2026 13:50:00 GMT</pubDate>
-            <guid isPermaLink="false">a651c39b-6e75-467e-acb4-655f048d4ffb</guid></item></channel>
+            <guid isPermaLink="false">a651c39b-6e75-467e-acb4-655f048d4ffb</guid></item><item>
+            <title>Breaking Trump ogłasza rozejm, gdy Zełenski stawia twardy warunek. &quot;Dajcie nam 60 dni&quot;</title>
+            <link>https://www.fakt.pl/polityka/donald-trump-oglasza-rozejm-wolodymyr-zelenski-stawia-warunek-dt-wyborow/rjh28tr</link>
+            <description>Donald Trump ogłosił natychmiastowe zawieszenie ataków na infrastrukturę energetyczną w wojnie Rosji z Ukrainą. Amerykański prezydent zapewnił, że obie strony zgodziły się na takie rozwiązanie. Tymczasem Wołodymyr Zełenski postawił Trumpowi warunek dotyczący przeprowadzenia wyborów prezydenckich w Ukrainie. — Dajcie nam dwa miesiące, 60 dni całkowitego zawieszenia broni — zaapelował ukraiński przywódca.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 11 Oct 2026 14:30:00 GMT</pubDate>
+            <guid isPermaLink="false">4beaea73-8c25-44a3-8ae0-5e504f624c3b</guid></item></channel>
             </rss>
