@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 12 Oct 2026 06:36:45 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 12 Oct 2026 08:07:50 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Seria ataków w polskich szkołach. Policja podała nowe dane. Ponad 70 zatrzymanych</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/seria-atakow-uczniow-w-polskich-szkolach-policja-podala-nowe-dane/m864mxm</link>
-            <description>W ostatnich dniach w polskich szkołach doszło do serii niebezpiecznych incydentów z udziałem młodzieży. W sobotę, 10 paździenika, rano policja przekazała najnowsze dane: &quot;Blisko 50 tys. skontrolowanych placówek i 76 osób zatrzymanych w całym kraju&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/a1597f1a-90a8-40a0-a336-5a6ae8bfeccb.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 10 Oct 2026 07:58:02 GMT</pubDate>
-            <guid isPermaLink="false">43276099-abfa-4dff-aae7-200c5ea0040b</guid></item><item>
             <title>Breaking Wypadek polskiego autokaru w Turcji. 7 pasażerów z obrażeniami, dwie osoby nie żyją</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/turcja-wypadek-polskiego-autokaru-pod-izmirem-sa-ofiary-i-ranni/5593edn</link>
             <description>W piątek, 9 października, w pobliżu Izmiru w Turcji doszło do poważnego wypadku z udziałem polskiego autobusu. &quot;W autokarze podróżowało 45 osób, siedem z lekkimi obrażaniemi trafiło do szpitali, większość z nich już wyszła. Jedna osoba musiała zostać trochę dłuzej&quot; — potwierdził nam rzecznik MSZ Maciej Wiewiór.</description>
@@ -76,5 +70,17 @@
             <description>&quot;CBA nie miało pełnej kontroli nad systemem Pegasus. CBA nie posiadało haseł dostępowych do części kont z uprawnieniami administracyjnymi, a niektóre elementy systemu pozostawały pod kontrolą producenta oprogramowania&quot; — poinformowała Prokuratura Krajowa. Na te informacje zareagował już Donald Tusk.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f17a81a4-d39f-4c9d-a3b1-09c01235cc5c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 12 Oct 2026 06:36:45 GMT</pubDate>
-            <guid isPermaLink="false">d7f08f51-b867-4d59-99b3-c89ea3921849</guid></item></channel>
+            <guid isPermaLink="false">d7f08f51-b867-4d59-99b3-c89ea3921849</guid></item><item>
+            <title>Breaking Afera wokół Kołodziejczaka. Jest ruch prokuratury. &quot;Nie ma świętych krów&quot;</title>
+            <link>https://www.fakt.pl/polityka/michal-kolodziejczak-pod-lupa-sledczych-prokuratura-sprawdza-doniesienia/pfnpm5g</link>
+            <description>Warszawska prokuratura zajęła się doniesieniami medialnymi w sprawie zachowania Michała Kołodziejczaka. &quot;Wszczęto czynności sprawdzające w zakresie zmuszania do określonego zachowania i udzielania środków odurzających&quot; — poinformowali śledczy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/67f13866-ce24-4cbd-af86-55182fbb42ac.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 07:42:00 GMT</pubDate>
+            <guid isPermaLink="false">189aad9d-37a7-4e90-8661-fabbf0e835b0</guid></item><item>
+            <title>Breaking Atak nożem w warszawskiej szkole. Kamila D. przyznała się do winy. Wiadomo, co jej grozi</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/nozowniczka-z-warszawy-aresztowana-na-trzy-miesiace-przyznala-sie-do-winy/kd3wl75</link>
+            <description>21-letnia Kamila D., podejrzana o atak nożem w sobotę (10 października) na trzy kobiety w zespole szkół przy ul. Mińskiej w Warszawie, usłyszała pięć zarzutów. Trzy z nich dotyczą usiłowania zabójstwa. Kobieta przyznała się do zarzucanych czynów, a sąd zdecydował o jej tymczasowym aresztowaniu na trzy miesiące.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/78b40806-bef9-4573-a335-b4ed885f87c8.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 08:07:50 GMT</pubDate>
+            <guid isPermaLink="false">9612abd6-12d5-442e-a25d-b501d7184a87</guid></item></channel>
             </rss>
