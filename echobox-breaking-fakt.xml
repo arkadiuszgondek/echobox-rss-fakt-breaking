@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 12 Oct 2026 03:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 12 Oct 2026 05:27:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Seria ataków w polskich szkołach. Policja podała nowe dane. Ponad 70 zatrzymanych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/seria-atakow-uczniow-w-polskich-szkolach-policja-podala-nowe-dane/m864mxm</link>
@@ -61,8 +61,14 @@
             <guid isPermaLink="false">1fc37cec-7918-496a-9ed8-2311e51ce60d</guid></item><item>
             <title>Breaking To już oficjalne. Łukasz Gibała wygrał wybory na prezydenta Krakowa 2026. 12 lat czekania </title>
             <link>https://www.fakt.pl/polityka/lukasz-gibala-wygral-wybory-w-krakowie-sa-wyniki-exit-poll-pokonal-piatkowska/8elrsdq</link>
-            <description>Łukasz Gibała dopiął swego po 12 latach starań o fotel prezydenta Krakowa. Po przeliczeniu głosów ze wszystkich obwodowych komisji Państwowa Komisja Wyborcza ogłosiła zwycięstwo Łukasza Gibłay. Założyciela stowarzyszenia Kraków dla Mieszkańców zdobył 62,12 proc. głosów, a Monika Piątkowska 37,88 proc. Frekwencja wyniosła 44,27 proc.</description>
+            <description>Łukasz Gibała dopiął swego po 12 latach starań o fotel prezydenta Krakowa. Po przeliczeniu głosów ze wszystkich obwodowych komisji Państwowa Komisja Wyborcza ogłosiła zwycięstwo Łukasza Gibłay. Założyciel stowarzyszenia Kraków dla Mieszkańców zdobył 62,12 proc. głosów, a Monika Piątkowska 37,88 proc. Frekwencja wyniosła 44,27 proc.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7412837b-cc6a-434e-90ff-a14604525d1e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 12 Oct 2026 03:45:00 GMT</pubDate>
-            <guid isPermaLink="false">ded16190-ff7d-46b8-8991-51875c559a6f</guid></item></channel>
+            <guid isPermaLink="false">ded16190-ff7d-46b8-8991-51875c559a6f</guid></item><item>
+            <title>Breaking To nowy prezydent Krakowa. Bajeczny majątek Łukasza Gibały</title>
+            <link>https://www.fakt.pl/pieniadze/lukasz-gibala-zwyciezca-pierwszej-tury-w-krakowie-taki-ma-majatek/0z0wc2q</link>
+            <description>Łukasz Gibała wygrał drugą turę wyborów na prezydenta Krakowa — wynika z danych PKW. Sprawdziliśmy oświadczenie majątkowe Gibały. W dokumencie wykazał m.in. mieszkanie wycenione na ok. 3,8 mln zł oraz papiery wartościowe warte ponad 1,4 mln zł. Artykuł został opublikowany po raz pierwszy 28 września. Zaktualizowaliśmy go w związku z wynikami wyborów.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/56468953-e86d-4e2b-8242-dba077f93ac7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 05:27:00 GMT</pubDate>
+            <guid isPermaLink="false">3d4335e3-e05d-4613-969e-72403831a9b2</guid></item></channel>
             </rss>
