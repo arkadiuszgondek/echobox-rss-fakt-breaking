@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 12 Oct 2026 12:02:44 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 12 Oct 2026 15:25:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Nagły komunikat służb. &quot;Możliwy zamach na premiera Tuska&quot;</title>
             <link>https://www.fakt.pl/polityka/mozliwy-zamach-na-donalda-tuska-dzialania-sluzb-po-niepokojacych-sygnalach/w2nq66c</link>
@@ -94,5 +94,11 @@
             <description>— Jeśli ktoś będzie na tyle głupi, żeby nas zaatakować, będziemy walczyć. Zagwarantujemy, by każdy atak na któregokolwiek sojusznika okazał się całkowicie bezskuteczny — powiedział gen. Alexus Grynkewich. — Jeśli zostaniemy zaatakowani, jesteśmy gotowi walczyć dziś w nocy — dodał. Podczas Warsaw Security Forum naczelny dowódca sił NATO w Europie przedstawił założenia &quot;strategii zwycięstwa&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/3d6381fa-214f-44b3-b66a-1c8b30546d10.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 12 Oct 2026 12:02:44 GMT</pubDate>
-            <guid isPermaLink="false">3231904a-022a-41a1-9e2c-1e52162ca116</guid></item></channel>
+            <guid isPermaLink="false">3231904a-022a-41a1-9e2c-1e52162ca116</guid></item><item>
+            <title>Breaking Nagła deklaracja prezydenta. Jest gotów do podjęcia rozmów z Tuskiem</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-gotow-na-rozmowy-z-donaldem-tuskiem-chodzi-o-ambasadorow/mvn1g0j</link>
+            <description>Karol Nawrocki zadeklarował gotowość do podjęcia rozmów z Donaldem Tuskiem. Prezydent chce zakończyć trwający od wielu miesięcy spór dotyczący nominacji polskich ambasadorów. Jednocześnie wykluczył dalsze negocjacje z szefem MSZ Radosławem Sikorskim, któremu zarzucił brak samodzielności. — Mogę rozmawiać z szefem ministra Sikorskiego, czyli z premierem Tuskiem — oświadczył w rozmowie z &quot;Rzeczpospolitą&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3fcd6ccc-9351-4d8f-a260-c79a35ab2238.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 15:25:00 GMT</pubDate>
+            <guid isPermaLink="false">7feeb575-d37f-4f42-b1f4-ed5cd55712b8</guid></item></channel>
             </rss>
