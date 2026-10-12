@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 12 Oct 2026 08:07:50 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 12 Oct 2026 09:00:01 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Wypadek polskiego autokaru w Turcji. 7 pasażerów z obrażeniami, dwie osoby nie żyją</title>
-            <link>https://www.fakt.pl/wydarzenia/swiat/turcja-wypadek-polskiego-autokaru-pod-izmirem-sa-ofiary-i-ranni/5593edn</link>
-            <description>W piątek, 9 października, w pobliżu Izmiru w Turcji doszło do poważnego wypadku z udziałem polskiego autobusu. &quot;W autokarze podróżowało 45 osób, siedem z lekkimi obrażaniemi trafiło do szpitali, większość z nich już wyszła. Jedna osoba musiała zostać trochę dłuzej&quot; — potwierdził nam rzecznik MSZ Maciej Wiewiór.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7c6e2fc2-162c-4488-987b-17ed42ef0506.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 10 Oct 2026 08:24:48 GMT</pubDate>
-            <guid isPermaLink="false">7cdb6e30-4f7e-4535-ba62-7c85ef3e4023</guid></item><item>
             <title>Breaking Trzy kobiety zaatakowane w szkole. 21-latka z nożem! </title>
             <link>https://www.fakt.pl/wydarzenia/warszwa-atak-pod-szkola-na-pradze-21-latka-z-nozem-dwie-nastolatki-ranne/tngjrjw</link>
             <description>Trzy kobiety zostały ranne po ataku 21-letniej nożowniczki w szkole przy ul. Mińskiej w Warszawie. Dwie 17-latki i 24-latka otrzymały ciosy pod sekretariatem szkoły dla dorosłych. — Potwierdzam, że dostaliśmy zgłoszenie — przekazał polsatnews.pl mł. asp. Jakub Filipiak z Komendy Stołecznej Policji. Trwa interwencja policji.</description>
@@ -82,5 +76,11 @@
             <description>21-letnia Kamila D., podejrzana o atak nożem w sobotę (10 października) na trzy kobiety w zespole szkół przy ul. Mińskiej w Warszawie, usłyszała pięć zarzutów. Trzy z nich dotyczą usiłowania zabójstwa. Kobieta przyznała się do zarzucanych czynów, a sąd zdecydował o jej tymczasowym aresztowaniu na trzy miesiące.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/78b40806-bef9-4573-a335-b4ed885f87c8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 12 Oct 2026 08:07:50 GMT</pubDate>
-            <guid isPermaLink="false">9612abd6-12d5-442e-a25d-b501d7184a87</guid></item></channel>
+            <guid isPermaLink="false">9612abd6-12d5-442e-a25d-b501d7184a87</guid></item><item>
+            <title>Breaking Były doradca Trumpa dla &quot;Faktu&quot;: wycofujemy siły ze wszystkich stron</title>
+            <link>https://www.fakt.pl/polityka/gen-keith-kellogg-skomentowal-sprawe-stalej-bazy-usa-w-polsce/yl8lrps</link>
+            <description>— Jeśli powstanie stała baza wojsk USA w Polsce, to najpierw pojawią się w niej żołnierze w ramach rotacji, bo ich permanentna obecność zajmie więcej czasu — tłumaczył w rozmowie z &quot;Faktem&quot; były doradca prezydenta USA gen. Keith Kellogg. Dodał, że w prywatnych rozmowach Donald Trump chwali Polskę. — Jesteście świetnym sojusznikiem, co udowodniliście w pomocy dla Ukrainy, jak i wsparciu dla Europy w ramach 5 proc. PKB na obronność — dodał.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/266c8c26-2b2b-4abc-b23d-6729e3ce2c98.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 09:00:01 GMT</pubDate>
+            <guid isPermaLink="false">efee966d-7a4f-4ace-9a35-c9c2f7480ba5</guid></item></channel>
             </rss>
