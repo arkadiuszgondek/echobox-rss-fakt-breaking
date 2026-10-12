@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 12 Oct 2026 09:00:01 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 12 Oct 2026 10:23:39 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Trzy kobiety zaatakowane w szkole. 21-latka z nożem! </title>
             <link>https://www.fakt.pl/wydarzenia/warszwa-atak-pod-szkola-na-pradze-21-latka-z-nozem-dwie-nastolatki-ranne/tngjrjw</link>
@@ -79,8 +79,20 @@
             <guid isPermaLink="false">9612abd6-12d5-442e-a25d-b501d7184a87</guid></item><item>
             <title>Breaking Były doradca Trumpa dla &quot;Faktu&quot;: wycofujemy siły ze wszystkich stron</title>
             <link>https://www.fakt.pl/polityka/gen-keith-kellogg-skomentowal-sprawe-stalej-bazy-usa-w-polsce/yl8lrps</link>
-            <description>— Jeśli powstanie stała baza wojsk USA w Polsce, to najpierw pojawią się w niej żołnierze w ramach rotacji, bo ich permanentna obecność zajmie więcej czasu — tłumaczył w rozmowie z &quot;Faktem&quot; były doradca prezydenta USA gen. Keith Kellogg. Dodał, że w prywatnych rozmowach Donald Trump chwali Polskę. — Jesteście świetnym sojusznikiem, co udowodniliście w pomocy dla Ukrainy, jak i wsparciu dla Europy w ramach 5 proc. PKB na obronność — dodał.</description>
+            <description>— Jeśli powstanie stała baza wojsk USA w Polsce, to najpierw pojawią się w niej żołnierze w ramach rotacji, bo ich permanentna obecność zajmie więcej czasu — tłumaczył w rozmowie z &quot;Faktem&quot; były doradca prezydenta USA gen. Keith Kellogg. Dodał, że w prywatnych rozmowach Donald Trump chwali Polskę. — Jesteście świetnym sojusznikiem, co udowodniliście w pomocy dla Ukrainy, jak i wsparciu dla Europy w ramach 5 proc. PKB na obronność — mówił. — Prawda jest taka, że to już nie to samo, kiedy nie brakowało nam tylu żołnierzy. Poza tym mamy zobowiązania o zasięgu globalnym. Wycofujemy siły ze wszystkich stron — dodał także Kellogg.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/266c8c26-2b2b-4abc-b23d-6729e3ce2c98.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 12 Oct 2026 09:00:01 GMT</pubDate>
-            <guid isPermaLink="false">efee966d-7a4f-4ace-9a35-c9c2f7480ba5</guid></item></channel>
+            <guid isPermaLink="false">efee966d-7a4f-4ace-9a35-c9c2f7480ba5</guid></item><item>
+            <title>Breaking Ściśle tajna opinia ws. Pegasusa. Komisja ujawnia. Padły głośne nazwiska</title>
+            <link>https://www.fakt.pl/polityka/pegasus-komisja-ujawnia-raport-magdalena-sroka-mowi-o-pis/dqrvq1r</link>
+            <description>— Komisja ustaliła to, co poprzednia władza przez lata ukrywała. Państwo nigdy nie miało pełnej kontroli nad Pegasusem — powiedziała Magdalena Sroka podczas posiedzenia komisji śledczej. Padły głośne naziwska.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZjA7MDA_/737c7274-0b22-4ee2-8b84-f14536d8ba09.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 10:15:05 GMT</pubDate>
+            <guid isPermaLink="false">29cc7fb8-d021-4e25-8fd3-e1a808aaa300</guid></item><item>
+            <title>Breaking Policja weszła do Trybunału Konstytucyjnego. Jest decyzja prokuratury</title>
+            <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-prokuratura-zdecydowala-ws-policji-w-tk/8dd89mv</link>
+            <description>Prokuratura Okręgowa w Olsztynie nie uwzględniła zażalenia pełnomocnika prezesa Trybunału Konstytucyjnego na odmowę wszczęcia śledztwa w sprawie wejścia do siedziby TK prokuratorów i policjantów. Do zdarzenia doszło w połowie lipca.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 12 Oct 2026 10:23:39 GMT</pubDate>
+            <guid isPermaLink="false">b0904501-966f-4623-bb4f-21f6851dd369</guid></item></channel>
             </rss>
