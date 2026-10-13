@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 13 Oct 2026 18:05:32 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 13 Oct 2026 20:00:24 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking To już oficjalne. Łukasz Gibała wygrał wybory na prezydenta Krakowa 2026. 12 lat czekania </title>
             <link>https://www.fakt.pl/polityka/lukasz-gibala-wygral-wybory-w-krakowie-sa-wyniki-exit-poll-pokonal-piatkowska/8elrsdq</link>
@@ -86,7 +86,13 @@
             <title>Breaking Zakończyła się operacja papieża Leona XIV. Watykan podał nowe informacje</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/papiez-leon-xiv-jest-juz-po-operacji-papiez-wrocil-juz-do-swojej-sali/1nrzw6b</link>
             <description>Papież Leon XIV przeszedł we wtorek w rzymskim szpitalu Gemelli operację usunięcia guzka z płuca. Watykan poinformował, że zabieg przebiegł zgodnie z planem, a Ojciec Święty wrócił już do swojej sali. Rekonwalescencja ma potrwać około tygodnia, natomiast dalsze decyzje medyczne będą zależały od wyników badań usuniętej zmiany.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a7261bf-181d-4ab4-a953-c77f66a3d4dc.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b0a621b5-b747-4d48-8c74-c844544bab7a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 13 Oct 2026 18:05:32 GMT</pubDate>
-            <guid isPermaLink="false">09d9ae7f-dcf8-4464-ad41-9024eb360c6a</guid></item></channel>
+            <guid isPermaLink="false">09d9ae7f-dcf8-4464-ad41-9024eb360c6a</guid></item><item>
+            <title>Breaking Służby ruszyły na plażę w Karwi. &quot;Obiekt przypominający drona&quot;</title>
+            <link>https://www.fakt.pl/polityka/obiekt-przypominajacy-drona-na-plazy-w-karwi-dzialaja-sluzby/gbwmryt</link>
+            <description>Trwają czynności służb po zgłoszeniu o znalezieniu &quot;obiektu przypominającego drona&quot; na plaży w Karwi. Jak przekazała TVN24 asp. Agnieszka Selewska, oficer prasowa Komendy Powiatowej Policji w Pucku, &quot;o zdarzeniu zawiadomiono prokuraturę i właściwe służby&quot;. Na miejscu są m.in. strażacy.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/M2M7MDA_/8a58adc0-e612-408d-b89e-1a8a0dc84293.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 13 Oct 2026 20:00:24 GMT</pubDate>
+            <guid isPermaLink="false">ea7b20cb-a451-4161-853e-4a7ecf9f3c5c</guid></item></channel>
             </rss>
