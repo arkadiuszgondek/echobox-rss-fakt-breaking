@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 13 Oct 2026 20:00:24 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 14 Oct 2026 05:41:05 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking To już oficjalne. Łukasz Gibała wygrał wybory na prezydenta Krakowa 2026. 12 lat czekania </title>
-            <link>https://www.fakt.pl/polityka/lukasz-gibala-wygral-wybory-w-krakowie-sa-wyniki-exit-poll-pokonal-piatkowska/8elrsdq</link>
-            <description>Łukasz Gibała dopiął swego po 12 latach starań o fotel prezydenta Krakowa. Po przeliczeniu głosów ze wszystkich obwodowych komisji Państwowa Komisja Wyborcza ogłosiła zwycięstwo Łukasza Gibłay. Założyciel stowarzyszenia Kraków dla Mieszkańców zdobył 62,12 proc. głosów, a Monika Piątkowska 37,88 proc. Frekwencja wyniosła 44,27 proc.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7412837b-cc6a-434e-90ff-a14604525d1e.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 12 Oct 2026 03:45:00 GMT</pubDate>
-            <guid isPermaLink="false">ded16190-ff7d-46b8-8991-51875c559a6f</guid></item><item>
-            <title>Breaking To nowy prezydent Krakowa. Bajeczny majątek Łukasza Gibały</title>
-            <link>https://www.fakt.pl/pieniadze/lukasz-gibala-zwyciezca-pierwszej-tury-w-krakowie-taki-ma-majatek/0z0wc2q</link>
-            <description>Łukasz Gibała wygrał drugą turę wyborów na prezydenta Krakowa — wynika z danych PKW. Sprawdziliśmy oświadczenie majątkowe Gibały. W dokumencie wykazał m.in. mieszkanie wycenione na ok. 3,8 mln zł oraz papiery wartościowe warte ponad 1,4 mln zł. Artykuł został opublikowany po raz pierwszy 28 września. Zaktualizowaliśmy go w związku z wynikami wyborów.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/56468953-e86d-4e2b-8242-dba077f93ac7.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 12 Oct 2026 05:27:00 GMT</pubDate>
-            <guid isPermaLink="false">3d4335e3-e05d-4613-969e-72403831a9b2</guid></item><item>
             <title>Breaking Prokuratura ujawnia: dane z Pegasusa wypływały z Polski. Tusk reaguje</title>
             <link>https://www.fakt.pl/polityka/sprawa-pegasusa-donald-tusk-reaguje-na-informacje-prokuratury/fghvmlc</link>
             <description>&quot;CBA nie miało pełnej kontroli nad systemem Pegasus. CBA nie posiadało haseł dostępowych do części kont z uprawnieniami administracyjnymi, a niektóre elementy systemu pozostawały pod kontrolą producenta oprogramowania&quot; — poinformowała Prokuratura Krajowa. Na te informacje zareagował już Donald Tusk.</description>
@@ -92,7 +80,13 @@
             <title>Breaking Służby ruszyły na plażę w Karwi. &quot;Obiekt przypominający drona&quot;</title>
             <link>https://www.fakt.pl/polityka/obiekt-przypominajacy-drona-na-plazy-w-karwi-dzialaja-sluzby/gbwmryt</link>
             <description>Trwają czynności służb po zgłoszeniu o znalezieniu &quot;obiektu przypominającego drona&quot; na plaży w Karwi. Jak przekazała TVN24 asp. Agnieszka Selewska, oficer prasowa Komendy Powiatowej Policji w Pucku, &quot;o zdarzeniu zawiadomiono prokuraturę i właściwe służby&quot;. Na miejscu są m.in. strażacy.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/M2M7MDA_/8a58adc0-e612-408d-b89e-1a8a0dc84293.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/70298143-ca7a-4d83-9794-35dc00a0d658.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 13 Oct 2026 20:00:24 GMT</pubDate>
-            <guid isPermaLink="false">ea7b20cb-a451-4161-853e-4a7ecf9f3c5c</guid></item></channel>
+            <guid isPermaLink="false">ea7b20cb-a451-4161-853e-4a7ecf9f3c5c</guid></item><item>
+            <title>Breaking Nowe informacje w sprawie  Macieja Berka. Będzie ślubowanie</title>
+            <link>https://www.fakt.pl/polityka/nieoficjalnie-nowe-informacje-w-sprawie-slubowania-macieja-berka/2nx0zn0</link>
+            <description>Maciej Berek ma złożyć ślubowanie na sędziego Trybunału Konstytucyjnego w obecności marszałka Sejmu Włodzimierza Czarzastego w środę o godz. 9.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZDQ7MDA_/c5ca26e0-b17f-40d1-bb9f-4ef416d3298c.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 14 Oct 2026 05:41:05 GMT</pubDate>
+            <guid isPermaLink="false">02d912fb-3073-4e91-9acc-82579becac6c</guid></item></channel>
             </rss>
