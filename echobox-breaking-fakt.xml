@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 14 Oct 2026 05:41:05 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 14 Oct 2026 07:03:01 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Prokuratura ujawnia: dane z Pegasusa wypływały z Polski. Tusk reaguje</title>
-            <link>https://www.fakt.pl/polityka/sprawa-pegasusa-donald-tusk-reaguje-na-informacje-prokuratury/fghvmlc</link>
-            <description>&quot;CBA nie miało pełnej kontroli nad systemem Pegasus. CBA nie posiadało haseł dostępowych do części kont z uprawnieniami administracyjnymi, a niektóre elementy systemu pozostawały pod kontrolą producenta oprogramowania&quot; — poinformowała Prokuratura Krajowa. Na te informacje zareagował już Donald Tusk.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f17a81a4-d39f-4c9d-a3b1-09c01235cc5c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 12 Oct 2026 06:36:45 GMT</pubDate>
-            <guid isPermaLink="false">d7f08f51-b867-4d59-99b3-c89ea3921849</guid></item><item>
             <title>Breaking Afera wokół Kołodziejczaka. Jest ruch prokuratury. &quot;Nie ma świętych krów&quot;</title>
             <link>https://www.fakt.pl/polityka/michal-kolodziejczak-pod-lupa-sledczych-prokuratura-sprawdza-doniesienia/pfnpm5g</link>
             <description>Warszawska prokuratura zajęła się doniesieniami medialnymi w sprawie zachowania Michała Kołodziejczaka. &quot;Wszczęto czynności sprawdzające w zakresie zmuszania do określonego zachowania i udzielania środków odurzających&quot; — poinformowali śledczy.</description>
@@ -88,5 +82,11 @@
             <description>Maciej Berek ma złożyć ślubowanie na sędziego Trybunału Konstytucyjnego w obecności marszałka Sejmu Włodzimierza Czarzastego w środę o godz. 9.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/ZDQ7MDA_/c5ca26e0-b17f-40d1-bb9f-4ef416d3298c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 14 Oct 2026 05:41:05 GMT</pubDate>
-            <guid isPermaLink="false">02d912fb-3073-4e91-9acc-82579becac6c</guid></item></channel>
+            <guid isPermaLink="false">02d912fb-3073-4e91-9acc-82579becac6c</guid></item><item>
+            <title>Breaking Maciej Berek złożył ślubowanie na sędziego TK w Sejmie</title>
+            <link>https://www.fakt.pl/polityka/maciej-berek-zlozyl-slubowanie-na-sedziego-tk-w-sejmie/qr87e65</link>
+            <description>Maciej Berek złożył w Sejmie ślubowanie na sędziego Trybunału Konstytucyjnego. Marszałek Włodzimierz Czarzasty wręczył mu w środę 14 października uchwałę Sejmu o wyborze na stanowisko sędziego TK.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/df4c2a62-9515-4146-962e-367fdd595805.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 14 Oct 2026 07:03:01 GMT</pubDate>
+            <guid isPermaLink="false">22ff7f42-49b2-427b-be8e-667007beb990</guid></item></channel>
             </rss>
