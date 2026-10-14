@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 14 Oct 2026 07:03:01 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 14 Oct 2026 08:09:20 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Afera wokół Kołodziejczaka. Jest ruch prokuratury. &quot;Nie ma świętych krów&quot;</title>
-            <link>https://www.fakt.pl/polityka/michal-kolodziejczak-pod-lupa-sledczych-prokuratura-sprawdza-doniesienia/pfnpm5g</link>
-            <description>Warszawska prokuratura zajęła się doniesieniami medialnymi w sprawie zachowania Michała Kołodziejczaka. &quot;Wszczęto czynności sprawdzające w zakresie zmuszania do określonego zachowania i udzielania środków odurzających&quot; — poinformowali śledczy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/67f13866-ce24-4cbd-af86-55182fbb42ac.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 12 Oct 2026 07:42:00 GMT</pubDate>
-            <guid isPermaLink="false">189aad9d-37a7-4e90-8661-fabbf0e835b0</guid></item><item>
-            <title>Breaking Atak nożem w warszawskiej szkole. Kamila D. przyznała się do winy. Wiadomo, co jej grozi</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/nozowniczka-z-warszawy-aresztowana-na-trzy-miesiace-przyznala-sie-do-winy/kd3wl75</link>
-            <description>21-letnia Kamila D., podejrzana o atak nożem w sobotę (10 października) na trzy kobiety w zespole szkół przy ul. Mińskiej w Warszawie, usłyszała pięć zarzutów. Trzy z nich dotyczą usiłowania zabójstwa. Kobieta przyznała się do zarzucanych czynów, a sąd zdecydował o jej tymczasowym aresztowaniu na trzy miesiące.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/78b40806-bef9-4573-a335-b4ed885f87c8.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 12 Oct 2026 08:07:50 GMT</pubDate>
-            <guid isPermaLink="false">9612abd6-12d5-442e-a25d-b501d7184a87</guid></item><item>
             <title>Breaking Były doradca Trumpa dla &quot;Faktu&quot;: wycofujemy siły ze wszystkich stron</title>
             <link>https://www.fakt.pl/polityka/gen-keith-kellogg-skomentowal-sprawe-stalej-bazy-usa-w-polsce/yl8lrps</link>
             <description>— Jeśli powstanie stała baza wojsk USA w Polsce, to najpierw pojawią się w niej żołnierze w ramach rotacji, bo ich permanentna obecność zajmie więcej czasu — tłumaczył w rozmowie z &quot;Faktem&quot; były doradca prezydenta USA gen. Keith Kellogg. Dodał, że w prywatnych rozmowach Donald Trump chwali Polskę. — Jesteście świetnym sojusznikiem, co udowodniliście w pomocy dla Ukrainy, jak i wsparciu dla Europy w ramach 5 proc. PKB na obronność — mówił. — Prawda jest taka, że to już nie to samo, kiedy nie brakowało nam tylu żołnierzy. Poza tym mamy zobowiązania o zasięgu globalnym. Wycofujemy siły ze wszystkich stron — dodał także Kellogg.</description>
@@ -88,5 +76,11 @@
             <description>Maciej Berek złożył w Sejmie ślubowanie na sędziego Trybunału Konstytucyjnego. Marszałek Włodzimierz Czarzasty wręczył mu w środę 14 października uchwałę Sejmu o wyborze na stanowisko sędziego TK.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/df4c2a62-9515-4146-962e-367fdd595805.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 14 Oct 2026 07:03:01 GMT</pubDate>
-            <guid isPermaLink="false">22ff7f42-49b2-427b-be8e-667007beb990</guid></item></channel>
+            <guid isPermaLink="false">22ff7f42-49b2-427b-be8e-667007beb990</guid></item><item>
+            <title>Breaking Gorąco przed Trybunałem Konstytucyjnym. Do akcji wkroczyła policja</title>
+            <link>https://www.fakt.pl/polityka/goraco-przed-trybunalem-konstytucyjnym-do-akcji-wkroczyla-policja/ts1s2j7</link>
+            <description>Maciej Berek złożył dziś rano ślubowanie w Sejmie na sędziego Trybunału Konstytucyjnego. Opozycja nie zgadza się z taką formułą ślubowania. Przed budynkiem rośnie napięcie. Dochodzi do przepychanek. Do akcji wkroczyli funkcjonariusze policji. Przed bramą pojawił się prezes TK Bogdan Święczkowski.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1f3f8c6e-efbb-4513-ad87-10b58c06bfc4.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 14 Oct 2026 08:09:20 GMT</pubDate>
+            <guid isPermaLink="false">d12102a8-2949-4188-a773-cf691362feca</guid></item></channel>
             </rss>
