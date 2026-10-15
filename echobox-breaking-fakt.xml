@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 15 Oct 2026 13:54:28 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 15 Oct 2026 19:23:33 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Zakończyła się operacja papieża Leona XIV. Watykan podał nowe informacje</title>
-            <link>https://www.fakt.pl/wydarzenia/swiat/papiez-leon-xiv-jest-juz-po-operacji-papiez-wrocil-juz-do-swojej-sali/1nrzw6b</link>
-            <description>Papież Leon XIV przeszedł we wtorek w rzymskim szpitalu Gemelli operację usunięcia guzka z płuca. Watykan poinformował, że zabieg przebiegł zgodnie z planem, a Ojciec Święty wrócił już do swojej sali. Rekonwalescencja ma potrwać około tygodnia, natomiast dalsze decyzje medyczne będą zależały od wyników badań usuniętej zmiany.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b0a621b5-b747-4d48-8c74-c844544bab7a.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 13 Oct 2026 18:05:32 GMT</pubDate>
-            <guid isPermaLink="false">09d9ae7f-dcf8-4464-ad41-9024eb360c6a</guid></item><item>
             <title>Breaking Służby ruszyły na plażę w Karwi. &quot;Obiekt przypominający drona&quot;</title>
             <link>https://www.fakt.pl/polityka/obiekt-przypominajacy-drona-na-plazy-w-karwi-dzialaja-sluzby/gbwmryt</link>
             <description>Trwają czynności służb po zgłoszeniu o znalezieniu &quot;obiektu przypominającego drona&quot; na plaży w Karwi. Jak przekazała TVN24 asp. Agnieszka Selewska, oficer prasowa Komendy Powiatowej Policji w Pucku, &quot;o zdarzeniu zawiadomiono prokuraturę i właściwe służby&quot;. Na miejscu są m.in. strażacy.</description>
@@ -101,10 +95,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/46120c3d-7f75-43bd-bae6-bd6260843fa4.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 15 Oct 2026 11:56:59 GMT</pubDate>
             <guid isPermaLink="false">42435f49-f0e8-4df6-b3ff-009fe176df76</guid></item><item>
-            <title>Breaking Karol Nawrocki wygłosił oświadczenie. Zawetował trzy ustawy</title>
+            <title>Breaking Karol Nawrocki zdecydował. Zawetował trzy ustawy</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-podpisal-osiem-ustaw-jest-weto-prezydenta-ws-trzech/m9rz7qb</link>
-            <description>Karol Nawrocki podpisał osiem ustaw, a trzy zawetował. — Dość wymówek, czas wziąć odpowiedzialność — powiedział prezydent.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Karol Nawrocki zdecydował w sprawie kilku osób. Prezydent podpisał osiem ustaw, a trzy zawetował. — Rządzący zostali powołani do rozwiązywania problemów obywateli i za tę pracę Polacy im płacą. Dlatego dość wymówek. Czas wziąć odpowiedzialność — powiedział.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/052d8f90-dd65-47c9-9335-70f05b9fc609.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 15 Oct 2026 13:54:28 GMT</pubDate>
-            <guid isPermaLink="false">df57a462-d2d1-4598-a92f-3b0559f14f67</guid></item></channel>
+            <guid isPermaLink="false">df57a462-d2d1-4598-a92f-3b0559f14f67</guid></item><item>
+            <title>Breaking Ciągnik spadł z wału w Ostrowie Świeckim. Nie żyją 17-latek i 13-latek</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/tragiczny-wypadek-w-ostrowie-swieckim-dwoch-nastolatkow-nie-zyje/s1fk310</link>
+            <description>Do dramatycznych wydarzeń doszło w Ostrowie Świeckim (woj. kujawsko-pomorskie). Dwóch nastolatków — 17-latek i 13-latek — zginęło w czwartek wieczorem, gdy ciągnik, którym jechali, spadł z wału przeciwpowodziowego. Informację o tragedii przekazała młodsza aspirant Agnieszka Stankiewicz z Komendy Powiatowej Policji w Chełmnie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e45284a5-294a-4515-b257-19f4fb291c4b.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 15 Oct 2026 19:23:33 GMT</pubDate>
+            <guid isPermaLink="false">8c60ee78-2393-4aff-8554-fd7dffc46c9f</guid></item></channel>
             </rss>
