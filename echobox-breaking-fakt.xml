@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 16 Oct 2026 11:20:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 16 Oct 2026 12:44:17 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Śledztwa w sprawie Kołodziejczaka nie ma. Prokuratura wyjaśnia: &quot;Nie zaistniały ku temu przesłanki&quot;</title>
-            <link>https://www.fakt.pl/polityka/afera-michala-kolodziejczaka-prokuratura-nie-wszczela-sledztwa/0bpkw84</link>
-            <description>Prokuratura Okręgowa w Warszawie przesłuchała na razie tylko jedną z byłych pracownic Michała Kołodziejczaka. To ta kobieta złożyła zawiadomienie o popełnieniu przestępstwa przez polityka. Jak dowiedział się &quot;Fakt&quot;, na razie nie zaistniały przesłanki pozwalające na wszczęcie śledztwa.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ffac1503-c9d0-47f0-aeb6-35cd54d30ec1.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 14 Oct 2026 12:10:33 GMT</pubDate>
-            <guid isPermaLink="false">9d358d37-8eea-4f32-ae83-8345aa28d760</guid></item><item>
-            <title>Breaking Tusk reaguje na chaos przed TK. &quot;Nie cofniemy się ani o krok&quot;</title>
-            <link>https://www.fakt.pl/polityka/donald-tusk-reaguje-na-awanture-przed-tk-padly-nazwiska-kaczynski-bakiewicz/p9lj411</link>
-            <description>— Sędziowie TK zostali wybrani zgodnie z prawem, a prezydent Karol Nawrocki, odmawiając przyjęcia od nich ślubowania, abdykuje z obowiązków nałożonych na niego w konstytucji — powiedział premier Donald Tusk. Zapowiedział, że rząd &quot;nie cofnie się ani o krok&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5319ee31-29f9-4618-ad7a-b7809e0b0e96.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 14 Oct 2026 13:01:48 GMT</pubDate>
-            <guid isPermaLink="false">c2833644-412e-41ba-ba61-335d83ebe018</guid></item><item>
             <title>Breaking Ranking wstydu posłów. Wśród nich głośne nazwiska </title>
             <link>https://www.fakt.pl/polityka/ranking-wstydu-poslow-wsrod-nich-tusk-mentzen-i-ziobro/2s1pyh2</link>
             <description>Równo trzy lata temu odbyły się wybory parlamentarne. &quot;Fakt&quot; sprawdził, jak do tej pory w pracach sejmowych uczestniczyli posłowie. Wśród nich znaleźli się zarówno tacy, którzy często zabierali głos i pojawiali się na głosowaniach, jak i tacy, których mogliśmy widzieć na sali plenarnej bardzo rzadko. — To niepoważne i budzi mój ogromny sprzeciw — po co w takim razie kandydowali i zabierali czas wyborcom, łudząc ich, że będą dbać o ich problemy? — mówi nam posłanka, która wyróżnia się wysoką frekwencją.</description>
@@ -112,5 +100,11 @@
             <description>Karol Nawrocki odpowiedział na pytanie Aleksandra Kwaśniewskiego o działania na rzecz porozumienia ponad podziałami politycznymi. &quot;Fakt&quot; zapytał byłego prezydenta, czy przekonuje go odpowiedź obecnej głowy państwa. — Mogę pogratulować prezydentowi Nawrockiemu dobrego samopoczucia. Dobre samopoczucie nie oznacza jednak tego, co dobre dla Polski — ocenił.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/74c5f96b-5199-489d-a505-f8f68084fbbb.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 16 Oct 2026 11:20:00 GMT</pubDate>
-            <guid isPermaLink="false">ca1adc07-6ceb-41dc-b652-657ba9d43e4c</guid></item></channel>
+            <guid isPermaLink="false">ca1adc07-6ceb-41dc-b652-657ba9d43e4c</guid></item><item>
+            <title>Breaking &quot;Siłowy atak&quot; na biuro Adama Borowskiego? Policja wydała oświadczenie. &quot;Miał nóż&quot;</title>
+            <link>https://www.fakt.pl/polityka/incydent-w-biurze-borowskiego-kaczynski-grzmi-policja-mezczyzna-mial-noz/bmc6d5e</link>
+            <description>Jarosław Kaczyński i Tomasz Sakiewicz informowali o &quot;ataku&quot; na biuro Adama Borowskiego. Z relacji szefa TV Republika wynikało, że jeden ze współpracowników miał stracić przytomność. Policja wydała oświadczenie. &quot;Zaatakowana policjantka trafiła do szpitala. Zatrzymany mężczyzna miał przy sobie nóż&quot; — podkreśliło KSP.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2301f18f-74b4-41c7-88c9-4d0fafde3075.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 16 Oct 2026 12:44:17 GMT</pubDate>
+            <guid isPermaLink="false">f20a073d-4d38-4bac-9811-ffb7b7cc3907</guid></item></channel>
             </rss>
