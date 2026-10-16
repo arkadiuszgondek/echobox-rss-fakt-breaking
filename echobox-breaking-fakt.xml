@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 16 Oct 2026 12:44:17 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 16 Oct 2026 20:02:40 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ranking wstydu posłów. Wśród nich głośne nazwiska </title>
             <link>https://www.fakt.pl/polityka/ranking-wstydu-poslow-wsrod-nich-tusk-mentzen-i-ziobro/2s1pyh2</link>
@@ -104,7 +104,13 @@
             <title>Breaking &quot;Siłowy atak&quot; na biuro Adama Borowskiego? Policja wydała oświadczenie. &quot;Miał nóż&quot;</title>
             <link>https://www.fakt.pl/polityka/incydent-w-biurze-borowskiego-kaczynski-grzmi-policja-mezczyzna-mial-noz/bmc6d5e</link>
             <description>Jarosław Kaczyński i Tomasz Sakiewicz informowali o &quot;ataku&quot; na biuro Adama Borowskiego. Z relacji szefa TV Republika wynikało, że jeden ze współpracowników miał stracić przytomność. Policja wydała oświadczenie. &quot;Zaatakowana policjantka trafiła do szpitala. Zatrzymany mężczyzna miał przy sobie nóż&quot; — podkreśliło KSP.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/2301f18f-74b4-41c7-88c9-4d0fafde3075.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1be822eb-87a8-427b-aac7-6800ade848f9.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 16 Oct 2026 12:44:17 GMT</pubDate>
-            <guid isPermaLink="false">f20a073d-4d38-4bac-9811-ffb7b7cc3907</guid></item></channel>
+            <guid isPermaLink="false">f20a073d-4d38-4bac-9811-ffb7b7cc3907</guid></item><item>
+            <title>Breaking Koszmarny wypadek pod Złotoryją. Zginęła kobieta w ciąży i jej nienarodzone dziecko</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/tragiczny-wypadek-drogowy-nie-zyje-kobieta-w-ciazy-i-nienarodzone-dziecko/26p4cpr</link>
+            <description>Na drodze wojewódzkiej nr 364 w powiecie złotoryjskim doszło do dramatycznego wypadku, w którym zginęła kobieta będąca w ciąży. Jej nienarodzone dziecko również nie przeżyło. Policja zatrzymała kierowcę podejrzewanego o spowodowanie tragedii.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/OGE7MDA_/fd24b77e-82cb-4f9f-97d1-937d140b5346.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 16 Oct 2026 20:02:40 GMT</pubDate>
+            <guid isPermaLink="false">0ed76829-7ce8-453e-9472-404df8a45e9d</guid></item></channel>
             </rss>
