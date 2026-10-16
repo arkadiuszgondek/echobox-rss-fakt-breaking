@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 16 Oct 2026 07:10:15 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 16 Oct 2026 07:47:54 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Awantura przed budynkiem TK. Do akcji wkroczyła policja. Berek i inni sędziowie wjechali na teren trybunału</title>
             <link>https://www.fakt.pl/polityka/goraco-przed-trybunalem-konstytucyjnym-do-akcji-wkroczyla-policja/ts1s2j7</link>
@@ -92,7 +92,13 @@
             <title>Breaking Polska poderwała myśliwce. Alert RCB dla dwóch województw</title>
             <link>https://www.fakt.pl/polityka/rcb-wydalo-alert-polska-poderwala-mysliwce/txpss5h</link>
             <description>W związku z uderzeniami Rosji na cele w zachodniej części Ukrainy operuje lotnictwo wojskowe w polskiej przestrzeni powietrznej — poinformowało DORSZ. RCB w alercie dla województw lubelskiego i podkarpackiego wzywa do oczekiwania na kolejne komunikaty.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/cc890e9b-c3c6-4d59-943e-8b00df188d11.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 16 Oct 2026 07:10:15 GMT</pubDate>
-            <guid isPermaLink="false">81600fc4-f62f-48a8-b844-1fedf926d5d4</guid></item></channel>
+            <guid isPermaLink="false">81600fc4-f62f-48a8-b844-1fedf926d5d4</guid></item><item>
+            <title>Breaking Odwołane wystąpienie Mróz-Gorgoń. &quot;Lepiej nie narażać jej na kolejny stres&quot;</title>
+            <link>https://www.fakt.pl/polityka/barbara-mroz-gorgon-nie-wystapila-na-efni-podano-przyczyne/2rwwbzz</link>
+            <description>Barbara Mróz-Gorgoń miała opowiadać o promocji marki Polska podczas EFNI w Sopocie. Choć pojawiła się na miejscu, ostatecznie nie wzięła udziału w panelu. — Ona jest w takim stanie, [...] że lepiej nie narażać jej na kolejny stres — oceniła Henryka Bochniarz. Z ustaleń &quot;Faktu&quot; wynika, że z agendy zniknęli też Donald Tusk i Waldemar Żurek.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9734af28-f633-4837-945c-52fa871c7109.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 16 Oct 2026 07:47:54 GMT</pubDate>
+            <guid isPermaLink="false">db4504b3-dfd4-4dab-a895-b9c1f157c975</guid></item></channel>
             </rss>
