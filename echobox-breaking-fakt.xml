@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 17 Oct 2026 16:20:47 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 17 Oct 2026 17:15:47 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ciągnik spadł z wału przeciwpowodziowego w Ostrowie Świeckim. Nie żyją 17-latek i 13-latek</title>
             <link>https://www.fakt.pl/wydarzenia/polska/tragiczny-wypadek-w-ostrowie-swieckim-dwoch-nastolatkow-nie-zyje/s1fk310</link>
@@ -62,7 +62,7 @@
             <title>Breaking Konwój zaatakowany na Zachodnim Brzegu. Jechali nim polscy dyplomaci</title>
             <link>https://www.fakt.pl/polityka/atak-zydowskich-osadnikow-na-auta-dyplomatow-w-tym-polakow-msz-reaguje/vez674g</link>
             <description>Na Zachodnim Brzegu Jordanu doszło do niebezpiecznego incydentu, w którym ucierpiał konwój z udziałem polskich dyplomatów. Jak poinformował rzecznik Ministerstwa Spraw Zagranicznych Maciej Wewiór, żadnemu z przedstawicieli korpusu dyplomatycznego nic się nie stało. Polska oczekuje od władz Izraela pilnych wyjaśnień w tej sprawie.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 17 Oct 2026 16:20:47 GMT</pubDate>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/69e4003c-8788-4c3f-ac6f-8f9a402b2090.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 17 Oct 2026 17:15:47 GMT</pubDate>
             <guid isPermaLink="false">200bfd97-c7f9-40cb-9cfd-1e873d839ddc</guid></item></channel>
             </rss>
