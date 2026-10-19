@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 19 Oct 2026 07:16:52 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 19 Oct 2026 08:03:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Konwój zaatakowany na Zachodnim Brzegu. Jechali nim polscy dyplomaci</title>
             <link>https://www.fakt.pl/polityka/atak-zydowskich-osadnikow-na-auta-dyplomatow-w-tym-polakow-msz-reaguje/vez674g</link>
@@ -22,5 +22,11 @@
             <description>Izraelska policja poinformowała o zatrzymaniu ośmiu osób w związku z dochodzeniem dotyczącym serii brutalnych incydentów, które miały miejsce w miniony weekend na Zachodnim Brzegu. Wśród nich znalazł się atak na grupę europejskich dyplomatów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/69e4003c-8788-4c3f-ac6f-8f9a402b2090.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 19 Oct 2026 07:16:52 GMT</pubDate>
-            <guid isPermaLink="false">9cdf24cb-a819-40a1-9694-53fe08b82cd0</guid></item></channel>
+            <guid isPermaLink="false">9cdf24cb-a819-40a1-9694-53fe08b82cd0</guid></item><item>
+            <title>Breaking Nawrocki wysłał do Tuska pismo. &quot;Wszystko w rękach premiera&quot;</title>
+            <link>https://www.fakt.pl/polityka/spor-o-nbp-karol-nawrocki-skierowal-pismo-wczesniej-donald-tusk-nie-podpisal/ysfflls</link>
+            <description>Karol Nawrocki ponownie skierował do kontrasygnaty premiera postanowienia o powołaniu czterech członków zarządu Narodowego Banku Polskiego. Kilka miesięcy temu Donald Tusk odmówił złożenia kontrasygnaty.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3ed450e8-a605-42f6-aea7-5f65e13009c7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 19 Oct 2026 08:03:25 GMT</pubDate>
+            <guid isPermaLink="false">d8852c02-c988-4699-a136-e08c27d22b98</guid></item></channel>
             </rss>
