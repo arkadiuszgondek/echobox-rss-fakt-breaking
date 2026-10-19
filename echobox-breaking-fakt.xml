@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 19 Oct 2026 11:47:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 19 Oct 2026 12:40:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Konwój zaatakowany na Zachodnim Brzegu. Jechali nim polscy dyplomaci</title>
             <link>https://www.fakt.pl/polityka/atak-zydowskich-osadnikow-na-auta-dyplomatow-w-tym-polakow-msz-reaguje/vez674g</link>
@@ -35,10 +35,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/771c7341-1984-42ba-842e-7b780e9c041d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 19 Oct 2026 08:20:00 GMT</pubDate>
             <guid isPermaLink="false">e7cc1aac-e218-4b92-8b7b-1600ed3473b6</guid></item><item>
-            <title>Breaking Trzyletnie dziecko potrącone na terenie przedszkola. &quot;Przyleciał śmigłowiec&quot;</title>
+            <title>Breaking Karetka potrąciła trzylatka na pokazach w przedszkolu. &quot;To potężna tragedia&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/jedlicze-trzyletnie-dziecko-potracone-przez-auto-akcja-lpr/mqw8jzt</link>
-            <description>Wypadek na terenie przedszkola w Jedliczu (woj. podkarpackie). Trzyletnie dziecko zostało potrącone i w trybie pilnym trafiło pod opiekę medyków. — Przyleciał śmigłowiec. Dziecko zostało LPR-em przetransportowane do szpitala — przekazała w rozmowie z &quot;Faktem&quot; mł. asp. Sara Bania-Nowak. Na miejscu pracują śledczy.</description>
+            <description>Wypadek na terenie przedszkola w Jedliczu (woj. podkarpackie). Trzyletnie dziecko zostało potrącone na placu przez karetkę pogotowia. — To jest potężna tragedia — mówi wstrząśnięty prezes lokalnej OSP, Marek Kobak, który brał udział w akcji. Chłopiec w stanie krytycznym trafił do szpitala w Rzeszowie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/6e4d916b-aae5-4ba4-98a1-8f3f656eb156.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 19 Oct 2026 11:47:00 GMT</pubDate>
-            <guid isPermaLink="false">c97007ce-450d-45f9-91e4-512138441d27</guid></item></channel>
+            <guid isPermaLink="false">c97007ce-450d-45f9-91e4-512138441d27</guid></item><item>
+            <title>Breaking Karol Nawrocki wręczył nominacje sędziom i asesorom. Prezydent wbił szpilę rządowi. &quot;Nie ma innej drogi&quot; </title>
+            <link>https://www.fakt.pl/polityka/prezydent-karol-nawrocki-wreczyl-nominacje-otrzymali-je-sedziowie-i-asesorzy/f2hs9hg</link>
+            <description>Prezydent Karol Nawrocki wręczył nominacje sędziowskie i asesorskie podczas uroczystości w Pałacu Prezydenckim. W swoim wystąpieniu odniósł się do procedury powoływania sędziów i znaczenia ślubowania składanego w obecności głowy państwa. Słowa te padły w czasie trwającego sporu o status nowych sędziów Trybunału Konstytucyjnego. — Nie ma innej drogi, aby stać się sędzią niż ślubowanie w obecności prezydenta — podkreślił.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 19 Oct 2026 12:40:00 GMT</pubDate>
+            <guid isPermaLink="false">1ebe6e69-f808-4bc5-b8ce-ff3c3d1bdca2</guid></item></channel>
             </rss>
