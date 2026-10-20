@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 20 Oct 2026 10:36:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 20 Oct 2026 11:14:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Atak na konwój z polskimi dyplomatami. Izrael reaguje, są zatrzymani</title>
             <link>https://www.fakt.pl/polityka/atak-na-konwoj-polskich-dyplomatow-izrael-zatrzymal-osiem-osob/6qz4rnq</link>
@@ -47,10 +47,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/101b52a6-091e-46b9-8c69-daf55b0fe536.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 20 Oct 2026 08:44:33 GMT</pubDate>
             <guid isPermaLink="false">bc7b5c8b-9d98-4433-90bb-88aa02c55604</guid></item><item>
+            <title>Breaking Grabieże, podpalenia i strach na ulicach Francji. Polak z Paryża: policja jest bezsilna</title>
+            <link>https://www.fakt.pl/wydarzenia/francja-protesty-i-zamieszki-w-kraju-relacja-polaka-z-paryza/t7fl5fe</link>
+            <description>Francja mierzy się z falą protestów, które przerodziły się w starcia z policją, grabieże sklepów i podpalenia. W Paryżu zniszczone witryny i spalone pojazdy stały się dla mieszkańców niepokojącym elementem codzienności. Mateusz Wojtanowski, Polak mieszkający w 19. dzielnicy stolicy, twierdzi, że policja ma związane ręce, gdyż sprawcami są głównie nieletni. — Policjant boi się użyć siły, bo to wciąż dziecko — mówi w rozmowie z &quot;Faktem&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/930f60b6-1d61-4cb1-a09e-922bd72bb788.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 20 Oct 2026 10:34:00 GMT</pubDate>
+            <guid isPermaLink="false">adec1b21-8542-4987-81ed-2576b37c8491</guid></item><item>
             <title>Breaking Anita i jej synek zginęli w wypadku w Egipcie. Jest wyrok dla kierowcy</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/lekarka-z-olsztyna-i-jej-syn-zgineli-w-wypadku-w-egipcie-nowe-wiesci-ws-kierowcy/v2b1sye</link>
             <description>Lekarka Anita Samek-Krymkowska z Olsztyna i jej 7-letni synek Maciej zginęli w straszliwym wypadku drogowym, do którego doszło podczas wakacji w Egipcie. W egipskim sądzie zapadł prawomocny wyrok w procesie kierowcy busa. Wymiar sprawiedliwości pochylał się nad sprawą Alego M. trzykrotnie.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/NzI7MDA_/61d8cef5-58e8-468b-be88-25471c735471.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 20 Oct 2026 10:36:00 GMT</pubDate>
-            <guid isPermaLink="false">92839ffc-a338-40d4-b675-67f9a9017a38</guid></item></channel>
+            <guid isPermaLink="false">92839ffc-a338-40d4-b675-67f9a9017a38</guid></item><item>
+            <title>Breaking Kask na głowie, w ręku paliwo. 71-latek przed budynkiem pełnym urzędów</title>
+            <link>https://www.fakt.pl/polityka/warszawa-71-latek-z-kanistrem-zatrzymany-przed-gmachem-na-nowym-swiecie/rhef65m</link>
+            <description>Starszy mężczyzna próbował dostać się do gmachu przy ulicy Nowy Świat w Warszawie, gdzie mieszczą się siedziby kilku ministerstw. Z ustaleń reporterów RMF FM wynika, że 71-latek w kasku motocyklowym trzymał w ręku duży kanister.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 20 Oct 2026 11:14:00 GMT</pubDate>
+            <guid isPermaLink="false">c50d65c7-432f-47c5-a6bb-5f7d6b36ab9a</guid></item></channel>
             </rss>
