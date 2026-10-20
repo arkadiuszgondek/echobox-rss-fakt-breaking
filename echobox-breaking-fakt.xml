@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 20 Oct 2026 08:44:33 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 20 Oct 2026 10:36:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Atak na konwój z polskimi dyplomatami. Izrael reaguje, są zatrzymani</title>
             <link>https://www.fakt.pl/polityka/atak-na-konwoj-polskich-dyplomatow-izrael-zatrzymal-osiem-osob/6qz4rnq</link>
@@ -43,8 +43,14 @@
             <guid isPermaLink="false">1bcc1119-28b3-4b76-9d75-8944f6af204f</guid></item><item>
             <title>Breaking Nowe informacje w sprawie wniosku o Trybunał Stanu dla Ziobry. &quot;Procedura ruszyła&quot;</title>
             <link>https://www.fakt.pl/polityka/zbigniew-ziobro-i-trybunal-stanu-tomasz-trela-procedura-ruszyla/hl9bg9e</link>
-            <description>Komisja Odpowiedzialności Konstytucyjnej podjęła decyzję w sprawie wniosku o Trybunał Stanu dla Zbigniewa Ziobry. Poprawiony dokument wpłynął do Sejmu w połowie września. Procedura ruszyła — przekazał &quot;Faktowi&quot; Tomasz Trela.</description>
+            <description>Komisja Odpowiedzialności Konstytucyjnej podjęła decyzję w sprawie wniosku o Trybunał Stanu dla Zbigniewa Ziobry. Poprawiony dokument wpłynął do Sejmu w połowie września. —Procedura ruszyła — przekazał &quot;Faktowi&quot; Tomasz Trela.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/101b52a6-091e-46b9-8c69-daf55b0fe536.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 20 Oct 2026 08:44:33 GMT</pubDate>
-            <guid isPermaLink="false">bc7b5c8b-9d98-4433-90bb-88aa02c55604</guid></item></channel>
+            <guid isPermaLink="false">bc7b5c8b-9d98-4433-90bb-88aa02c55604</guid></item><item>
+            <title>Breaking Anita i jej synek zginęli w wypadku w Egipcie. Jest wyrok dla kierowcy</title>
+            <link>https://www.fakt.pl/wydarzenia/swiat/lekarka-z-olsztyna-i-jej-syn-zgineli-w-wypadku-w-egipcie-nowe-wiesci-ws-kierowcy/v2b1sye</link>
+            <description>Lekarka Anita Samek-Krymkowska z Olsztyna i jej 7-letni synek Maciej zginęli w straszliwym wypadku drogowym, do którego doszło podczas wakacji w Egipcie. W egipskim sądzie zapadł prawomocny wyrok w procesie kierowcy busa. Wymiar sprawiedliwości pochylał się nad sprawą Alego M. trzykrotnie.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/NzI7MDA_/61d8cef5-58e8-468b-be88-25471c735471.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 20 Oct 2026 10:36:00 GMT</pubDate>
+            <guid isPermaLink="false">92839ffc-a338-40d4-b675-67f9a9017a38</guid></item></channel>
             </rss>
