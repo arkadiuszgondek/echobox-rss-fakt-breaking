@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 20 Oct 2026 04:33:40 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 20 Oct 2026 08:44:33 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Atak na konwój z polskimi dyplomatami. Izrael reaguje, są zatrzymani</title>
             <link>https://www.fakt.pl/polityka/atak-na-konwoj-polskich-dyplomatow-izrael-zatrzymal-osiem-osob/6qz4rnq</link>
@@ -40,5 +40,11 @@
             <description>Karolowi Nawrockiemu i Bogdanowi Święczkowskiemu &quot;wydaje się, że można jednoosobowo zarządzać Trybunałem Konstytucyjnym albo rozstrzygać o sprawach państwa&quot; — stwierdził Maciej Berek. W wywiadzie dla &quot;Gazety Wyborczej&quot; ujawnił, czy prowadzi rozmowy z sędziami TK, aby doprowadzić do zwołania zgromadzenia ogólnego.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e3525115-4747-4a1b-9506-7cfe2581a62e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 20 Oct 2026 04:33:40 GMT</pubDate>
-            <guid isPermaLink="false">1bcc1119-28b3-4b76-9d75-8944f6af204f</guid></item></channel>
+            <guid isPermaLink="false">1bcc1119-28b3-4b76-9d75-8944f6af204f</guid></item><item>
+            <title>Breaking Nowe informacje w sprawie wniosku o Trybunał Stanu dla Ziobry. &quot;Procedura ruszyła&quot;</title>
+            <link>https://www.fakt.pl/polityka/zbigniew-ziobro-i-trybunal-stanu-tomasz-trela-procedura-ruszyla/hl9bg9e</link>
+            <description>Komisja Odpowiedzialności Konstytucyjnej podjęła decyzję w sprawie wniosku o Trybunał Stanu dla Zbigniewa Ziobry. Poprawiony dokument wpłynął do Sejmu w połowie września. Procedura ruszyła — przekazał &quot;Faktowi&quot; Tomasz Trela.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/101b52a6-091e-46b9-8c69-daf55b0fe536.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 20 Oct 2026 08:44:33 GMT</pubDate>
+            <guid isPermaLink="false">bc7b5c8b-9d98-4433-90bb-88aa02c55604</guid></item></channel>
             </rss>
