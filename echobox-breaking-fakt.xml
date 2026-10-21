@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 21 Oct 2026 05:47:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 21 Oct 2026 09:11:34 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Karetka potrąciła trzylatka na pokazach w przedszkolu. &quot;To potężna tragedia&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/jedlicze-trzyletnie-dziecko-potracone-przez-auto-akcja-lpr/mqw8jzt</link>
@@ -19,7 +19,7 @@
             <guid isPermaLink="false">1ebe6e69-f808-4bc5-b8ce-ff3c3d1bdca2</guid></item><item>
             <title>Breaking Berek wskazał na Nawrockiego i Święczkowskiego. &quot;Ta sama nuta&quot;</title>
             <link>https://www.fakt.pl/polityka/maciej-berek-o-karolu-nawrockim-i-bogdanie-swieczkowskim-wydaje-im-sie/e5zkze7</link>
-            <description>Karolowi Nawrockiemu i Bogdanowi Święczkowskiemu &quot;wydaje się, że można jednoosobowo zarz��dzać Trybunałem Konstytucyjnym albo rozstrzygać o sprawach państwa&quot; — stwierdził Maciej Berek. W wywiadzie dla &quot;Gazety Wyborczej&quot; ujawnił, czy prowadzi rozmowy z sędziami TK, aby doprowadzić do zwołania zgromadzenia ogólnego.</description>
+            <description>Karolowi Nawrockiemu i Bogdanowi Święczkowskiemu &quot;wydaje się, że można jednoosobowo zarządzać Trybunałem Konstytucyjnym albo rozstrzygać o sprawach państwa&quot; — stwierdził Maciej Berek. W wywiadzie dla &quot;Gazety Wyborczej&quot; ujawnił, czy prowadzi rozmowy z sędziami TK, aby doprowadzić do zwołania zgromadzenia ogólnego.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e3525115-4747-4a1b-9506-7cfe2581a62e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 20 Oct 2026 04:33:40 GMT</pubDate>
             <guid isPermaLink="false">1bcc1119-28b3-4b76-9d75-8944f6af204f</guid></item><item>
@@ -70,5 +70,11 @@
             <description>Gdy tylko otrzymali pierwsze sygnały, nie zbagatelizowali zagrożenia. Policjanci z Wydziału Profilaktyki Społecznej, Nieletnich i Patologii z warszawskiej Woli zatrzymali 16-latka podejrzewanego o przygotowywanie się do zabójstwa wielu osób. W jego mieszkaniu służby zabezpieczyły cały arsenał niebezpiecznych przedmiotów. Decyzją sądu nastolatek został odizolowany.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/6d1d7b40d217da4be87cde0736b1d4cf.jpg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 21 Oct 2026 05:47:00 GMT</pubDate>
-            <guid isPermaLink="false">3970e827-1604-49a3-91bd-94480a49d538</guid></item></channel>
+            <guid isPermaLink="false">3970e827-1604-49a3-91bd-94480a49d538</guid></item><item>
+            <title>Breaking MSZ odpowiada władzom Lwowa. Wniosek o wpisanie na listę &quot;osób niepożądanych&quot;</title>
+            <link>https://www.fakt.pl/polityka/radoslaw-sikorski-reaguje-na-rok-upa-skierowal-wniosek/7y07f8e</link>
+            <description>Radosław Sikorski podpisał wniosek o wpisanie radnego Lwowa Swiatosława Szeremety na listę osób niepożądanych w Polsce. To autor pomysłu o ustanowieniu 2027 r. rokiem UPA i Romana Szuchewycza. Otoczenie prezydenta Ukrainy miało obiecać polskiemu MSZ, że uchwała nie wejdzie w życie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 21 Oct 2026 09:11:34 GMT</pubDate>
+            <guid isPermaLink="false">65dd2cec-dfa9-4e25-97a8-7f48eb0536e7</guid></item></channel>
             </rss>
