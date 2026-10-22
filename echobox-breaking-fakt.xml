@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 22 Oct 2026 11:38:13 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 22 Oct 2026 12:53:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Niespodziewana deklaracja Tuska. &quot;Zawnioskuję do prezydenta&quot;</title>
             <link>https://www.fakt.pl/polityka/andrzej-domanski-wicepremierem-donald-tusk-zapowiada-wniosek/qk7jjwy</link>
@@ -53,10 +53,28 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/cd250bfb-24a5-4468-b65c-bdd6bb435a5e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 22 Oct 2026 07:13:21 GMT</pubDate>
             <guid isPermaLink="false">36ef78a4-dbae-4ee9-b09f-3c9b139df2bf</guid></item><item>
+            <title>Breaking 6 lat temu wybrzmiało &quot;nigdy nie będziesz szła sama&quot;. Dziś kobiety znów wychodzą na ulice miast</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/protesty-kobiet-22-pazdziernika-mapa-miast-i-lista-strajkow/m74jtzk</link>
+            <description>&quot;Nigdy nie będziesz szła sama&quot; — to obiecałyśmy sobie sześć lat temu po wyroku trybunału Julii Przyłębskiej. Dziś to hasło znów poniesie się przez Polskę. W czwartek, 22 października, w blisko 30 miastach wybuchną masowe protesty. Każda manifestacja to wyraz wściekłości na złamane obietnice polityków w sprawie aborcji. Przedstawiamy listę miejscowości, w których zaplanowane są największe strajki.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4f517130-4e2a-4ee6-8374-d2feb74ff87c.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 22 Oct 2026 09:56:00 GMT</pubDate>
+            <guid isPermaLink="false">45d2095c-f8b2-40e8-9f3c-787bac2acd4a</guid></item><item>
             <title>Breaking Atak nożownika w ścisłym centrum Warszawy. Przy ul. Nowogrodzkiej trwa akcja policji</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/atak-nozownika-w-centrum-warszawy-policja-wyjasnia-okolicznosci-zdarzenia/8mjn8ls</link>
             <description>Do dramatycznych wydarzeń doszło w czwartek 22 października w godzinach popołudniowych w ścisłym centrum Warszawy. Na ulicy Nowogrodzkiej, w sąsiedztwie hotelu Novotel, nieznany sprawca zaatakował mężczyznę ostrym narzędziem. Poszkodowanego z ranami kłutymi karetka zabrała do jednego ze stołecznych szpitali. Jego stan nie jest na razie znany.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f57ea605-3f41-48a2-a98f-a7f12f9777eb.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/cdb049f7-29dd-4f5d-912f-6e84595b4889.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 22 Oct 2026 11:38:13 GMT</pubDate>
-            <guid isPermaLink="false">3d5b79aa-7fc8-47dd-8947-1b96c5e3990d</guid></item></channel>
+            <guid isPermaLink="false">3d5b79aa-7fc8-47dd-8947-1b96c5e3990d</guid></item><item>
+            <title>Breaking Pogrzeby strażaków z Niska. Uroczystości mają charakter państwowy</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/tragiczny-pozar-w-nisku-panstwowe-pogrzeby-strazakow-bez-kamer/xsn6q4q</link>
+            <description>Uroczystości pogrzebowe śp. asp. Bartłomieja Pieroga i śp. mł. kpt. Wojciecha Garbacza zaplanowano na czwartek i piątek, a obie ceremonie mają charakter państwowy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9de3536c-d69c-436a-86bb-5b9ffb842922.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 22 Oct 2026 11:55:20 GMT</pubDate>
+            <guid isPermaLink="false">4e18b17e-5252-4d80-8968-020abf449385</guid></item><item>
+            <title>Breaking &quot;Chłopiec prosił, żeby ich uratować&quot;. Wstrząsające zeznania po tragedii w Łebieńskiej Hucie</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/wypadek-w-lebienskiej-hucie-zginal-19-letni-igor-marcin-r-na-lawie-oskarzonych/kr5s72v</link>
+            <description>&quot;Prosił, żeby ich uratować&quot; — te słowa miały paść z ust 12-letniego Ksawerego, tuż po tragicznym wypadku, do którego doszło rok temu w Łebieńskiej Hucie na Pomorzu. Na miejscu rozegrały się sceny, o których świadkowie z trudem mówili w środę (21 października) w wejherowskim sądzie. Kiedy opowiadali o tym, jak znaleźli ciało 10-letniego Igora, na sali rozległ się szloch. Zimną krew zachował jedynie siedzący na ławie oskarżonych Marcin R.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1bcdd316-038e-449a-b1d1-fc395643fda5.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 22 Oct 2026 12:53:00 GMT</pubDate>
+            <guid isPermaLink="false">6eb9a678-a5e0-43e9-b2a4-ae60054a633f</guid></item></channel>
             </rss>
