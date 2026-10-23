@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 23 Oct 2026 13:43:12 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 23 Oct 2026 17:51:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tragiczny finał katastrofy kolejowej na Mazowszu. Nie żyje kierowca ciężarówki</title>
-            <link>https://www.fakt.pl/wydarzenia/katastrofa-kolejowa-w-sokolnikach-suchych-nie-zyje-kierowca-ciezarowki/pf9ez11</link>
-            <description>Dramatyczne informacje po katastrofie kolejowej w Sokolnikach Suchych na Mazowszu. Kierowca ciężarówki, która 9 września zderzyła się z pociągiem PKP Intercity, zmarł w szpitalu 15 października. W wyniku tragedii życie straciły już dwie osoby. Prokuratura nadal bada okoliczności wypadku.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/4a425953-34f6-4de5-b4be-61be2d30d1bf.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 21 Oct 2026 15:13:00 GMT</pubDate>
-            <guid isPermaLink="false">ad1303e5-c9ad-46e8-9b63-f601166b06dc</guid></item><item>
             <title>Breaking Będą protesty w sprawie aborcji. Rzecznik dostał pytanie o ustawy. &quot;Nie znam decyzji pana prezydenta&quot;</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-i-o-ustawy-ws-aborcji-nie-znam-decyzji-pana-prezydenta/gr7412r</link>
             <description>Czy rzecznik prezydenta wyobraża sobie podpisy Karola Nawrockiego pod ustawami o dekryminalizacji aborcji i przywróceniu jednej z przesłanek aborcyjnych? — Różne rzeczy mogę sobie wyobrazić. Natomiast nie wiem, czy sobie jestem w stanie wyobrazić podpis pod tymi ustawami, bo nie znam decyzji pana prezydenta, bo te ustawy jeszcze z parlamentu nie wyszły — odpowiadał na to pytanie w TVN24 Rafał Leśkiewicz.</description>
@@ -56,7 +50,13 @@
             <title>Breaking Zawieszenie broni w Ołeszkach. Biały Dom: doprowadziła do niego Melania Trump</title>
             <link>https://www.fakt.pl/polityka/rosja-i-ukraina-zawieszaja-bron-bialy-dom-doprowadzila-do-tego-melania-trump/tf1ee1d</link>
             <description>Melania Trump doprowadziła do zawieszenia broni między Rosją a Ukrainą w Ołeszkach — poinformował Biały Dom. Sytuacja w mieście jest tragiczna. Jak alarmowały władze, brakuje tam żywności i wody.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZDA7MDA_/d4516b55-73d6-4b3f-adb8-ac7dedad1b75.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 23 Oct 2026 13:43:12 GMT</pubDate>
-            <guid isPermaLink="false">203cda01-fc0f-4f01-ba44-01f435c2d23a</guid></item></channel>
+            <guid isPermaLink="false">203cda01-fc0f-4f01-ba44-01f435c2d23a</guid></item><item>
+            <title>Breaking Strzały podczas pogrzebu. Wśród poszkodowanych polsko-jordańska rodzina</title>
+            <link>https://www.fakt.pl/wydarzenia/swiat/atak-terrorystyczny-w-jordanii-wsrod-poszkodowanych-polska-rodzina/nln3gnb</link>
+            <description>Uzbrojeni napastnicy otworzyli ogień do uczestników uroczystości pogrzebowej w jordańskiej prowincji Kerak. Zginęło siedem osób, a ponad 30 zostało rannych. Wśród poszkodowanych w tym zamachu znalazła się polsko-jordańska rodzina. Ministerstwo Spraw Zagranicznych wydało już oficjalny komunikat, ujawniając szczegóły zdarzenia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a7261bf-181d-4ab4-a953-c77f66a3d4dc.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 23 Oct 2026 17:51:00 GMT</pubDate>
+            <guid isPermaLink="false">7bf72c53-a786-4394-98d6-b69bf2a54493</guid></item></channel>
             </rss>
