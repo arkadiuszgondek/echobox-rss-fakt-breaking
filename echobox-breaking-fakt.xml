@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 22 Oct 2026 18:29:13 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 23 Oct 2026 07:38:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Ich świat przestał istnieć na 339. kilometrze A1. &quot;Córuniu, miłość nie kończy się&quot;. Dziś Majtczak usłyszy wyrok</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lodz/co-zrobil-sebastian-majtczak-dzis-zapadnie-wyrok-w-sprawie-smierci-rodziny-na-a1/xrqqwb3</link>
-            <description>Sebastian Majtczak skazany na najwyższy wymiar kary? Dziś, 21 października, poznamy decyzję sądu. Zanim przypomnimy to, co zrobił Sebastian Majtczak, wspomnijmy o ofiarach tej tragedii. &quot;Córuniu, miłość nie kończy się u bram śmierci&quot; — ten napis na grobie Martyny, Patryka i 5-letniego Oliwiera do dziś łamie serca.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/MGY7MDA_/f0575b12-71ce-4f80-8d7e-058cfbee6408.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 21 Oct 2026 03:30:00 GMT</pubDate>
-            <guid isPermaLink="false">c71c4335-7f1c-401f-b542-987f6bba21bf</guid></item><item>
-            <title>Breaking 16-latek z Warszawy miał planować zabójstwo wielu osób. W domu miał cały arsenał</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/groza-w-warszawie-16-latek-mial-planowac-zabojstwo-wielu-osob/jz7mc20</link>
-            <description>Gdy tylko otrzymali pierwsze sygnały, nie zbagatelizowali zagrożenia. Policjanci z Wydziału Profilaktyki Społecznej, Nieletnich i Patologii z warszawskiej Woli zatrzymali 16-latka podejrzewanego o przygotowywanie się do zabójstwa wielu osób. W jego mieszkaniu służby zabezpieczyły cały arsenał niebezpiecznych przedmiotów. Decyzją sądu nastolatek został odizolowany.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/6d1d7b40d217da4be87cde0736b1d4cf.jpg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 21 Oct 2026 05:47:00 GMT</pubDate>
-            <guid isPermaLink="false">3970e827-1604-49a3-91bd-94480a49d538</guid></item><item>
             <title>Breaking MSZ odpowiada władzom Lwowa. &quot;Lista osób niepożądanych w Polsce&quot;</title>
             <link>https://www.fakt.pl/polityka/radoslaw-sikorski-reaguje-na-rok-upa-skierowal-wniosek/7y07f8e</link>
             <description>Radosław Sikorski podpisał wniosek o wpisanie radnego Lwowa Swiatosława Szeremety na listę osób niepożądanych w Polsce. To autor pomysłu o ustanowieniu 2027 r. rokiem UPA i Romana Szuchewycza. Otoczenie prezydenta Ukrainy miało obiecać polskiemu MSZ, że uchwała nie wejdzie w życie.</description>
@@ -74,7 +62,13 @@
             <title>Breaking Ministra odchodzi z rządu Tuska. &quot;Ważniejsze niż stołki&quot;</title>
             <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-donalda-tuska/cm0t4q0</link>
             <description>Katarzyna Pełczyńska-Nałęcz odchodzi z rządu Donalda Tuska. &quot;Koalicja, w tym niestety znaczna część posłów Polski 2050, stanęła przeciw ludziom, a za politykierskimi układami&quot; — napisała ministra funduszy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="http://ocdn.eu/images/pulscms/YTg7MDA_/064a58f5-c31b-4b77-aeed-5c1811a2731c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 22 Oct 2026 18:29:13 GMT</pubDate>
-            <guid isPermaLink="false">de439e25-3c44-48f6-b4eb-3a7f0f168d29</guid></item></channel>
+            <guid isPermaLink="false">de439e25-3c44-48f6-b4eb-3a7f0f168d29</guid></item><item>
+            <title>Breaking Potrącenie 3-latka w Jedliczu. Śledczy przekazali tragiczne informacje</title>
+            <link>https://www.fakt.pl/wydarzenia/potracenie-3-latka-w-jedliczu-sledczy-przekazali-tragiczne-informacje/4f7km59</link>
+            <description>— Niestety, otrzymaliśmy informację o śmierci 3-letniego dziecka, które zostało potrącone na terenie przedszkola w Jedliczu — przekazała &quot;Faktowi&quot; prok. Marta Kolendowska-Matejczuk, rzeczniczka prasowa Prokuratury Okręgowej w Krośnie. Chłopiec został tam ciężko ranny podczas pokazów medycznych. Od kilku dni o jego życie walczyli lekarze z rzeszowskiego szpitala.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 23 Oct 2026 07:38:00 GMT</pubDate>
+            <guid isPermaLink="false">d984e693-5d9e-4e83-9453-f928b03ce2f5</guid></item></channel>
             </rss>
