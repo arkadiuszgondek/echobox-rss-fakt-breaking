@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 25 Oct 2026 08:51:59 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 25 Oct 2026 11:56:53 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zawieszenie broni w Ołeszkach. Biały Dom: doprowadziła do niego Melania Trump</title>
             <link>https://www.fakt.pl/polityka/rosja-i-ukraina-zawieszaja-bron-bialy-dom-doprowadzila-do-tego-melania-trump/tf1ee1d</link>
@@ -22,5 +22,11 @@
             <description>Włodzimierz Czarzasty zaapelował do Karola Nawrockiego, by &quot;nie opowiadał, że nie widzi zagrożenia, że zagrożenie nie rośnie&quot;. — Władimir Putin jest mordercą, a Donald Trump jest niepewny — argumentował marszałek Sejmu. Stwierdził, że prezydent &quot;nie ma prawa usypiać [czujności — przyp. red.] narodu&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f972fdcf-3321-4ea3-84de-c2a41ed6c23e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 25 Oct 2026 08:51:59 GMT</pubDate>
-            <guid isPermaLink="false">4d0be89c-5943-4d16-93ae-f218204b0681</guid></item></channel>
+            <guid isPermaLink="false">4d0be89c-5943-4d16-93ae-f218204b0681</guid></item><item>
+            <title>Breaking Były premier nie zgadza się z Pełczyńską-Nałęcz. &quot;Nie potrafiła utrzymać swojej partii w ryzach&quot;</title>
+            <link>https://www.fakt.pl/polityka/marcinkiewicz-o-pelczynskiej-nalecz-nie-potrafi-dzialac-zespolowo/sf4qgvk</link>
+            <description>— Ja uważam, że koalicja rządząca dziś jest lepsza niż była trzy lata temu. Mimo że to jest bardzo trudna koalicja, bo jest &quot;od Sasa do Lasa&quot;, od lewa do prawa, a jednak nauczyła się ze sobą pracować — mówi &quot;Faktowi&quot; Kazimierz Marcinkiewicz, gdy pytamy o krytyczne słowa Katarzyny Pełczyńskiej-Nałęcz na temat koalicji rządowej. — On nie potrafiła utrzymać swojej partii w ryzach — dodaje.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4c2f94b4-36ef-4622-b4bd-86a212508bbe.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 25 Oct 2026 11:56:53 GMT</pubDate>
+            <guid isPermaLink="false">9707c6be-5985-4359-9869-b5bb13f2b2f4</guid></item></channel>
             </rss>
