@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 26 Oct 2026 13:30:04 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 26 Oct 2026 17:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
@@ -52,5 +52,11 @@
             <description>Śnieg w Tatrach pada coraz intensywniej, a biało zrobiło się także na Gubałówce i w wyżej położonych miejscowościach Podhala. W samym Zakopanem pojawia się głównie deszcz, ale wystarczy pojechać wyżej, by zobaczyć zupełnie inną aurę. IMGW prognozuje w Tatrach przyrost pokrywy śnieżnej o około 7 cm.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/6863383b-6765-4282-af3c-a8a1071165fa.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 26 Oct 2026 13:30:04 GMT</pubDate>
-            <guid isPermaLink="false">ec1e715f-d493-4e33-999e-45fcc21f293a</guid></item></channel>
+            <guid isPermaLink="false">ec1e715f-d493-4e33-999e-45fcc21f293a</guid></item><item>
+            <title>Breaking Prokuratura odpowiada ojcu Łukasza Litewki. Biegli przygotowali kluczową ekspertyzę</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/slask/wypadek-lukasza-litewki-prokuratura-reaguje-na-zarzuty-ojca/57fndlt</link>
+            <description>Zdzisław Litewka (65 l.), ojciec tragicznie zmarłego Łukasza Litewki, w rozmowie z &quot;Faktem&quot; skrytykował sposób prowadzenia śledztwa przez prokuraturę. Zarzucił śledczym m.in. zaniedbania, brak kontaktu z rodziną oraz prowadzenie postępowania &quot;pod z góry założoną tezę&quot;. Do zarzutów odniósł się Bartosz Kilian, prokurator prowadzący śledztwo oraz rzecznik prasowy Prokuratury Okręgowej w Sosnowcu. Poinformował &quot;Fakt&quot;, że biegli przygotowali już ekspertyzę dotyczącą rekonstrukcji wypadku. Liczy ona ponad 200 stron i na dniach ma trafić do prokuratury.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2e756004-4743-4940-98ed-f13fbc1a3c58.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
+            <guid isPermaLink="false">66d9bf42-92a2-4724-92de-01d39d4c2273</guid></item></channel>
             </rss>
