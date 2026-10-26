@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 25 Oct 2026 13:07:10 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 26 Oct 2026 07:17:43 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Strzały podczas pogrzebu. Są zabici. Wśród poszkodowanych polsko-jordańska rodzina</title>
-            <link>https://www.fakt.pl/wydarzenia/swiat/atak-terrorystyczny-w-jordanii-wsrod-poszkodowanych-polska-rodzina/nln3gnb</link>
-            <description>Uzbrojeni napastnicy otworzyli ogień do uczestników uroczystości pogrzebowej w jordańskiej prowincji Kerak. Zginęło siedem osób, a ponad 30 zostało rannych. Wśród poszkodowanych w tym zamachu znalazła się polsko-jordańska rodzina. Polskie Ministerstwo Spraw Zagranicznych oraz władze w Ammanie wydały już oficjalne komunikaty, ujawniając wstrząsające kulisy i przebieg tej tragedii.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f93298d5-1e63-4514-9599-461b0c73dac3.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 23 Oct 2026 17:51:00 GMT</pubDate>
-            <guid isPermaLink="false">7bf72c53-a786-4394-98d6-b69bf2a54493</guid></item><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
             <description>Włodzimierz Czarzasty zaapelował do Karola Nawrockiego, by &quot;nie opowiadał, że nie widzi zagrożenia, że zagrożenie nie rośnie&quot;. — Władimir Putin jest mordercą, a Donald Trump jest niepewny — argumentował marszałek Sejmu. Stwierdził, że prezydent &quot;nie ma prawa usypiać [czujności — przyp. red.] narodu&quot;.</description>
@@ -26,7 +20,13 @@
             <title>Breaking Zdjęcia wyrzuconych godeł przed biurem RPO. Mamy komentarz policji</title>
             <link>https://www.fakt.pl/polityka/wyrzucone-godla-przed-biurem-rpo-policja-o-przebiegu-interwencji/jf59hr0</link>
             <description>Czytelnik portalu Miejski Reporter udostępnił zdjęcia, na których widać oprawione godła państwowe, które miały zostać wyrzucone do śmietnika przed biurem Rzecznika Praw Obywatelskich w Warszawie. Na miejscu interweniowała policja. — Funkcjonariusze nie potwierdzili informacji zawartych w zgłoszeniu — przekazał &quot;Faktowi&quot; wydział prasowy KSP. Teraz policjanci przyjrzą się fotografiom.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/c8ab8eb0-f531-4292-8a81-295335073953.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/42f6b181-2f63-4e99-a780-801d1b47654a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 25 Oct 2026 13:07:10 GMT</pubDate>
-            <guid isPermaLink="false">43202b36-fd56-43d5-b062-55eb82961d6b</guid></item></channel>
+            <guid isPermaLink="false">43202b36-fd56-43d5-b062-55eb82961d6b</guid></item><item>
+            <title>Breaking Kulisy rezygnacji Pełczyńskiej-Nałęcz. &quot;Otworzyli butelki z trunkami&quot;</title>
+            <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-tuska-kulisy-rezygnacji/sxbdgqf</link>
+            <description>— Dawno nie słyszałem w Sejmie tak głośnego &quot;uff&quot; i &quot;nareszcie&quot;. Mało jest osób, które żałują jej w rządzie — powiedział Michał Tracz z TVN24, ujawniając kulisy odejścia Katarzyny Pełczyńskiej-Nałęcz. — Wielu pracowników ministerstwa, z którego odchodzi, otworzyło butelki z trunkami procentowymi — dodała z kolei Agata Adamek.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b9db2257-bf46-4079-bfaf-2340646c27a1.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 26 Oct 2026 07:17:43 GMT</pubDate>
+            <guid isPermaLink="false">577115bb-ba65-493e-8027-a60cfc90bee1</guid></item></channel>
             </rss>
