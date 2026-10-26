@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 26 Oct 2026 07:17:43 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 26 Oct 2026 09:07:47 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
@@ -28,5 +28,11 @@
             <description>— Dawno nie słyszałem w Sejmie tak głośnego &quot;uff&quot; i &quot;nareszcie&quot;. Mało jest osób, które żałują jej w rządzie — powiedział Michał Tracz z TVN24, ujawniając kulisy odejścia Katarzyny Pełczyńskiej-Nałęcz. — Wielu pracowników ministerstwa, z którego odchodzi, otworzyło butelki z trunkami procentowymi — dodała z kolei Agata Adamek.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b9db2257-bf46-4079-bfaf-2340646c27a1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 26 Oct 2026 07:17:43 GMT</pubDate>
-            <guid isPermaLink="false">577115bb-ba65-493e-8027-a60cfc90bee1</guid></item></channel>
+            <guid isPermaLink="false">577115bb-ba65-493e-8027-a60cfc90bee1</guid></item><item>
+            <title>Breaking Padło pytanie o dymisję w rządzie. Zaskakujące słowa Tuska. &quot;Krzyż na drogę&quot;</title>
+            <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-donald-tusk-komentuje/vtgpmtp</link>
+            <description>— Odeszła. Krzyż na drogę — powiedział Donald Tusk o Katarzynie Pełczyńskiej-Nałęcz. — To nie była moja decyzja. To nie ja ją wyrzucałem z jej partii. Wszyscy, którzy poznali panią minister, wiedzą dobrze, że dobrze się stało — dodał premier. Odniósł się również do kandydatek na jej stanowisko.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/0edefc33-df1e-4c2c-b234-153358715674.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 26 Oct 2026 09:07:47 GMT</pubDate>
+            <guid isPermaLink="false">820e3f4c-b5e1-415e-917f-3a6552ce741f</guid></item></channel>
             </rss>
