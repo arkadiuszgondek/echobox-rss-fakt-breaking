@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 26 Oct 2026 10:33:57 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 26 Oct 2026 11:31:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
@@ -40,5 +40,11 @@
             <description>Telewizja wPolsce24 i portal wPolityce.pl ujawniły taśmy Katarzyny Pełczyńskiej. — Kilkukrotnie spotkał się za moimi plecami z Tuskiem, żeby rozmawiać o wyrzuceniu mnie z rządu i zajęciu mojego stołka — miała powiedzieć o Szymonie Hołowni.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e62f3eaf-b953-41b6-89a2-1c6511af2af8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 26 Oct 2026 10:33:57 GMT</pubDate>
-            <guid isPermaLink="false">55b39146-5367-4805-8fb0-ef21e5c502cd</guid></item></channel>
+            <guid isPermaLink="false">55b39146-5367-4805-8fb0-ef21e5c502cd</guid></item><item>
+            <title>Breaking Grzegorz Braun usłyszał sześć zarzutów</title>
+            <link>https://www.fakt.pl/polityka/incydent-w-szpitalu-w-olesnicy-grzegorz-braun-uslyszal-szesc-zarzutow/3fqptcp</link>
+            <description>Grzegorz Braun usłyszał zarzuty. Chodzi o incydent w szpitalu w Oleśnicy na Dolnym Śląsku i m.in. bezprawne pozbawienie wolności lekarki. Polityk nie przyznał się do winy. Grozi mu do pięciu lat więzienia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 26 Oct 2026 11:31:25 GMT</pubDate>
+            <guid isPermaLink="false">fadb49bb-f410-49dc-820d-f20cc88b5254</guid></item></channel>
             </rss>
