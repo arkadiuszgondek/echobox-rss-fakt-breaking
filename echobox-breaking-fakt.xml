@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 26 Oct 2026 17:00:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 07:40:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
@@ -58,5 +58,11 @@
             <description>Zdzisław Litewka (65 l.), ojciec tragicznie zmarłego Łukasza Litewki, w rozmowie z &quot;Faktem&quot; skrytykował sposób prowadzenia śledztwa przez prokuraturę. Zarzucił śledczym m.in. zaniedbania, brak kontaktu z rodziną oraz prowadzenie postępowania &quot;pod z góry założoną tezę&quot;. Do zarzutów odniósł się Bartosz Kilian, prokurator prowadzący śledztwo oraz rzecznik prasowy Prokuratury Okręgowej w Sosnowcu. Poinformował &quot;Fakt&quot;, że biegli przygotowali już ekspertyzę dotyczącą rekonstrukcji wypadku. Liczy ona ponad 200 stron i na dniach ma trafić do prokuratury.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2e756004-4743-4940-98ed-f13fbc1a3c58.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
-            <guid isPermaLink="false">66d9bf42-92a2-4724-92de-01d39d4c2273</guid></item></channel>
+            <guid isPermaLink="false">66d9bf42-92a2-4724-92de-01d39d4c2273</guid></item><item>
+            <title>Breaking Hołownia chce wrócić do rządu. Czarzasty już się zgodził. &quot;Szymon może przelicytować&quot;</title>
+            <link>https://www.fakt.pl/polityka/szymon-holownia-chce-zostac-wicepremierem-i-ministrem-kultury/8njbc5w</link>
+            <description>Szymon Hołownia chce zostać wicepremierem i ministrem kultury w rządzie Donalda Tuska — wynika z ustaleń mediów. Były marszałek Sejmu miałby objąć stanowisko podczas rekonstrukcji gabinetu, do której doprowadziło odejście Katarzyny Pełczyńskiej-Nałęcz. Na taki scenariusz zgodził się Włodzimierz Czarzasty w rozmowie z &quot;Rzeczpospolitą&quot;. — Nie mamy nic przeciwko temu — powiedział lider Nowej Lewicy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3def3ead-ed25-4ea5-b727-37369c11a13e.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 07:40:00 GMT</pubDate>
+            <guid isPermaLink="false">519ef57b-f424-4fc6-a10a-2e54773c3eaa</guid></item></channel>
             </rss>
