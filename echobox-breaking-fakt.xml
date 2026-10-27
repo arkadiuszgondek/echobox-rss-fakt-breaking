@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 27 Oct 2026 08:25:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 08:55:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
-            <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
-            <description>Włodzimierz Czarzasty zaapelował do Karola Nawrockiego, by &quot;nie opowiadał, że nie widzi zagrożenia, że zagrożenie nie rośnie&quot;. — Władimir Putin jest mordercą, a Donald Trump jest niepewny — argumentował marszałek Sejmu. Stwierdził, że prezydent &quot;nie ma prawa usypiać [czujności — przyp. red.] narodu&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f972fdcf-3321-4ea3-84de-c2a41ed6c23e.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 25 Oct 2026 08:51:59 GMT</pubDate>
-            <guid isPermaLink="false">4d0be89c-5943-4d16-93ae-f218204b0681</guid></item><item>
             <title>Breaking Były premier nie zgadza się z Pełczyńską-Nałęcz. &quot;Nie potrafiła utrzymać swojej partii w ryzach&quot;</title>
             <link>https://www.fakt.pl/polityka/marcinkiewicz-o-pelczynskiej-nalecz-nie-potrafi-dzialac-zespolowo/sf4qgvk</link>
             <description>— Ja uważam, że koalicja rządząca dziś jest lepsza niż była trzy lata temu. Mimo że to jest bardzo trudna koalicja, bo jest &quot;od Sasa do Lasa&quot;, od lewa do prawa, a jednak nauczyła się ze sobą pracować — mówi &quot;Faktowi&quot; Kazimierz Marcinkiewicz, gdy pytamy o krytyczne słowa Katarzyny Pełczyńskiej-Nałęcz na temat koalicji rządowej. — On nie potrafiła utrzymać swojej partii w ryzach — dodaje.</description>
@@ -70,5 +64,11 @@
             <description>Prokuratorzy chcą przesłuchać Karola Nawrockiego w śledztwie dotyczącym sytuacji w Trybunale Konstytucyjnym. Jak przekazał Dariusz Korneluk, zwrócili się już do prezydenta o wskazanie dogodnego terminu. — Pan prezydent ma swoją rolę i wypowiadał się wielokrotnie na temat sędziów Trybunału Konstytucyjnego. [...] Chcemy go przesłuchać — mówił w TOK FM.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/a1da3bce-019c-4513-8e90-fc77c445b1ee.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 27 Oct 2026 08:25:00 GMT</pubDate>
-            <guid isPermaLink="false">60672640-c006-42f1-9faa-c6accd73141c</guid></item></channel>
+            <guid isPermaLink="false">60672640-c006-42f1-9faa-c6accd73141c</guid></item><item>
+            <title>Breaking Tak chcą pokonać Święczkowskiego? Zastępca Żurka wskazał sposób</title>
+            <link>https://www.fakt.pl/polityka/dariusz-korneluk-o-immunitecie-bogdana-swieczkowskiego/j90nv6p</link>
+            <description>Dariusz Korneluk mówił w TOK FM o postępowaniu dotyczącym Bogdana Święczkowskiego i ewentualnym wniosku o uchylenie jego immunitetu. Prokurator Krajowy wskazał na sytuację, w której immunitet nie chroni osoby nim objętej, co może zaistnieć w przypadku aresztowania prezesa Trybunału Konstytucyjnego. — To dotyczy tak sędziów, prokuratorów i parlamentarzystów — podkreślił.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/OTA7MDA_/086db02f-36b9-49c0-b86c-ff035b2cc05f.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 08:55:00 GMT</pubDate>
+            <guid isPermaLink="false">1bec8c71-33e2-4a5b-af79-1101693b6e44</guid></item></channel>
             </rss>
