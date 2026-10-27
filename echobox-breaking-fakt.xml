@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 27 Oct 2026 08:55:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 10:00:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Były premier nie zgadza się z Pełczyńską-Nałęcz. &quot;Nie potrafiła utrzymać swojej partii w ryzach&quot;</title>
             <link>https://www.fakt.pl/polityka/marcinkiewicz-o-pelczynskiej-nalecz-nie-potrafi-dzialac-zespolowo/sf4qgvk</link>
@@ -70,5 +70,11 @@
             <description>Dariusz Korneluk mówił w TOK FM o postępowaniu dotyczącym Bogdana Święczkowskiego i ewentualnym wniosku o uchylenie jego immunitetu. Prokurator Krajowy wskazał na sytuację, w której immunitet nie chroni osoby nim objętej, co może zaistnieć w przypadku aresztowania prezesa Trybunału Konstytucyjnego. — To dotyczy tak sędziów, prokuratorów i parlamentarzystów — podkreślił.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/OTA7MDA_/086db02f-36b9-49c0-b86c-ff035b2cc05f.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 27 Oct 2026 08:55:00 GMT</pubDate>
-            <guid isPermaLink="false">1bec8c71-33e2-4a5b-af79-1101693b6e44</guid></item></channel>
+            <guid isPermaLink="false">1bec8c71-33e2-4a5b-af79-1101693b6e44</guid></item><item>
+            <title>Breaking Pełczyńska-Nałęcz oskarża Tuska. Zarzuca mu &quot;przemocowość&quot;</title>
+            <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-oskarza-donalda-tuska-o-przemocowe-zarzadzanie/ngrs6pb</link>
+            <description>Katarzyna Pełczyńska-Nałęcz zarzuca Donaldowi Tuskowi przemocowy sposób zarządzania koalicją rządzącą. Była ministra opowiedziała również o sytuacji, do której miało dojść podczas posiedzenia Rady Ministrów, gdy przebywała z wizytą służbową w Rumunii. Według jej relacji z jej nieobecności mieli żartować członkowie rządu. — To jest przemocowość informacyjna, personalna, osobista, poniżanie, takie lekceważenie — mówiła w Kanale Zero.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/Njk7MDA_/5b776850-342a-47c9-bd6c-4abf2ed8b6cc.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
+            <guid isPermaLink="false">a868bac3-643d-459b-b735-9bb8e969e48d</guid></item></channel>
             </rss>
