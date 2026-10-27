@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 27 Oct 2026 10:00:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 11:48:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Były premier nie zgadza się z Pełczyńską-Nałęcz. &quot;Nie potrafiła utrzymać swojej partii w ryzach&quot;</title>
-            <link>https://www.fakt.pl/polityka/marcinkiewicz-o-pelczynskiej-nalecz-nie-potrafi-dzialac-zespolowo/sf4qgvk</link>
-            <description>— Ja uważam, że koalicja rządząca dziś jest lepsza niż była trzy lata temu. Mimo że to jest bardzo trudna koalicja, bo jest &quot;od Sasa do Lasa&quot;, od lewa do prawa, a jednak nauczyła się ze sobą pracować — mówi &quot;Faktowi&quot; Kazimierz Marcinkiewicz, gdy pytamy o krytyczne słowa Katarzyny Pełczyńskiej-Nałęcz na temat koalicji rządowej. — On nie potrafiła utrzymać swojej partii w ryzach — dodaje.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/4c2f94b4-36ef-4622-b4bd-86a212508bbe.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 25 Oct 2026 11:56:53 GMT</pubDate>
-            <guid isPermaLink="false">9707c6be-5985-4359-9869-b5bb13f2b2f4</guid></item><item>
             <title>Breaking Zdjęcia wyrzuconych godeł przed biurem RPO. Mamy komentarz policji</title>
             <link>https://www.fakt.pl/polityka/wyrzucone-godla-przed-biurem-rpo-policja-o-przebiegu-interwencji/jf59hr0</link>
             <description>Czytelnik portalu Miejski Reporter udostępnił zdjęcia, na których widać oprawione godła państwowe, które miały zostać wyrzucone do śmietnika przed biurem Rzecznika Praw Obywatelskich w Warszawie. Na miejscu interweniowała policja. — Funkcjonariusze nie potwierdzili informacji zawartych w zgłoszeniu — przekazał &quot;Faktowi&quot; wydział prasowy KSP. Teraz policjanci przyjrzą się fotografiom.</description>
@@ -76,5 +70,11 @@
             <description>Katarzyna Pełczyńska-Nałęcz zarzuca Donaldowi Tuskowi przemocowy sposób zarządzania koalicją rządzącą. Była ministra opowiedziała również o sytuacji, do której miało dojść podczas posiedzenia Rady Ministrów, gdy przebywała z wizytą służbową w Rumunii. Według jej relacji z jej nieobecności mieli żartować członkowie rządu. — To jest przemocowość informacyjna, personalna, osobista, poniżanie, takie lekceważenie — mówiła w Kanale Zero.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/Njk7MDA_/5b776850-342a-47c9-bd6c-4abf2ed8b6cc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 27 Oct 2026 10:00:00 GMT</pubDate>
-            <guid isPermaLink="false">a868bac3-643d-459b-b735-9bb8e969e48d</guid></item></channel>
+            <guid isPermaLink="false">a868bac3-643d-459b-b735-9bb8e969e48d</guid></item><item>
+            <title>Breaking Znany dziennikarz oskarżony. &quot;Znęcanie się psychiczne i fizyczne nad rodziną&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/dziennikarz-leszek-k-oskarzony-grozby-wobec-komendanta-i-znecanie/phnn45r</link>
+            <description>Prokuratura Okręgowa w Warszawie skierowała akt oskarżenia przeciwko znanemu dziennikarzowi śledczemu. Leszek K. odpowie przed sądem za znęcanie się nad żoną i córkami. Śledczy badają jednak kolejne wątki tej sprawy, w których pojawia się nielegalna broń i maile z groźbami do komendanta policji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/eb504c17-b369-497c-bc4e-df8230ac28d3.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 11:48:00 GMT</pubDate>
+            <guid isPermaLink="false">b973f919-f156-4892-9a10-437e2b7c61c3</guid></item></channel>
             </rss>
