@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 27 Oct 2026 07:40:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 08:25:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Czarzasty wywołał Nawrockiego. &quot;Niech pan nie opowiada&quot;</title>
             <link>https://www.fakt.pl/polityka/wlodzimierz-czarzasty-z-apelem-do-karola-nawrockiego-zagrozenie/847tt19</link>
@@ -64,5 +64,11 @@
             <description>Szymon Hołownia chce zostać wicepremierem i ministrem kultury w rządzie Donalda Tuska — wynika z ustaleń mediów. Były marszałek Sejmu miałby objąć stanowisko podczas rekonstrukcji gabinetu, do której doprowadziło odejście Katarzyny Pełczyńskiej-Nałęcz. Na taki scenariusz zgodził się Włodzimierz Czarzasty w rozmowie z &quot;Rzeczpospolitą&quot;. — Nie mamy nic przeciwko temu — powiedział lider Nowej Lewicy.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/3def3ead-ed25-4ea5-b727-37369c11a13e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 27 Oct 2026 07:40:00 GMT</pubDate>
-            <guid isPermaLink="false">519ef57b-f424-4fc6-a10a-2e54773c3eaa</guid></item></channel>
+            <guid isPermaLink="false">519ef57b-f424-4fc6-a10a-2e54773c3eaa</guid></item><item>
+            <title>Breaking Prezydent zostanie przesłuchany? Prokuratorzy zwrócili się do Nawrockiego</title>
+            <link>https://www.fakt.pl/polityka/prokuratorzy-chca-przesluchac-prezydenta-karola-nawrockiego-chodzi-o-tk/zr3k36r</link>
+            <description>Prokuratorzy chcą przesłuchać Karola Nawrockiego w śledztwie dotyczącym sytuacji w Trybunale Konstytucyjnym. Jak przekazał Dariusz Korneluk, zwrócili się już do prezydenta o wskazanie dogodnego terminu. — Pan prezydent ma swoją rolę i wypowiadał się wielokrotnie na temat sędziów Trybunału Konstytucyjnego. [...] Chcemy go przesłuchać — mówił w TOK FM.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a1da3bce-019c-4513-8e90-fc77c445b1ee.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 08:25:00 GMT</pubDate>
+            <guid isPermaLink="false">60672640-c006-42f1-9faa-c6accd73141c</guid></item></channel>
             </rss>
