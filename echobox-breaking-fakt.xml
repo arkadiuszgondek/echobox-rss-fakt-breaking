@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 27 Oct 2026 14:40:23 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 27 Oct 2026 15:53:29 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Kulisy rezygnacji Pełczyńskiej-Nałęcz. &quot;Otworzyli butelki z trunkami&quot;</title>
             <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-odchodzi-z-rzadu-tuska-kulisy-rezygnacji/sxbdgqf</link>
@@ -88,5 +88,11 @@
             <description>— Nie bardzo rozumiem, dlaczego używa takich słów jak &quot;zaczepiać&quot;. (...) Zaczepić to może kibol, nie funkcjonariusz policji — mówi w rozmowie z &quot;Faktem&quot; szef policyjnych związkowców Rafał Jankowski, odpowiadając na słowa Bogdana Święczkowskiego. Kilka dni temu prezes Trybunału Konstytucyjnego wysłał list do komendanta głównego policji, w którym &quot;zażądał&quot; wyjaśnień.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/be74fcbd-f636-40df-900d-e54fd420f918.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 27 Oct 2026 14:40:23 GMT</pubDate>
-            <guid isPermaLink="false">cc9916d9-44d2-4c5d-90fa-7aa58f0ef824</guid></item></channel>
+            <guid isPermaLink="false">cc9916d9-44d2-4c5d-90fa-7aa58f0ef824</guid></item><item>
+            <title>Breaking Nadal nie wiadomo, czyje zwłoki wyłowiono z Wisły w Warszawie. Prokuratura: dokumenty można podrzucić</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/warszawa-cialo-mlodej-kobiety-wylowione-z-wisly-trwa-identyfikacja/v6nv9v7</link>
+            <description>Z Wisły w rejonie Mostu Świętokrzyskiego w Warszawie wydobyto we wtorek 27 października ciało młodej kobiety. Znalazła je ekipa poszukiwawcza Daniela Dymińskiego, ojca zaginionego w 2023 r. Krzysztofa. Od razu pojawiło się podejrzenie, że wydobyta z wody martwa osoba to zaginiona 13-letnia Roksana Jurczyszyn. Jednak prokurator w rozmowie z &quot;Faktem&quot; nie potwierdza tożsamości zmarłej, tłumacząc, że zwłoki są w tak zaawansowanym stanie rozkładu, iż nie można ich rozpoznać.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/aa9fd74b-cf27-4b74-a496-2962e6616881.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 27 Oct 2026 15:53:29 GMT</pubDate>
+            <guid isPermaLink="false">9d2db6ce-2736-4aef-b318-2d3551365171</guid></item></channel>
             </rss>
