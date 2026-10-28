@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 28 Oct 2026 09:33:23 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 28 Oct 2026 13:22:23 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Ujawnili taśmy Pełczyńskiej-Nałęcz. Miała uderzać w Hołownię</title>
-            <link>https://www.fakt.pl/polityka/pelczynska-nalecz-odchodzi-z-rzadu-ujawniono-tasmy-mowi-o-holowni/zfybn2t</link>
-            <description>Telewizja wPolsce24 i portal wPolityce.pl ujawniły taśmy Katarzyny Pełczyńskiej. — Kilkukrotnie spotkał się za moimi plecami z Tuskiem, żeby rozmawiać o wyrzuceniu mnie z rządu i zajęciu mojego stołka — miała powiedzieć o Szymonie Hołowni.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/e62f3eaf-b953-41b6-89a2-1c6511af2af8.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 26 Oct 2026 10:33:57 GMT</pubDate>
-            <guid isPermaLink="false">55b39146-5367-4805-8fb0-ef21e5c502cd</guid></item><item>
-            <title>Breaking Grzegorz Braun usłyszał sześć zarzutów</title>
-            <link>https://www.fakt.pl/polityka/incydent-w-szpitalu-w-olesnicy-grzegorz-braun-uslyszal-szesc-zarzutow/3fqptcp</link>
-            <description>Grzegorz Braun usłyszał zarzuty. Chodzi o incydent w szpitalu w Oleśnicy na Dolnym Śląsku i m.in. bezprawne pozbawienie wolności lekarki. Polityk nie przyznał się do winy. Grozi mu do pięciu lat więzienia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7d3abcd5-d085-47e8-9ca0-1d6d24ae0fc0.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 26 Oct 2026 11:31:25 GMT</pubDate>
-            <guid isPermaLink="false">fadb49bb-f410-49dc-820d-f20cc88b5254</guid></item><item>
             <title>Breaking Zima nagle wkroczyła do Polski. W kilka chwil zrobiło się biało. IMGW prognozuje, że to nie koniec</title>
             <link>https://www.fakt.pl/wydarzenia/pogoda/tatry-nagle-pod-sniegiem-imgw-prognozuje-kolejne-centymetry-bialej-pokrywy/nzt79x4</link>
             <description>Śnieg w Tatrach pada coraz intensywniej, a biało zrobiło się także na Gubałówce i w wyżej położonych miejscowościach Podhala. W samym Zakopanem pojawia się głównie deszcz, ale wystarczy pojechać wyżej, by zobaczyć zupełnie inną aurę. IMGW prognozuje w Tatrach przyrost pokrywy śnieżnej o około 7 cm.</description>
@@ -95,10 +83,10 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7d5c021f-4271-488b-8cf2-4691326e58a9.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 28 Oct 2026 07:34:00 GMT</pubDate>
             <guid isPermaLink="false">210a600d-f614-4ba9-a038-656981579043</guid></item><item>
-            <title>Breaking Katastrofa kolejowa w Hiszpanii. Zginęło co najmniej 46 osób, jest wielu rannych</title>
+            <title>Breaking Katastrofa kolejowa w Hiszpanii. Rośnie tragiczny bilans</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/katastrofa-kolejowa-pod-toledo-zderzenie-pociagow-renfe-i-iryo-w-hiszpanii/jfc559t</link>
-            <description>Około godz. 9.00 we wtorek, 28 października doszło do poważnego wypadku kolejowego w Hiszpanii. Między miejscowościami Los Yébenes i Urda w prowincji Toledo zderzyły się dwa pociągi kursujące po linii dużych prędkości. Jak poinformowały lokalne władze, w zdarzeniu uczestniczył skład państwowego przewoźnika Renfe jadący z Madrytu do Sewilli oraz pociąg prywatnego operatora Iryo zmierzający w przeciwnym kierunku.</description>
+            <description>Około godz. 9.00 w środę, 28 października doszło do poważnego wypadku kolejowego w Hiszpanii. Między miejscowościami Los Yébenes i Urda w prowincji Toledo zderzyły się dwa pociągi kursujące po linii dużych prędkości. Jak poinformowały lokalne władze, w zdarzeniu uczestniczył skład państwowego przewoźnika Renfe jadący z Madrytu do Sewilli oraz pociąg prywatnego operatora Iryo zmierzający w przeciwnym kierunku.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/902318d4-9138-4333-9310-a99cf1fcff42.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 28 Oct 2026 09:33:23 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 13:22:23 GMT</pubDate>
             <guid isPermaLink="false">f1f4c9ea-8655-42f8-87b4-fa0042b74b5d</guid></item></channel>
             </rss>
