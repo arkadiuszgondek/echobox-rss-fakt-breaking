@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 28 Oct 2026 07:34:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 28 Oct 2026 09:33:23 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ujawnili taśmy Pełczyńskiej-Nałęcz. Miała uderzać w Hołownię</title>
             <link>https://www.fakt.pl/polityka/pelczynska-nalecz-odchodzi-z-rzadu-ujawniono-tasmy-mowi-o-holowni/zfybn2t</link>
@@ -94,5 +94,11 @@
             <description>Wciąż nie ma przełomu w poszukiwaniach Marcina Romanowskiego. Polityk PiS ukrywa się przed polskim wymiarem sprawiedliwości, a doniesienia o jego pobycie w Naddniestrzu nie znalazły dotąd wiarygodnego potwierdzenia. Gdzie może przebywać były wiceminister sprawiedliwości? — Moim zdaniem należy brać pod uwagę cztery możliwe kierunki. Najbardziej prawdopodobne jest Kosowo — mówi w &quot;Fakcie&quot; były policjant nadkom. Dariusz Loranty.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7d5c021f-4271-488b-8cf2-4691326e58a9.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 28 Oct 2026 07:34:00 GMT</pubDate>
-            <guid isPermaLink="false">210a600d-f614-4ba9-a038-656981579043</guid></item></channel>
+            <guid isPermaLink="false">210a600d-f614-4ba9-a038-656981579043</guid></item><item>
+            <title>Breaking Katastrofa kolejowa w Hiszpanii. Zginęło co najmniej 46 osób, jest wielu rannych</title>
+            <link>https://www.fakt.pl/wydarzenia/swiat/katastrofa-kolejowa-pod-toledo-zderzenie-pociagow-renfe-i-iryo-w-hiszpanii/jfc559t</link>
+            <description>Około godz. 9.00 we wtorek, 28 października doszło do poważnego wypadku kolejowego w Hiszpanii. Między miejscowościami Los Yébenes i Urda w prowincji Toledo zderzyły się dwa pociągi kursujące po linii dużych prędkości. Jak poinformowały lokalne władze, w zdarzeniu uczestniczył skład państwowego przewoźnika Renfe jadący z Madrytu do Sewilli oraz pociąg prywatnego operatora Iryo zmierzający w przeciwnym kierunku.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/902318d4-9138-4333-9310-a99cf1fcff42.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 28 Oct 2026 09:33:23 GMT</pubDate>
+            <guid isPermaLink="false">f1f4c9ea-8655-42f8-87b4-fa0042b74b5d</guid></item></channel>
             </rss>
