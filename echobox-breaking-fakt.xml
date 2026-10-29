@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 29 Oct 2026 09:30:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 29 Oct 2026 10:20:09 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Znany dziennikarz oskarżony. &quot;Znęcanie się psychiczne i fizyczne nad rodziną&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/dziennikarz-leszek-k-oskarzony-grozby-wobec-komendanta-i-znecanie/phnn45r</link>
@@ -76,5 +76,11 @@
             <description>Nowa Lewica chce złożyć w Sejmie projekt ustawy likwidującej Fundusz Kościelny. Jak informuje RMF FM, decyzja zapadła po ponad dwóch latach bezskutecznych prac rządowego zespołu. Propozycja oznaczałaby istotną zmianę zasad finansowania składek ubezpieczeniowych duchownych.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/67934fbf-bd29-4501-80ec-fe8609f0ec8b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 29 Oct 2026 09:30:00 GMT</pubDate>
-            <guid isPermaLink="false">06508709-475c-4f93-a4bb-557cdf93ac4b</guid></item></channel>
+            <guid isPermaLink="false">06508709-475c-4f93-a4bb-557cdf93ac4b</guid></item><item>
+            <title>Breaking Bliżej do rozwiązania tajemnicy zaginionej Roksany. Dziś sekcja zwłok wyłowionych z Wisły </title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/sekcja-zwlok-mlodej-kobiety-z-wisly-to-zaginiona-13-letnia-roksana/svs958c</link>
+            <description>Jeszcze dziś ma odbyć się sekcja zwłok młodej kobiety, którą wyłowiono w Wiśle w Warszawie — ustalił &quot;Fakt&quot;. Niewykluczone, że jest to zaginiona 13-letnia Roksana Jurczyszyn. Przy ciele znaleziono m.in. legitymację i kartę bankomatową na dane nastolatki. Śledczy chcą wiedzieć m.in. czy do śmierci przyczyniły się osoby trzecie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e670f11f-c7d3-4c37-84be-4337cd6be08d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 29 Oct 2026 10:20:09 GMT</pubDate>
+            <guid isPermaLink="false">e8fb5264-dc56-4ed6-9ce8-2249de684103</guid></item></channel>
             </rss>
