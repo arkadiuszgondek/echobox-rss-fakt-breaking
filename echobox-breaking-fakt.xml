@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 29 Oct 2026 07:50:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 29 Oct 2026 09:26:34 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Prezydent zostanie przesłuchany? Prokuratorzy zwrócili się do Nawrockiego</title>
-            <link>https://www.fakt.pl/polityka/prokuratorzy-chca-przesluchac-prezydenta-karola-nawrockiego-chodzi-o-tk/zr3k36r</link>
-            <description>Prokuratorzy chcą przesłuchać Karola Nawrockiego w śledztwie dotyczącym sytuacji w Trybunale Konstytucyjnym. Jak przekazał Dariusz Korneluk, zwrócili się już do prezydenta o wskazanie dogodnego terminu. — Pan prezydent ma swoją rolę i wypowiadał się wielokrotnie na temat sędziów Trybunału Konstytucyjnego. [...] Chcemy go przesłuchać — mówił w TOK FM.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/a1da3bce-019c-4513-8e90-fc77c445b1ee.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 27 Oct 2026 08:25:00 GMT</pubDate>
-            <guid isPermaLink="false">60672640-c006-42f1-9faa-c6accd73141c</guid></item><item>
-            <title>Breaking Tak chcą pokonać Święczkowskiego? Zastępca Żurka wskazał sposób</title>
-            <link>https://www.fakt.pl/polityka/dariusz-korneluk-o-immunitecie-bogdana-swieczkowskiego/j90nv6p</link>
-            <description>Dariusz Korneluk mówił w TOK FM o postępowaniu dotyczącym Bogdana Święczkowskiego i ewentualnym wniosku o uchylenie jego immunitetu. Prokurator Krajowy wskazał na sytuację, w której immunitet nie chroni osoby nim objętej, co może zaistnieć w przypadku aresztowania prezesa Trybunału Konstytucyjnego. — To dotyczy tak sędziów, prokuratorów i parlamentarzystów — podkreślił.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/OTA7MDA_/086db02f-36b9-49c0-b86c-ff035b2cc05f.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 27 Oct 2026 08:55:00 GMT</pubDate>
-            <guid isPermaLink="false">1bec8c71-33e2-4a5b-af79-1101693b6e44</guid></item><item>
             <title>Breaking Pełczyńska-Nałęcz oskarża Tuska. Zarzuca mu &quot;przemocowość&quot;</title>
             <link>https://www.fakt.pl/polityka/katarzyna-pelczynska-nalecz-oskarza-donalda-tuska-o-przemocowe-zarzadzanie/ngrs6pb</link>
             <description>Katarzyna Pełczyńska-Nałęcz zarzuca Donaldowi Tuskowi przemocowy sposób zarządzania koalicją rządzącą. Była ministra opowiedziała również o sytuacji, do której miało dojść podczas posiedzenia Rady Ministrów, gdy przebywała z wizytą służbową w Rumunii. Według jej relacji z jej nieobecności mieli żartować członkowie rządu. — To jest przemocowość informacyjna, personalna, osobista, poniżanie, takie lekceważenie — mówiła w Kanale Zero.</description>
@@ -82,5 +70,11 @@
             <description>Lech Wałęsa zwrócił się do Amerykanów z apelem o zdecydowane działania na rzecz Ukrainy. Były prezydent Polski podczas wystąpienia w Waszyngtonie zakwestionował obecną rolę USA na świecie. Przypomniał również o zobowiązaniach USA wobec Kijowa. — Pomóżcie mi zrozumieć, co się dzieje w waszym kraju. Zawsze przewodziliście światu, a dziś nie wiemy, po której stronie stoją Stany Zjednoczone — powiedział.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/YTI7MDA_/d2c3869f-2932-45b2-becc-fb78029b4d17.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 29 Oct 2026 07:50:00 GMT</pubDate>
-            <guid isPermaLink="false">d10fe563-9197-4319-9932-619fa91281ba</guid></item></channel>
+            <guid isPermaLink="false">d10fe563-9197-4319-9932-619fa91281ba</guid></item><item>
+            <title>Breaking Bezprecedensowy wyrok w Tarnowie. Biskup Andrzej Jeż nie pojawił się w sądzie</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/bezprecedensowa-sprawa-biskupa-andrzeja-jeza-sad-uznal-go-za-winnego/zh2jxtq</link>
+            <description>Sąd Rejonowy w Tarnowie (woj. małopolskie) uznał biskupa Andrzeja Jeża za winnego tuszowania przestępstw pedofilii. Duchowny nie pojawił się w czwartek 29 października na ogłoszeniu orzeczenia, a sprawa ma charakter bezprecedensowy, bo wcześniej żaden hierarcha polskiego Kościoła nie mierzył się z takimi zarzutami.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/dbdedc41-5eec-4546-abd3-482ca8de5d4b.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 29 Oct 2026 09:26:34 GMT</pubDate>
+            <guid isPermaLink="false">88fa85d6-0fdd-43a7-ad99-56dcbb4180be</guid></item></channel>
             </rss>
