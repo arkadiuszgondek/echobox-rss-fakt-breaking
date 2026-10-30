@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 29 Oct 2026 18:50:33 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 30 Oct 2026 10:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Romanowski wciąż nieuchwytny. Były policjant wskazał możliwą kryjówkę</title>
-            <link>https://www.fakt.pl/polityka/poszukiwania-marcina-romanowskiego-byly-policjant-ocenil-sluzby/tn7zl1k</link>
-            <description>Wciąż nie ma przełomu w poszukiwaniach Marcina Romanowskiego. Polityk PiS ukrywa się przed polskim wymiarem sprawiedliwości, a doniesienia o jego pobycie w Naddniestrzu nie znalazły dotąd wiarygodnego potwierdzenia. Gdzie może przebywać były wiceminister sprawiedliwości? — Moim zdaniem należy brać pod uwagę cztery możliwe kierunki. Najbardziej prawdopodobne jest Kosowo — mówi w &quot;Fakcie&quot; były policjant nadkom. Dariusz Loranty.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7d5c021f-4271-488b-8cf2-4691326e58a9.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 28 Oct 2026 07:34:00 GMT</pubDate>
-            <guid isPermaLink="false">210a600d-f614-4ba9-a038-656981579043</guid></item><item>
             <title>Breaking &quot;Huk trwał nieprzerwanie przez 10 sekund&quot;. Przerażające relacje po katastrofie kolejowej w Hiszpanii</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/katastrofa-kolejowa-w-hiszpanii-relacje-swiadkow-i-poszkodowanych/zfwxlph</link>
             <description>— Uderzenie było brutalne, nadeszło znikąd — relacjonują pasażerowie, którzy przeżyli katastrofę. Dwa pociągi dużych prędkości zderzyły się w hiszpańskim regionie Kastylia-La Mancha. Szef władz wspólnoty poinformował o 68 ofiarach śmiertelnych, ale bilans ten może wzrosnąć. Świadkowie na miejscu mówią o całkowitym chaosie.</description>
@@ -79,8 +73,14 @@
             <guid isPermaLink="false">77165bab-c7c5-4c1f-a809-53bb3f80be17</guid></item><item>
             <title>Breaking Wybory w Izraelu. Są oficjalne wyniki</title>
             <link>https://www.fakt.pl/polityka/wybory-w-izraelu-sa-oficjalne-wyniki-blok-benjamina-netanjahu-bez-wiekszosci/7p1v1td</link>
-            <description>Zakończyło się liczenie głosów oddanych w wyborach do Knesetu. Żaden z bloków nie zdobył 61 mandatów potrzebnych do rządzenia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Zakończyło się liczenie głosów oddanych w wyborach do Knesetu. Żaden z bloków bez partii arabskich nie ma 61 mandatów potrzebnych do rządzenia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4e90a903-cb2a-4c85-8aa5-0ac97651b121.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 29 Oct 2026 18:50:33 GMT</pubDate>
-            <guid isPermaLink="false">63fd62a2-0e33-4e63-99c4-4405cb8958ef</guid></item></channel>
+            <guid isPermaLink="false">63fd62a2-0e33-4e63-99c4-4405cb8958ef</guid></item><item>
+            <title>Breaking Kaczyński w prokuraturze. Chodzi o Trybunał Konstytucyjny</title>
+            <link>https://www.fakt.pl/polityka/jaroslaw-kaczynski-wezwany-do-prokuratury-krajowej/2ytvj9j</link>
+            <description>Jarosław Kaczyński został wezwany do Prokuratury Krajowej w związku ze sprawą niedopuszczenia sędziów Trybunału Konstytucyjnego do orzekania. Prezes PiS stawił się przed śledczymi w charakterze świadka, co potwierdził &quot;Faktowi&quot; rzecznik prokuratury Przemysław Nowak. — Tak, został wezwany do stawiennictwa w charakterze świadka i stawił się — przekazał.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 30 Oct 2026 10:45:00 GMT</pubDate>
+            <guid isPermaLink="false">2450aec6-0f5a-4bdc-9a4d-1eb37099d498</guid></item></channel>
             </rss>
