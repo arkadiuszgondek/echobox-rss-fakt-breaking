@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 30 Oct 2026 17:10:33 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 30 Oct 2026 20:46:36 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Wałęsa wygarnął Amerykanom. &quot;Nie wiemy, po której stronie stoicie&quot;</title>
             <link>https://www.fakt.pl/polityka/lech-walesa-apeluje-do-usa-ws-ukrainy-nie-wiemy-po-ktorej-stronie-stoicie/xqgv3yl</link>
@@ -79,8 +79,14 @@
             <guid isPermaLink="false">68334451-398b-4fe7-ac7e-3e0b20e47328</guid></item><item>
             <title>Breaking Prezydent Nawrocki wraca do Warszawy. Wizyta w Senegalu odwołana</title>
             <link>https://www.fakt.pl/polityka/prezydent-nawrocki-wraca-do-warszawy-wizyta-w-senegalu-odwolana/vr782ht</link>
-            <description>Prezydent Karol Nawrocki wraca do Warszawy. Wizyta w Senegalu została odwołana. Decyzja ma związek z sytuacją pod Trybunałem Konstytucyjnym. Samolot prezydencki zawraca nad Hiszpanią.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Prezydent Karol Nawrocki wraca do Warszawy. Wizyta w Senegalu została odwołana. Decyzja ma związek z sytuacją pod Trybunałem Konstytucyjnym. Samolot prezydencki zawrócił w piątek wieczorem nad Hiszpanią. &quot;W takim momencie Prezydent musi być w Polsce&quot; — napisał na X prezydent.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9f56d01e-1a94-44bd-b4af-069c44cd0b67.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 30 Oct 2026 17:10:33 GMT</pubDate>
-            <guid isPermaLink="false">d12589d3-9739-4ff3-b57c-fbea7f07ab8d</guid></item></channel>
+            <guid isPermaLink="false">d12589d3-9739-4ff3-b57c-fbea7f07ab8d</guid></item><item>
+            <title>Breaking &quot;Z obawy o życie i zdrowie&quot;. Komunikat w sprawie rozmowy z Nawrockim </title>
+            <link>https://www.fakt.pl/polityka/z-obawy-o-zycie-i-zdrowie-komunikat-w-sprawie-rozmowy-z-nawrockim/qys6hrg</link>
+            <description>&quot;Z obawy o życie i zdrowie osób w TK i wokół niego nie wyrażam zgody na wjazd kogokolwiek na teren TK; z Prezydentem RP możemy spotkać się w Pałacu Prezydenckim&quot; — przekazała Anna Korwin-Piotrowska, która poinformowała wcześniej, że jest &quot;kierującą&quot; Trybunałem Konstytucyjnym.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 30 Oct 2026 20:46:36 GMT</pubDate>
+            <guid isPermaLink="false">10d99e1b-7fa6-4341-bc48-82f924fffc6b</guid></item></channel>
             </rss>
