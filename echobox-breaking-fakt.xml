@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 30 Oct 2026 20:46:36 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 30 Oct 2026 23:44:36 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Wałęsa wygarnął Amerykanom. &quot;Nie wiemy, po której stronie stoicie&quot;</title>
             <link>https://www.fakt.pl/polityka/lech-walesa-apeluje-do-usa-ws-ukrainy-nie-wiemy-po-ktorej-stronie-stoicie/xqgv3yl</link>
@@ -85,8 +85,14 @@
             <guid isPermaLink="false">d12589d3-9739-4ff3-b57c-fbea7f07ab8d</guid></item><item>
             <title>Breaking &quot;Z obawy o życie i zdrowie&quot;. Komunikat w sprawie rozmowy z Nawrockim </title>
             <link>https://www.fakt.pl/polityka/z-obawy-o-zycie-i-zdrowie-komunikat-w-sprawie-rozmowy-z-nawrockim/qys6hrg</link>
-            <description>&quot;Z obawy o życie i zdrowie osób w TK i wokół niego nie wyrażam zgody na wjazd kogokolwiek na teren TK; z Prezydentem RP możemy spotkać się w Pałacu Prezydenckim&quot; — przekazała Anna Korwin-Piotrowska, która poinformowała wcześniej, że jest &quot;kierującą&quot; Trybunałem Konstytucyjnym.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>&quot;Z obawy o życie i zdrowie osób w TK i wokół niego nie wyrażam zgody na wjazd kogokolwiek na teren TK; z Prezydentem RP możemy spotkać się w Pałacu Prezydenckim&quot; — przekazała PAP Anna Korwin-Piotrowska.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f01b170a-2fa4-4238-bb46-277333421029.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 30 Oct 2026 20:46:36 GMT</pubDate>
-            <guid isPermaLink="false">10d99e1b-7fa6-4341-bc48-82f924fffc6b</guid></item></channel>
+            <guid isPermaLink="false">10d99e1b-7fa6-4341-bc48-82f924fffc6b</guid></item><item>
+            <title>Breaking Prezydent Karol Nawrocki przyjechał pod Trybunał Konstytucyjny</title>
+            <link>https://www.fakt.pl/polityka/prezydent-karol-nawrocki-przyjechal-pod-trybunal-konstytucyjny/we8kjct</link>
+            <description>Przed godziną 1 prezydent Karol Nawrocki przyjechał pod Trybunał Konstytucyjny. Towarzyszy mu I prezes SN Zbigniew Kapiński.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 30 Oct 2026 23:44:36 GMT</pubDate>
+            <guid isPermaLink="false">a5b5d38b-347e-4f29-a349-746f5e6a50af</guid></item></channel>
             </rss>
