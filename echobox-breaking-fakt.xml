@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 31 Oct 2026 09:24:55 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 31 Oct 2026 10:08:05 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Bliżej do rozwiązania tajemnicy zaginionej Roksany. Dziś sekcja zwłok wyłowionych z Wisły </title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/sekcja-zwlok-mlodej-kobiety-z-wisly-to-zaginiona-13-letnia-roksana/svs958c</link>
@@ -88,5 +88,11 @@
             <description>Przed Trybunałem Konstytucyjnym wciąż odbywa się demonstracja. W nocy w siedzibie TK pojawił się Karol Nawrocki. Tam doszło do przepychanek. Później prezydent zapowiedział pilne konsultacje z udziałem sił parlamentarnych. Donald Tusk z kolei stwierdził, że &quot;przywracanie rządów prawa jest obowiązkiem&quot;. Przypominamy, co się działo przed TK.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/ff72e7c8-3b2b-48b1-a2ae-bc6f6fe01b35.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 31 Oct 2026 09:24:55 GMT</pubDate>
-            <guid isPermaLink="false">4af5448a-9a30-47fe-930e-ea9b91159ef9</guid></item></channel>
+            <guid isPermaLink="false">4af5448a-9a30-47fe-930e-ea9b91159ef9</guid></item><item>
+            <title>Breaking TK publikuje zarządzenie Korwin-Piotrowskiej. &quot;Do odwołania&quot;</title>
+            <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-anna-korwin-piotrowska-wydala-zarzadzenie/3xfm1tz</link>
+            <description>Na stronie Trybunału Konstytucyjnego ukazało się zarządzenie dotyczące organizacji pracy TK. Wydała je Anna Korwin-Piotrowska.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 31 Oct 2026 10:08:05 GMT</pubDate>
+            <guid isPermaLink="false">86e8eff9-a641-4dc4-b113-cc26e5c4e988</guid></item></channel>
             </rss>
