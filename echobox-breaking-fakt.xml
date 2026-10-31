@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 31 Oct 2026 19:00:38 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 31 Oct 2026 20:07:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Kaczyński w prokuraturze. Chodzi o Trybunał Konstytucyjny</title>
             <link>https://www.fakt.pl/polityka/jaroslaw-kaczynski-wezwany-do-prokuratury-krajowej/2ytvj9j</link>
@@ -71,10 +71,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b6c0fb46-e7ec-46f4-96b6-c59d71eb7f61.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 31 Oct 2026 15:17:59 GMT</pubDate>
             <guid isPermaLink="false">f3eed636-b422-4dcf-a6c3-2e4f3267bf7e</guid></item><item>
-            <title>Breaking Orędzie Donalda Tuska. Premier reaguje na chaos w Trybunale Konstytucyjnym</title>
+            <title>Breaking Orędzie Donalda Tuska. Premier reaguje na chaos w TK. &quot;Zbyt długo czekaliśmy&quot;</title>
             <link>https://www.fakt.pl/polityka/oredzie-donalda-tuska-premier-odniosl-sie-do-sporu-o-trybunal-konstytucyjny/5mhqf14</link>
-            <description>— Byliśmy wczoraj świadkami gorszących zdarzeń pod budynkiem Trybunału Konstytucyjnego. Bardzo chciałbym, abyśmy podobnych scen nie musieli nigdy w Polsce oglądać. Sposobem na spokój nie może być jednak ustępowanie przed bezprawiem i przemocą — oświadczył w sobotę premier Donald Tusk w specjalnym orędziu. W ten sposób szef polskiego rządu odniósł się do eskalacji konfliktu wokół Trybunału Konstytucyjnego.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>— Sposobem na spokój nie może być ustępowanie przed bezprawiem i przemocą — oświadczył w sobotę premier Donald Tusk w specjalnym orędziu. W ten sposób szef polskiego rządu odniósł się do eskalacji konfliktu wokół Trybunału Konstytucyjnego. — Zbyt długo czekaliśmy na skarb, jakim jest niepodległa, demokratyczna Polska, żeby się przestraszyć i ustąpić — dodał.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a603e72b-0791-4884-ad47-118cf305e4b0.png" length="0" type="image/jpeg"/>
             <pubDate>Sat, 31 Oct 2026 19:00:38 GMT</pubDate>
-            <guid isPermaLink="false">5912b576-635c-4aec-9e9e-e0c4a975082d</guid></item></channel>
+            <guid isPermaLink="false">5912b576-635c-4aec-9e9e-e0c4a975082d</guid></item><item>
+            <title>Breaking Szarpał bezbronne zwierzę na szlaku. Internauci wściekli. &quot;Jeden debil się znęca, reszta patrzy&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/turysta-szarpal-jelenia-na-drodze-do-morskiego-oka-internauci-oburzeni/d2d1cvt</link>
+            <description>Na nagraniu udostępnionym przez profil Tatromaniak widać szarpaninę turysty z jeleniem w drodze do Morskiego Oka. Wokół stała grupa gapiów, co wywołało w sieci lawinę oburzenia. Internauci są wściekli nie tylko na zachowanie mężczyzny, ale przede wszystkim na całkowity brak reakcji ze strony świadków.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/19363036-21dd-43a5-b8d5-f51ef685f576.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 31 Oct 2026 20:07:00 GMT</pubDate>
+            <guid isPermaLink="false">68456b4d-6d8b-40f6-abb3-ca4f23f22102</guid></item></channel>
             </rss>
