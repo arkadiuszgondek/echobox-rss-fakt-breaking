@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 31 Oct 2026 13:23:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 31 Oct 2026 19:00:38 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Wybory w Izraelu. Są oficjalne wyniki</title>
-            <link>https://www.fakt.pl/polityka/wybory-w-izraelu-sa-oficjalne-wyniki-blok-benjamina-netanjahu-bez-wiekszosci/7p1v1td</link>
-            <description>Zakończyło się liczenie głosów oddanych w wyborach do Knesetu. Żaden z bloków bez partii arabskich nie ma 61 mandatów potrzebnych do rządzenia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/4e90a903-cb2a-4c85-8aa5-0ac97651b121.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 29 Oct 2026 18:50:33 GMT</pubDate>
-            <guid isPermaLink="false">63fd62a2-0e33-4e63-99c4-4405cb8958ef</guid></item><item>
             <title>Breaking Kaczyński w prokuraturze. Chodzi o Trybunał Konstytucyjny</title>
             <link>https://www.fakt.pl/polityka/jaroslaw-kaczynski-wezwany-do-prokuratury-krajowej/2ytvj9j</link>
             <description>Jarosław Kaczyński został wezwany do Prokuratury Krajowej w związku ze sprawą niedopuszczenia sędziów Trybunału Konstytucyjnego do orzekania. Prezes PiS stawił się przed śledczymi w charakterze świadka, co potwierdził &quot;Faktowi&quot; rzecznik prokuratury Przemysław Nowak. — Tak, został wezwany do stawiennictwa w charakterze świadka i stawił się — przekazał. Po zakończonym przesłuchaniu głos zabrał Jarosław Kaczyński.</description>
@@ -70,5 +64,17 @@
             <description>— Proponujemy zgłoszenie konstruktywnego wniosku wotum nieufności wobec tego rządu — zapowiedział Mateusz Morawiecki. Lider Rozwoju Plus wskazał nazwisko kandydata, który — jego zdaniem — powinien sprawować funkcję premiera do czasu wyborów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/d8499c36-bb0f-4b6a-802d-88fc60d5ee2a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 31 Oct 2026 13:23:00 GMT</pubDate>
-            <guid isPermaLink="false">1e31286e-54b1-46b0-aed1-d3c3a6310477</guid></item></channel>
+            <guid isPermaLink="false">1e31286e-54b1-46b0-aed1-d3c3a6310477</guid></item><item>
+            <title>Breaking Donald Tusk wygłosi specjalne orędzie. Reaguje na kryzys w TK</title>
+            <link>https://www.fakt.pl/polityka/oredzie-premiera-donalda-tuska-w-sobote-o-godzinie-20-na-zywo/7bcnmyl</link>
+            <description>Orędzie premiera Donalda Tuska zaplanowano na sobotę na godzinę 20. Szef rządu wystąpi w związku z kryzysem wokół Trybunału Konstytucyjnego.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b6c0fb46-e7ec-46f4-96b6-c59d71eb7f61.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 31 Oct 2026 15:17:59 GMT</pubDate>
+            <guid isPermaLink="false">f3eed636-b422-4dcf-a6c3-2e4f3267bf7e</guid></item><item>
+            <title>Breaking Orędzie Donalda Tuska. Premier reaguje na chaos w Trybunale Konstytucyjnym</title>
+            <link>https://www.fakt.pl/polityka/oredzie-donalda-tuska-premier-odniosl-sie-do-sporu-o-trybunal-konstytucyjny/5mhqf14</link>
+            <description>— Byliśmy wczoraj świadkami gorszących zdarzeń pod budynkiem Trybunału Konstytucyjnego. Bardzo chciałbym, abyśmy podobnych scen nie musieli nigdy w Polsce oglądać. Sposobem na spokój nie może być jednak ustępowanie przed bezprawiem i przemocą — oświadczył w sobotę premier Donald Tusk w specjalnym orędziu. W ten sposób szef polskiego rządu odniósł się do eskalacji konfliktu wokół Trybunału Konstytucyjnego.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 31 Oct 2026 19:00:38 GMT</pubDate>
+            <guid isPermaLink="false">5912b576-635c-4aec-9e9e-e0c4a975082d</guid></item></channel>
             </rss>
