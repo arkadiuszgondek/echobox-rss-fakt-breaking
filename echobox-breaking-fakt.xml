@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 01 Nov 2026 11:15:28 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 01 Nov 2026 13:34:11 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Kontuzja Marty Nawrockiej. Chowała rękę pod marynarką. Pałac Prezydencki zabrał głos</title>
             <link>https://www.fakt.pl/polityka/marta-nawrocka-ma-kontuzje-reki-pod-marynarka-skrywala-temblak/zsbjey4</link>
@@ -82,5 +82,17 @@
             <description>Robert Kropiwnicki na antenie Polsat News mówił o &quot;snusach, Braunie&quot; i &quot;taniej dyskotece o 3 w nocy&quot;. — Panie redaktorze, mam prośbę. Czy może pan uciszyć tego prymitywa? — zapytał w końcu Marcin Przydacz prowadzącego Bogdana Rymanowskiego.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2fc55b28-5d5c-41b2-9278-5bb265af78c3.png" length="0" type="image/jpeg"/>
             <pubDate>Sun, 01 Nov 2026 11:15:28 GMT</pubDate>
-            <guid isPermaLink="false">6e2894ba-1403-458c-a52d-98b245606264</guid></item></channel>
+            <guid isPermaLink="false">6e2894ba-1403-458c-a52d-98b245606264</guid></item><item>
+            <title>Breaking Pilne oświadczenie szefa policji. &quot;Nigdy nie pozwolę. Możecie być pewni&quot;</title>
+            <link>https://www.fakt.pl/polityka/komendant-policji-wydal-oswiadczenie-chodzi-o-wydarzenie-pod-tk/rpcmthc</link>
+            <description>&quot;Nigdy nie pozwoliłem i nie pozwolę na to, aby ktokolwiek z was — wykonując swoje obowiązki — został narażony na niezgodną z prawem odpowiedzialność&quot; — napisał gen. insp. Marek Boroń w liście do policjantów. To reakcja na wydarzenia przed TK.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/6e5cfd30-8e30-4711-b51d-9fd867f34c57.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 12:42:03 GMT</pubDate>
+            <guid isPermaLink="false">e6ed13f5-38b2-48a6-a8ce-b71b35a2a76a</guid></item><item>
+            <title>Breaking Zaginięcie Emilii. Znaleziono ponton. &quot;Zastanawiające zniszczenia&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zaginiecie-emilii-koprowskiej-w-wiciu-znaleziono-zniszczony-ponton/6kw13th</link>
+            <description>Dwa miesiące minęły od zaginięcia 37-letniej Emilii Koprowskiej z Koszalina. Cały czas nie wiadomo, co się z nią stało i czy żyje. Nie do końca zweryfikowany pozostaje trop, na który wpadła ekipa pod wodzą detektyw Mai Rutkowski. — Pies tropiący zaprowadził nas na brzeg jeziora w Wiciu, gdzie leżał zniszczony ponton. Miał niepokojące uszkodzenia — mówi &quot;Faktowi&quot; detektyw.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5d328552-a1be-469b-993a-b45a4510e502.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 13:34:11 GMT</pubDate>
+            <guid isPermaLink="false">0268abc5-86fd-4161-9d2e-eff75b5f7952</guid></item></channel>
             </rss>
