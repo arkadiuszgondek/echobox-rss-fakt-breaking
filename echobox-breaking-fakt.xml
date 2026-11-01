@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 01 Nov 2026 16:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 01 Nov 2026 18:36:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking &quot;Z obawy o życie i zdrowie&quot;. Komunikat w sprawie rozmowy z Nawrockim </title>
             <link>https://www.fakt.pl/polityka/z-obawy-o-zycie-i-zdrowie-komunikat-w-sprawie-rozmowy-z-nawrockim/qys6hrg</link>
@@ -106,5 +106,18 @@
             <description>Mąż Danuty Holeckiej został zatrzymany przez policję przed cmentarzem na warszawskim Służewie. O zdarzeniu poinformowała Telewizja Republika, która wyemitowała nagranie z interwencji funkcjonariuszy. Mąż Holeckiej zgłosił problemy zdrowotne, dlatego wezwano karetkę. Do zdarzenia odniosła się rzeczniczka MSWiA Karolina Gałecka.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/30e6eddf-73b1-4e58-97ee-c07e43e037cc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 01 Nov 2026 16:45:00 GMT</pubDate>
-            <guid isPermaLink="false">44b3c60a-38ed-47d0-9c77-677b2bea303a</guid></item></channel>
+            <guid isPermaLink="false">44b3c60a-38ed-47d0-9c77-677b2bea303a</guid></item><item>
+            <title>Breaking &quot;Zdrajca&quot;, &quot;hańba&quot; vs. 
+&quot;wstyd&quot; &quot;żenada&quot; i &quot;targowica&quot;! Mocne słowa po obu stronach</title>
+            <link>https://www.fakt.pl/polityka/to-polacy-mysla-o-sporze-wokol-trybunalu-konstytucyjnego-pisza-o-karolu-nawrockim/l07t0gj</link>
+            <description>Ponad dwa tys. Polaków postanowiło, że nie będą milczeć w sprawie konfliktu o Trybunał Konstytucyjny. W sondzie &quot;Faktu&quot; czytelnicy wskazali, kto ich zdaniem ma rację, a w komentarzach dali wyraz niezadowoleniu i frustracji. Nie gryźli się przy tym w język. &quot;Zdrajca&quot;, &quot;hańba&quot;, &quot;targowica&quot; — to tylko część określeń, które padły pod adresem polityków obu stron. Jedna z czytelniczek napisała nawet: &quot;Co Bogu boskie, co cesarzowi to cesarskie. Niech prezydent sprawdzi swoje kompetencje&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/379a9e1b-da83-4dc7-9a38-8789943e1a57.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 17:10:00 GMT</pubDate>
+            <guid isPermaLink="false">a5f32319-437f-42e4-95c4-be804b37a82a</guid></item><item>
+            <title>Breaking Tak wygląda grób Łukasza Litewki w dniu Wszystkich Świętych. Poruszający widok</title>
+            <link>https://www.fakt.pl/wydarzenia/sosnowiec-grob-lukasza-litewki-w-dniu-wszystkich-swietych-poruszajacy-widok/cjk10tn</link>
+            <description>Minęło już ponad pół roku od śmierci Łukasza Litewki, ale pamięć o pośle i społeczniku nie gaśnie. W dniu Wszystkich Świętych &quot;Fakt&quot; odwiedził jego grób w Sosnowcu. Widok, który zastaliśmy na miejscu, porusza do łez. Mogiła zmarłego posła dosłownie utonęła pod ogromną ilością zniczy, kwiatów, fotografii zmarłego parlamentarzysty i osobistych pamiątek.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/23bfc94d-7e92-402e-b382-a0d19c051571.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 18:36:00 GMT</pubDate>
+            <guid isPermaLink="false">60ed3f0d-80d6-4dc5-8e9a-17bed8d746dc</guid></item></channel>
             </rss>
