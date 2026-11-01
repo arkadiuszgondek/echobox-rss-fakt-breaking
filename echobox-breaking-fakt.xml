@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 01 Nov 2026 16:25:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 01 Nov 2026 16:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Prezydent Nawrocki wraca do Warszawy. Wizyta w Senegalu odwołana</title>
-            <link>https://www.fakt.pl/polityka/prezydent-nawrocki-wraca-do-warszawy-wizyta-w-senegalu-odwolana/vr782ht</link>
-            <description>Prezydent Karol Nawrocki wraca do Warszawy. Wizyta w Senegalu została odwołana. Decyzja ma związek z sytuacją pod Trybunałem Konstytucyjnym. Samolot prezydencki zawrócił w piątek wieczorem nad Hiszpanią. &quot;W takim momencie Prezydent musi być w Polsce&quot; — napisał na X prezydent.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/9f56d01e-1a94-44bd-b4af-069c44cd0b67.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 30 Oct 2026 17:10:33 GMT</pubDate>
-            <guid isPermaLink="false">d12589d3-9739-4ff3-b57c-fbea7f07ab8d</guid></item><item>
             <title>Breaking &quot;Z obawy o życie i zdrowie&quot;. Komunikat w sprawie rozmowy z Nawrockim </title>
             <link>https://www.fakt.pl/polityka/z-obawy-o-zycie-i-zdrowie-komunikat-w-sprawie-rozmowy-z-nawrockim/qys6hrg</link>
             <description>&quot;Z obawy o życie i zdrowie osób w TK i wokół niego nie wyrażam zgody na wjazd kogokolwiek na teren TK; z Prezydentem RP możemy spotkać się w Pałacu Prezydenckim&quot; — przekazała PAP Anna Korwin-Piotrowska.</description>
@@ -104,7 +98,13 @@
             <title>Breaking Kancelaria Prezydenta zapowiada zawiadomienia do prokuratury. Chodzi o Nawrockiego</title>
             <link>https://www.fakt.pl/polityka/kprp-zapowiada-zawiadomienia-za-naruszenie-nietykalnosci-karola-nawrockiego/vkc4sd1</link>
             <description>Kancelaria Prezydenta zapowiada złożenie zawiadomień do prokuratury w związku z nocnymi wydarzeniami w Trybunale Konstytucyjnym. Rzecznik Karola Nawrockiego Rafał Leśkiewicz oskarżył Annę Korwin-Piotrowską, Macieja Berka i Krystiana Markiewicza o naruszenie nietykalności głowy państwa. — Bez wątpienia poniosą za to zachowanie odpowiedzialność karną — stwierdził w Radiu Wnet.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9c256a2c-0c7e-48dd-af43-af5ea11b04f8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 01 Nov 2026 16:25:00 GMT</pubDate>
-            <guid isPermaLink="false">355a8139-2db9-4335-b543-22d627e2593e</guid></item></channel>
+            <guid isPermaLink="false">355a8139-2db9-4335-b543-22d627e2593e</guid></item><item>
+            <title>Breaking Mąż znanej dziennikarki zatrzymany na cmentarzu. Interweniowały służby ratunkowe. MSWiA reaguje</title>
+            <link>https://www.fakt.pl/polityka/maz-danuty-holeckiej-zatrzymany-przed-cmentarzem-interweniowala-karetka/6by5l4p</link>
+            <description>Mąż Danuty Holeckiej został zatrzymany przez policję przed cmentarzem na warszawskim Służewie. O zdarzeniu poinformowała Telewizja Republika, która wyemitowała nagranie z interwencji funkcjonariuszy. Mąż Holeckiej zgłosił problemy zdrowotne, dlatego wezwano karetkę. Do zdarzenia odniosła się rzeczniczka MSWiA Karolina Gałecka.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/30e6eddf-73b1-4e58-97ee-c07e43e037cc.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 16:45:00 GMT</pubDate>
+            <guid isPermaLink="false">44b3c60a-38ed-47d0-9c77-677b2bea303a</guid></item></channel>
             </rss>
