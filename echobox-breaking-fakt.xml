@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 31 Oct 2026 20:07:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 01 Nov 2026 11:15:28 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Kaczyński w prokuraturze. Chodzi o Trybunał Konstytucyjny</title>
-            <link>https://www.fakt.pl/polityka/jaroslaw-kaczynski-wezwany-do-prokuratury-krajowej/2ytvj9j</link>
-            <description>Jarosław Kaczyński został wezwany do Prokuratury Krajowej w związku ze sprawą niedopuszczenia sędziów Trybunału Konstytucyjnego do orzekania. Prezes PiS stawił się przed śledczymi w charakterze świadka, co potwierdził &quot;Faktowi&quot; rzecznik prokuratury Przemysław Nowak. — Tak, został wezwany do stawiennictwa w charakterze świadka i stawił się — przekazał. Po zakończonym przesłuchaniu głos zabrał Jarosław Kaczyński.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/2fb22274-5402-4908-b79d-53379cb2069c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 30 Oct 2026 10:45:00 GMT</pubDate>
-            <guid isPermaLink="false">2450aec6-0f5a-4bdc-9a4d-1eb37099d498</guid></item><item>
             <title>Breaking Kontuzja Marty Nawrockiej. Chowała rękę pod marynarką. Pałac Prezydencki zabrał głos</title>
             <link>https://www.fakt.pl/polityka/marta-nawrocka-ma-kontuzje-reki-pod-marynarka-skrywala-temblak/zsbjey4</link>
             <description>Pierwsza dama podczas spaceru w centrum Warszawy zasłaniała lewą rękę marynarką. Okazało się, że Marta Nawrocka nie chciała pokazywać skutków kontuzji. Informację potwierdził &quot;Faktowi&quot; rzecznik prezydenta Rafał Leśkiewicz.</description>
@@ -82,5 +76,11 @@
             <description>Na nagraniu udostępnionym przez profil Tatromaniak widać szarpaninę turysty z jeleniem w drodze do Morskiego Oka. Wokół stała grupa gapiów, co wywołało w sieci lawinę oburzenia. Internauci są wściekli nie tylko na zachowanie mężczyzny, ale przede wszystkim na całkowity brak reakcji ze strony świadków.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/19363036-21dd-43a5-b8d5-f51ef685f576.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 31 Oct 2026 20:07:00 GMT</pubDate>
-            <guid isPermaLink="false">68456b4d-6d8b-40f6-abb3-ca4f23f22102</guid></item></channel>
+            <guid isPermaLink="false">68456b4d-6d8b-40f6-abb3-ca4f23f22102</guid></item><item>
+            <title>Breaking Awantura w programie na żywo. &quot;Czy może pan uciszyć tego prymitywa?&quot;</title>
+            <link>https://www.fakt.pl/polityka/marcin-przydacz-i-robert-kropiwnicki-spieli-sie-w-polsat-news-poszlo-o-tk/l4dp72b</link>
+            <description>Robert Kropiwnicki na antenie Polsat News mówił o &quot;snusach, Braunie&quot; i &quot;taniej dyskotece o 3 w nocy&quot;. — Panie redaktorze, mam prośbę. Czy może pan uciszyć tego prymitywa? — zapytał w końcu Marcin Przydacz prowadzącego Bogdana Rymanowskiego.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2fc55b28-5d5c-41b2-9278-5bb265af78c3.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 11:15:28 GMT</pubDate>
+            <guid isPermaLink="false">6e2894ba-1403-458c-a52d-98b245606264</guid></item></channel>
             </rss>
