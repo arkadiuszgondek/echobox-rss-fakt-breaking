@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 01 Nov 2026 15:05:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 01 Nov 2026 16:25:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Kontuzja Marty Nawrockiej. Chowała rękę pod marynarką. Pałac Prezydencki zabrał głos</title>
-            <link>https://www.fakt.pl/polityka/marta-nawrocka-ma-kontuzje-reki-pod-marynarka-skrywala-temblak/zsbjey4</link>
-            <description>Pierwsza dama podczas spaceru w centrum Warszawy zasłaniała lewą rękę marynarką. Okazało się, że Marta Nawrocka nie chciała pokazywać skutków kontuzji. Informację potwierdził &quot;Faktowi&quot; rzecznik prezydenta Rafał Leśkiewicz.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7beb53a9-4c02-4bec-9487-ea6aa89a78e2.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 30 Oct 2026 15:30:00 GMT</pubDate>
-            <guid isPermaLink="false">68334451-398b-4fe7-ac7e-3e0b20e47328</guid></item><item>
             <title>Breaking Prezydent Nawrocki wraca do Warszawy. Wizyta w Senegalu odwołana</title>
             <link>https://www.fakt.pl/polityka/prezydent-nawrocki-wraca-do-warszawy-wizyta-w-senegalu-odwolana/vr782ht</link>
             <description>Prezydent Karol Nawrocki wraca do Warszawy. Wizyta w Senegalu została odwołana. Decyzja ma związek z sytuacją pod Trybunałem Konstytucyjnym. Samolot prezydencki zawrócił w piątek wieczorem nad Hiszpanią. &quot;W takim momencie Prezydent musi być w Polsce&quot; — napisał na X prezydent.</description>
@@ -98,13 +92,19 @@
             <title>Breaking Kobieta i mężczyzna wypadli z apartamentowca. Dramat w Katowicach</title>
             <link>https://www.fakt.pl/wydarzenia/polska/slask/katowice-tragedia-przy-zabrskiej-kobieta-i-mezczyzna-wypadli-z-apartamentowca/rb1znc7</link>
             <description>Dramat w centrum Katowic. W niedzielę (1 listopada) z apartamentowca przy ulicy Zabrskiej wypadła 42-letnia kobieta i 37-letni mężczyzna. Oboje zginęli. — Policja prowadzi na miejscu czynności pod nadzorem prokuratora — przekazał &quot;Faktowi&quot; podkom. Dominik Michalik, rzecznik katowickiej policji. Okoliczności tragedii wyjaśnia prokuratura.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/Y2Y7MDA_/3f55c8da-3965-4ae1-b639-8ed350971031.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f9f8b83c-5de3-4958-8390-d8d5ca12c41b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 01 Nov 2026 14:34:00 GMT</pubDate>
             <guid isPermaLink="false">6082d2fb-6734-447d-81c8-2234d42b8862</guid></item><item>
             <title>Breaking Żurek zapowiada pierwsze rozprawy w TK. Wskazał, kiedy to nastąpi</title>
             <link>https://www.fakt.pl/polityka/waldemar-zurek-zapowiada-pierwsze-rozprawy-w-tk-uderzyl-w-karola-nawrockiego/ht1j51f</link>
             <description>Waldemar Żurek zapowiada wznowienie rozpatrywania spraw przez Trybunał Konstytucyjny. Minister sprawiedliwości w TVP Info wskazał, kiedy mogą odbyć się pierwsze rozprawy, i zapowiedział rozpoznanie wniosków dotyczących Bogdana Święczkowskiego. Ostro ocenił również nocną wizytę Karola Nawrockiego w TK. — Samo jego wejście do Trybunału oceniam już w kategoriach prawnokarnych — stwierdził.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/25029586-f990-4c4d-b4c9-81b4dfc252fe.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 01 Nov 2026 15:05:00 GMT</pubDate>
-            <guid isPermaLink="false">6bc316e3-22cf-4202-8417-39c8ab0475ce</guid></item></channel>
+            <guid isPermaLink="false">6bc316e3-22cf-4202-8417-39c8ab0475ce</guid></item><item>
+            <title>Breaking Kancelaria Prezydenta zapowiada zawiadomienia do prokuratury. Chodzi o Nawrockiego</title>
+            <link>https://www.fakt.pl/polityka/kprp-zapowiada-zawiadomienia-za-naruszenie-nietykalnosci-karola-nawrockiego/vkc4sd1</link>
+            <description>Kancelaria Prezydenta zapowiada złożenie zawiadomień do prokuratury w związku z nocnymi wydarzeniami w Trybunale Konstytucyjnym. Rzecznik Karola Nawrockiego Rafał Leśkiewicz oskarżył Annę Korwin-Piotrowską, Macieja Berka i Krystiana Markiewicza o naruszenie nietykalności głowy państwa. — Bez wątpienia poniosą za to zachowanie odpowiedzialność karną — stwierdził w Radiu Wnet.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 01 Nov 2026 16:25:00 GMT</pubDate>
+            <guid isPermaLink="false">355a8139-2db9-4335-b543-22d627e2593e</guid></item></channel>
             </rss>
