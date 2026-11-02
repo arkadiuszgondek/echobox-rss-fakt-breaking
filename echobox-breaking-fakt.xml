@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 02 Nov 2026 14:15:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 02 Nov 2026 15:54:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Donald Tusk wygłosi specjalne orędzie. Reaguje na kryzys w TK</title>
-            <link>https://www.fakt.pl/polityka/oredzie-premiera-donalda-tuska-w-sobote-o-godzinie-20-na-zywo/7bcnmyl</link>
-            <description>Orędzie premiera Donalda Tuska zaplanowano na sobotę na godzinę 20. Szef rządu wystąpi w związku z kryzysem wokół Trybunału Konstytucyjnego.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b6c0fb46-e7ec-46f4-96b6-c59d71eb7f61.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 31 Oct 2026 15:17:59 GMT</pubDate>
-            <guid isPermaLink="false">f3eed636-b422-4dcf-a6c3-2e4f3267bf7e</guid></item><item>
             <title>Breaking Orędzie Donalda Tuska. Premier reaguje na chaos w TK. &quot;Zbyt długo czekaliśmy&quot;</title>
             <link>https://www.fakt.pl/polityka/oredzie-donalda-tuska-premier-odniosl-sie-do-sporu-o-trybunal-konstytucyjny/5mhqf14</link>
             <description>— Sposobem na spokój nie może być ustępowanie przed bezprawiem i przemocą — oświadczył w sobotę premier Donald Tusk w specjalnym orędziu. W ten sposób szef polskiego rządu odniósł się do eskalacji konfliktu wokół Trybunału Konstytucyjnego. — Zbyt długo czekaliśmy na skarb, jakim jest niepodległa, demokratyczna Polska, żeby się przestraszyć i ustąpić — dodał.</description>
@@ -119,5 +113,17 @@
             <description>Bogdan Święczkowski skierował pismo do komendanta głównego policji Marka Boronia. Domaga się zakończenia interwencji funkcjonariuszy w Trybunale Konstytucyjnym i zarzuca im uniemożliwianie wykonywania obowiązków. Według Święczkowskiego policjanci przebywają na terenie instytucji nielegalnie. &quot;Z najwyższym oburzeniem i stanowczym sprzeciwem przyjmuję działania podjęte przez Policję&quot; — napisał.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7b1d4f87-f012-489c-b00b-69c5f67d08a0.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 02 Nov 2026 14:15:00 GMT</pubDate>
-            <guid isPermaLink="false">ca2726de-e73c-4902-89e3-fe6b70e0cb6f</guid></item></channel>
+            <guid isPermaLink="false">ca2726de-e73c-4902-89e3-fe6b70e0cb6f</guid></item><item>
+            <title>Breaking Kolejny ambasador rezygnuje. Rzecznik MSZ potwierdza</title>
+            <link>https://www.fakt.pl/polityka/krzysztof-szczerski-konczy-misje-przy-onz-radoslaw-sikorski-wyrazil-zgode/hjn1lvg</link>
+            <description>Krzysztof Szczerski zakończy misję dyplomatyczną przy Organizacji Narodów Zjednoczonych jeszcze w listopadzie. Ambasador Polski w Nowym Jorku sam zwrócił się do Radosława Sikorskiego z prośbą o skrócenie swojej misji. Szef MSZ wyraził zgodę — poinformował rzecznik MSZ Maciej Wewiór. To kolejna decyzja dotycząca polskiej dyplomacji po rezygnacjach Jakuba Kumocha i Pawła Solocha, którzy powiązali swoje odejście z wydarzeniami wokół TK.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/ZmU7MDA_/2d5668bc-3bfb-4824-9b52-da6b07981359.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 15:10:00 GMT</pubDate>
+            <guid isPermaLink="false">46d3e772-09e0-48a7-8055-7e0a576774bf</guid></item><item>
+            <title>Breaking Ludzkie szczątki znalezione w Czechowicach-Dziedzicach. To tam zaginęła Karolina Wróbel</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/slask/w-czechowicach-dziedzicach-znaleziono-ludzkie-szczatki-tam-zaginela-karolina-wrobel/gc6ynhh</link>
+            <description>Przy ul. Narutowicza w Czechowicach-Dziedzicach (woj. śląskie), na terenie jednej z posesji, ujawniono ludzkie szczątki będące w znacznym stanie rozkładu. Pojawiają się uzasadnione pytania, czy może to być przełom w sprawie zaginięcia 24-letniej Karoliny Wróbel, mieszkanki miasta, w styczniu 2025 r. — Badania zostaną przeprowadzone w ekspresowym tempie — mówi &quot;Faktowi&quot; Sławomir Kocur, rzecznik prasowy policji w Bielsku-Białej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/31a9055a-130b-4d73-a07c-9a47dd5d7e68.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 15:54:00 GMT</pubDate>
+            <guid isPermaLink="false">7fb56c9c-2622-4314-9ca8-37b834950734</guid></item></channel>
             </rss>
