@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 02 Nov 2026 10:54:20 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 02 Nov 2026 12:06:36 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Nagły wniosek Mateusza Morawieckiego. Wskazał zaskakującego kandydata na premiera</title>
             <link>https://www.fakt.pl/polityka/mateusz-morawiecki-chce-zmiany-premiera-padlo-nazwisko-marek-jurek/7ys7tvn</link>
@@ -105,7 +105,13 @@
             <title>Breaking Do prokuratury wpłynęły zawiadomienia ws. Trybunału Konstytucyjnego</title>
             <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-prokuratura-wplynely-pierwsze-zawiadomienia/n1jxkly</link>
             <description>Do prokuratury wpłynęły pierwsze zawiadomienia w sprawie wydarzeń w Trybunale Konstytucyjnym. Potwierdził to w rozmowie z Polsat News prok. Piotr Antoni Skiba.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/63129bdf-1652-40e6-afc9-b0f8079b8595.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 02 Nov 2026 10:54:20 GMT</pubDate>
-            <guid isPermaLink="false">3c3c2053-0ed2-4770-8b03-579bcaef102f</guid></item></channel>
+            <guid isPermaLink="false">3c3c2053-0ed2-4770-8b03-579bcaef102f</guid></item><item>
+            <title>Breaking Specjalna operacja służb przy granicy. Szef policji ujawnia szczegóły </title>
+            <link>https://www.fakt.pl/polityka/sluzby-przy-granicy-z-rosja-gen-marek-boron-ujawnia-szczegoly-akcji-policji/8yvq8x2</link>
+            <description>W Komendzie Głównej Policji powstał sztab operacji specjalnej, która prowadzona jest przy granicy. Wszystko przez sygnały, że w najbliższych dniach na pograniczu z obwodem królewieckim może dojść do aktów dywersji. — To wynika z informacji, które posiadamy też od służb zewnętrznych — przekazał gen. insp. Marek Boroń.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/70e11ef3-2569-4da5-bea4-fcb7818c2a21.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 12:06:36 GMT</pubDate>
+            <guid isPermaLink="false">57981968-3a4b-47e3-9b5d-d849bb691569</guid></item></channel>
             </rss>
