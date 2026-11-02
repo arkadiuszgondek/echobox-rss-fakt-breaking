@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 02 Nov 2026 12:06:36 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 02 Nov 2026 14:15:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nagły wniosek Mateusza Morawieckiego. Wskazał zaskakującego kandydata na premiera</title>
-            <link>https://www.fakt.pl/polityka/mateusz-morawiecki-chce-zmiany-premiera-padlo-nazwisko-marek-jurek/7ys7tvn</link>
-            <description>— Proponujemy zgłoszenie konstruktywnego wniosku wotum nieufności wobec tego rządu — zapowiedział Mateusz Morawiecki. Lider Rozwoju Plus wskazał nazwisko kandydata, który — jego zdaniem — powinien sprawować funkcję premiera do czasu wyborów.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/d8499c36-bb0f-4b6a-802d-88fc60d5ee2a.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 31 Oct 2026 13:23:00 GMT</pubDate>
-            <guid isPermaLink="false">1e31286e-54b1-46b0-aed1-d3c3a6310477</guid></item><item>
             <title>Breaking Donald Tusk wygłosi specjalne orędzie. Reaguje na kryzys w TK</title>
             <link>https://www.fakt.pl/polityka/oredzie-premiera-donalda-tuska-w-sobote-o-godzinie-20-na-zywo/7bcnmyl</link>
             <description>Orędzie premiera Donalda Tuska zaplanowano na sobotę na godzinę 20. Szef rządu wystąpi w związku z kryzysem wokół Trybunału Konstytucyjnego.</description>
@@ -108,10 +102,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/63129bdf-1652-40e6-afc9-b0f8079b8595.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 02 Nov 2026 10:54:20 GMT</pubDate>
             <guid isPermaLink="false">3c3c2053-0ed2-4770-8b03-579bcaef102f</guid></item><item>
+            <title>Breaking Tragedia na warszawskich Bielanach. Nie żyje 14-letnia dziewczynka</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/smierc-14-latki-w-warszawie-wypadla-z-10-pietra/wpl8ecf</link>
+            <description>Przed blokiem na ulicy Wrzeciono na warszawskich Bielanach znaleziono ciało 14-letniej dziewczynki. — Z dotychczasowych informacji wynika, że dziecko wypadło z 10. piętra — dowiedział się &quot;Fakt&quot; w Komendzie Rejonowej Policji Warszawa V. Nastolatka poniosła śmierć na miejscu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3150c57d-ec21-48bd-87f0-43757ed001e7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 12:01:00 GMT</pubDate>
+            <guid isPermaLink="false">efcd332e-d414-45c1-8430-3e880f506430</guid></item><item>
             <title>Breaking Specjalna operacja służb przy granicy. Szef policji ujawnia szczegóły </title>
             <link>https://www.fakt.pl/polityka/sluzby-przy-granicy-z-rosja-gen-marek-boron-ujawnia-szczegoly-akcji-policji/8yvq8x2</link>
             <description>W Komendzie Głównej Policji powstał sztab operacji specjalnej, która prowadzona jest przy granicy. Wszystko przez sygnały, że w najbliższych dniach na pograniczu z obwodem królewieckim może dojść do aktów dywersji. — To wynika z informacji, które posiadamy też od służb zewnętrznych — przekazał gen. insp. Marek Boroń.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/70e11ef3-2569-4da5-bea4-fcb7818c2a21.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 02 Nov 2026 12:06:36 GMT</pubDate>
-            <guid isPermaLink="false">57981968-3a4b-47e3-9b5d-d849bb691569</guid></item></channel>
+            <guid isPermaLink="false">57981968-3a4b-47e3-9b5d-d849bb691569</guid></item><item>
+            <title>Breaking Święczkowski pisze do komendanta głównego policji. Żąda natychmiastowego działania</title>
+            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-skierowal-pismo-do-marka-boronia-pisze-o-policji-w-tk/f942l78</link>
+            <description>Bogdan Święczkowski skierował pismo do komendanta głównego policji Marka Boronia. Domaga się zakończenia interwencji funkcjonariuszy w Trybunale Konstytucyjnym i zarzuca im uniemożliwianie wykonywania obowiązków. Według Święczkowskiego policjanci przebywają na terenie instytucji nielegalnie. &quot;Z najwyższym oburzeniem i stanowczym sprzeciwem przyjmuję działania podjęte przez Policję&quot; — napisał.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/7b1d4f87-f012-489c-b00b-69c5f67d08a0.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 14:15:00 GMT</pubDate>
+            <guid isPermaLink="false">ca2726de-e73c-4902-89e3-fe6b70e0cb6f</guid></item></channel>
             </rss>
