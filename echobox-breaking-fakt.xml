@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 02 Nov 2026 09:25:24 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 02 Nov 2026 10:54:20 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking TK publikuje nowe zarządzenie Korwin-Piotrowskiej. &quot;Do odwołania&quot;</title>
-            <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-anna-korwin-piotrowska-wydala-zarzadzenie/3xfm1tz</link>
-            <description>Na stronie Trybunału Konstytucyjnego ukazało się zarządzenie. Wydała je Anna Korwin-Piotrowska. Ma obowiązywać do &quot;odwołania&quot;. &quot;Ze względu na podwyższone ryzyko zakłóceń porządku publicznego w pobliżu siedziby TK, zalecam sędziom Trybunału Konstytucyjnego wykonywanie ich zadań poza siedzibą&quot; — czytamy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/2855333d-41f7-4060-8b81-2c85243efc2c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 31 Oct 2026 10:08:05 GMT</pubDate>
-            <guid isPermaLink="false">86e8eff9-a641-4dc4-b113-cc26e5c4e988</guid></item><item>
-            <title>Breaking Mężczyzna z nożem przed TK. &quot;Ludzie zaczęli krzyczeć&quot;</title>
-            <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-poslanka-pis-policja-zatrzymala-mezczyzne-z-nozem/f1y1nmz</link>
-            <description>Posłanka PiS poinformowała o niebezpiecznej sytuacji, do której doszło przed Trybunałem Konstytucyjnym. — W pewnym momencie wyrywano mu nóż. Ten człowiek był częściowo zamaskowany — powiedziała Anna Gembicka. Zdarzenie potwierdziła już policja.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/e5ca8a70-69ba-4594-8295-c57663caec77.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 31 Oct 2026 10:32:30 GMT</pubDate>
-            <guid isPermaLink="false">eab25cf0-f7d8-41c9-8da8-d291fe367f17</guid></item><item>
             <title>Breaking Nagły wniosek Mateusza Morawieckiego. Wskazał zaskakującego kandydata na premiera</title>
             <link>https://www.fakt.pl/polityka/mateusz-morawiecki-chce-zmiany-premiera-padlo-nazwisko-marek-jurek/7ys7tvn</link>
             <description>— Proponujemy zgłoszenie konstruktywnego wniosku wotum nieufności wobec tego rządu — zapowiedział Mateusz Morawiecki. Lider Rozwoju Plus wskazał nazwisko kandydata, który — jego zdaniem — powinien sprawować funkcję premiera do czasu wyborów.</description>
@@ -107,5 +95,17 @@
             <description>Kryzys wokół Trybunału Konstytucyjnego nie słabnie. Do najnowszych wydarzeń odniósł się w rozmowie z &quot;Faktem&quot; sędzia Sądu Okręgowego w Warszawie Igor Tuleya, który skomentował między innymi nocną wizytę prezydenta w siedzibie TK. — Wtargnięcie Karola Nawrockiego do Trybunału Konstytucyjnego jest niebywałym skandalem — mówi sędzia.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/fe8b57fb-4e4c-4f31-a831-60e580832c7b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 02 Nov 2026 09:25:24 GMT</pubDate>
-            <guid isPermaLink="false">b4ad3bde-5015-422c-ac60-7a0bba771fc7</guid></item></channel>
+            <guid isPermaLink="false">b4ad3bde-5015-422c-ac60-7a0bba771fc7</guid></item><item>
+            <title>Breaking Tusk reaguje na kryzys wokół TK. &quot;Rozwiązanie konfliktu jest proste&quot;</title>
+            <link>https://www.fakt.pl/polityka/donald-tusk-zabral-glos-ws-tk-karol-nawrocki-wybiera-silowa-konfrontacje/pn88nj4</link>
+            <description>&quot;Rozwiązanie konfliktu jest proste i możliwe bez zmian w Konstytucji&quot; — napisał Donald Tusk, po czym uderzył w Karola Nawrockiego. &quot;Wybiera siłową konfrontację, która może bardzo wiele Polskę kosztować&quot; — stwierdził premier. Wpis komentował rzecznik prezydenta. &quot;Upadek&quot; — stwierdził Rafał Leśkiewicz.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/aa8d197f-d84b-4094-ab85-7474e9bd70bc.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 09:53:12 GMT</pubDate>
+            <guid isPermaLink="false">cb542829-ea57-4571-b7f6-ffc665dfd26e</guid></item><item>
+            <title>Breaking Do prokuratury wpłynęły zawiadomienia ws. Trybunału Konstytucyjnego</title>
+            <link>https://www.fakt.pl/polityka/trybunal-konstytucyjny-prokuratura-wplynely-pierwsze-zawiadomienia/n1jxkly</link>
+            <description>Do prokuratury wpłynęły pierwsze zawiadomienia w sprawie wydarzeń w Trybunale Konstytucyjnym. Potwierdził to w rozmowie z Polsat News prok. Piotr Antoni Skiba.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 02 Nov 2026 10:54:20 GMT</pubDate>
+            <guid isPermaLink="false">3c3c2053-0ed2-4770-8b03-579bcaef102f</guid></item></channel>
             </rss>
