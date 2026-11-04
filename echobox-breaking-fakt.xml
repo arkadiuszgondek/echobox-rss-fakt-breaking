@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 04 Nov 2026 04:34:02 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 04 Nov 2026 09:25:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Sędzia Tuleya o kryzysie TK. Ocenił działania prezydenta Nawrockiego</title>
-            <link>https://www.fakt.pl/polityka/karol-nawrocki-w-tk-sedzia-tuleya-to-niebywaly-skandal/pdbyewn</link>
-            <description>Kryzys wokół Trybunału Konstytucyjnego nie słabnie. Do najnowszych wydarzeń odniósł się w rozmowie z &quot;Faktem&quot; sędzia Sądu Okręgowego w Warszawie Igor Tuleya, który skomentował między innymi nocną wizytę prezydenta w siedzibie TK. — Wtargnięcie Karola Nawrockiego do Trybunału Konstytucyjnego jest niebywałym skandalem — mówi sędzia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/fe8b57fb-4e4c-4f31-a831-60e580832c7b.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 02 Nov 2026 09:25:24 GMT</pubDate>
-            <guid isPermaLink="false">b4ad3bde-5015-422c-ac60-7a0bba771fc7</guid></item><item>
             <title>Breaking Tusk reaguje na kryzys wokół TK. &quot;Rozwiązanie konfliktu jest proste&quot;</title>
             <link>https://www.fakt.pl/polityka/donald-tusk-zabral-glos-ws-tk-karol-nawrocki-wybiera-silowa-konfrontacje/pn88nj4</link>
             <description>&quot;Rozwiązanie konfliktu jest proste i możliwe bez zmian w Konstytucji&quot; — napisał Donald Tusk, po czym uderzył w Karola Nawrockiego. &quot;Wybiera siłową konfrontację, która może bardzo wiele Polskę kosztować&quot; — stwierdził premier. Wpis komentował rzecznik prezydenta. &quot;Upadek&quot; — stwierdził Rafał Leśkiewicz.</description>
@@ -77,10 +71,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/338f8187-d2b0-4254-99dc-2d78981cf088.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 03:25:31 GMT</pubDate>
             <guid isPermaLink="false">4b20b18d-46fc-43ad-96d6-5a42f92c579d</guid></item><item>
-            <title>Breaking Demokraci przejmą pełną kontrolę nad Kongresem USA</title>
+            <title>Breaking Demokraci przejmą pełną kontrolę nad Kongresem USA. Zakończyło się głosowanie</title>
             <link>https://www.fakt.pl/polityka/nbc-news-demokraci-zdobywaja-senat-i-przejmuja-pelna-kontrole-nad-kongresem/38jkfkq</link>
-            <description>Stacja NBC News podaje, że Demokraci zdobędą Senat i przejmą pełną kontrolę nad Kongresem USA. Wcześniej media podawały, że Partia Demokratyczna będzie kontrolować także Izbę Reprezentantów.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/409ed092-dc49-4585-82fc-747d2e480b73.jpeg" length="0" type="image/jpeg"/>
+            <description>Jak podają amerykańskie media, Demokraci zdobędą Senat oraz Izbę Reprezentantów i przejmą pełną kontrolę nad Kongresem USA. To będzie prawdziwy przełom w amerykańskiej polityce. Oznacza on nową, trudniejszą rzeczywistość dla republikańskiego prezydenta Donalda Trumpa.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/NjI7MDA_/8db55d1e-5ddc-4e04-abe8-04a82b297c86.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 04:34:02 GMT</pubDate>
-            <guid isPermaLink="false">bdb118d6-2c66-4177-9c81-3df2e6d6dc15</guid></item></channel>
+            <guid isPermaLink="false">bdb118d6-2c66-4177-9c81-3df2e6d6dc15</guid></item><item>
+            <title>Breaking Tragedia 13-letniej Roksany. Prokuratura potwierdza identyfikację</title>
+            <link>https://www.fakt.pl/wydarzenia/zaginiecie-13-letniej-roksany-prokuratura-przekazala-tragiczne-wiesci/6ymv40j</link>
+            <description>Bliscy zaginionej 13-letniej Roksany rozpoznali ją w osobie zmarłej, której ciało znaleziono 27 października w Wiśle. Informację tę potwierdziła w rozmowie z &quot;Faktem&quot; Prokuratura Okręgowa Warszawa-Praga. Śledczy prowadzą postępowanie w kierunku nieumyślnego spowodowania śmierci i badają wszystkie okoliczności tragedii.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/64f86486-0d14-40b6-a37d-bc237a01f123.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 04 Nov 2026 09:25:25 GMT</pubDate>
+            <guid isPermaLink="false">5075bcb5-8c01-4e55-9d93-200ed70a79c2</guid></item></channel>
             </rss>
