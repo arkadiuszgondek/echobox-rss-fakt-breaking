@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 04 Nov 2026 03:20:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 04 Nov 2026 04:34:02 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Sędzia Tuleya o kryzysie TK. Ocenił działania prezydenta Nawrockiego</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-w-tk-sedzia-tuleya-to-niebywaly-skandal/pdbyewn</link>
@@ -68,7 +68,19 @@
             <title>Breaking Demokraci wygrywają kluczowy stan. Tylko cud może uratować ludzi Trumpa </title>
             <link>https://www.fakt.pl/polityka/wybory-polowkowe-w-usa-demokraci-odbieraja-republikanom-karoline-poludniowa/e7qvgjr</link>
             <description>Mandat w Senacie z Karoliny Południowej trafia w ręce Demokratów. Po przeliczeniu 87 proc. głosów Republikanie przegrali w stanie, który przed wyborami uznawano za niemal pewny dla partii Donalda Trumpa. To poważny cios w ich plany utrzymania większości w Senacie. Równie źle sytuacja wygląda w dwóch republikańskich bastionach — Kansas i Teksasie. W pierwszym z nich Demokraci mogą odnieść historyczne zwycięstwo, na które czekają od 1932 r.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1fdec78ccc9c4530f82a4d8a7f63c9e4.png" length="0" type="image/jpeg"/>
+            <enclosure url="http://ocdn.eu/images/pulscms/N2M7MDA_/872ec100-e08d-4528-a3b4-dece3d92cb49.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 03:20:00 GMT</pubDate>
-            <guid isPermaLink="false">dd920249-1ffc-43fe-baeb-a331c8e643a0</guid></item></channel>
+            <guid isPermaLink="false">dd920249-1ffc-43fe-baeb-a331c8e643a0</guid></item><item>
+            <title>Breaking Media: Demokraci przejmą kontrolę nad Izbą Reprezentantów USA</title>
+            <link>https://www.fakt.pl/polityka/cnn-demokraci-przejma-kontrole-nad-izba-reprezentantow-usa/2b42ysb</link>
+            <description>Stacje CNN i NBC podały, że Partia Demokratyczna przejmie kontrolę nad Izbą Reprezentantów, opierając się na dotychczasowych wynikach wyborów połówkowych w USA. Prognoza NBC cytowana przez PAP wskazuje na godz. 5 czasu polskiego, że ostateczny układ będzie wynosił 248 do 187.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/338f8187-d2b0-4254-99dc-2d78981cf088.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 04 Nov 2026 03:25:31 GMT</pubDate>
+            <guid isPermaLink="false">4b20b18d-46fc-43ad-96d6-5a42f92c579d</guid></item><item>
+            <title>Breaking Demokraci przejmą pełną kontrolę nad Kongresem USA</title>
+            <link>https://www.fakt.pl/polityka/nbc-news-demokraci-zdobywaja-senat-i-przejmuja-pelna-kontrole-nad-kongresem/38jkfkq</link>
+            <description>Stacja NBC News podaje, że Demokraci zdobędą Senat i przejmą pełną kontrolę nad Kongresem USA. Wcześniej media podawały, że Partia Demokratyczna będzie kontrolować także Izbę Reprezentantów.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/409ed092-dc49-4585-82fc-747d2e480b73.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 04 Nov 2026 04:34:02 GMT</pubDate>
+            <guid isPermaLink="false">bdb118d6-2c66-4177-9c81-3df2e6d6dc15</guid></item></channel>
             </rss>
