@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 04 Nov 2026 17:10:34 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 04 Nov 2026 18:28:33 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Sędziowie TK zdecydowali. Wiadomo, co z kworum na Zgromadzeniu Ogólnym</title>
             <link>https://www.fakt.pl/polityka/rozpoczelo-sie-zgromadzenie-ogolne-w-tk-zwolane-przez-korwin-piotrowska/xwtkeg8</link>
@@ -37,7 +37,7 @@
             <guid isPermaLink="false">bdb118d6-2c66-4177-9c81-3df2e6d6dc15</guid></item><item>
             <title>Breaking Tragedia 13-letniej Roksany. Prokuratura potwierdza identyfikację</title>
             <link>https://www.fakt.pl/wydarzenia/zaginiecie-13-letniej-roksany-prokuratura-przekazala-tragiczne-wiesci/6ymv40j</link>
-            <description>Bliscy zaginionej 13-letniej Roksany rozpoznali ją w osobie zmarłej, której ciało znaleziono 27 października w Wiśle — potwierdza w rozmowie z &quot;Faktem&quot; prok. Remigiusz Krynke. Śledczy prowadzą postępowanie w kierunku nieumyślnego spowodowania śmierci i badają wszystkie okoliczno��ci tragedii.</description>
+            <description>Bliscy zaginionej 13-letniej Roksany rozpoznali ją w osobie zmarłej, której ciało znaleziono 27 października w Wiśle — potwierdza w rozmowie z &quot;Faktem&quot; prok. Remigiusz Krynke. Śledczy prowadzą postępowanie w kierunku nieumyślnego spowodowania śmierci i badają wszystkie okoliczności tragedii.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4d697462-dbfa-4dfb-8231-e1f85706fd77.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 09:25:25 GMT</pubDate>
             <guid isPermaLink="false">5075bcb5-8c01-4e55-9d93-200ed70a79c2</guid></item><item>
@@ -56,7 +56,13 @@
             <title>Breaking Nagłe oświadczenie Korwin-Piotrowskiej. Zwołała kolejne zgromadzenie sędziów</title>
             <link>https://www.fakt.pl/polityka/kryzys-w-tk-nowe-oswiadczenie-anny-korwin-piotrowskiej/fg784hs</link>
             <description>Na 10 listopada zostanie zwołane kolejne Zgromadzenie Ogólne Sędziów TK — poinformowała sędzia TK Anna Korwin-Piotrowska w oświadczeniu wideo. Na nagraniu opublikowanym przez TVP Info powiedziała, że ma być na nim poruszana kwestia organizacji pracy Trybunału po zmianach dokonanych 30 października. Powtórzyła, że coraz więcej pracowników Trybunału przychodzi do pracy pomimo wcześniejszych zapowiedzi, że będzie bunt wśród osób zatrudnionych w TK.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/0405959a-dde1-4de7-aadc-68e0ffd71e7a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 17:10:34 GMT</pubDate>
-            <guid isPermaLink="false">0f9b8a0d-b4a0-41e1-9690-b49aa671c0f7</guid></item></channel>
+            <guid isPermaLink="false">0f9b8a0d-b4a0-41e1-9690-b49aa671c0f7</guid></item><item>
+            <title>Breaking Groźny wypadek w Barcicach. W zderzeniu uczestniczył nieoznakowany radiowóz. Są ranni</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/barcice-zderzenie-radiowozu-z-autem-osobowym-trzy-osoby-w-szpitalu/d88b40l</link>
+            <description>Do groźnego zdarzenia doszło w środowe popołudnie 4 listopada w Barcicach koło Starego Sącza (woj. małopolskie). Na drodze krajowej nr 87 zderzyły się dwa samochody osobowe. Trzy osoby zostały ranne i trafiły do szpitala. Przez wiele godzin kierowcy musieli liczyć się z poważnymi utrudnieniami. Jednym z aut był nieoznakowany radiowóz.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5f67808f-c1fc-4596-8083-b414c165139c.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 04 Nov 2026 18:28:33 GMT</pubDate>
+            <guid isPermaLink="false">09141de8-9acb-46aa-a643-12daf82efef4</guid></item></channel>
             </rss>
