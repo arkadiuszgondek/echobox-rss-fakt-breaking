@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 04 Nov 2026 13:32:23 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 04 Nov 2026 14:32:26 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Święczkowski pisze do komendanta głównego policji. Żąda natychmiastowego działania</title>
-            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-skierowal-pismo-do-marka-boronia-pisze-o-policji-w-tk/f942l78</link>
-            <description>Bogdan Święczkowski skierował pismo do komendanta głównego policji Marka Boronia. Domaga się zakończenia interwencji funkcjonariuszy w Trybunale Konstytucyjnym i zarzuca im uniemożliwianie wykonywania obowiązków. Według Święczkowskiego policjanci przebywają na terenie instytucji nielegalnie. &quot;Z najwyższym oburzeniem i stanowczym sprzeciwem przyjmuję działania podjęte przez Policję&quot; — napisał.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7b1d4f87-f012-489c-b00b-69c5f67d08a0.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 02 Nov 2026 14:15:00 GMT</pubDate>
-            <guid isPermaLink="false">ca2726de-e73c-4902-89e3-fe6b70e0cb6f</guid></item><item>
             <title>Breaking Kolejny ambasador rezygnuje. Rzecznik MSZ potwierdza</title>
             <link>https://www.fakt.pl/polityka/krzysztof-szczerski-konczy-misje-przy-onz-radoslaw-sikorski-wyrazil-zgode/hjn1lvg</link>
             <description>Krzysztof Szczerski zakończy misję dyplomatyczną przy Organizacji Narodów Zjednoczonych jeszcze w listopadzie. Ambasador Polski w Nowym Jorku sam zwrócił się do Radosława Sikorskiego z prośbą o skrócenie swojej misji. Szef MSZ wyraził zgodę — poinformował rzecznik MSZ Maciej Wewiór. To kolejna decyzja dotycząca polskiej dyplomacji po rezygnacjach Jakuba Kumocha i Pawła Solocha, którzy powiązali swoje odejście z wydarzeniami wokół TK.</description>
@@ -59,10 +53,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4d697462-dbfa-4dfb-8231-e1f85706fd77.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 09:25:25 GMT</pubDate>
             <guid isPermaLink="false">5075bcb5-8c01-4e55-9d93-200ed70a79c2</guid></item><item>
-            <title>Breaking Kolejne kłopoty Brauna. Nieoficjalne doniesienia z prokuratury</title>
+            <title>Breaking Kolejne kłopoty Brauna. Jest komunikat prokuratury</title>
             <link>https://www.fakt.pl/polityka/akt-oskarzenia-przeciwko-grzegorzowi-braunowi-nieoficjalne-doniesienia/8fy2by5</link>
-            <description>Nowy akt oskarżenia przeciwko Grzegorzowi Braunowi - podał 4 listopada nieoficjalnie TVN24. Chodzi o zarzuty m.in. kradzież ukraińskiej flagi z ratusza w Białej Podlaskiej i zniesławienie organizatorów akcji &quot;Żonkile&quot; w czasie debaty prezydenckiej. To kolejny akt oskarżenia skierowany do sądu w sprawie kontrowersji wokół lidera Konfederacji Korony Polskiej.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>Prokuratura skierowała do sądu nowy akt oskarżenia przeciwko Grzegorzowi Braunowi — podało 4 listopada nieoficjalnie TVN24. Chodzi o zarzuty m.in. kradzieży ukraińskiej flagi z ratusza w Białej Podlaskiej i zniesławienia organizatorów akcji &quot;Żonkile&quot; w czasie debaty prezydenckiej. To kolejny akt oskarżenia skierowany do sądu w sprawie kontrowersji wokół lidera Konfederacji Korony Polskiej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/d1b8e421-410d-4b19-91f5-aa425dd3c530.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 13:32:23 GMT</pubDate>
-            <guid isPermaLink="false">9f1573c5-8430-418c-8107-e3ecf8fef56f</guid></item></channel>
+            <guid isPermaLink="false">9f1573c5-8430-418c-8107-e3ecf8fef56f</guid></item><item>
+            <title>Breaking Kryzys w TK. Jest kontratak Pałacu Prezydenckiego. &quot;Zbrodniczy proceder&quot;</title>
+            <link>https://www.fakt.pl/polityka/bedzie-zawiadomienie-do-prokuratury-z-kancelarii-karola-nawrockiego-ws-zamachu-stanu/c4w2jkb</link>
+            <description>Będzie zawiadomienie do prokuratury w sprawie próby zamachu stanu w związku z akcją w Trybunale Konsytucyjnym — przekazał mediom 4 listopada szef KPRP Zbigniew Bogucki. Jego zdaniem to &quot;pierwszy taki przypadek w najnowszej historii Polski&quot;, a służby podległe rządowi Donalda Tuska popełniły &quot;zbrodniczy proceder&quot;. Osobne zawiadomienie z KPRP ma dotyczy naruszenia nietykalności fizycznej prezydenta Karola Nawrockiego podczas jego wizyty w TK w nocy z 30 na 31 października.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 04 Nov 2026 14:32:26 GMT</pubDate>
+            <guid isPermaLink="false">33847d78-f763-43b3-8dcb-c8c0763ab754</guid></item></channel>
             </rss>
