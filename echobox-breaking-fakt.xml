@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 04 Nov 2026 18:28:33 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 05 Nov 2026 14:30:02 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Sędziowie TK zdecydowali. Wiadomo, co z kworum na Zgromadzeniu Ogólnym</title>
             <link>https://www.fakt.pl/polityka/rozpoczelo-sie-zgromadzenie-ogolne-w-tk-zwolane-przez-korwin-piotrowska/xwtkeg8</link>
@@ -64,5 +64,11 @@
             <description>Do groźnego zdarzenia doszło w środowe popołudnie 4 listopada w Barcicach koło Starego Sącza (woj. małopolskie). Na drodze krajowej nr 87 zderzyły się dwa samochody osobowe. Trzy osoby zostały ranne i trafiły do szpitala. Przez wiele godzin kierowcy musieli liczyć się z poważnymi utrudnieniami. Jednym z aut był nieoznakowany radiowóz.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/5f67808f-c1fc-4596-8083-b414c165139c.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 04 Nov 2026 18:28:33 GMT</pubDate>
-            <guid isPermaLink="false">09141de8-9acb-46aa-a643-12daf82efef4</guid></item></channel>
+            <guid isPermaLink="false">09141de8-9acb-46aa-a643-12daf82efef4</guid></item><item>
+            <title>Breaking Poseł KO zatrzymany. Ujęto go podczas rozprawy sądowej</title>
+            <link>https://www.fakt.pl/polityka/posel-ko-wojciech-krol-zatrzymany-ujeto-go-podczas-rozprawy-sadowej/4gkt7r6</link>
+            <description>Sąd Okręgowy w Katowicach zdecydował 5 listopada o aresztowaniu podejrzanego o korupcję posła KO Wojciecha Króla. Został on zatrzymany na sali sądowej. Król został zatrzymany kolejny raz w ostatnich miesiącach z powodu zarzutów o korupcję i wykorzystywane wpływów.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 05 Nov 2026 14:30:02 GMT</pubDate>
+            <guid isPermaLink="false">f13ffaf6-7115-4e28-b260-2e43a3de4fd9</guid></item></channel>
             </rss>
