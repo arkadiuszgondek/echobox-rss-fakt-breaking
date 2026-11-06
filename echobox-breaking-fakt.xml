@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 06 Nov 2026 14:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 06 Nov 2026 16:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Nagłe oświadczenie Korwin-Piotrowskiej. Zwołała kolejne zgromadzenie sędziów</title>
             <link>https://www.fakt.pl/polityka/kryzys-w-tk-nowe-oswiadczenie-anny-korwin-piotrowskiej/fg784hs</link>
@@ -50,7 +50,13 @@
             <title>Breaking Prezydent trzymał w niepewności niemal do końca. Wiadomo, czy będzie na Marszu Niepodległości</title>
             <link>https://www.fakt.pl/polityka/prezydent-nawrocki-oglasza-decyzje-stawi-sie-na-marszu-niepodleglosci/jnsmxp4</link>
             <description>Prezydent Karol Nawrocki oficjalnie zapowiedział swoją obecność na tegorocznym Marszu Niepodległości w Warszawie. Tymczasem państwowe służby stawiają mundurowych w stan najwyższej gotowości, a w stolicy wchodzą w życie rygorystyczne zakazy. Prawica liczy na rekordową frekwencję i milion uczestników.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e900fac3-e666-4daf-9698-022c5e5addf8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 06 Nov 2026 14:45:00 GMT</pubDate>
-            <guid isPermaLink="false">7f564b1e-1f9e-4299-b205-56a4ec1a553b</guid></item></channel>
+            <guid isPermaLink="false">7f564b1e-1f9e-4299-b205-56a4ec1a553b</guid></item><item>
+            <title>Breaking Osobliwe sceny przed TK. Zamach stanu czy happening? Weźcie udział w naszej sondzie i oceńcie sami</title>
+            <link>https://www.fakt.pl/polityka/sonda-jak-oceniasz-spiewy-i-happeningi-przed-trybunalem-konstytucyjnym/5ghkl68</link>
+            <description>&quot;Jak oceniasz śpiewy, happeningi i występy przed Trybunałem Konstytucyjnym?&quot; — takie pytanie zadajemy wam w sondzie i zachęcamy do udzielania odpowiedzi. Wyraźcie swoją opinię dotyczącą tego, co dzieje się przed TK.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/55d34c28-9bd6-4b4e-89d1-65383dba7784.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 06 Nov 2026 16:45:00 GMT</pubDate>
+            <guid isPermaLink="false">72230266-abd0-4f5f-b006-58301c89b634</guid></item></channel>
             </rss>
