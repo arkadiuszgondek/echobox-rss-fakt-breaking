@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 06 Nov 2026 09:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 06 Nov 2026 11:33:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Kolejne kłopoty Brauna. Jest komunikat prokuratury</title>
             <link>https://www.fakt.pl/polityka/akt-oskarzenia-przeciwko-grzegorzowi-braunowi-nieoficjalne-doniesienia/8fy2by5</link>
@@ -44,7 +44,13 @@
             <title>Breaking Awantura podczas wystąpienia Metsoli w Sejmie. Uderzyli w Tuska. Ogromny baner [ZDJĘCIA]</title>
             <link>https://www.fakt.pl/polityka/protest-podczas-wystapienia-roberty-metsoli-baner-przeciw-tuskowi/nlekdlh</link>
             <description>Podczas wystąpienia przewodniczącej Parlamentu Europejskiego Roberty Metsoli w Sejmie doszło do protestu wymierzonego w Donalda Tuska. Posłowie opozycji wywiesili ogromny baner z napisem &quot;Tusk = dyktator&quot;. Na sali pojawiły się również zdjęcia z wydarzeń przed Trybunałem Konstytucyjnym oraz plakaty oskarżające premiera o &quot;zamach stanu&quot;. Całą akcję zarejestrowały kamery.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ed3edd25-e465-4ed8-a481-615bec5e7ed9.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3c8fdf6d-4c33-4b24-9ad9-db7576fb8c0d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 06 Nov 2026 09:45:00 GMT</pubDate>
-            <guid isPermaLink="false">c3b44a73-1e7c-4c35-a57b-264fef0379e0</guid></item></channel>
+            <guid isPermaLink="false">c3b44a73-1e7c-4c35-a57b-264fef0379e0</guid></item><item>
+            <title>Breaking Z Wisły wyłowiono ciało. Śledczy: rodzina rozpoznała Nadię</title>
+            <link>https://www.fakt.pl/wydarzenia/plock-z-wisly-wylowiono-cialo-kobiety-czy-to-zaginiona-nadia-fabiszewska/6t4rg91</link>
+            <description>Wstrząsające odkrycie w Płocku. W piątek, 6 listopada, z Wisły wyłowiono ciało młodej kobiety. Jak ustalił &quot;Fakt&quot;, to najprawdopodobniej 15-letnia Nadia, która zaginęła 21 października. Od tamtej pory trwały jej intensywne poszukiwania. — Rodzina zaginionej 15-latki rozpoznała ją — przekazał &quot;Faktowi&quot; prok. Bartosz Maliszewski z Prokuratury Okręgowej w Płocku.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5857c97a-211f-4663-a982-30330054b8b6.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 06 Nov 2026 11:33:00 GMT</pubDate>
+            <guid isPermaLink="false">bc7062b2-3d28-4fd6-8b71-a63ec57defe2</guid></item></channel>
             </rss>
