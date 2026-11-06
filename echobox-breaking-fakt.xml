@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 06 Nov 2026 11:33:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 06 Nov 2026 14:45:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Kolejne kłopoty Brauna. Jest komunikat prokuratury</title>
-            <link>https://www.fakt.pl/polityka/akt-oskarzenia-przeciwko-grzegorzowi-braunowi-nieoficjalne-doniesienia/8fy2by5</link>
-            <description>Prokuratura skierowała do sądu nowy akt oskarżenia przeciwko Grzegorzowi Braunowi — podało 4 listopada nieoficjalnie TVN24. Chodzi o zarzuty m.in. kradzieży ukraińskiej flagi z ratusza w Białej Podlaskiej i zniesławienia organizatorów akcji &quot;Żonkile&quot; w czasie debaty prezydenckiej. To kolejny akt oskarżenia skierowany do sądu w sprawie kontrowersji wokół lidera Konfederacji Korony Polskiej.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/d1b8e421-410d-4b19-91f5-aa425dd3c530.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 04 Nov 2026 13:32:23 GMT</pubDate>
-            <guid isPermaLink="false">9f1573c5-8430-418c-8107-e3ecf8fef56f</guid></item><item>
-            <title>Breaking Kryzys w TK. Jest kontratak Pałacu Prezydenckiego. &quot;Zbrodniczy proceder&quot;</title>
-            <link>https://www.fakt.pl/polityka/bedzie-zawiadomienie-do-prokuratury-z-kancelarii-karola-nawrockiego-ws-zamachu-stanu/c4w2jkb</link>
-            <description>Będzie zawiadomienie do prokuratury w sprawie próby zamachu stanu w związku z akcją w Trybunale Konstytucyjnym — przekazał mediom 4 listopada szef KPRP Zbigniew Bogucki. Jego zdaniem to &quot;pierwszy taki przypadek w najnowszej historii Polski&quot;, a służby podległe rządowi Donalda Tuska popełniły &quot;zbrodniczy proceder&quot;. Osobne zawiadomienie z KPRP ma dotyczy naruszenia nietykalności fizycznej prezydenta Karola Nawrockiego podczas jego wizyty w TK w nocy z 30 na 31 października.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ebfafb6b-e5b9-45e9-852c-235891c49d36.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 04 Nov 2026 14:32:26 GMT</pubDate>
-            <guid isPermaLink="false">33847d78-f763-43b3-8dcb-c8c0763ab754</guid></item><item>
             <title>Breaking Nagłe oświadczenie Korwin-Piotrowskiej. Zwołała kolejne zgromadzenie sędziów</title>
             <link>https://www.fakt.pl/polityka/kryzys-w-tk-nowe-oswiadczenie-anny-korwin-piotrowskiej/fg784hs</link>
             <description>Na 10 listopada zostanie zwołane kolejne Zgromadzenie Ogólne Sędziów TK — poinformowała sędzia TK Anna Korwin-Piotrowska w oświadczeniu wideo. Na nagraniu opublikowanym przez TVP Info powiedziała, że ma być na nim poruszana kwestia organizacji pracy Trybunału po zmianach dokonanych 30 października. Powtórzyła, że coraz więcej pracowników Trybunału przychodzi do pracy pomimo wcześniejszych zapowiedzi, że będzie bunt wśród osób zatrudnionych w TK.</description>
@@ -47,10 +35,22 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/3c8fdf6d-4c33-4b24-9ad9-db7576fb8c0d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 06 Nov 2026 09:45:00 GMT</pubDate>
             <guid isPermaLink="false">c3b44a73-1e7c-4c35-a57b-264fef0379e0</guid></item><item>
-            <title>Breaking Z Wisły wyłowiono ciało. Śledczy: rodzina rozpoznała Nadię</title>
+            <title>Breaking Z Wisły wyłowiono ciało. Prokuratura: rodzina rozpoznała Nadię</title>
             <link>https://www.fakt.pl/wydarzenia/plock-z-wisly-wylowiono-cialo-kobiety-czy-to-zaginiona-nadia-fabiszewska/6t4rg91</link>
             <description>Wstrząsające odkrycie w Płocku. W piątek, 6 listopada, z Wisły wyłowiono ciało młodej kobiety. Jak ustalił &quot;Fakt&quot;, to najprawdopodobniej 15-letnia Nadia, która zaginęła 21 października. Od tamtej pory trwały jej intensywne poszukiwania. — Rodzina zaginionej 15-latki rozpoznała ją — przekazał &quot;Faktowi&quot; prok. Bartosz Maliszewski z Prokuratury Okręgowej w Płocku.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5857c97a-211f-4663-a982-30330054b8b6.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/43e40b67-3aef-4c8d-8f0d-f8b45924bf1d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 06 Nov 2026 11:33:00 GMT</pubDate>
-            <guid isPermaLink="false">bc7062b2-3d28-4fd6-8b71-a63ec57defe2</guid></item></channel>
+            <guid isPermaLink="false">bc7062b2-3d28-4fd6-8b71-a63ec57defe2</guid></item><item>
+            <title>Breaking Sąd Najwyższy podjął decyzję w sprawie Święczkowskiego. Chodzi o Trybunał Konstytucyjny</title>
+            <link>https://www.fakt.pl/polityka/sad-najwyzszy-oddalil-zazalenia-bogdana-swieczkowskiego-i-sochanskiego/n1tcv6q</link>
+            <description>Sąd Najwyższy nie rozpatrzy zażalenia Bogdana Święczkowskiego i Bartłomieja Sochańskiego na decyzję o odsunięciu ich od wykonywania czynności w Trybunale Konstytucyjnym. Jak ustalili dziennikarze Onetu, obaj politycy związani z PiS próbowali podważyć zarządzenia wydane pod koniec października. Sąd nie przychylił się jednak do ich argumentów. To kolejne rozstrzygnięcie w trwającym sporze o kierownictwo TK.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/55f56979-6caf-48ce-96ea-21a688e0de20.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 06 Nov 2026 12:25:00 GMT</pubDate>
+            <guid isPermaLink="false">d1523f4c-1610-49ca-a16e-a284ca299bc4</guid></item><item>
+            <title>Breaking Prezydent trzymał w niepewności niemal do końca. Wiadomo, czy będzie na Marszu Niepodległości</title>
+            <link>https://www.fakt.pl/polityka/prezydent-nawrocki-oglasza-decyzje-stawi-sie-na-marszu-niepodleglosci/jnsmxp4</link>
+            <description>Prezydent Karol Nawrocki oficjalnie zapowiedział swoją obecność na tegorocznym Marszu Niepodległości w Warszawie. Tymczasem państwowe służby stawiają mundurowych w stan najwyższej gotowości, a w stolicy wchodzą w życie rygorystyczne zakazy. Prawica liczy na rekordową frekwencję i milion uczestników.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 06 Nov 2026 14:45:00 GMT</pubDate>
+            <guid isPermaLink="false">7f564b1e-1f9e-4299-b205-56a4ec1a553b</guid></item></channel>
             </rss>
