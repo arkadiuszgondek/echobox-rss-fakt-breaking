@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 07 Nov 2026 15:27:59 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 07 Nov 2026 18:56:24 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ważą się losy Święczkowskiego. Prokuratura wykonała kolejny krok. Jest kluczowy wniosek</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-moze-trafic-do-aresztu-szesc-wnioskow-w-prokuraturze/c08k55c</link>
@@ -70,5 +70,11 @@
             <description>Tragiczne wydarzenia 7 listopada na Rynku Głównym w Krakowie. W wyniku strzelaniny w centrum miasta śmierć poniosło sześć osób, a kilkanaście zostało rannych. Jak podała policja, sprawca to 24-letni mieszkaniec woj. świetokrzyskiego, nie miał przy sobie dokumentów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b6c67ce4-c557-49e3-b8a1-0fe0059189bc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 07 Nov 2026 15:27:59 GMT</pubDate>
-            <guid isPermaLink="false">2c642885-a64b-4821-841e-1d365b8559fd</guid></item></channel>
+            <guid isPermaLink="false">2c642885-a64b-4821-841e-1d365b8559fd</guid></item><item>
+            <title>Breaking Co wiemy o 24-letnim Michale O.? Oficjalne informacje z prokuratury o zamachowcu</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/strzelanina-w-krakowie-oficjalne-ustalenia-prokuratury-kim-jest-24-letni-michal-o/gex9fcs</link>
+            <description>Prokuratura powoli odsłania kulisy śledztwa w sprawie wstrząsającego ataku, do którego doszło na krakowskim Rynku Głównym. Jak przekazał w rozmowie z mediami rzecznik prasowy, prok. Tomasz Waszczuk, zatrzymany zamachowiec to Michał O.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/7c19b6c2-f769-4742-abd0-db090a277037.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 07 Nov 2026 18:56:24 GMT</pubDate>
+            <guid isPermaLink="false">5a0d4426-94d5-4b51-b495-3a08c42944a8</guid></item></channel>
             </rss>
