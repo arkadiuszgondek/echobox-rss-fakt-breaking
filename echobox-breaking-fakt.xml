@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 07 Nov 2026 18:56:24 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 07 Nov 2026 20:38:46 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ważą się losy Święczkowskiego. Prokuratura wykonała kolejny krok. Jest kluczowy wniosek</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-moze-trafic-do-aresztu-szesc-wnioskow-w-prokuraturze/c08k55c</link>
@@ -73,8 +73,20 @@
             <guid isPermaLink="false">2c642885-a64b-4821-841e-1d365b8559fd</guid></item><item>
             <title>Breaking Co wiemy o 24-letnim Michale O.? Oficjalne informacje z prokuratury o zamachowcu</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/strzelanina-w-krakowie-oficjalne-ustalenia-prokuratury-kim-jest-24-letni-michal-o/gex9fcs</link>
-            <description>Prokuratura powoli odsłania kulisy śledztwa w sprawie wstrząsającego ataku, do którego doszło na krakowskim Rynku Głównym. Jak przekazał w rozmowie z mediami rzecznik prasowy, prok. Tomasz Waszczuk, zatrzymany zamachowiec to Michał O.</description>
+            <description>Prokuratura powoli odsłania kulisy śledztwa w sprawie wstrząsającego ataku, do którego doszło na krakowskim Rynku Głównym. Jak przekazał w rozmowie z &quot;Faktem&quot; rzecznik prasowy, prok. Tomasz Waszczuk, zatrzymany zamachowiec to Michał O.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7c19b6c2-f769-4742-abd0-db090a277037.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 07 Nov 2026 18:56:24 GMT</pubDate>
-            <guid isPermaLink="false">5a0d4426-94d5-4b51-b495-3a08c42944a8</guid></item></channel>
+            <guid isPermaLink="false">5a0d4426-94d5-4b51-b495-3a08c42944a8</guid></item><item>
+            <title>Breaking Dwa dni żałoby narodowej po dramacie w Krakowie. Jest oficjalny ruch prezydenta</title>
+            <link>https://www.fakt.pl/polityka/zaloba-narodowa-w-polsce-jest-decyzja-prezydenta/kb2hhf3</link>
+            <description>W związku ze strzelaniną w centrum Krakowa, w której zginęło sześć osób, Prezydent RP Karol Nawrocki podjął decyzję o wprowadzeniu żałoby narodowej. Będzie ona obowiązywać przez dwa dni. Informację o rozpoczęciu formalnej procedury w tej sprawie przekazał Rafał Leśkiewicz.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/97126b96-ae83-416e-b788-34435076db32.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 07 Nov 2026 19:06:00 GMT</pubDate>
+            <guid isPermaLink="false">2c1e8c7c-d0df-4eed-843c-3d2adf79636b</guid></item><item>
+            <title>Breaking Makabryczne odkrycie w domu zamachowca. Tusk: trzy ofiary śmiertelne</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/kontrterrorysci-w-domach-zamachowca-i-jego-rodziny-kierwinski-potwierdza/3kr7hf9</link>
+            <description>Wstrząsające odkrycie w domu sprawcy zamachu w Krakowie. W jego mieszkaniu w Ostrowcu Świętokrzyskim znaleziono ciała trzech osób. Przed godz. 22 premier Donald Tusk przekazał, że są to dwie kobiety i mężczyzna.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/51a0e761-bd9b-40dd-a2ca-75f3d60e3b81.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 07 Nov 2026 20:38:46 GMT</pubDate>
+            <guid isPermaLink="false">bc736704-0320-44ba-9545-e2abceb0f65c</guid></item></channel>
             </rss>
