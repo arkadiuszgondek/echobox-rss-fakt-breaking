@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 06 Nov 2026 17:15:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 07 Nov 2026 14:30:09 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Groźny wypadek w Barcicach. W zderzeniu uczestniczył nieoznakowany radiowóz. Są ranni</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/barcice-zderzenie-radiowozu-z-autem-osobowym-trzy-osoby-w-szpitalu/d88b40l</link>
-            <description>Do groźnego zdarzenia doszło w środowe popołudnie 4 listopada w Barcicach koło Starego Sącza (woj. małopolskie). Na drodze krajowej nr 87 zderzyły się dwa samochody osobowe. Trzy osoby zostały ranne i trafiły do szpitala. Przez wiele godzin kierowcy musieli liczyć się z poważnymi utrudnieniami. Jednym z aut był nieoznakowany radiowóz.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5f67808f-c1fc-4596-8083-b414c165139c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 04 Nov 2026 18:28:33 GMT</pubDate>
-            <guid isPermaLink="false">09141de8-9acb-46aa-a643-12daf82efef4</guid></item><item>
-            <title>Breaking Poseł KO zatrzymany. Ujęto go podczas rozprawy sądowej</title>
-            <link>https://www.fakt.pl/polityka/posel-ko-wojciech-krol-zatrzymany-ujeto-go-podczas-rozprawy-sadowej/4gkt7r6</link>
-            <description>Sąd Okręgowy w Katowicach zdecydował 5 listopada o aresztowaniu podejrzanego o korupcję posła KO Wojciecha Króla. Został on zatrzymany na sali sądowej. Król został zatrzymany kolejny raz w ostatnich miesiącach z powodu zarzutów o korupcję i wykorzystywanie wpływów.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b73093a6-8f0d-4155-ab76-a9560fa0c2b2.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 05 Nov 2026 14:30:02 GMT</pubDate>
-            <guid isPermaLink="false">f13ffaf6-7115-4e28-b260-2e43a3de4fd9</guid></item><item>
             <title>Breaking Ważą się losy Święczkowskiego. Prokuratura wykonała kolejny krok. Jest kluczowy wniosek</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-moze-trafic-do-aresztu-szesc-wnioskow-w-prokuraturze/c08k55c</link>
             <description>Bogdan Święczkowski może trafić do aresztu. Prokuratura skierowała do Trybunału Konstytucyjnego sześć wniosków o uchylenie immunitetu zawieszonemu prezesowi TK. Jak ustalił Onet, jeden z nich dotyczy również zgody na ewentualne zatrzymanie Święczkowskiego i skierowanie do sądu wniosku o tymczasowe aresztowanie. Śledczy chcą postawić mu zarzuty związane zarówno z działalnością w Trybunale, jak i z okresem rządów PiS.</description>
@@ -58,5 +46,11 @@
             <description>Czy prezydent Karol Nawrocki i premier Donald Tusk powinni usiąść do rozmów mimo sporu o Trybunał Konstytucyjny? Uczestnicy sondy &quot;Faktu&quot; w większości opowiadają się za spotkaniem, ale głos profesora Kazimierza Kika wykracza poza samą odpowiedź &quot;tak&quot; lub &quot;nie&quot;. — Jeżeli nie dojdzie do próby kompromisu, to jest absolutna dyskwalifikacja polskiej klasy politycznej — ocenia politolog.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e46e108e-6bae-49e1-99f3-e8142dc3bde0.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 06 Nov 2026 17:15:00 GMT</pubDate>
-            <guid isPermaLink="false">3f9b571f-b8cf-484a-80f1-57d3bae606e9</guid></item></channel>
+            <guid isPermaLink="false">3f9b571f-b8cf-484a-80f1-57d3bae606e9</guid></item><item>
+            <title>Breaking Tragedia w Krakowie. Strzelanina na Rynku Głównym</title>
+            <link>https://www.fakt.pl/polityka/strzelanina-w-krakowie-akcja-sluzb-na-rynku-glownym/0mymsqr</link>
+            <description>Strzelanina w Krakowie - podała w sobotę 7 listopada TV Republika. Na antenie było widać działania służb, które opatrywały rannych. Miejsce akcji zabezpieczają funkcjonariusze Straży Miejskiej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 07 Nov 2026 14:30:09 GMT</pubDate>
+            <guid isPermaLink="false">b2c5714c-9c0c-42f1-afa2-cca72f859b85</guid></item></channel>
             </rss>
