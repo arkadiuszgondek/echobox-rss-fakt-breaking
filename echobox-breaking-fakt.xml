@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 07 Nov 2026 14:59:51 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 07 Nov 2026 15:15:26 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Ważą się losy Święczkowskiego. Prokuratura wykonała kolejny krok. Jest kluczowy wniosek</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-moze-trafic-do-aresztu-szesc-wnioskow-w-prokuraturze/c08k55c</link>
@@ -55,8 +55,14 @@
             <guid isPermaLink="false">b2c5714c-9c0c-42f1-afa2-cca72f859b85</guid></item><item>
             <title>Breaking Strzelanina w Krakowie. Jest reakcja Donalda Tuska</title>
             <link>https://www.fakt.pl/polityka/strzelanina-w-krakowie-donald-tusk-doszlo-do-zamachu/nptsc16</link>
-            <description>&quot;Jestem na bieżąco informowany przez ministra spraw wewnętrznych o sytuacji w Krakowie po tragicznej strzelaninie. Policja bada tło i wszystkie okoliczności zamachu&quot; - napisał w serwisie X Donald Tusk. W Krakowie trwa akcja ratunkowa. Według krakowskiej Straży Pożarnej jest 10 poszkodowanych, a dwie osoby nie żyją.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>&quot;Jestem na bieżąco informowany przez ministra spraw wewnętrznych o sytuacji w Krakowie po tragicznej strzelaninie. Policja bada tło i wszystkie okoliczności zamachu&quot; — napisał w serwisie X Donald Tusk. W Krakowie trwa akcja ratunkowa. Według krakowskiej Straży Pożarnej jest 10 poszkodowanych, a dwie osoby nie żyją.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f828c6a4-7b85-4a0c-983d-1f6d8e9b89aa.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 07 Nov 2026 14:59:51 GMT</pubDate>
-            <guid isPermaLink="false">3616c3ee-6ce3-44b7-822a-36bc6aedcdc8</guid></item></channel>
+            <guid isPermaLink="false">3616c3ee-6ce3-44b7-822a-36bc6aedcdc8</guid></item><item>
+            <title>Breaking Zamach w Krakowie. &quot;Ameryka stoi u boku Polski w tej mrocznej godzinie&quot;</title>
+            <link>https://www.fakt.pl/polityka/zamach-w-krakowie-ambasador-usa-zlozyl-kondolencje/j0llqgb</link>
+            <description>Ambasador USA w Polsce Tom Rose odniósł się do strzelaniny w Krakowie. Według służb co najmniej dwie osoby nie żyją, a 10 zostało rannych. &quot;Ameryka stoi u boku Polski w tej mrocznej godzinie, tak jak Polska stoi u boku swoich ukochanych obywateli Krakowa&quot; — napisał w serwisie X.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e5d1da0d-fa30-43d4-a34b-214ec34304d6.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 07 Nov 2026 15:15:26 GMT</pubDate>
+            <guid isPermaLink="false">4b8fa5ab-2016-44d8-a99a-c4edc476c27c</guid></item></channel>
             </rss>
