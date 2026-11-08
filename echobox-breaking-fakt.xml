@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 08 Nov 2026 09:20:59 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 08 Nov 2026 11:10:37 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Awantura podczas wystąpienia Metsoli w Sejmie. Uderzyli w Tuska. Ogromny baner [ZDJĘCIA]</title>
-            <link>https://www.fakt.pl/polityka/protest-podczas-wystapienia-roberty-metsoli-baner-przeciw-tuskowi/nlekdlh</link>
-            <description>Podczas wystąpienia przewodniczącej Parlamentu Europejskiego Roberty Metsoli w Sejmie doszło do protestu wymierzonego w Donalda Tuska. Posłowie opozycji wywiesili ogromny baner z napisem &quot;Tusk = dyktator&quot;. Na sali pojawiły się również zdjęcia z wydarzeń przed Trybunałem Konstytucyjnym oraz plakaty oskarżające premiera o &quot;zamach stanu&quot;. Całą akcję zarejestrowały kamery.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3c8fdf6d-4c33-4b24-9ad9-db7576fb8c0d.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 06 Nov 2026 09:45:00 GMT</pubDate>
-            <guid isPermaLink="false">c3b44a73-1e7c-4c35-a57b-264fef0379e0</guid></item><item>
             <title>Breaking Z Wisły wyłowiono ciało. Prokuratura: rodzina rozpoznała Nadię</title>
             <link>https://www.fakt.pl/wydarzenia/plock-z-wisly-wylowiono-cialo-kobiety-czy-to-zaginiona-nadia-fabiszewska/6t4rg91</link>
             <description>Wstrząsające odkrycie w Płocku. W piątek, 6 listopada, z Wisły wyłowiono ciało młodej kobiety. Jak ustalił &quot;Fakt&quot;, to najprawdopodobniej 15-letnia Nadia, która zaginęła 21 października. Od tamtej pory trwały jej intensywne poszukiwania. — Rodzina zaginionej 15-latki rozpoznała ją — przekazał &quot;Faktowi&quot; prok. Bartosz Maliszewski z Prokuratury Okręgowej w Płocku.</description>
@@ -97,8 +91,14 @@
             <guid isPermaLink="false">72141ce1-e12f-44c2-9838-dd2419ce3dd4</guid></item><item>
             <title>Breaking Michał Oksiński zabił sześć osób. Miał legalne pozwolenie na broń. To nie wszystko</title>
             <link>https://www.fakt.pl/polityka/mial-legalne-pozwolenie-na-ar-15-szokujace-ustalenia-po-zamachu-w-krakowie/63kyz1j</link>
-            <description>24-letni Michał O., który dokonał zamachu na Rynku Głównym w Krakowie, miał aktywne pozwolenie na broń. Potwierdza to w rozmowie z &quot;Faktem&quot; podinsp. Andrzej Fijołek. Chodzi o pistolet oraz karabinek AR-15, który najprawdopodobniej został użyty podczas ataku. Jeszcze szersze uprawnienia dotyczące posiadania broni miał ojciec sprawcy. To jednak nie koniec nowych ustaleń.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/05d82e56-bbbd-4361-9be9-2115f485a159.jpeg" length="0" type="image/jpeg"/>
+            <description>24-letni Michał Oksiński, który dokonał zamachu na Rynku Głównym w Krakowie, miał aktywne pozwolenie na broń. Potwierdza to w rozmowie z &quot;Faktem&quot; podinsp. Andrzej Fijołek. Chodzi o pistolet oraz karabinek AR-15, który najprawdopodobniej został użyty podczas ataku. Jeszcze szersze uprawnienia dotyczące posiadania broni miał ojciec sprawcy. To jednak nie koniec nowych ustaleń.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/62b2bc7e-49cd-4a63-9753-1b6c2caf5797.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 08 Nov 2026 09:20:59 GMT</pubDate>
-            <guid isPermaLink="false">e54f27a1-e192-4ad1-aa62-2f20697e8131</guid></item></channel>
+            <guid isPermaLink="false">e54f27a1-e192-4ad1-aa62-2f20697e8131</guid></item><item>
+            <title>Breaking To ona ratowała ludzi w Krakowie. Wybiegła z bezpiecznego miejsca. &quot;Pod prąd&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/pielegniarka-bohaterka-strzelaniny-wybiegla-ze-sklepu-by-ratowac-ludzi/pr3qk5h</link>
+            <description>Polska jest wstrząśnięta zamachem na Rynku Głównym w Krakowie. W ataku Michała Osińskiego, który strzelał do przypadkowych ludzi, zginęło sześć osób. Świadkiem tragedii była pielęgniarka Iwona Kościelna, która przypadkiem znalazła się w bezpiecznym miejscu — na piętrze sklepu. Mimo zagrożenia zeszła na dół, by ratować rannych. Jak ustalił &quot;Fakt&quot;, jej postawa mogła uratować ludzkie życie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f6cdb071-87f4-4f1f-81fd-161f08fbeb1f.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 08 Nov 2026 11:10:37 GMT</pubDate>
+            <guid isPermaLink="false">70b64609-94c4-4a1d-986e-6e8efd2ccf63</guid></item></channel>
             </rss>
