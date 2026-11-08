@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 08 Nov 2026 07:05:58 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 08 Nov 2026 08:10:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Awantura podczas wystąpienia Metsoli w Sejmie. Uderzyli w Tuska. Ogromny baner [ZDJĘCIA]</title>
             <link>https://www.fakt.pl/polityka/protest-podczas-wystapienia-roberty-metsoli-baner-przeciw-tuskowi/nlekdlh</link>
@@ -88,5 +88,11 @@
             <description>24-letni Michał O. jest sprawcą zamachu na Rynku Głównym w Krakowie. W jego domu w Ostrowcu Świętokrzyskim policja ujawniła zwłoki trzech osób. — To jego rodzice i siostra — potwierdził w rozmowie z &quot;Faktem&quot; podinsp. Andrzej Fijołek. Ciała ofiar zostały już zabezpieczone. Rodzina zamachowca zginęła najprawdopodobniej od strzałów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/51de85cf-228d-4256-a22c-6ec99a88f96a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 08 Nov 2026 07:05:58 GMT</pubDate>
-            <guid isPermaLink="false">9dd418a1-18a6-4a48-9556-557f3632bc68</guid></item></channel>
+            <guid isPermaLink="false">9dd418a1-18a6-4a48-9556-557f3632bc68</guid></item><item>
+            <title>Breaking Zamach w Krakowie. Prokuratura ujawnia charakter śledztwa </title>
+            <link>https://www.fakt.pl/polityka/zamach-w-krakowie-prokuratura-zbada-czyn-o-charakterze-terrorystycznym/1d1xd0q</link>
+            <description>Prokuratura zamierza wszcząć śledztwo w sprawie sobotniego (7 listopada) zamachu w Krakowie. Jak poinformował prok. Tomasz Waszczuk, atak ma zostać zakwalifikowany jako czyn o charakterze terrorystycznym. Śledczy czekają również na możliwość przesłuchania 24-letniego sprawcy. Mężczyzna przebywa w szpitalu pod nadzorem służb. Jego stan zdrowia na razie uniemożliwia przeprowadzenie czynności procesowych.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/8250be18-d1bc-474e-8f26-5b4f8e5f2e6d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 08 Nov 2026 08:10:00 GMT</pubDate>
+            <guid isPermaLink="false">72141ce1-e12f-44c2-9838-dd2419ce3dd4</guid></item></channel>
             </rss>
