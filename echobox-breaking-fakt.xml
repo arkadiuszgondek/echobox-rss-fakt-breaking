@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 08 Nov 2026 11:10:37 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 08 Nov 2026 12:50:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Z Wisły wyłowiono ciało. Prokuratura: rodzina rozpoznała Nadię</title>
-            <link>https://www.fakt.pl/wydarzenia/plock-z-wisly-wylowiono-cialo-kobiety-czy-to-zaginiona-nadia-fabiszewska/6t4rg91</link>
-            <description>Wstrząsające odkrycie w Płocku. W piątek, 6 listopada, z Wisły wyłowiono ciało młodej kobiety. Jak ustalił &quot;Fakt&quot;, to najprawdopodobniej 15-letnia Nadia, która zaginęła 21 października. Od tamtej pory trwały jej intensywne poszukiwania. — Rodzina zaginionej 15-latki rozpoznała ją — przekazał &quot;Faktowi&quot; prok. Bartosz Maliszewski z Prokuratury Okręgowej w Płocku.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/43e40b67-3aef-4c8d-8f0d-f8b45924bf1d.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 06 Nov 2026 11:33:00 GMT</pubDate>
-            <guid isPermaLink="false">bc7062b2-3d28-4fd6-8b71-a63ec57defe2</guid></item><item>
-            <title>Breaking Sąd Najwyższy podjął decyzję w sprawie Święczkowskiego. Chodzi o Trybunał Konstytucyjny</title>
-            <link>https://www.fakt.pl/polityka/sad-najwyzszy-oddalil-zazalenia-bogdana-swieczkowskiego-i-sochanskiego/n1tcv6q</link>
-            <description>Sąd Najwyższy nie rozpatrzy zażalenia Bogdana Święczkowskiego i Bartłomieja Sochańskiego na decyzję o odsunięciu ich od wykonywania czynności w Trybunale Konstytucyjnym. Jak ustalili dziennikarze Onetu, obaj politycy związani z PiS próbowali podważyć zarządzenia wydane pod koniec października. Sąd nie przychylił się jednak do ich argumentów. To kolejne rozstrzygnięcie w trwającym sporze o kierownictwo TK.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/55f56979-6caf-48ce-96ea-21a688e0de20.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 06 Nov 2026 12:25:00 GMT</pubDate>
-            <guid isPermaLink="false">d1523f4c-1610-49ca-a16e-a284ca299bc4</guid></item><item>
             <title>Breaking Prezydent trzymał w niepewności niemal do końca. Wiadomo, czy będzie na Marszu Niepodległości</title>
             <link>https://www.fakt.pl/polityka/prezydent-nawrocki-oglasza-decyzje-stawi-sie-na-marszu-niepodleglosci/jnsmxp4</link>
             <description>Prezydent Karol Nawrocki oficjalnie zapowiedział swoją obecność na tegorocznym Marszu Niepodległości w Warszawie. Tymczasem państwowe służby stawiają mundurowych w stan najwyższej gotowości, a w stolicy wchodzą w życie rygorystyczne zakazy. Prawica liczy na rekordową frekwencję i milion uczestników.</description>
@@ -97,8 +85,14 @@
             <guid isPermaLink="false">e54f27a1-e192-4ad1-aa62-2f20697e8131</guid></item><item>
             <title>Breaking To ona ratowała ludzi w Krakowie. Wybiegła z bezpiecznego miejsca. &quot;Pod prąd&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/pielegniarka-bohaterka-strzelaniny-wybiegla-ze-sklepu-by-ratowac-ludzi/pr3qk5h</link>
-            <description>Polska jest wstrząśnięta zamachem na Rynku Głównym w Krakowie. W ataku Michała Osińskiego, który strzelał do przypadkowych ludzi, zginęło sześć osób. Świadkiem tragedii była pielęgniarka Iwona Kościelna, która przypadkiem znalazła się w bezpiecznym miejscu — na piętrze sklepu. Mimo zagrożenia zeszła na dół, by ratować rannych. Jak ustalił &quot;Fakt&quot;, jej postawa mogła uratować ludzkie życie.</description>
+            <description>Polska jest wstrząśnięta zamachem na Rynku Głównym w Krakowie. W ataku Michała Oksińskiego, który strzelał do przypadkowych ludzi, zginęło sześć osób. Świadkiem tragedii była pielęgniarka Iwona Kościelna, która przypadkiem znalazła się w bezpiecznym miejscu — na piętrze sklepu. Mimo zagrożenia zeszła na dół, by ratować rannych. Jak ustalił &quot;Fakt&quot;, jej postawa mogła uratować ludzkie życie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f6cdb071-87f4-4f1f-81fd-161f08fbeb1f.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 08 Nov 2026 11:10:37 GMT</pubDate>
-            <guid isPermaLink="false">70b64609-94c4-4a1d-986e-6e8efd2ccf63</guid></item></channel>
+            <guid isPermaLink="false">70b64609-94c4-4a1d-986e-6e8efd2ccf63</guid></item><item>
+            <title>Breaking Nowe informacje ze szpitala w Krakowie. Chodzi o rannych policjantów </title>
+            <link>https://www.fakt.pl/polityka/zamach-w-krakowie-obaj-ranni-policjanci-wybudzeni-ze-spiaczki/2fsyzjn</link>
+            <description>Dobre wiadomości płyną ze szpitali po sobotnim zamachu w Krakowie. Obaj policjanci, którzy z narażeniem własnego życia powstrzymali uzbrojonego napastnika, zostali wybudzeni ze śpiączki. Najnowsze informacje przekazał rzecznik Prokuratury Okręgowej w Krakowie Tomasz Waszczuk. Wcześniej lekarze informowali o poprawie stanu zdrowia jednego z funkcjonariuszy. Stan obu policjantów pozostaje ciężki, ale stabilny.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 08 Nov 2026 12:50:00 GMT</pubDate>
+            <guid isPermaLink="false">5d880f83-bbd3-4015-987f-8678cca77dfa</guid></item></channel>
             </rss>
