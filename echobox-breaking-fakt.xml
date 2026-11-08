@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 08 Nov 2026 08:10:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 08 Nov 2026 09:20:59 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Awantura podczas wystąpienia Metsoli w Sejmie. Uderzyli w Tuska. Ogromny baner [ZDJĘCIA]</title>
             <link>https://www.fakt.pl/polityka/protest-podczas-wystapienia-roberty-metsoli-baner-przeciw-tuskowi/nlekdlh</link>
@@ -94,5 +94,11 @@
             <description>Prokuratura zamierza wszcząć śledztwo w sprawie sobotniego (7 listopada) zamachu w Krakowie. Jak poinformował prok. Tomasz Waszczuk, atak ma zostać zakwalifikowany jako czyn o charakterze terrorystycznym. Śledczy czekają również na możliwość przesłuchania 24-letniego sprawcy. Mężczyzna przebywa w szpitalu pod nadzorem służb. Jego stan zdrowia na razie uniemożliwia przeprowadzenie czynności procesowych.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/8250be18-d1bc-474e-8f26-5b4f8e5f2e6d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 08 Nov 2026 08:10:00 GMT</pubDate>
-            <guid isPermaLink="false">72141ce1-e12f-44c2-9838-dd2419ce3dd4</guid></item></channel>
+            <guid isPermaLink="false">72141ce1-e12f-44c2-9838-dd2419ce3dd4</guid></item><item>
+            <title>Breaking Michał Oksiński zabił sześć osób. Miał legalne pozwolenie na broń. To nie wszystko</title>
+            <link>https://www.fakt.pl/polityka/mial-legalne-pozwolenie-na-ar-15-szokujace-ustalenia-po-zamachu-w-krakowie/63kyz1j</link>
+            <description>24-letni Michał O., który dokonał zamachu na Rynku Głównym w Krakowie, miał aktywne pozwolenie na broń. Potwierdza to w rozmowie z &quot;Faktem&quot; podinsp. Andrzej Fijołek. Chodzi o pistolet oraz karabinek AR-15, który najprawdopodobniej został użyty podczas ataku. Jeszcze szersze uprawnienia dotyczące posiadania broni miał ojciec sprawcy. To jednak nie koniec nowych ustaleń.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/05d82e56-bbbd-4361-9be9-2115f485a159.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 08 Nov 2026 09:20:59 GMT</pubDate>
+            <guid isPermaLink="false">e54f27a1-e192-4ad1-aa62-2f20697e8131</guid></item></channel>
             </rss>
