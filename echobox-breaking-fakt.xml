@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 09 Nov 2026 15:50:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 09 Nov 2026 17:56:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Co wiemy o 24-letnim Michale O.? Oficjalne informacje z prokuratury o zamachowcu</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/strzelanina-w-krakowie-oficjalne-ustalenia-prokuratury-kim-jest-24-letni-michal-o/gex9fcs</link>
@@ -104,7 +104,13 @@
             <title>Breaking Tusk i Nawrocki razem w Krakowie. Władze miasta potwierdzają </title>
             <link>https://www.fakt.pl/polityka/marsz-ciszy-w-krakowie-donald-tusk-i-karol-nawrocki-wezma-udzial/gxwf8sc</link>
             <description>Prezydent Karol Nawrocki i premier Donald Tusk mają wspólnie uczestniczyć w Marszu Ciszy w Krakowie, organizowanym ku pamięci sześciu ofiar sobotniego (7 listopada) zamachu. Udział obu polityków potwierdziły władze miasta. Wydarzenie rozpocznie się w poniedziałek o godz. 20 na Rynku Głównym. Wcześniej prezydent Krakowa Łukasz Gibała zaprosił szefa rządu do wspólnego oddania hołdu zamordowanym.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/64d65709-d6b4-428b-a75c-2190cd534acd.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 09 Nov 2026 15:50:00 GMT</pubDate>
-            <guid isPermaLink="false">7ca4a318-9c2b-4ce6-ab9a-886061743571</guid></item></channel>
+            <guid isPermaLink="false">7ca4a318-9c2b-4ce6-ab9a-886061743571</guid></item><item>
+            <title>Breaking Co musi się zmienić, by Polacy czuli się bezpiecznie? Wyniki sondy zaskoczyły socjologa</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/co-zrobic-by-polacy-przestali-sie-bac-zapytalismy-socjolog-przeanalizowal-odpowiedzi/6kg1c6h</link>
+            <description>— Jestem pod ogromnym wrażeniem wyników tej sondy. To bardzo mądry głos — ocenia w rozmowie z &quot;Faktem&quot; socjolog Przemysław Sadura. Zapytaliśmy czytelników, co powinno się zmienić w Polsce, by czuli się bezpiecznie. Wśród ponad 500 odpowiedzi najczęściej powracał postulat zaostrzenia dostępu do broni palnej. Na liście znalazły się m.in. walka z mową nienawiści, sprawniejsza policja i lepszy dostęp do pomocy psychologicznej. Nasz rozmówca zwrócił uwagę na jeszcze jeden ważny aspekt: Polacy zaczynają dostrzegać, że polityczne awantury mogą prowadzić do realnych zagrożeń.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1d84134b-97a5-4cdf-9d9c-832521bdf5a8.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 09 Nov 2026 17:56:00 GMT</pubDate>
+            <guid isPermaLink="false">d7d7491d-6ae3-4bf4-b713-c9635c8de33a</guid></item></channel>
             </rss>
