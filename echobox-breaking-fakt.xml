@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 09 Nov 2026 05:47:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 09 Nov 2026 08:32:45 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tragedia w Krakowie. Strzelanina na Rynku Głównym. Są zabici</title>
             <link>https://www.fakt.pl/polityka/strzelanina-w-krakowie-akcja-sluzb-na-rynku-glownym/0mymsqr</link>
@@ -95,10 +95,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/50e1ab0f-b77e-4f5a-a166-eede0a784c10.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 08 Nov 2026 15:05:00 GMT</pubDate>
             <guid isPermaLink="false">9e8eda32-082c-4b7d-9c75-5fddaeabe334</guid></item><item>
-            <title>Breaking Sprawca zamachu w Krakowie nie żyje</title>
+            <title>Breaking Policja: Michał Oksiński, sprawca zamachu w Krakowie, nie żyje</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/strzelanina-w-krakowie-sprawca-zamachu-nie-zyje/xcxknqc</link>
-            <description>Strzelanina w Krakowie. Sprawca zamachu Michał Oksiński nie żyje - podała małopolska policja.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 09 Nov 2026 05:47:00 GMT</pubDate>
-            <guid isPermaLink="false">ddeccd6c-20e7-4bc2-a6c7-f20790825c0d</guid></item></channel>
+            <description>Michał Oksiński z Ostrowca Świętokrzyskiego, sprawca strzelaniny w Krakowie, nie żyje. — Dzisiaj (9 listopada) nad ranem otrzymaliśmy informację, że sprawca tych zdarzeń zmarł w szpitalu — przekazała w rozmowie z &quot;Faktem&quot; rzeczniczka policji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/28d82afa-60e0-46ba-a80c-5c6e5bc81785.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 09 Nov 2026 05:44:00 GMT</pubDate>
+            <guid isPermaLink="false">ddeccd6c-20e7-4bc2-a6c7-f20790825c0d</guid></item><item>
+            <title>Breaking Wojewoda przekazał wieści ze szpitala. Wiadomo, w jakim stanie jest policjant</title>
+            <link>https://www.fakt.pl/polityka/zamach-w-krakowie-wojewoda-przekazal-informacje-ze-szpitala-co-z-policjantem/fbfn6n7</link>
+            <description>— W sześciu krakowskich szpitalach przebywa 15 osób poszkodowanych w sobotnim zamachu. Stan 14 z nich jest stabilny, natomiast jeden z policjantów, który uczestniczył w zatrzymaniu napastnika, pozostaje w stanie ciężkim — przekazał wojewoda małopolski.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/0fe01081-d70e-40cc-b79a-eacbb42f8b4b.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 09 Nov 2026 08:32:45 GMT</pubDate>
+            <guid isPermaLink="false">63ccba08-5d00-4596-85f1-8561317dfa7a</guid></item></channel>
             </rss>
