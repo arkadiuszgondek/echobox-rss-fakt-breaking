@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 09 Nov 2026 08:32:45 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 09 Nov 2026 09:50:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tragedia w Krakowie. Strzelanina na Rynku Głównym. Są zabici</title>
             <link>https://www.fakt.pl/polityka/strzelanina-w-krakowie-akcja-sluzb-na-rynku-glownym/0mymsqr</link>
@@ -106,5 +106,11 @@
             <description>— W sześciu krakowskich szpitalach przebywa 15 osób poszkodowanych w sobotnim zamachu. Stan 14 z nich jest stabilny, natomiast jeden z policjantów, który uczestniczył w zatrzymaniu napastnika, pozostaje w stanie ciężkim — przekazał wojewoda małopolski.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/0fe01081-d70e-40cc-b79a-eacbb42f8b4b.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 09 Nov 2026 08:32:45 GMT</pubDate>
-            <guid isPermaLink="false">63ccba08-5d00-4596-85f1-8561317dfa7a</guid></item></channel>
+            <guid isPermaLink="false">63ccba08-5d00-4596-85f1-8561317dfa7a</guid></item><item>
+            <title>Breaking Ciało blisko domu zaginionej Karoliny Wróbel. Prokuratura ujawnia wyniki badań DNA zwłok</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/slask/zwloki-w-czechowicach-dziedzicach-wyniki-dna-a-zaginiona-karolina-wrobel/t0hb8wk</link>
+            <description>2 listopada podczas rozbiórki garażu w Czechowicach-Dziedzicach (woj. śląskie) natrafiono na rozkładające się zwłoki. Pojawiły się domysły, że to zaginiona 24-letnia Karolina Wróbel. &quot;Wyniki przeprowadzonej sekcji zwłok oraz badań DNA potwierdziły, że ujawnione zwłoki należą do mężczyzny&quot; – przekazał prokurator Aleksander Duda z Prokuratury Okręgowej w Katowicach.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/70d716dc-584d-4758-b4bd-07d9b8d5004f.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 09 Nov 2026 09:50:00 GMT</pubDate>
+            <guid isPermaLink="false">cde12ac0-4ee8-4ddc-8ec1-fa28daa0641c</guid></item></channel>
             </rss>
