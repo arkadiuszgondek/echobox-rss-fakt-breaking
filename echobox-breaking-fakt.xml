@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 11 Nov 2026 06:17:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 11 Nov 2026 09:12:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Wojewoda przekazał wieści ze szpitala. Wiadomo, w jakim stanie jest policjant</title>
-            <link>https://www.fakt.pl/polityka/zamach-w-krakowie-wojewoda-przekazal-informacje-ze-szpitala-co-z-policjantem/fbfn6n7</link>
-            <description>— W sześciu krakowskich szpitalach przebywa 15 osób poszkodowanych w sobotnim zamachu. Stan 14 z nich jest stabilny, natomiast jeden z policjantów, który uczestniczył w zatrzymaniu napastnika, pozostaje w stanie ciężkim — przekazał wojewoda małopolski.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/0fe01081-d70e-40cc-b79a-eacbb42f8b4b.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 09 Nov 2026 08:32:45 GMT</pubDate>
-            <guid isPermaLink="false">63ccba08-5d00-4596-85f1-8561317dfa7a</guid></item><item>
             <title>Breaking Ciało blisko domu zaginionej Karoliny Wróbel. Prokuratura ujawnia wyniki badań DNA zwłok</title>
             <link>https://www.fakt.pl/wydarzenia/polska/slask/zwloki-w-czechowicach-dziedzicach-wyniki-dna-a-zaginiona-karolina-wrobel/t0hb8wk</link>
             <description>2 listopada podczas rozbiórki garażu w Czechowicach-Dziedzicach (woj. śląskie) natrafiono na rozkładające się zwłoki. Pojawiły się domysły, że to zaginiona 24-letnia Karolina Wróbel. &quot;Wyniki przeprowadzonej sekcji zwłok oraz badań DNA potwierdziły, że ujawnione zwłoki należą do mężczyzny&quot; — przekazał prokurator Aleksander Duda z Prokuratury Okręgowej w Katowicach.</description>
@@ -71,10 +65,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/9f85dc87-e0b4-44fc-a148-6f6a775fe102.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 10 Nov 2026 19:53:25 GMT</pubDate>
             <guid isPermaLink="false">7d705cde-6ce4-402d-af3a-5c2e9747d03c</guid></item><item>
-            <title>Breaking Szokujące doniesienia z Rosji. Polacy w rękach FSB</title>
+            <title>Breaking Szokujące doniesienia z Rosji. Polacy w rękach FSB. Reaguje Jacek Dobrzyński</title>
             <link>https://www.fakt.pl/polityka/polacy-oskarzeni-o-szpiegostwo-fsb-zatrzymalo-dwie-osoby-w-rosji/msw12sy</link>
-            <description>Rosyjska Federalna Służba Bezpieczeństwa (FSB) zatrzymała w obwodzie królewieckim dwóch obywateli Polski, oskarżając ich o szpiegostwo. Jak podaje Reuters, mężczyźni mieli gromadzić informacje o obiektach wojskowych na rzecz polskich służb. Kolejnych siedmiu Polaków otrzymało zakaz wjazdu do Rosji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Rosyjska Federalna Służba Bezpieczeństwa (FSB) zatrzymała w obwodzie królewieckim dwóch obywateli Polski, oskarżając ich o rzekome szpiegostwo. Jak podaje Reuters, mężczyźni według narracji Kremla mieli gromadzić informacje o obiektach wojskowych na rzecz polskich służb. Kolejnych siedmiu Polaków otrzymało zakaz wjazdu do Rosji. Rzecznik ministra koordynatora służb specjalnych, Jacek Dobrzyński, stanowczo komentuje doniesienia o domniemanej siatce szpiegowskiej: to wroga narracja i rosyjska propaganda.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1ee45a4b-9f80-4075-8a84-acb9e30c51e4.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 11 Nov 2026 06:17:00 GMT</pubDate>
-            <guid isPermaLink="false">edaa77bc-a2f7-4a7b-8db4-a4614fbddaf0</guid></item></channel>
+            <guid isPermaLink="false">edaa77bc-a2f7-4a7b-8db4-a4614fbddaf0</guid></item><item>
+            <title>Breaking &quot;Osoba o kulach&quot; przerywa milczenie. To on ratował Jakuba Kulika. Myślał, że to plan filmowy</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/mezczyzna-o-kulach-z-krakowa-odnaleziony-to-70-letni-patrick/14jwek6</link>
+            <description>Tożsamość bohatera z nagrań przestała być tajemnicą. Do pierwszego ratownika na miejscu zamachu w Krakowie dotarł &quot;Gość Niedzielny&quot;. To 70-letni Patrick odrzucił kule ortopedyczne i pobiegł w stronę ociekających krwią policjantów. Mężczyzna ujawnia nieznane dotąd kulisy strzelaniny.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/09ef80ba-3add-4193-b167-cef44cccd2f7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 11 Nov 2026 09:12:00 GMT</pubDate>
+            <guid isPermaLink="false">164c46df-6049-48ae-97f5-5a87b6ef8b43</guid></item></channel>
             </rss>
