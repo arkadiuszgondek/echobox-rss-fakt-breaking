@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 11 Nov 2026 09:12:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 11 Nov 2026 11:53:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Ciało blisko domu zaginionej Karoliny Wróbel. Prokuratura ujawnia wyniki badań DNA zwłok</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/slask/zwloki-w-czechowicach-dziedzicach-wyniki-dna-a-zaginiona-karolina-wrobel/t0hb8wk</link>
-            <description>2 listopada podczas rozbiórki garażu w Czechowicach-Dziedzicach (woj. śląskie) natrafiono na rozkładające się zwłoki. Pojawiły się domysły, że to zaginiona 24-letnia Karolina Wróbel. &quot;Wyniki przeprowadzonej sekcji zwłok oraz badań DNA potwierdziły, że ujawnione zwłoki należą do mężczyzny&quot; — przekazał prokurator Aleksander Duda z Prokuratury Okręgowej w Katowicach.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/70d716dc-584d-4758-b4bd-07d9b8d5004f.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 09 Nov 2026 09:50:00 GMT</pubDate>
-            <guid isPermaLink="false">cde12ac0-4ee8-4ddc-8ec1-fa28daa0641c</guid></item><item>
             <title>Breaking Cztery telefony w aucie Michała Oksińskiego. To w marcu kupił broń. To nie wszystko</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/prokuratura-ujawnia-nowe-fakty-o-michale-oksinskim-zabezpieczono-4-telefony/tzfp1ym</link>
             <description>Prokuratura przekazała nowe informacje o Michale Oksińskim. Zabezpieczono cztery telefony 24-latka w jego aucie. Zamachowiec pozwolenie na broń uzyskał w styczniu 2026 r., a zakupił w marcu. Mężczyzna zmarł w szpitalu. Motyw jego działania wciąż jest nieznany.</description>
@@ -71,10 +65,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/1ee45a4b-9f80-4075-8a84-acb9e30c51e4.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 11 Nov 2026 06:17:00 GMT</pubDate>
             <guid isPermaLink="false">edaa77bc-a2f7-4a7b-8db4-a4614fbddaf0</guid></item><item>
-            <title>Breaking &quot;Osoba o kulach&quot; przerywa milczenie. To on ratował Jakuba Kulika. Myślał, że to plan filmowy</title>
+            <title>Breaking &quot;Osoba o kulach&quot; odnaleziona. To on ratował Jakuba Kulika. Myślał, że to plan filmowy</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/mezczyzna-o-kulach-z-krakowa-odnaleziony-to-70-letni-patrick/14jwek6</link>
-            <description>Tożsamość bohatera z nagrań przestała być tajemnicą. Do pierwszego ratownika na miejscu zamachu w Krakowie dotarł &quot;Gość Niedzielny&quot;. To 70-letni Patrick odrzucił kule ortopedyczne i pobiegł w stronę ociekających krwią policjantów. Mężczyzna ujawnia nieznane dotąd kulisy strzelaniny.</description>
+            <description>Tożsamość bohatera z nagrań przestała być tajemnicą. Do pierwszego ratownika na miejscu zamachu w Krakowie dotarł &quot;Gość Niedzielny&quot;. To 70-letni Patrick odrzucił kule ortopedyczne i pobiegł w stronę ociekających krwią policjantów. — Zobaczyłem, że krew wypływa z górnej części klatki piersiowej, więc instynktownie zacząłem ją tamować — mówi. Mężczyzna ujawnia nieznane dotąd okoliczności strzelaniny.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/09ef80ba-3add-4193-b167-cef44cccd2f7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 11 Nov 2026 09:12:00 GMT</pubDate>
-            <guid isPermaLink="false">164c46df-6049-48ae-97f5-5a87b6ef8b43</guid></item></channel>
+            <guid isPermaLink="false">164c46df-6049-48ae-97f5-5a87b6ef8b43</guid></item><item>
+            <title>Breaking &quot;Ta odpowiedzialność ma twarz Jakuba Kulika i Artura Morańskiego&quot;. Prezydent dziękuje bohaterom [RELACJA]</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/swieto-niepodleglosci-2026-uroczystosci-panstwowe-i-marsz-niepodleglosci-relacja-na/g4h00g1</link>
+            <description>Dziś, 11 listopada, w 108. rocznicę odzyskania przez Polskę niepodległości, ulicami Warszawy przejdzie Marsz Niepodległości – największe coroczne zgromadzenie środowisk narodowych i patriotycznych. Zgromadzenie na rondzie Dmowskiego rozpocznie się o godz. 14.00, a wymarsz w kierunku błoni Stadionu Narodowego zaplanowano na 14.30. W tym roku pochód ruszy pod hasłem &quot;Polak w Polsce gospodarzem!&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a0884fbd-7741-4c0e-88c8-062e149508b2.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 11 Nov 2026 11:53:00 GMT</pubDate>
+            <guid isPermaLink="false">9e2a5482-164b-4a97-a020-3d90f7d30c12</guid></item></channel>
             </rss>
