@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 10 Nov 2026 19:53:25 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 11 Nov 2026 06:17:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Policja: Michał Oksiński, sprawca zamachu w Krakowie, nie żyje</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/strzelanina-w-krakowie-sprawca-zamachu-nie-zyje/xcxknqc</link>
-            <description>Michał Oksiński z Ostrowca Świętokrzyskiego, sprawca strzelaniny w Krakowie, nie żyje. — Dzisiaj (9 listopada) nad ranem otrzymaliśmy informację, że sprawca tych zdarzeń zmarł w szpitalu — przekazała w rozmowie z &quot;Faktem&quot; rzeczniczka policji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/28d82afa-60e0-46ba-a80c-5c6e5bc81785.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 09 Nov 2026 05:44:00 GMT</pubDate>
-            <guid isPermaLink="false">ddeccd6c-20e7-4bc2-a6c7-f20790825c0d</guid></item><item>
             <title>Breaking Wojewoda przekazał wieści ze szpitala. Wiadomo, w jakim stanie jest policjant</title>
             <link>https://www.fakt.pl/polityka/zamach-w-krakowie-wojewoda-przekazal-informacje-ze-szpitala-co-z-policjantem/fbfn6n7</link>
             <description>— W sześciu krakowskich szpitalach przebywa 15 osób poszkodowanych w sobotnim zamachu. Stan 14 z nich jest stabilny, natomiast jeden z policjantów, który uczestniczył w zatrzymaniu napastnika, pozostaje w stanie ciężkim — przekazał wojewoda małopolski.</description>
@@ -37,7 +31,7 @@
             <guid isPermaLink="false">56fc4f3e-a920-4790-9a4c-0286559ef1f5</guid></item><item>
             <title>Breaking Tusk i Nawrocki razem w Krakowie. Władze miasta potwierdzają </title>
             <link>https://www.fakt.pl/polityka/marsz-ciszy-w-krakowie-donald-tusk-i-karol-nawrocki-wezma-udzial/gxwf8sc</link>
-            <description>Prezydent Karol Nawrocki i premier Donald Tusk mają wspólnie uczestniczyć w Marszu Ciszy w Krakowie, organizowanym ku pamięci sze��ciu ofiar sobotniego (7 listopada) zamachu. Udział obu polityków potwierdziły władze miasta. Wydarzenie rozpocznie się w poniedziałek o godz. 20 na Rynku Głównym. Wcześniej prezydent Krakowa Łukasz Gibała zaprosił szefa rządu do wspólnego oddania hołdu zamordowanym.</description>
+            <description>Prezydent Karol Nawrocki i premier Donald Tusk mają wspólnie uczestniczyć w Marszu Ciszy w Krakowie, organizowanym ku pamięci sześciu ofiar sobotniego (7 listopada) zamachu. Udział obu polityków potwierdziły władze miasta. Wydarzenie rozpocznie się w poniedziałek o godz. 20 na Rynku Głównym. Wcześniej prezydent Krakowa Łukasz Gibała zaprosił szefa rządu do wspólnego oddania hołdu zamordowanym.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/64d65709-d6b4-428b-a75c-2190cd534acd.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 09 Nov 2026 15:50:00 GMT</pubDate>
             <guid isPermaLink="false">7ca4a318-9c2b-4ce6-ab9a-886061743571</guid></item><item>
@@ -74,7 +68,13 @@
             <title>Breaking Nowe wieści z Pałacu o Marszu Niepodległości. Wiadomo, kogo zabraknie</title>
             <link>https://www.fakt.pl/polityka/marsz-niepodleglosci-bez-marty-nawrockiej-wskazano-przyczyny/4vm3c3w</link>
             <description>Rafał Leśkiewicz potwierdził, że Marta Nawrocka nie będzie towarzyszyła Karolowi Nawrockiemu podczas Marszu Niepodległości. — Ma inne zobowiązania w tym czasie — wyjaśnił w programie Rymanowski Live. Przyznał, że nieobecność pierwszej damy &quot;trochę&quot; wynika także z kwestii bezpieczeństwa.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/d7205609-e048-4ca1-b476-4baf8f8fa946.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9f85dc87-e0b4-44fc-a148-6f6a775fe102.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 10 Nov 2026 19:53:25 GMT</pubDate>
-            <guid isPermaLink="false">7d705cde-6ce4-402d-af3a-5c2e9747d03c</guid></item></channel>
+            <guid isPermaLink="false">7d705cde-6ce4-402d-af3a-5c2e9747d03c</guid></item><item>
+            <title>Breaking Szokujące doniesienia z Rosji. Polacy w rękach FSB</title>
+            <link>https://www.fakt.pl/polityka/polacy-oskarzeni-o-szpiegostwo-fsb-zatrzymalo-dwie-osoby-w-rosji/msw12sy</link>
+            <description>Rosyjska Federalna Służba Bezpieczeństwa (FSB) zatrzymała w obwodzie królewieckim dwóch obywateli Polski, oskarżając ich o szpiegostwo. Jak podaje Reuters, mężczyźni mieli gromadzić informacje o obiektach wojskowych na rzecz polskich służb. Kolejnych siedmiu Polaków otrzymało zakaz wjazdu do Rosji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 11 Nov 2026 06:17:00 GMT</pubDate>
+            <guid isPermaLink="false">edaa77bc-a2f7-4a7b-8db4-a4614fbddaf0</guid></item></channel>
             </rss>
