@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 11 Nov 2026 20:57:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 12 Nov 2026 13:08:01 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Alert RCB na Podlasiu i Lubelszczyźnie. &quot;Oczekuj dalszych komunikatów&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/alarmujacy-komunikat-rcb-podniesiono-gotowosc-obrony-powietrznej/bfgzjbz</link>
-            <description>Mieszkańcy województwa podlaskiego i lubelskiego otrzymali w poniedziałek późnym wieczorem (22:01) alert RCB. &quot;Uwaga! Rosyjski atak powietrzny na Ukrainie. Sytuacja jest monitorowana. Podniesiono gotowość systemu obrony powietrznej RP. Oczekuj dalszych komunikatów&quot; — czytamy. Chwilę później alert przestał obowiązywać.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/d47ff9c3-0a4c-4206-853b-98eeb68bda3a.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 09 Nov 2026 21:30:46 GMT</pubDate>
-            <guid isPermaLink="false">34a10d29-5450-49fb-b4f3-b1cb499bbca9</guid></item><item>
             <title>Breaking Nowe wiadomości o rannym w zamachu policjancie. Głos zabrał minister obrony narodowej</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/nowe-wiesci-o-rannym-w-zamachu-policjancie-minister-obrony-narodowej-zabral-glos/1qn0yw5</link>
             <description>Nowe informacje o rannym w zamachu policjancie. O stanie zdrowia st. poster. Artura Morańskiego poinformował minister obrony narodowej Władysław Kosiniak-Kamysz. &quot;Poszkodowany w krakowskim zamachu starszy posterunkowy Artur Morański trafił dziś [10 listopada – przyp. red.] do 5 Wojskowego Szpitala Klinicznego z Polikliniką&quot; – przekazał minister.</description>
@@ -52,5 +46,11 @@
             <description>Były minuty po godz. 15, gdy w Krakowie przecięły się drogi kilku osób. 70-letni Patrick czekał na tramwaj, libański bloger Jad Hallit nagrywał to, co początkowo uznał za zwykły wypadek, a policjanci Jakub Kulik i Artur Morański stanęli naprzeciw uzbrojonego 24-latka. W pobliżu znalazł się też Tomasz, druh OSP, który jechał białym Oplem z żoną Kingą. Tajemniczy mężczyzna o kulach, którego widać na nagraniu z miejsca strzelaniny, to właśnie Patrick. — To 70-letni Amerykanin — potwierdza w rozmowie z &quot;Faktem&quot; Jad.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/a6cfc59e-61cf-4c4d-999a-2bc5fb259c58.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 11 Nov 2026 20:57:00 GMT</pubDate>
-            <guid isPermaLink="false">c73a596f-fd47-4179-af5f-2562ee104145</guid></item></channel>
+            <guid isPermaLink="false">c73a596f-fd47-4179-af5f-2562ee104145</guid></item><item>
+            <title>Breaking Groźny incydent w centrum Krakowa. Napastnik zatrzymany przez policję po strzałach</title>
+            <link>https://www.fakt.pl/wydarzenia/dramatyczna-sytuacja-w-krakowie-pojawil-sie-kolejny-czlowiek-ktory-strzelal-z/gst72ez</link>
+            <description>Do bardzo groźnej sytuacji doszło w czwartek 12 listopada w Krakowie. Po godz. 13.00 na ulicach miasta pojawił się samochód, z którego wychylił się mężczyzna i zaczął strzelać z pistoletu w kierunku przechodniów. Napastnikiem natychmiast zajęła się policja. Oddano strzały ostrzegawcze i podejrzany poddał się. Został zatrzymany i trwają z nim czynności. Prawdopodobnie był uzbrojony w broń gazową albo hukową.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 12 Nov 2026 13:08:01 GMT</pubDate>
+            <guid isPermaLink="false">7c58e3d8-8e80-4369-97ab-cec5b1923cd4</guid></item></channel>
             </rss>
