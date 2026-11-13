@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 13 Nov 2026 15:25:06 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 13 Nov 2026 17:53:59 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking &quot;Polak w Polsce gospodarzem&quot;. Nawet 250 tys. osób [RELACJA NA ŻYWO]</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/swieto-niepodleglosci-2026-uroczystosci-panstwowe-i-marsz-niepodleglosci-relacja-na/g4h00g1</link>
-            <description>Dziś, 11 listopada, w 108. rocznicę odzyskania przez Polskę niepodległości, ulicami Warszawy przechodzi Marsz Niepodległości – największe coroczne zgromadzenie środowisk narodowych i patriotycznych. Zgromadzenie na Rondzie Dmowskiego rozpoczęło się o godz. 14, a wymarsz w kierunku błoni Stadionu Narodowego zaplanowano na 14.30. W tym roku pochód rusza pod hasłem &quot;Polak w Polsce gospodarzem!&quot;. Jak przekazało Stołeczne Centrum Bezpieczeństwa, w marszu wzięło udział nawet 250 tys. osób.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f067d5e7-9d99-4903-b0a7-e39fc80df9e9.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 11 Nov 2026 17:23:00 GMT</pubDate>
-            <guid isPermaLink="false">9e2a5482-164b-4a97-a020-3d90f7d30c12</guid></item><item>
             <title>Breaking 70-latek o kulach ruszył na pomoc rannym policjantom. Znamy jego narodowość</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/krakow-kim-jest-mezczyzna-o-kulach-wiemy-skad-pochodzi-70-letni-patrick/3lylvzr</link>
             <description>Były minuty po godz. 15, gdy w Krakowie przecięły się drogi kilku osób. 70-letni Patrick czekał na tramwaj, libański bloger Jad Hallit nagrywał to, co początkowo uznał za zwykły wypadek, a policjanci Jakub Kulik i Artur Morański stanęli naprzeciw uzbrojonego 24-latka. W pobliżu znalazł się też Tomasz, druh OSP, który jechał białym Oplem z żoną Kingą. Tajemniczy mężczyzna o kulach, którego widać na nagraniu z miejsca strzelaniny, to właśnie Patrick. — To 70-letni Amerykanin — potwierdza w rozmowie z &quot;Faktem&quot; Jad.</description>
@@ -49,8 +43,14 @@
             <guid isPermaLink="false">53602af3-cebb-44f3-b6ce-e2bc9da8c87b</guid></item><item>
             <title>Breaking Karol Nawrocki zdecydował. Prezydent zawetował kolejną ustawę</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zdecydowal-prezydent-zawetowal-ustawe-dsa/7xqjbcr</link>
-            <description>Karol Nawrocki zdecydował w sprawie ustawę wdrażającej akt o usługach cyfrowych. Prezydent zawetował ustawę, która miała pozwolić na blokowanie nielegalnych treści w internecie.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Prezydent zawetował ustawę, która miała pozwolić na blokowanie nielegalnych treści w internecie. — Wróciło widmo urzędnika cenzora. (...) Zastosowano szantaż emocjonalny, by przepchnąć przepisy, które dają rządowi w zasadzie arbitralną kontrolę i możliwość decydowania o tym, co możemy, a czego nie możemy mówić, pisać czy publikować — powiedział Karol Nawrocki.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/ea77dae3-6c16-480b-9017-ab554c612184.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 13 Nov 2026 15:25:06 GMT</pubDate>
-            <guid isPermaLink="false">9cca5037-26ad-4e5e-9951-8541b54a4f37</guid></item></channel>
+            <guid isPermaLink="false">9cca5037-26ad-4e5e-9951-8541b54a4f37</guid></item><item>
+            <title>Breaking Polska weźmie udział w negocjacjach ws. zakończenia wojny w Ukrainie</title>
+            <link>https://www.fakt.pl/polityka/wojna-w-ukrainie-polska-wezmie-udzial-w-negocjacjach/25e9xh2</link>
+            <description>Polska jest wśród państw negocjujących w sprawie wojny w Ukrainie — przekazał szef Rady Europejskiej. Przy stole miejsce mają zająć również Francja, Niemcy, Wielka Brytania i Włochy oraz instytucje UE.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 13 Nov 2026 17:53:59 GMT</pubDate>
+            <guid isPermaLink="false">3c2ef28d-55b1-4d63-bd41-c99a4418012d</guid></item></channel>
             </rss>
