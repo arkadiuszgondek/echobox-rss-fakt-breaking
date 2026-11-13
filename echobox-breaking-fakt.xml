@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 13 Nov 2026 17:53:59 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 13 Nov 2026 20:48:12 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking 70-latek o kulach ruszył na pomoc rannym policjantom. Znamy jego narodowość</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/krakow-kim-jest-mezczyzna-o-kulach-wiemy-skad-pochodzi-70-letni-patrick/3lylvzr</link>
@@ -50,7 +50,13 @@
             <title>Breaking Polska weźmie udział w negocjacjach ws. zakończenia wojny w Ukrainie</title>
             <link>https://www.fakt.pl/polityka/wojna-w-ukrainie-polska-wezmie-udzial-w-negocjacjach/25e9xh2</link>
             <description>Polska jest wśród państw negocjujących w sprawie wojny w Ukrainie — przekazał szef Rady Europejskiej. Przy stole miejsce mają zająć również Francja, Niemcy, Wielka Brytania i Włochy oraz instytucje UE.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/73316a58-76a7-40a7-a764-9d14b2c4075d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 13 Nov 2026 17:53:59 GMT</pubDate>
-            <guid isPermaLink="false">3c2ef28d-55b1-4d63-bd41-c99a4418012d</guid></item></channel>
+            <guid isPermaLink="false">3c2ef28d-55b1-4d63-bd41-c99a4418012d</guid></item><item>
+            <title>Breaking Tragiczny karambol z udziałem wojskowych ciężarówek. Zadziałał &quot;efekt domina&quot;. Droga jest zablokowana</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/lublin/ciezarowka-uderzyla-w-kolumne-aut-pod-piaskami-jedna-osoba-zginela-na-miejscu/20w23e7</link>
+            <description>Tragiczny karambol na drodze ekspresowej S12/S17 w województwie lubelskim. W piątek (13 listopada 2026 r.) wieczorem w rejonie Janówka zderzyło się sześć pojazdów, w tym dwa wojskowe samochody ciężarowe. Jedna osoba zginęła, a poszkodowanych transportowały do szpitala dwa śmigłowce LPR. Jezdnia w kierunku Chełma została całkowicie zablokowana.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/41762f23-ec07-4086-a0ed-321ba1f7b119.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 13 Nov 2026 20:48:12 GMT</pubDate>
+            <guid isPermaLink="false">f467e796-15eb-458f-b544-301c3775a42f</guid></item></channel>
             </rss>
