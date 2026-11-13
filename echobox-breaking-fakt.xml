@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 13 Nov 2026 05:06:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 13 Nov 2026 08:47:49 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Szokujące doniesienia z Rosji. Polacy w rękach FSB. Reaguje Jacek Dobrzyński</title>
-            <link>https://www.fakt.pl/polityka/polacy-oskarzeni-o-szpiegostwo-fsb-zatrzymalo-dwie-osoby-w-rosji/msw12sy</link>
-            <description>Rosyjska Federalna Służba Bezpieczeństwa (FSB) zatrzymała w obwodzie królewieckim dwóch obywateli Polski, oskarżając ich o rzekome szpiegostwo. Jak podaje Reuters, mężczyźni według narracji Kremla mieli gromadzić informacje o obiektach wojskowych na rzecz polskich służb. Kolejnych siedmiu Polaków otrzymało zakaz wjazdu do Rosji. Rzecznik ministra koordynatora służb specjalnych, Jacek Dobrzyński, stanowczo komentuje doniesienia o domniemanej siatce szpiegowskiej: to wroga narracja i rosyjska propaganda.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/1ee45a4b-9f80-4075-8a84-acb9e30c51e4.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 11 Nov 2026 06:17:00 GMT</pubDate>
-            <guid isPermaLink="false">edaa77bc-a2f7-4a7b-8db4-a4614fbddaf0</guid></item><item>
             <title>Breaking &quot;Osoba o kulach&quot; odnaleziona. To on ratował Jakuba Kulika. Myślał, że to plan filmowy</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/mezczyzna-o-kulach-z-krakowa-odnaleziony-to-70-letni-patrick/14jwek6</link>
             <description>Tożsamość bohatera z nagrań przestała być tajemnicą. Do pierwszego ratownika na miejscu zamachu w Krakowie dotarł &quot;Gość Niedzielny&quot;. To 70-letni Patrick odrzucił kule ortopedyczne i pobiegł w stronę ociekających krwią policjantów. — Zobaczyłem, że krew wypływa z górnej części klatki piersiowej, więc instynktownie zacząłem ją tamować — mówi. Mężczyzna ujawnia nieznane dotąd okoliczności strzelaniny.</description>
@@ -55,8 +49,14 @@
             <guid isPermaLink="false">9791d3d3-4aa4-4311-a903-12736fe4c3bb</guid></item><item>
             <title>Breaking Poczta Outlook nie działa. Tysiące Polaków bez dostępu do pracy. Jest komunikat Microsoftu</title>
             <link>https://www.fakt.pl/pieniadze/poczta-outlook-nie-dziala-problem-z-e-mailami-w-calej-polsce-jest-komunikat-o-awarii/95xmv69</link>
-            <description>Nagły paraliż kluczowych usług. Potężna awaria Microsoftu odcięła miliony użytkowników od poczty Outlook i komunikatora Teams. Usterka uderzyła w 74 kraje, paraliżując pracę także w Polsce. Gigant technologiczny wydał już pilny komunikat. Wiadomo, co wywołało globalny chaos w systemach 365 i na jakim etapie jest naprawa błędu.</description>
+            <description>Nagły paraliż kluczowych usług. Potężna awaria Microsoftu odcięła miliony użytkowników od poczty Outlook i komunikatora Teams. Usterka uderzyła w 74 kraje, paraliżując pracę także w Polsce. W piątek, 13 listopada, o godz. 7.12 (czasu polskiego) Microsoft podał, że &quot;kontynuuje prace nad odzyskiwaniem sprawności naszych serwerów&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/7a2e6336-6429-4305-b615-6b8992c14d15.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 13 Nov 2026 05:06:00 GMT</pubDate>
-            <guid isPermaLink="false">4461130b-f535-4520-a62d-e265be6912f5</guid></item></channel>
+            <guid isPermaLink="false">4461130b-f535-4520-a62d-e265be6912f5</guid></item><item>
+            <title>Breaking Pięć aut zderzyło się na S6 niedaleko Gdańska. Są ranni. Trasa jest zablokowana</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/wypadek-na-s6-pod-sycewicami-piec-aut-zderzylo-sie-na-trasie-do-gdanska/zfjdy4d</link>
+            <description>Poważne utrudnienia na pomorskiej ekspresówce. W okolicach miejscowości Sycewice, na trasie S6 prowadzącej w stronę Gdańska, doszło do groźnego wypadku drogowego. Pięć samochodów zderzyło się ze sobą, trzy osoby zostały przewiezione do szpitala. Droga jest całkowicie zablokowana, a służby ratunkowe i policja wciąż pracują na miejscu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 13 Nov 2026 08:47:49 GMT</pubDate>
+            <guid isPermaLink="false">53602af3-cebb-44f3-b6ce-e2bc9da8c87b</guid></item></channel>
             </rss>
