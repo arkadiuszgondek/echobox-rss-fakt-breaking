@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 14 Nov 2026 06:17:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 14 Nov 2026 17:31:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Dramatyczne doniesienia z Krakowa. Padły strzały, policja zatrzymała uzbrojonego 38-latka</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/dramatyczna-sytuacja-w-krakowie-pojawil-sie-kolejny-czlowiek-ktory-strzelal-z/egp2gxn</link>
-            <description>Do bardzo groźnej sytuacji doszło w czwartek, 12 listopada, w Krakowie. Po godz. 13.00 na ulicach miasta pojawił się samochód, z którego wychylił się mężczyzna i zaczął wymachiwać pistoletem. Napastnikiem natychmiast zajęła się policja. Policjanci oddali strzały ostrzegawcze i podejrzany poddał się na ul. Bieżanowskiej. Został zatrzymany. To 38-letni mieszkaniec Krakowa. — Był uzbrojony w rewolwer pneumatyczny zasilany CO2 — przekazała &quot;Faktowi&quot; Iwona Szelichiewicz z małopolskiej policji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/0881f4e3-e447-4e0b-9b0d-4e08677badcc.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 12 Nov 2026 13:08:01 GMT</pubDate>
-            <guid isPermaLink="false">7c58e3d8-8e80-4369-97ab-cec5b1923cd4</guid></item><item>
             <title>Breaking Tajna narada u Święczkowskiego? Sędziowie przyłapani pod jego domem. W tym ten najważniejszy. Mamy zdjęcia</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-zaprosil-sedziow-wsrod-nich-piotrowicz-i-kapinski/2ysjmqb</link>
             <description>Po wizycie przed Trybunałem Konstytucyjnym Bogdan Święczkowski poszedł do sklepu, a następnie do mieszkania. Towarzyszyli mu sędziowie TK, m.in. Stanisław Piotrowicz, który jest rzecznikiem dyscyplinarnym w jego sprawie. Dołączył do nich również pierwszy prezes Sądu Najwyższego Zbigniew Kapiński. Wszystko uwiecznili fotoreporterzy &quot;Faktu&quot;.</description>
@@ -53,10 +47,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/41762f23-ec07-4086-a0ed-321ba1f7b119.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 13 Nov 2026 21:17:12 GMT</pubDate>
             <guid isPermaLink="false">f467e796-15eb-458f-b544-301c3775a42f</guid></item><item>
-            <title>Breaking Paraliż na lotniskach w USA. FAA wstrzymała starty i lądowania samolotów</title>
+            <title>Breaking Paraliż na lotniskach w USA. Samoloty już latają, ale są gigantyczne opóźnienia</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/usa-paraliz-lotnisk-w-usa-faa-wstrzymala-starty-i-ladowania/jdwc9v4</link>
             <description>Poważne utrudnienia w ruchu lotniczym w Stanach Zjednoczonych. Federalna Agencja Lotnictwa (FAA) wstrzymała starty i lądowania samolotów na lotniskach w całym kraju. Jako powód podano względy bezpieczeństwa. Przed godz. 3 w nocy (z piątku na sobotę) polskiego czasu ruch przywrócono. Jak poinformował sekretarz transportu Sean Duffy, przyczyną przerwy była awaria przestarzałego systemu łączności, który został przeciążony danymi podczas aktualizacji.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/MjA7MDA_/dcd3ab14-538b-4b81-8787-b12109bcfb78.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 14 Nov 2026 06:17:00 GMT</pubDate>
-            <guid isPermaLink="false">9d087574-5a32-440a-99e9-7bcb8d27b0bd</guid></item></channel>
+            <guid isPermaLink="false">9d087574-5a32-440a-99e9-7bcb8d27b0bd</guid></item><item>
+            <title>Breaking Co się stało ze znanym strażakiem? Dwa lata temu wrócił z USA. Teraz zaginął w Mrągowie</title>
+            <link>https://www.fakt.pl/wydarzenia/przemyslaw-brzoza-zaginal-w-mragowie-to-znany-strazak/1x2g0bc</link>
+            <description>&quot;PILNE! Zaginął Przemysław Brzoza!&quot; — taki komunikat zamieścili mrągowscy policjanci. Służby i rodzina szukają starszego strażaka z PSP w Kętrzynie. W przeszłości zasłynął jako uczestnik potyczek strongmanów, które zorganizował w USA Arnold Schwarzenegger.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/MGM7MDA_/cbc18b41-906f-4325-9588-4c1da16d55e8.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 14 Nov 2026 17:31:00 GMT</pubDate>
+            <guid isPermaLink="false">2c0ed7c6-3b7b-46f6-8be4-afb91d7bf3c8</guid></item></channel>
             </rss>
