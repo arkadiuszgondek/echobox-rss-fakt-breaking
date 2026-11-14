@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 14 Nov 2026 17:31:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 14 Nov 2026 19:31:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tajna narada u Święczkowskiego? Sędziowie przyłapani pod jego domem. W tym ten najważniejszy. Mamy zdjęcia</title>
-            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-zaprosil-sedziow-wsrod-nich-piotrowicz-i-kapinski/2ysjmqb</link>
-            <description>Po wizycie przed Trybunałem Konstytucyjnym Bogdan Święczkowski poszedł do sklepu, a następnie do mieszkania. Towarzyszyli mu sędziowie TK, m.in. Stanisław Piotrowicz, który jest rzecznikiem dyscyplinarnym w jego sprawie. Dołączył do nich również pierwszy prezes Sądu Najwyższego Zbigniew Kapiński. Wszystko uwiecznili fotoreporterzy &quot;Faktu&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/67670191-b8e2-4082-b56e-372bc92de85c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 12 Nov 2026 18:01:51 GMT</pubDate>
-            <guid isPermaLink="false">417c81f3-dfba-418f-978e-9c753fd7c9e9</guid></item><item>
-            <title>Breaking Zwrot w sprawie kawalerki pana Jerzego</title>
-            <link>https://www.fakt.pl/polityka/zwrot-w-sprawie-kawalerki-pana-jerzego-chodzi-o-karola-nawrockiego/dr8npg8</link>
-            <description>— Po przeanalizowaniu zgromadzonego w sprawie materiału dowodowego prokurator uznał za zasadne przesłuchanie w charakterze świadka prezydenta Karola Nawrockiego — przekazał Onetowi prok. Mariusz Duszyński. Chodzi o sprawę kawalerki Jerzego Ż.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/0a3517e8-0061-4b26-87eb-7a444543578c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 12 Nov 2026 18:28:43 GMT</pubDate>
-            <guid isPermaLink="false">9791d3d3-4aa4-4311-a903-12736fe4c3bb</guid></item><item>
             <title>Breaking Poczta Outlook nie działa. Tysiące Polaków bez dostępu do pracy. Jest komunikat Microsoftu</title>
             <link>https://www.fakt.pl/pieniadze/poczta-outlook-nie-dziala-problem-z-e-mailami-w-calej-polsce-jest-komunikat-o-awarii/95xmv69</link>
             <description>Nagły paraliż kluczowych usług. Potężna awaria Microsoftu odcięła miliony użytkowników od poczty Outlook i komunikatora Teams. Usterka uderzyła w 74 kraje, paraliżując pracę także w Polsce. W piątek, 13 listopada, o godz. 7.12 (czasu polskiego) Microsoft podał, że &quot;kontynuuje prace nad odzyskiwaniem sprawności naszych serwerów&quot;.</description>
@@ -53,10 +41,10 @@
             <enclosure url="http://ocdn.eu/images/pulscms/MjA7MDA_/dcd3ab14-538b-4b81-8787-b12109bcfb78.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 14 Nov 2026 06:17:00 GMT</pubDate>
             <guid isPermaLink="false">9d087574-5a32-440a-99e9-7bcb8d27b0bd</guid></item><item>
-            <title>Breaking Co się stało ze znanym strażakiem? Dwa lata temu wrócił z USA. Teraz zaginął w Mrągowie</title>
+            <title>Breaking Znany strażak zaginął w Mrągowie. Teraz takie wiadomości. &quot;Trafił do szpitala&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/przemyslaw-brzoza-zaginal-w-mragowie-to-znany-strazak/1x2g0bc</link>
-            <description>&quot;PILNE! Zaginął Przemysław Brzoza!&quot; — taki komunikat zamieścili mrągowscy policjanci. Służby i rodzina szukają starszego strażaka z PSP w Kętrzynie. W przeszłości zasłynął jako uczestnik potyczek strongmanów, które zorganizował w USA Arnold Schwarzenegger.</description>
+            <description>&quot;PILNE! Zaginął Przemysław Brzoza!&quot; — taki komunikat zamieścili mrągowscy policjanci. Służby i rodzina szukali starszego strażaka z PSP w Kętrzynie. W przeszłości zasłynął jako uczestnik potyczek strongmanów, które zorganizował w USA Arnold Schwarzenegger. Teraz policja przekazała nowe informacje. Jest szczęśliwe zakończenie.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/MGM7MDA_/cbc18b41-906f-4325-9588-4c1da16d55e8.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 14 Nov 2026 17:31:00 GMT</pubDate>
+            <pubDate>Sat, 14 Nov 2026 19:31:00 GMT</pubDate>
             <guid isPermaLink="false">2c0ed7c6-3b7b-46f6-8be4-afb91d7bf3c8</guid></item></channel>
             </rss>
