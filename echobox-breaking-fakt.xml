@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 14 Nov 2026 21:43:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 15 Nov 2026 10:04:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Poczta Outlook nie działa. Tysiące Polaków bez dostępu do pracy. Jest komunikat Microsoftu</title>
-            <link>https://www.fakt.pl/pieniadze/poczta-outlook-nie-dziala-problem-z-e-mailami-w-calej-polsce-jest-komunikat-o-awarii/95xmv69</link>
-            <description>Nagły paraliż kluczowych usług. Potężna awaria Microsoftu odcięła miliony użytkowników od poczty Outlook i komunikatora Teams. Usterka uderzyła w 74 kraje, paraliżując pracę także w Polsce. W piątek, 13 listopada, o godz. 7.12 (czasu polskiego) Microsoft podał, że &quot;kontynuuje prace nad odzyskiwaniem sprawności naszych serwerów&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/7a2e6336-6429-4305-b615-6b8992c14d15.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 13 Nov 2026 05:06:00 GMT</pubDate>
-            <guid isPermaLink="false">4461130b-f535-4520-a62d-e265be6912f5</guid></item><item>
-            <title>Breaking Karambol na trasie S6 niedaleko Słupska. Są ranni. Trasa jest zablokowana</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/wypadek-na-s6-pod-sycewicami-piec-aut-zderzylo-sie-na-trasie-do-gdanska/zfjdy4d</link>
-            <description>Poważne utrudnienia na pomorskiej ekspresówce. W okolicach miejscowości Sycewice pod Słupskiem, na trasie S6 prowadzącej w stronę Gdańska, doszło do groźnego wypadku drogowego. Pięć samochodów zderzyło się ze sobą, trzy osoby zostały przewiezione do szpitala. Droga jest całkowicie zablokowana, a służby ratunkowe i policja wciąż pracują na miejscu.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/98a8c5da-c21b-4595-b42c-250e96aa1c99.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 13 Nov 2026 08:47:49 GMT</pubDate>
-            <guid isPermaLink="false">53602af3-cebb-44f3-b6ce-e2bc9da8c87b</guid></item><item>
             <title>Breaking Karol Nawrocki zdecydował. Prezydent zawetował kolejną ustawę</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zdecydowal-prezydent-zawetowal-ustawe-dsa/7xqjbcr</link>
             <description>Prezydent zawetował ustawę, która miała pozwolić na blokowanie nielegalnych treści w internecie. — Wróciło widmo urzędnika cenzora. (...) Zastosowano szantaż emocjonalny, by przepchnąć przepisy, które dają rządowi w zasadzie arbitralną kontrolę i możliwość decydowania o tym, co możemy, a czego nie możemy mówić, pisać czy publikować — powiedział Karol Nawrocki.</description>
@@ -52,5 +40,11 @@
             <description>W Giebułtowie pod Krakowem wybuchł pożar warsztatu samochodowego i lakierni. — W akcji bierze udział ponad 30 zastępów straży pożarnej z całej okolicy. Ogień objął znaczną część budynku — podaje RMF24.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/d40ff367-99ae-4b84-b366-6e4ffbf81602.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 14 Nov 2026 21:43:00 GMT</pubDate>
-            <guid isPermaLink="false">50c87919-294b-48f8-bdae-7eee905e8a14</guid></item></channel>
+            <guid isPermaLink="false">50c87919-294b-48f8-bdae-7eee905e8a14</guid></item><item>
+            <title>Breaking W miejscu poszukiwań Emilii Koprowskiej odnaleziono ciało. Niepokojące informacje z Darłowa</title>
+            <link>https://www.fakt.pl/wydarzenia/w-miejscu-poszukiwan-emilii-koprowskiej-odnaleziono-cialo/dsl7wz6</link>
+            <description>W okolicach Darłowa (woj. zachodniopomorskie) znaleziono ciało młodej kobiety. To tam od wielu tygodni trwają poszukiwania zaginionej Emilii Koprowskiej. — Osoba spacerująca z psem znalazła w lesie ciało i nas wezwała. Powiadomiliśmy policję. Pewne rzeczy wskazują na to, że to Emilia — mówi &quot;Faktowi&quot; detektyw Maja Rutkowski. Co na to policja? — Na razie nic w tej sprawie nie mogę powiedzieć — przekazała nam mł. asp. Paulina Wiśniewska z koszalińskiej komendy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 15 Nov 2026 10:04:00 GMT</pubDate>
+            <guid isPermaLink="false">620d3676-0ded-4da3-9e9f-57f26e14f291</guid></item></channel>
             </rss>
