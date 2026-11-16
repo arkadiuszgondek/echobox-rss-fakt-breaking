@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 15 Nov 2026 18:18:46 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 16 Nov 2026 06:10:42 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tragiczny karambol z udziałem wojskowych ciężarówek. Zadziałał &quot;efekt domina&quot;. Troje dzieci w szpitalu</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lublin/ciezarowka-uderzyla-w-kolumne-aut-pod-piaskami-jedna-osoba-zginela-na-miejscu/20w23e7</link>
-            <description>Tragiczny karambol na drodze ekspresowej S12/S17 w województwie lubelskim. W piątek (13 listopada 2026 r.) wieczorem w rejonie Janówka zderzyło się sześć pojazdów, w tym dwa wojskowe samochody ciężarowe. Jedna osoba zginęła, a poszkodowanych przetransportowały do szpitala dwa śmigłowce LPR.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/41762f23-ec07-4086-a0ed-321ba1f7b119.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 13 Nov 2026 21:17:12 GMT</pubDate>
-            <guid isPermaLink="false">f467e796-15eb-458f-b544-301c3775a42f</guid></item><item>
             <title>Breaking Paraliż na lotniskach w USA. Samoloty już latają, ale są gigantyczne opóźnienia</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/usa-paraliz-lotnisk-w-usa-faa-wstrzymala-starty-i-ladowania/jdwc9v4</link>
             <description>Poważne utrudnienia w ruchu lotniczym w Stanach Zjednoczonych. Federalna Agencja Lotnictwa (FAA) wstrzymała starty i lądowania samolotów na lotniskach w całym kraju. Jako powód podano względy bezpieczeństwa. Przed godz. 3 w nocy (z piątku na sobotę) polskiego czasu ruch przywrócono. Jak poinformował sekretarz transportu Sean Duffy, przyczyną przerwy była awaria przestarzałego systemu łączności, który został przeciążony danymi podczas aktualizacji.</description>
@@ -46,5 +40,11 @@
             <description>W 78. dniu poszukiwań znaleziono ciało, które z dużym prawdopodobieństwem należy do zaginionej Emilii Koprowskiej. Zaskakujące jest to, że osoby, które wcześniej chodziły w pobliżu i szukały Koszalinianki, na nie wtedy nie natrafiły. Śledczy nie są pewni, że miejsce znalezienia zwłok jest równocześnie miejscem śmierci kobiety. — Ostrożnie mówiłbym w tym przypadku o samobójstwie. Jest jeszcze wiele pytań bez odpowiedzi — mówi z kolei &quot;Faktowi&quot; detektyw Maciej Szuba.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/927a95cb-5a0f-481f-bd45-5462c9f8abc1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 15 Nov 2026 18:18:46 GMT</pubDate>
-            <guid isPermaLink="false">b1a6e8b2-07ca-4ee5-97d6-a8ceeac71315</guid></item></channel>
+            <guid isPermaLink="false">b1a6e8b2-07ca-4ee5-97d6-a8ceeac71315</guid></item><item>
+            <title>Breaking Wiadomo, kto zamówił mszę za zamachowca w Bazylice Mariackiej. Jest oświadczenie kurii. Padły te słowa</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/kosciol-mariacki-tlumaczy-sie-z-mszy-za-sprawce-zamachu-padly-wazne-slowa/9mt4vg5</link>
+            <description>Zapowiedź mszy za sprawcę zamachu na Rynku Głównym w Krakowie wywołała falę komentarzy. Nabożeństwo ma zostać odprawione w poniedziałek, 16 listopada, w Bazylice Mariackiej. Administrator parafii wyjaśnił, że nie jest to inicjatywa parafii, lecz prywatna decyzja jednego z księży.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2182b080-fd96-473d-8883-a7c91bf046cc.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 16 Nov 2026 06:10:42 GMT</pubDate>
+            <guid isPermaLink="false">118a812c-b487-412c-8cfa-02405b64d900</guid></item></channel>
             </rss>
