@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 17 Nov 2026 13:55:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 15:51:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zaginięcie Emilii Koprowskiej. Detektyw o znalezionym ciele: byłbym ostrożny</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/to-moze-byc-cialo-emilii-koprowskiej-detektyw-wciaz-jest-wiele-pytan/sr4ky83</link>
@@ -62,7 +62,13 @@
             <title>Breaking Nawrocki dokona nominacji w rządzie. Rzecznik ujawnia termin</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-powola-nowych-ministrow-rafal-leskiewicz-podal-termin/jqegrjr</link>
             <description>Karol Nawrocki wyznaczył termin zmian w rządzie Donalda Tuska. Rzecznik prezydenta Rafał Leśkiewicz poinformował, kiedy głowa państwa dokona zapowiadanych od kilku tygodni nominacji. Chodzi o awans Andrzeja Domańskiego na wicepremiera oraz powołanie następczyni Katarzyny Pełczyńskiej-Nałęcz. Leśkiewicz nawiązał również do głosowania nad odwołaniem Tuska, sugerując możliwość znacznie większej rekonstrukcji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e7fcbc74-502a-4ecf-865a-652e3db984f1.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 17 Nov 2026 13:55:00 GMT</pubDate>
-            <guid isPermaLink="false">932da488-e050-4967-b972-8005b58ee8a6</guid></item></channel>
+            <guid isPermaLink="false">932da488-e050-4967-b972-8005b58ee8a6</guid></item><item>
+            <title>Breaking Sejm zdecydował nad losem Donalda Tuska. Wielka mobilizacja obydwu stron </title>
+            <link>https://www.fakt.pl/polityka/sejm-odrzucil-wotum-nieufnosci-wobec-donalda-tuska-znamy-wyniki/r7b5h58</link>
+            <description>Polityczne emocje w Sejmie sięgnęły zenitu. Posłowie zdecydowali o losach rządu Donalda Tuska, rozpatrując wniosek o konstruktywne wotum nieufności złożony przez ugrupowanie Mateusza Morawieckiego. Były premier chciał odwołania obecnego gabinetu i zastąpienia Tuska Markiem Jurkiem. Głosowanie poprzedziła burzliwa debata, podczas której nie zabrakło ostrych słów pod adresem szefa rządu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 17 Nov 2026 15:51:00 GMT</pubDate>
+            <guid isPermaLink="false">32845a57-939f-4fe0-85d2-383dfa753ae0</guid></item></channel>
             </rss>
