@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 17 Nov 2026 09:36:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 10:19:39 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking W miejscu poszukiwań Emilii Koprowskiej odnaleziono ciało. Służby zwróciły uwagę na odzież</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/w-miejscu-poszukiwan-emilii-koprowskiej-odnaleziono-cialo/8kb40hc</link>
-            <description>W okolicach Darłowa (woj. zachodniopomorskie) znaleziono ciało młodej kobiety. To tam od wielu tygodni trwają poszukiwania zaginionej Emilii Koprowskiej. — Osoba spacerująca z psem znalazła w lesie ciało i nas wezwała. Powiadomiliśmy policję. Pewne rzeczy wskazują na to, że to Emilia — mówi &quot;Faktowi&quot; detektyw Maja Rutkowski. Co na to policja? — Mogę potwierdzić, że znaleziono ciało. Elementy odzieży wskazują, że może ono należeć do zaginionej — przekazała mł. asp. Paulina Wiśniewska z koszalińskiej komendy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/815f19e8-ae37-4a8f-bcf7-2cf80f730824.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 15 Nov 2026 10:04:00 GMT</pubDate>
-            <guid isPermaLink="false">620d3676-0ded-4da3-9e9f-57f26e14f291</guid></item><item>
             <title>Breaking Zwłoki znalezione pod Darłowem. Prokuratura przekazała najnowsze wieści</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zwloki-znalezione-pod-darlowem-prokuratura-przekazala-najnowsze-wiesci/4752qrx</link>
             <description>— Po oględzinach z bardzo dużym prawdopodobieństwem możemy stwierdzić, że jest to ciało zaginionej Emilii Koprowskiej. Zwłoki były w stanie bardzo znacznego rozkładu, ale elementy odzieży i rzeczy znalezione obok wskazują na nią — poinformowała prok. Ewa Dziadczyk z Prokuratury Okręgowej w Koszalinie.</description>
@@ -41,10 +35,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4f3d3925-871a-488a-9cf6-5f7d9c6d996a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 17 Nov 2026 09:07:00 GMT</pubDate>
             <guid isPermaLink="false">2f382f8d-5c54-41ac-9bc4-2e9f1d51462f</guid></item><item>
-            <title>Breaking Atak nożownika pod Ustką. Ranny strażak z OSP. Dramat pod osłoną nocy</title>
+            <title>Breaking Atak nożownika pod Ustką. Ranny strażak z OSP</title>
             <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/dramatyczne-sceny-w-peplinie-pod-ustka-strazak-osp-zraniony-nozem/2nxr2qh</link>
             <description>Dramatyczne sceny pod Ustką (woj. pomorskie). Strażak Ochotniczej Straży Pożarnej został zraniony nożem. Mężczyzna trafił do szpitala. &quot;Fakt&quot; ustalił, że do ataku doszło, gdy mężczyzna był na spacerze z psem. Wtedy zatrzymał się przy nim samochód. — Policjanci szczegółowo badają wszystkie okoliczności tego zdarzenia, zabezpieczane są ślady oraz ustalani są świadkowie oraz pozostali uczestnicy tego zdarzenia — mówi &quot;Faktowi&quot; st. sierż. Michał Jarząbek z policji w Słupsku.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/f34bb29d-997a-40e6-b522-57cfaf95a9f3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 17 Nov 2026 09:36:00 GMT</pubDate>
-            <guid isPermaLink="false">67a80541-bb6c-4d68-b8f3-39c8d7efa6cf</guid></item></channel>
+            <guid isPermaLink="false">67a80541-bb6c-4d68-b8f3-39c8d7efa6cf</guid></item><item>
+            <title>Breaking Nie żyje turystka zaginiona w Tatrach. TOPR przekazał tragiczne wieści. &quot;Ciało pozostawiono w górach&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/poszukiwania-w-tatrach-zakonczone-dramatem-turystka-nie-przezyla-transportu/5c9m97y</link>
+            <description>Tragiczny finał wielogodzinnej akcji TOPR w masywie Granatów. Poszukiwana turystka została odnaleziona około północy w stromym żlebie pod Granacką Przełęczą. Była żywa, ale ciężko ranna i głęboko wychłodzona. Podczas niezwykle trudnego transportu doszło do zatrzymania krążenia. Mimo resuscytacji kobiety nie udało się uratować.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 17 Nov 2026 10:19:39 GMT</pubDate>
+            <guid isPermaLink="false">6b925eb6-c80a-4fca-ad00-744da5ac7212</guid></item></channel>
             </rss>
