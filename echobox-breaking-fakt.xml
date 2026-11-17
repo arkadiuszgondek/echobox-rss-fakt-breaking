@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 16 Nov 2026 20:37:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 07:48:25 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Wielki pożar warsztatu samochodowego pod Krakowem. W akcji strażacy z całej okolicy</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/wielki-pozar-w-giebultowie-pod-krakowem-w-akcji-strazacy-z-calej-okolicy/s92dr6b</link>
-            <description>W Giebułtowie pod Krakowem wybuchł pożar warsztatu samochodowego i lakierni. — W akcji bierze udział ponad 30 zastępów straży pożarnej z całej okolicy. Ogień objął znaczną część budynku — podaje RMF24.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/d40ff367-99ae-4b84-b366-6e4ffbf81602.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sat, 14 Nov 2026 21:43:00 GMT</pubDate>
-            <guid isPermaLink="false">50c87919-294b-48f8-bdae-7eee905e8a14</guid></item><item>
             <title>Breaking W miejscu poszukiwań Emilii Koprowskiej odnaleziono ciało. Służby zwróciły uwagę na odzież</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/w-miejscu-poszukiwan-emilii-koprowskiej-odnaleziono-cialo/8kb40hc</link>
             <description>W okolicach Darłowa (woj. zachodniopomorskie) znaleziono ciało młodej kobiety. To tam od wielu tygodni trwają poszukiwania zaginionej Emilii Koprowskiej. — Osoba spacerująca z psem znalazła w lesie ciało i nas wezwała. Powiadomiliśmy policję. Pewne rzeczy wskazują na to, że to Emilia — mówi &quot;Faktowi&quot; detektyw Maja Rutkowski. Co na to policja? — Mogę potwierdzić, że znaleziono ciało. Elementy odzieży wskazują, że może ono należeć do zaginionej — przekazała mł. asp. Paulina Wiśniewska z koszalińskiej komendy.</description>
@@ -40,5 +34,11 @@
             <description>Tatrzańskie Ochotnicze Pogotowie Ratunkowe poszukuje kobiety, która zaginęła w rejonie Doliny Pańszczycy, przełęczy Krzyżne i Granatów. To niezwykle wymagający i niebezpieczny teren. Ratownicy udostępnili wizerunek turystki i pilnie apelują o informacje, które pomogą w jej odnalezieniu.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/bbeb4b4c-6226-4a9c-b4ca-2b21ec4c9f4e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 16 Nov 2026 20:37:00 GMT</pubDate>
-            <guid isPermaLink="false">197f7f4b-f933-487f-bed6-fae42d28db40</guid></item></channel>
+            <guid isPermaLink="false">197f7f4b-f933-487f-bed6-fae42d28db40</guid></item><item>
+            <title>Breaking Wojsko poderwało myśliwce. &quot;Pozostajemy gotowi do reakcji&quot; </title>
+            <link>https://www.fakt.pl/polityka/alert-w-bazach-wojskowych-poderwano-mysliwce-w-reakcji-na-ostrzal-rosji-na-ukraine/qh7vphf</link>
+            <description>Dowództwo Operacyjne RSZ poinformowało 17 listopada rano o poderwaniu myśliwców wojskowych w reakcji na zmasowany atak Rosji na Ukrainę. &quot;Działania mają charakter prewencyjny i są ukierunkowane na zabezpieczenie i ochronę polskiej przestrzeni powietrznej, zwłaszcza w rejonach przyległych do zagrożonych obszarów&quot; - dodano. Rządowe Centrum Bezpieczeństwo nie wydało tym razem alertu dla ludności cywilnej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 17 Nov 2026 07:48:25 GMT</pubDate>
+            <guid isPermaLink="false">dd34ea4e-6a30-44a8-b12b-4aae5a842063</guid></item></channel>
             </rss>
