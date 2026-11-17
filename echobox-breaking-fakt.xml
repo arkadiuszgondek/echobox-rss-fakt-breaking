@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 17 Nov 2026 09:07:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 09:36:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking W miejscu poszukiwań Emilii Koprowskiej odnaleziono ciało. Służby zwróciły uwagę na odzież</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/w-miejscu-poszukiwan-emilii-koprowskiej-odnaleziono-cialo/8kb40hc</link>
@@ -37,8 +37,14 @@
             <guid isPermaLink="false">197f7f4b-f933-487f-bed6-fae42d28db40</guid></item><item>
             <title>Breaking Zderzenie pociągów w centrum Pragi. &quot;Reagują wszystkie służby ratunkowe&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/wypadek-kolejowy-w-pradze-dziesiatki-rannych-na-wiadukcie/mkb5x9k</link>
-            <description>We wtorek rano (17 listopada) na praskim wiadukcie nad ulicą Seifertovą zderzyły się dwa pociągi pasażerskie. Służby ratunkowe natychmiast przystąpiły do segregacji i ewakuacji podróżnych. Policja początkowo informowała o około 15 rannych, jednak później podniosła wstępny bilans do kilkudziesięciu osób. &quot;Reagują wszystkie służby ratunkowe&quot; – czytamy w oficjalnym komunikacie czeskiej policji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/23ae4831-3b83-482f-ae27-dbefb9a50261.jpeg" length="0" type="image/jpeg"/>
+            <description>We wtorek rano (17 listopada) na praskim wiadukcie nad ulicą Seifertovą zderzyły się dwa pociągi pasażerskie. Służby ratunkowe natychmiast przystąpiły do segregacji i ewakuacji podróżnych. Policja początkowo informowała o około 15 rannych, jednak później podniosła wstępny bilans do kilkudziesięciu osób. Portal iDNES.cz informuje o 46 osobach poszkodowanych, w tym czterech w stanie ciężkim. &quot;Reagują wszystkie służby ratunkowe&quot; – czytamy w oficjalnym komunikacie czeskiej policji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4f3d3925-871a-488a-9cf6-5f7d9c6d996a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 17 Nov 2026 09:07:00 GMT</pubDate>
-            <guid isPermaLink="false">2f382f8d-5c54-41ac-9bc4-2e9f1d51462f</guid></item></channel>
+            <guid isPermaLink="false">2f382f8d-5c54-41ac-9bc4-2e9f1d51462f</guid></item><item>
+            <title>Breaking Atak nożownika pod Ustką. Ranny strażak z OSP. Dramat pod osłoną nocy</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/dramatyczne-sceny-w-peplinie-pod-ustka-strazak-osp-zraniony-nozem/2nxr2qh</link>
+            <description>Dramatyczne sceny pod Ustką (woj. pomorskie). Strażak Ochotniczej Straży Pożarnej został zraniony nożem. Mężczyzna trafił do szpitala. &quot;Fakt&quot; ustalił, że do ataku doszło, gdy mężczyzna był na spacerze z psem. Wtedy zatrzymał się przy nim samochód. — Policjanci szczegółowo badają wszystkie okoliczności tego zdarzenia, zabezpieczane są ślady oraz ustalani są świadkowie oraz pozostali uczestnicy tego zdarzenia — mówi &quot;Faktowi&quot; st. sierż. Michał Jarząbek z policji w Słupsku.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f34bb29d-997a-40e6-b522-57cfaf95a9f3.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 17 Nov 2026 09:36:00 GMT</pubDate>
+            <guid isPermaLink="false">67a80541-bb6c-4d68-b8f3-39c8d7efa6cf</guid></item></channel>
             </rss>
