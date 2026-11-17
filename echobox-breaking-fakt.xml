@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 17 Nov 2026 10:19:39 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 10:31:39 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Zwłoki znalezione pod Darłowem. Prokuratura przekazała najnowsze wieści</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zwloki-znalezione-pod-darlowem-prokuratura-przekazala-najnowsze-wiesci/4752qrx</link>
@@ -45,6 +45,6 @@
             <link>https://www.fakt.pl/wydarzenia/poszukiwania-w-tatrach-zakonczone-dramatem-turystka-nie-przezyla-transportu/5c9m97y</link>
             <description>Tragiczny finał wielogodzinnej akcji TOPR w masywie Granatów. Poszukiwana turystka została odnaleziona około północy w stromym żlebie pod Granacką Przełęczą. Była żywa, ale ciężko ranna i głęboko wychłodzona. Podczas niezwykle trudnego transportu doszło do zatrzymania krążenia. Mimo resuscytacji kobiety nie udało się uratować.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 10:19:39 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 10:31:39 GMT</pubDate>
             <guid isPermaLink="false">6b925eb6-c80a-4fca-ad00-744da5ac7212</guid></item></channel>
             </rss>
