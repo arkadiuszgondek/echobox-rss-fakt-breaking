@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 17 Nov 2026 13:27:15 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 17 Nov 2026 13:55:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Zwłoki znalezione pod Darłowem. Prokuratura przekazała najnowsze wieści</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/zwloki-znalezione-pod-darlowem-prokuratura-przekazala-najnowsze-wiesci/4752qrx</link>
-            <description>— Po oględzinach z bardzo dużym prawdopodobieństwem możemy stwierdzić, że jest to ciało zaginionej Emilii Koprowskiej. Zwłoki były w stanie bardzo znacznego rozkładu, ale elementy odzieży i rzeczy znalezione obok wskazują na nią — poinformowała prok. Ewa Dziadczyk z Prokuratury Okręgowej w Koszalinie.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/858ea40c-a365-480f-a394-bb03dbc20d2a.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 15 Nov 2026 13:38:25 GMT</pubDate>
-            <guid isPermaLink="false">1b81dcf6-ec11-4b28-b249-64a5ca365623</guid></item><item>
             <title>Breaking Zaginięcie Emilii Koprowskiej. Detektyw o znalezionym ciele: byłbym ostrożny</title>
             <link>https://www.fakt.pl/wydarzenia/polska/szczecin/to-moze-byc-cialo-emilii-koprowskiej-detektyw-wciaz-jest-wiele-pytan/sr4ky83</link>
             <description>W 78. dniu poszukiwań znaleziono ciało, które z dużym prawdopodobieństwem należy do zaginionej Emilii Koprowskiej. Zaskakujące jest to, że osoby, które wcześniej chodziły w pobliżu i szukały Koszalinianki, na nie wtedy nie natrafiły. Śledczy nie są pewni, że miejsce znalezienia zwłok jest równocześnie miejscem śmierci kobiety. — Ostrożnie mówiłbym w tym przypadku o samobójstwie. Jest jeszcze wiele pytań bez odpowiedzi — mówi z kolei &quot;Faktowi&quot; detektyw Maciej Szuba.</description>
@@ -62,7 +56,13 @@
             <title>Breaking Nagły zwrot w sprawie zamachowca z Krakowa. Wiadomo, co stanie się z jego ciałem</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/wiadomo-co-dalej-ze-zwlokami-michala-oksinskiego-jego-babcia-zabrala-glos/ewsrwtg</link>
             <description>Niespodziewany zwrot w sprawie pochówku 24-letniego zamachowca z Krakowa. Choć prezydent miasta zakładał już przekazanie zwłok Michała Oksińskiego do badań, sprawa przybrała inny obrót. Po ciało mężczyzny zgłosiła się bliska osoba, jednak wokół samego pogrzebu wciąż pozostaje jedna istotna niewiadoma.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/297a6ba4-768a-40c1-b429-0d1a56d691cc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 17 Nov 2026 13:27:15 GMT</pubDate>
-            <guid isPermaLink="false">14547588-104e-413e-b23f-dda82ae45f38</guid></item></channel>
+            <guid isPermaLink="false">14547588-104e-413e-b23f-dda82ae45f38</guid></item><item>
+            <title>Breaking Nawrocki dokona nominacji w rządzie. Rzecznik ujawnia termin</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-powola-nowych-ministrow-rafal-leskiewicz-podal-termin/jqegrjr</link>
+            <description>Karol Nawrocki wyznaczył termin zmian w rządzie Donalda Tuska. Rzecznik prezydenta Rafał Leśkiewicz poinformował, kiedy głowa państwa dokona zapowiadanych od kilku tygodni nominacji. Chodzi o awans Andrzeja Domańskiego na wicepremiera oraz powołanie następczyni Katarzyny Pełczyńskiej-Nałęcz. Leśkiewicz nawiązał również do głosowania nad odwołaniem Tuska, sugerując możliwość znacznie większej rekonstrukcji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 17 Nov 2026 13:55:00 GMT</pubDate>
+            <guid isPermaLink="false">932da488-e050-4967-b972-8005b58ee8a6</guid></item></channel>
             </rss>
