@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 18 Nov 2026 16:15:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 18 Nov 2026 18:58:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Pilna akcja w Tatrach. Turystka zaginęła na wyjątkowo trudnym szlaku</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/akcja-topr-w-tatrach-zaginela-kobieta-w-czerwonej-kurtce-ratownicy-apeluja-o-pomoc/rb04x0f</link>
@@ -86,7 +86,13 @@
             <title>Breaking Jest decyzja TK w sprawie Święczkowskiego i Sochańskiego. Wiadomo, co z aresztem </title>
             <link>https://www.fakt.pl/polityka/tk-uchylil-immunitety-bogdana-swieczkowskiego-i-sochanskiego-bez-aresztu/gc3r60y</link>
             <description>Zapadły ważne decyzje w sprawie Bogdana Święczkowskiego i Bartłomieja Sochańskiego. Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego rozpatrzyło wnioski prokuratora generalnego Waldemara Żurka. W środę (18 listopada) opublikowano długo oczekiwany komunikat dotyczący przyszłości obu sędziów. Część wniosków prokuratury została uwzględniona, jednak jedno z najdalej idących żądań spotkało się z odmową.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a082dd8f-7a32-4db2-8f39-fa223821667d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 18 Nov 2026 16:15:00 GMT</pubDate>
-            <guid isPermaLink="false">fb3dc8c7-6843-4ef9-9cd1-1322759f9d9f</guid></item></channel>
+            <guid isPermaLink="false">fb3dc8c7-6843-4ef9-9cd1-1322759f9d9f</guid></item><item>
+            <title>Breaking Zaniepokojeni bliscy powiadomili policję. Trwają pilne poszukiwania dziewcząt</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/zaginely-iwona-czyszczon-i-amelia-tylka-pilne-poszukiwania-policji-z-zakopanego/fhsspjz</link>
+            <description>Tatrzańscy policjanci wydali w środę 18 listopada pilny komunikat w sprawie zaginięcia dwóch nastolatek. 14-letnia Iwona Czyszczoń oraz 15-letnia Amelia Tylka wyszły rano z domów na lekcje, ale nigdy tam nie dotarły. Funkcjonariusze wskazują konkretny obszar, gdzie mogą obecnie przebywać dziewczęta.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3e42a8e3-520d-423d-9b56-a5abee216c64.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 18 Nov 2026 18:58:00 GMT</pubDate>
+            <guid isPermaLink="false">c76fff7a-1473-451d-9132-7d7fee457fe9</guid></item></channel>
             </rss>
