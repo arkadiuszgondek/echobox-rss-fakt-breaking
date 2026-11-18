@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 18 Nov 2026 14:22:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 18 Nov 2026 15:35:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Pilna akcja w Tatrach. Turystka zaginęła na wyjątkowo trudnym szlaku</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/akcja-topr-w-tatrach-zaginela-kobieta-w-czerwonej-kurtce-ratownicy-apeluja-o-pomoc/rb04x0f</link>
@@ -76,5 +76,11 @@
             <description>Mieszkańcy Warszawy oraz okolicznych miejscowości mogą dziś (18 listopada) po południu zauważyć na niebie nietypowe, jasne punkty świetlne. Ministerstwo Obrony Narodowej oraz Rządowe Centrum Bezpieczeństwa wydały specjalne komunikaty, w których wyjaśniają dokładny powód tego zjawiska.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/a7e298e3-d777-46a8-be08-ec387062fbdf.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 18 Nov 2026 14:22:00 GMT</pubDate>
-            <guid isPermaLink="false">fdf16ef3-6a1b-4477-a434-1ef43e4c0a08</guid></item></channel>
+            <guid isPermaLink="false">fdf16ef3-6a1b-4477-a434-1ef43e4c0a08</guid></item><item>
+            <title>Breaking Prezydent podpisał ustawę, którą wcześniej odrzucił. Jest także nowe weto</title>
+            <link>https://www.fakt.pl/polityka/karol-nawrocki-zawetowal-ustawe-o-vat-trzy-inne-podpisal/2xdnqhj</link>
+            <description>Karol Nawrocki podjął decyzję w sprawie kolejnych czterech ustaw, które trafiły na jego biurko. Trzy dokumenty uzyskały podpis prezydenta, jednak jeden spotkał się z odmową. Wszystkie dotyczą podatków, a część proponowanych rozwiązań może wpłynąć na ceny produktów i sytuację finansową Polaków.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 18 Nov 2026 15:35:00 GMT</pubDate>
+            <guid isPermaLink="false">14af44cc-7978-46e2-902a-7f00a04d2dc4</guid></item></channel>
             </rss>
