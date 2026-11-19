@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 19 Nov 2026 11:12:03 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 19 Nov 2026 12:27:33 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Kolejne problemy Brauna. Jest akt oskarżenia. &quot;Zarzuty pozbawienia wolności&quot;</title>
-            <link>https://www.fakt.pl/polityka/wtargniecie-grzegorza-brauna-do-szpitala-w-olesnicy-nowy-ruch-sledczych/g8j3694</link>
-            <description>Prokuratura skierowała 17 listopada do Sądu Rejonowego w Oleśnicy akt oskarżenia przeciwko liderowi Konfederacji Korony Polskiej, europosłowi Grzegorzowi Braunowi. Jest jednym z siedmiu oskarżonych w sprawie wydarzeń w oleśnickim szpitalu z 2025 r., którzy wtargnęli do placówki i próbowali uniemożliwić pracę ginekolożce.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/NzI7MDA_/415481e7-117c-4e59-b384-a0f54c4c0722.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 11:52:02 GMT</pubDate>
-            <guid isPermaLink="false">0df72f23-1370-4e05-b3f2-1d0aaa66ca07</guid></item><item>
-            <title>Breaking Berkowicz nazwał Dobrosz-Oracz &quot;kurtyzaną&quot;. Jest kara </title>
-            <link>https://www.fakt.pl/polityka/konrad-berkowicz-nazwal-justyne-dobrosz-oracz-kurtyzana-zostal-ukarany/p2zhrzf</link>
-            <description>Sejmowa komisja etyki zajęła się dziś sprawą kilku posłów. — Konrad Berkowicz został ukarany. Jednogłośnie kara nagany — przekazała &quot;Faktowi&quot; wiceszefowa komisji Katarzyna Ueberhan. Ukarany został również Sławomir Mentzen.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/0ad2e728-2025-45ce-aa73-eb52ae687931.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 11:55:08 GMT</pubDate>
-            <guid isPermaLink="false">13aa27e9-7d0c-4909-9403-722ef2308d7a</guid></item><item>
             <title>Breaking Nagły zwrot w sprawie zamachowca z Krakowa. Wiadomo, co stanie się z jego ciałem</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/wiadomo-co-dalej-ze-zwlokami-michala-oksinskiego-jego-babcia-zabrala-glos/ewsrwtg</link>
             <description>Niespodziewany zwrot w sprawie pochówku 24-letniego zamachowca z Krakowa. Choć prezydent miasta zakładał już przekazanie zwłok Michała Oksińskiego do badań, sprawa przybrała inny obrót. Po ciało mężczyzny zgłosiła się bliska osoba, jednak wokół samego pogrzebu wciąż pozostaje jedna istotna niewiadoma.</description>
@@ -74,7 +62,13 @@
             <title>Breaking &quot;Deklaracja pokoju&quot; po spotkaniu USA-Rosja-Chiny. Ma cztery punkty</title>
             <link>https://www.fakt.pl/polityka/usa-rosja-i-chiny-podpisaly-deklaracje-pokoju-cztery-punkty/tzw87kk</link>
             <description>Donald Trump, Władimir Putin i Xi Jinping podczas spotkania w chińskim Shenzhen podpisali &quot;deklarację pokoju&quot;. &quot;Przywódcy państw potwierdzili, że wojny nuklearnej nie da się wygrać i nie wolno jej toczyć&quot; — czytamy w czteropunktowym porozumieniu. W dokumencie podjęto też temat międzynarodowych organizacji i zobowiązano się do stabilnego przepływu energii.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/78a60647-fe05-4c73-aaba-da3b62f3b453.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 19 Nov 2026 11:12:03 GMT</pubDate>
-            <guid isPermaLink="false">bbc53acf-2a2f-43d4-9f4f-0757f2171043</guid></item></channel>
+            <guid isPermaLink="false">bbc53acf-2a2f-43d4-9f4f-0757f2171043</guid></item><item>
+            <title>Breaking Prawie 80 tys. zł miesięcznie dla lekarza. Sejm zdecydował o nowych limitach</title>
+            <link>https://www.fakt.pl/pieniadze/dwa-etaty-i-prawie-80-tys-zl-pensji-sejm-przyjal-nowe-zasady-dla-lekarzy/2f70x36</link>
+            <description>Sejm przyjął senackie poprawki do ustawy regulującej wynagrodzenia i czas pracy lekarzy. Oznacza to usunięcie z projektu między innymi przepisów przewidujących zakaz pracy w ramach Narodowego Funduszu Zdrowia dla medyków poświadczających nieprawdę. Nowe regulacje określają natomiast maksymalny wymiar pracy oraz wysokość stawek, jakie będą mogli otrzymywać lekarze.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/bb7fc3c2-7cb9-41a6-be0a-18b95e43dfa7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 19 Nov 2026 12:27:33 GMT</pubDate>
+            <guid isPermaLink="false">ecd4ed90-e915-42ad-9ee7-243d359c5d13</guid></item></channel>
             </rss>
