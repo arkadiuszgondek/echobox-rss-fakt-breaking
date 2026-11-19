@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 19 Nov 2026 09:31:17 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 19 Nov 2026 11:12:03 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nie żyje turystka zaginiona w Tatrach. TOPR przekazał tragiczne wieści. &quot;Ciało pozostawiono w górach&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/poszukiwania-w-tatrach-zakonczone-dramatem-turystka-nie-przezyla-transportu/5c9m97y</link>
-            <description>Tragiczny finał wielogodzinnej akcji TOPR w masywie Granatów. Poszukiwana turystka została odnaleziona około północy w stromym żlebie pod Granacką Przełęczą. Była żywa, ale ciężko ranna i głęboko wychłodzona. Podczas niezwykle trudnego transportu doszło do zatrzymania krążenia. Mimo resuscytacji kobiety nie udało się uratować.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/OWE7MDA_/c4e7ba4d-26a7-41f2-8791-aa6570907ce6.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 10:51:39 GMT</pubDate>
-            <guid isPermaLink="false">6b925eb6-c80a-4fca-ad00-744da5ac7212</guid></item><item>
             <title>Breaking Kolejne problemy Brauna. Jest akt oskarżenia. &quot;Zarzuty pozbawienia wolności&quot;</title>
             <link>https://www.fakt.pl/polityka/wtargniecie-grzegorza-brauna-do-szpitala-w-olesnicy-nowy-ruch-sledczych/g8j3694</link>
             <description>Prokuratura skierowała 17 listopada do Sądu Rejonowego w Oleśnicy akt oskarżenia przeciwko liderowi Konfederacji Korony Polskiej, europosłowi Grzegorzowi Braunowi. Jest jednym z siedmiu oskarżonych w sprawie wydarzeń w oleśnickim szpitalu z 2025 r., którzy wtargnęli do placówki i próbowali uniemożliwić pracę ginekolożce.</description>
@@ -68,7 +62,7 @@
             <title>Breaking Komendant Straży Miejskiej z Kłodzka zatrzymany. Prokurator: czynności trwają</title>
             <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/komendant-strazy-miejskiej-w-klodzku-wyprowadzony-w-kajdankach-trwaja-czynnosci/50lxywb</link>
             <description>W czwartkowy poranek, 19 listopada, około godz. 6.00, Michał Tułacz, komendant Straży Miejskiej w Kłodzku (woj. dolnośląskie), został zatrzymany przez policję. Informację tę potwierdził &quot;Faktowi&quot; Mariusz Pindera, rzecznik Prokuratury Okręgowej w Świdnicy, która prowadzi postępowanie w tej sprawie.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/21676c6d-59ab-4406-8b29-5461493a7156.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f053bc0d-1ff7-4b6f-9208-abb88cd803ab.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 19 Nov 2026 08:22:28 GMT</pubDate>
             <guid isPermaLink="false">d748594f-2cba-46ea-8ed3-b879e49110ef</guid></item><item>
             <title>Breaking Sikorski w nocy opublikował zdjęcie. Tak dogryzł Nawrockiemu</title>
@@ -76,5 +70,11 @@
             <description>Radosław Sikorski wykorzystał premierę popularnej gry wideo do krytyki Karola Nawrockiego. O północy opublikował zdjęcie z padem, pod którym umieścił uszczypliwy podpis. Szef MSZ nawiązał do sporu o ambasadorów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/410df4bd-2d83-4c53-85be-f948edf9baae.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 19 Nov 2026 09:31:17 GMT</pubDate>
-            <guid isPermaLink="false">3005b2ac-2d32-4bbe-a99b-e0bde769c3a5</guid></item></channel>
+            <guid isPermaLink="false">3005b2ac-2d32-4bbe-a99b-e0bde769c3a5</guid></item><item>
+            <title>Breaking &quot;Deklaracja pokoju&quot; po spotkaniu USA-Rosja-Chiny. Ma cztery punkty</title>
+            <link>https://www.fakt.pl/polityka/usa-rosja-i-chiny-podpisaly-deklaracje-pokoju-cztery-punkty/tzw87kk</link>
+            <description>Donald Trump, Władimir Putin i Xi Jinping podczas spotkania w chińskim Shenzhen podpisali &quot;deklarację pokoju&quot;. &quot;Przywódcy państw potwierdzili, że wojny nuklearnej nie da się wygrać i nie wolno jej toczyć&quot; — czytamy w czteropunktowym porozumieniu. W dokumencie podjęto też temat międzynarodowych organizacji i zobowiązano się do stabilnego przepływu energii.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 19 Nov 2026 11:12:03 GMT</pubDate>
+            <guid isPermaLink="false">bbc53acf-2a2f-43d4-9f4f-0757f2171043</guid></item></channel>
             </rss>
