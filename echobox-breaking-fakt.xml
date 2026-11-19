@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 19 Nov 2026 13:55:49 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 19 Nov 2026 15:42:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Sejm zdecydował nad losem Donalda Tuska. Wielka mobilizacja obydwu stron </title>
             <link>https://www.fakt.pl/polityka/sejm-odrzucil-wotum-nieufnosci-wobec-donalda-tuska-znamy-wyniki/r7b5h58</link>
@@ -64,5 +64,11 @@
             <description>Komendantowi Straży Miejskiej w Kłodzku, Michałowi T., przedstawiono 20 zarzutów — informuje prok. Mariusz Pindera, dotyczą one m.in. przekroczenia uprawnień przez funkcjonariusza publicznego, działania na szkodę interesu prywatnego oraz ujawnienia informacji uzyskanych w związku z pełnioną funkcją. — Zarzuty w większości są związane z filmami, które pojawiły się w sieci — słyszymy od rozmówcy &quot;Faktu&quot;. Michał T. nie przyznaje się do winy.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e643ae1b-3ee5-4cc1-b388-b806ae547f91.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 19 Nov 2026 13:55:49 GMT</pubDate>
-            <guid isPermaLink="false">8d8a0dc4-2aad-4b24-b20d-3a9891d3fb40</guid></item></channel>
+            <guid isPermaLink="false">8d8a0dc4-2aad-4b24-b20d-3a9891d3fb40</guid></item><item>
+            <title>Breaking Niezidentyfikowana przesyłka na poczcie w Tucholi. W akcji chemicy. &quot;Ewakuowano 17 osób&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/niezidentyfikowana-przesylka-na-poczcie-w-tucholi-na-miejscu-chemicy/q2vwhpl</link>
+            <description>Niepokojące informacje z Tucholi (woj. kujawsko-pomorskie). W Urzędzie Pocztowym przy ul. Świeckiej 25 znaleziono niezidentyfikowana przesyłkę. Paczka zaniepokoiła jednego z pracowników. Na miejsce wezwano liczne służby. Są tam strażacy z całej okolicy, m.in. grupy chemiczne z Bydgoszczy i Torunia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 19 Nov 2026 15:42:00 GMT</pubDate>
+            <guid isPermaLink="false">82b50be6-f6ad-4de9-a954-a1f6af028939</guid></item></channel>
             </rss>
