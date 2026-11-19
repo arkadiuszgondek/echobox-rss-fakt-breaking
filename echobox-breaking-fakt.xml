@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 19 Nov 2026 12:27:33 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 19 Nov 2026 13:55:49 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nagły zwrot w sprawie zamachowca z Krakowa. Wiadomo, co stanie się z jego ciałem</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/wiadomo-co-dalej-ze-zwlokami-michala-oksinskiego-jego-babcia-zabrala-glos/ewsrwtg</link>
-            <description>Niespodziewany zwrot w sprawie pochówku 24-letniego zamachowca z Krakowa. Choć prezydent miasta zakładał już przekazanie zwłok Michała Oksińskiego do badań, sprawa przybrała inny obrót. Po ciało mężczyzny zgłosiła się bliska osoba, jednak wokół samego pogrzebu wciąż pozostaje jedna istotna niewiadoma.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/297a6ba4-768a-40c1-b429-0d1a56d691cc.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 13:27:15 GMT</pubDate>
-            <guid isPermaLink="false">14547588-104e-413e-b23f-dda82ae45f38</guid></item><item>
-            <title>Breaking Nawrocki dokona nominacji w rządzie. Rzecznik ujawnia termin</title>
-            <link>https://www.fakt.pl/polityka/karol-nawrocki-powola-nowych-ministrow-rafal-leskiewicz-podal-termin/jqegrjr</link>
-            <description>Karol Nawrocki wyznaczył termin zmian w rządzie Donalda Tuska. Rzecznik prezydenta Rafał Leśkiewicz poinformował, kiedy głowa państwa dokona zapowiadanych od kilku tygodni nominacji. Chodzi o awans Andrzeja Domańskiego na wicepremiera oraz powołanie następczyni Katarzyny Pełczyńskiej-Nałęcz. Leśkiewicz nawiązał również do głosowania nad odwołaniem Tuska, sugerując możliwość znacznie większej rekonstrukcji.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/e7fcbc74-502a-4ecf-865a-652e3db984f1.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 17 Nov 2026 13:55:00 GMT</pubDate>
-            <guid isPermaLink="false">932da488-e050-4967-b972-8005b58ee8a6</guid></item><item>
             <title>Breaking Sejm zdecydował nad losem Donalda Tuska. Wielka mobilizacja obydwu stron </title>
             <link>https://www.fakt.pl/polityka/sejm-odrzucil-wotum-nieufnosci-wobec-donalda-tuska-znamy-wyniki/r7b5h58</link>
             <description>Polityczne emocje w Sejmie sięgnęły zenitu. Posłowie zdecydowali o losach rządu Donalda Tuska, rozpatrując wniosek o konstruktywne wotum nieufności złożony przez ugrupowanie Mateusza Morawieckiego. Były premier chciał odwołania obecnego gabinetu i zastąpienia Tuska Markiem Jurkiem. Głosowanie poprzedziła burzliwa debata, podczas której nie zabrakło ostrych słów pod adresem szefa rządu.</description>
@@ -70,5 +58,11 @@
             <description>Sejm przyjął senackie poprawki do ustawy regulującej wynagrodzenia i czas pracy lekarzy. Oznacza to usunięcie z projektu między innymi przepisów przewidujących zakaz pracy w ramach Narodowego Funduszu Zdrowia dla medyków poświadczających nieprawdę. Nowe regulacje określają natomiast maksymalny wymiar pracy oraz wysokość stawek, jakie będą mogli otrzymywać lekarze.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/bb7fc3c2-7cb9-41a6-be0a-18b95e43dfa7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 19 Nov 2026 12:27:33 GMT</pubDate>
-            <guid isPermaLink="false">ecd4ed90-e915-42ad-9ee7-243d359c5d13</guid></item></channel>
+            <guid isPermaLink="false">ecd4ed90-e915-42ad-9ee7-243d359c5d13</guid></item><item>
+            <title>Breaking 20 zarzutów dla komendanta Straży Miejskiej w Kłodzku. Pogrążyły go nagrania w sieci </title>
+            <link>https://www.fakt.pl/wydarzenia/komendant-strazy-miejskiej-w-klodzku-z-20-zarzutami-prokuratura-ujawnia-szczegoly/7pg3tm4</link>
+            <description>Komendantowi Straży Miejskiej w Kłodzku, Michałowi T., przedstawiono 20 zarzutów — informuje prok. Mariusz Pindera, dotyczą one m.in. przekroczenia uprawnień przez funkcjonariusza publicznego, działania na szkodę interesu prywatnego oraz ujawnienia informacji uzyskanych w związku z pełnioną funkcją. — Zarzuty w większości są związane z filmami, które pojawiły się w sieci — słyszymy od rozmówcy &quot;Faktu&quot;. Michał T. nie przyznaje się do winy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e643ae1b-3ee5-4cc1-b388-b806ae547f91.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 19 Nov 2026 13:55:49 GMT</pubDate>
+            <guid isPermaLink="false">8d8a0dc4-2aad-4b24-b20d-3a9891d3fb40</guid></item></channel>
             </rss>
