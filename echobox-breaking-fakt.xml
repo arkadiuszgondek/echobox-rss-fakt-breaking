@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 18 Nov 2026 18:58:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 19 Nov 2026 08:22:28 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Pilna akcja w Tatrach. Turystka zaginęła na wyjątkowo trudnym szlaku</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/akcja-topr-w-tatrach-zaginela-kobieta-w-czerwonej-kurtce-ratownicy-apeluja-o-pomoc/rb04x0f</link>
-            <description>Tatrzańskie Ochotnicze Pogotowie Ratunkowe poszukuje kobiety, która zaginęła w rejonie Doliny Pańszczycy, przełęczy Krzyżne i Granatów. To niezwykle wymagający i niebezpieczny teren. Ratownicy udostępnili wizerunek turystki i pilnie apelują o informacje, które pomogą w jej odnalezieniu.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/ZDg7MDA_/2956d276-c00d-4832-bdf0-679704b0be9c.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 16 Nov 2026 20:37:00 GMT</pubDate>
-            <guid isPermaLink="false">197f7f4b-f933-487f-bed6-fae42d28db40</guid></item><item>
             <title>Breaking Zderzenie pociągów w centrum Pragi. &quot;Reagują wszystkie służby ratunkowe&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/swiat/wypadek-kolejowy-w-pradze-dziesiatki-rannych-na-wiadukcie/mkb5x9k</link>
             <description>We wtorek rano (17 listopada) na praskim wiadukcie nad ulicą Seifertovą zderzyły się dwa pociągi pasażerskie. Służby ratunkowe natychmiast przystąpiły do segregacji i ewakuacji podróżnych. Policja początkowo informowała o około 15 rannych, jednak później podniosła wstępny bilans do kilkudziesięciu osób. Portal iDNES.cz informuje o 46 osobach poszkodowanych, w tym czterech w stanie ciężkim. &quot;Reagują wszystkie służby ratunkowe&quot; – czytamy w oficjalnym komunikacie czeskiej policji.</description>
@@ -89,10 +83,10 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/a082dd8f-7a32-4db2-8f39-fa223821667d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 18 Nov 2026 16:15:00 GMT</pubDate>
             <guid isPermaLink="false">fb3dc8c7-6843-4ef9-9cd1-1322759f9d9f</guid></item><item>
-            <title>Breaking Zaniepokojeni bliscy powiadomili policję. Trwają pilne poszukiwania dziewcząt</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/zaginely-iwona-czyszczon-i-amelia-tylka-pilne-poszukiwania-policji-z-zakopanego/fhsspjz</link>
-            <description>Tatrzańscy policjanci wydali w środę 18 listopada pilny komunikat w sprawie zaginięcia dwóch nastolatek. 14-letnia Iwona Czyszczoń oraz 15-letnia Amelia Tylka wyszły rano z domów na lekcje, ale nigdy tam nie dotarły. Funkcjonariusze wskazują konkretny obszar, gdzie mogą obecnie przebywać dziewczęta.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3e42a8e3-520d-423d-9b56-a5abee216c64.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 18 Nov 2026 18:58:00 GMT</pubDate>
-            <guid isPermaLink="false">c76fff7a-1473-451d-9132-7d7fee457fe9</guid></item></channel>
+            <title>Breaking Komendant Straży Miejskiej z Kłodzka zatrzymany. Prokurator &quot;czynności trwają&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/komendant-strazy-miejskiej-w-klodzku-wyprowadzony-w-kajdankach-trwaja-czynnosci/50lxywb</link>
+            <description>W czwartkowy poranek, 19 listopada, około godz. 6.00, Michał Tułacz, komendant Straży Miejskiej w Kłodzku (woj. dolnośląskie), został zatrzymany przez policję. Informację tę potwierdził &quot;Faktowi&quot; Mariusz Pindera, rzecznik Prokuratury Okręgowej w Świdnicy, która prowadzi postępowanie w tej sprawie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/e954bc93-5664-410d-abb7-e5f9c8938290.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 19 Nov 2026 08:22:28 GMT</pubDate>
+            <guid isPermaLink="false">d748594f-2cba-46ea-8ed3-b879e49110ef</guid></item></channel>
             </rss>
