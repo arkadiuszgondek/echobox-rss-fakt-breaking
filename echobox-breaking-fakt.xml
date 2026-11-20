@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 20 Nov 2026 06:29:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 20 Nov 2026 07:28:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Prezydent podpisał ustawę, którą wcześniej odrzucił. Jest także nowe weto</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zawetowal-ustawe-o-vat-trzy-inne-podpisal/2xdnqhj</link>
@@ -55,14 +55,20 @@
             <guid isPermaLink="false">82b50be6-f6ad-4de9-a954-a1f6af028939</guid></item><item>
             <title>Breaking &quot;Uwaga! Zagrożenie atakiem z powietrza&quot;. Pilny alert RCB w Polsce</title>
             <link>https://www.fakt.pl/bezpieczenstwo/uwaga-zagrozenie-atakiem-z-powietrza-pilny-alert-rcb-w-polsce/h9j2vnn</link>
-            <description>Podejrzenie naruszenia polskiej przestrzeni powietrznej przez niezidentyfikowane obiekty – przekazało DORSZ. Na Podkarpaciu wyją syreny, rozszerzono alert RCB, a rodzice dostali pilny apel, by nie odbierać dzieci ze szkół. Wszystko po nocnym ataku Rosji na broniącą się Ukrainę.</description>
+            <description>Podejrzenie naruszenia polskiej przestrzeni powietrznej przez niezidentyfikowane obiekty – przekazało DORSZ. Na Podkarpaciu wyją syreny, rozszerzono alert RCB, a rodzice dostali pilny apel, by nie odbierać dzieci ze szkół. Wszystko po nocnym ataku Rosji na broniącą się Ukrainę. Po godz. 7.30 Rządowe Centrum Bezpieczeństwa odwołało alert.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/820de798-0a3f-4eb8-b6d7-815ede3280b9.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 05:40:00 GMT</pubDate>
             <guid isPermaLink="false">8a86bfb5-ef0a-41ae-b630-3522f71e579a</guid></item><item>
-            <title>Breaking &quot;Wysłaliśmy ludzi do pow. biłgorajskiego&quot;. Pilne informacje rzecznika DORSZ</title>
+            <title>Breaking Naruszenie polskiej przestrzeni powietrznej. &quot;Obiekt płonie&quot;. Służby działają w Nowym Lipowcu</title>
             <link>https://www.fakt.pl/bezpieczenstwo/chmielek-wojsko-wyslalo-ludzi-dorsz-dwa-mozliwe-naruszenia-przestrzeni-rp/npw2mcy</link>
-            <description>Ok. godz. 6.30 wojsko dostało sygnał od mieszkańców, że 45 km od granicy – w okolicach Chmielek – mogło coś spaść. Rzecznik DORSZ przekazał, że doszło do dwóch możliwych naruszeń polskiej przestrzeni, a w teren ruszyły służby. To efekt ataku Rosji na broniącą się Ukrainę.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Jeden obiekt spadł w miejscowości Nowy Lipowiec w gminie Księżpol (woj. lubelskie) – potwierdził Dariusz Działo z wydziału bezpieczeństwa i zarządzania kryzysowego w Lublinie. Teren został wygrodzony, a na miejscu działają służby. To pokłosie zmasowanego ataku rosyjskiego agresora na broniącą się Ukrainę.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/971f86d3-f736-4b53-8b1e-2fbb626a55be.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 06:29:00 GMT</pubDate>
-            <guid isPermaLink="false">79b62f95-3d65-4a4c-9db8-9af72d5829ae</guid></item></channel>
+            <guid isPermaLink="false">79b62f95-3d65-4a4c-9db8-9af72d5829ae</guid></item><item>
+            <title>Breaking Ewakuacja wieży kontroli lotów w Rzeszowie. &quot;Zagrożenie atakiem powietrznym&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/rzeszow/ewakuacja-wiezy-kontroli-lotow-na-lotnisku-w-rzeszowie-po-raz-pierwszy-w-historii/fe2lktr</link>
+            <description>Po raz pierwszy w historii ewakuowano wieżę kontroli lotów na lotnisku w Rzeszowie. Powodem była groźba ataku z powietrza na polską przestrzeń powietrzną. Personel operacyjny musiał opuścić stanowiska i przejść do schronu.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/OGI7MDA_/51483126-2485-4983-9cf1-8c0dba7c6f0f.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 20 Nov 2026 07:28:00 GMT</pubDate>
+            <guid isPermaLink="false">554102cd-f5e3-4a3f-b5cc-1841de7d449d</guid></item></channel>
             </rss>
