@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 20 Nov 2026 07:28:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 20 Nov 2026 08:31:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Prezydent podpisał ustawę, którą wcześniej odrzucił. Jest także nowe weto</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zawetowal-ustawe-o-vat-trzy-inne-podpisal/2xdnqhj</link>
@@ -62,7 +62,7 @@
             <title>Breaking Naruszenie polskiej przestrzeni powietrznej. &quot;Obiekt płonie&quot;. Służby działają w Nowym Lipowcu</title>
             <link>https://www.fakt.pl/bezpieczenstwo/chmielek-wojsko-wyslalo-ludzi-dorsz-dwa-mozliwe-naruszenia-przestrzeni-rp/npw2mcy</link>
             <description>Jeden obiekt spadł w miejscowości Nowy Lipowiec w gminie Księżpol (woj. lubelskie) – potwierdził Dariusz Działo z wydziału bezpieczeństwa i zarządzania kryzysowego w Lublinie. Teren został wygrodzony, a na miejscu działają służby. To pokłosie zmasowanego ataku rosyjskiego agresora na broniącą się Ukrainę.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/971f86d3-f736-4b53-8b1e-2fbb626a55be.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/d89354ae-84e1-4672-b86d-de4ffbddd7bf.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 06:29:00 GMT</pubDate>
             <guid isPermaLink="false">79b62f95-3d65-4a4c-9db8-9af72d5829ae</guid></item><item>
             <title>Breaking Ewakuacja wieży kontroli lotów w Rzeszowie. &quot;Zagrożenie atakiem powietrznym&quot;</title>
@@ -70,5 +70,17 @@
             <description>Po raz pierwszy w historii ewakuowano wieżę kontroli lotów na lotnisku w Rzeszowie. Powodem była groźba ataku z powietrza na polską przestrzeń powietrzną. Personel operacyjny musiał opuścić stanowiska i przejść do schronu.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/OGI7MDA_/51483126-2485-4983-9cf1-8c0dba7c6f0f.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 07:28:00 GMT</pubDate>
-            <guid isPermaLink="false">554102cd-f5e3-4a3f-b5cc-1841de7d449d</guid></item></channel>
+            <guid isPermaLink="false">554102cd-f5e3-4a3f-b5cc-1841de7d449d</guid></item><item>
+            <title>Breaking Podniesiono gotowość Systemu Obrony Powietrznej RP. Oczekuj dalszych komunikatów</title>
+            <link>https://www.fakt.pl/bezpieczenstwo/pilny-alert-rcb-dla-dwoch-wojewodztw-podniesiono-gotowosc-obrony-rp/fjt02mn</link>
+            <description>Rządowe Centrum Bezpieczeństwa rozesłało pilny alert SMS do mieszkańców województw podkarpackiego i lubelskiego. Powodem jest kolejny rosyjski atak powietrzny wymierzony w broniącą się Ukrainę. Polskie służby o godz. 9.02, 20 listopada ponownie podniosły gotowość Systemu Obrony Powietrznej RP i przekazały ważny komunikat.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 20 Nov 2026 08:08:00 GMT</pubDate>
+            <guid isPermaLink="false">8f132929-a9e3-4b10-90c8-1d4d4ee67ac2</guid></item><item>
+            <title>Breaking Perfidny napad na jubilera w Ostrowie Wlkp. Trwa obława za sprawcami</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/poznan/napad-na-jubilera-w-ostrowie-wlkp-sprawcy-wjechali-do-galerii-autem/b625djz</link>
+            <description>Staranowali samochodem drzwi wejściowe do galerii handlowej, następnie napadli na salon jubilerski i okradli go. W Ostrowie Wielkopolskim rozegrały się sceny niczym z filmów akcji. Trwa obława za sprawcami. — Na ten moment wartość skradzionego mienia jest nieznana — mówi &quot;Faktowi&quot; Ewa Golińska-Jurasz, rzeczniczka prasowa policji w Ostrowie Wlkp.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/04e9b2dc-d417-48c5-8526-bc186c590257.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 20 Nov 2026 08:31:00 GMT</pubDate>
+            <guid isPermaLink="false">b8b448bc-e39f-455f-9006-1f052575380e</guid></item></channel>
             </rss>
