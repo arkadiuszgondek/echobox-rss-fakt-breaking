@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 20 Nov 2026 09:34:26 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 20 Nov 2026 09:59:41 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Prezydent podpisał ustawę, którą wcześniej odrzucił. Jest także nowe weto</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zawetowal-ustawe-o-vat-trzy-inne-podpisal/2xdnqhj</link>
@@ -62,7 +62,7 @@
             <title>Breaking Naruszenie polskiej przestrzeni powietrznej. &quot;Obiekt płonie&quot;. Służby działają w Nowym Lipowcu</title>
             <link>https://www.fakt.pl/bezpieczenstwo/chmielek-wojsko-wyslalo-ludzi-dorsz-dwa-mozliwe-naruszenia-przestrzeni-rp/npw2mcy</link>
             <description>Jeden obiekt spadł w miejscowości Nowy Lipowiec w gminie Księżpol (woj. lubelskie) – potwierdził Dariusz Działo z wydziału bezpieczeństwa i zarządzania kryzysowego w Lublinie. Teren został wygrodzony, a na miejscu działają służby. To pokłosie zmasowanego ataku rosyjskiego agresora na broniącą się Ukrainę.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/647fd6be-56b3-4b00-ae04-24add8cc110a.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b7bed21e-03de-4ea3-bccc-a77b1523fbb7.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 06:29:00 GMT</pubDate>
             <guid isPermaLink="false">79b62f95-3d65-4a4c-9db8-9af72d5829ae</guid></item><item>
             <title>Breaking Ewakuacja wieży kontroli lotów w Rzeszowie. &quot;Zagrożenie atakiem powietrznym&quot;</title>
@@ -85,8 +85,14 @@
             <guid isPermaLink="false">b8b448bc-e39f-455f-9006-1f052575380e</guid></item><item>
             <title>Breaking Wybuch w Nowym Lipowcu. Wojsko wskazuje na Rosję</title>
             <link>https://www.fakt.pl/wydarzenia/wybuch-w-nowym-lipowcu-dron-albo-rakieta-ch-101/gcj4svd</link>
-            <description>- Obiekt, który spadł w Nowym Lipowcu, to może być rakieta manewrująca Ch-101 albo dron odrzutowy - przekazał 20 listopada rzecznik Dowództwa Operacyjnego RSZ w rozmowie z PAP.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>— Obiekt, który spadł w Nowym Lipowcu, to może być rakieta manewrująca Ch-101 albo dron odrzutowy — przekazał 20 listopada rzecznik Dowództwa Operacyjnego RSZ w rozmowie z PAP. Z kolei minister spraw wewnętrznych Marcin Kierwiński potwierdził, że służby prowadzą czynności w trzech lokalizacjach po naruszeniu polskiego nieba.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5da1226f-f04d-4ac8-8ebd-80a2e3eb71bb.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 09:34:26 GMT</pubDate>
-            <guid isPermaLink="false">8f022964-91c5-4efe-bf21-b0ba041d1a93</guid></item></channel>
+            <guid isPermaLink="false">8f022964-91c5-4efe-bf21-b0ba041d1a93</guid></item><item>
+            <title>Breaking Minister obrony po naradzie: w dwóch przypadkach spadła rakieta, a jednym dron</title>
+            <link>https://www.fakt.pl/bezpieczenstwo/rosyjskie-rakiety-i-drony-wlecialy-do-polski-wladyslaw-kosiniak-kamysz-podal-nowe/5elpdl7</link>
+            <description>- Doszło do naruszenia polskiej przestrzeni i wtargnięcia obiektów Federacji Rosyjskiej, atakującej w tym wypadku również Rzeczpospolitą Polską poprzez Ukrainę - potwierdził minister obrony Władysław Kosiniak-Kamysz. Dodał, że w dwóch przypadkach były to prawdopodobnie pociski manewrujące Ch-101, a w jednym dron odrzutowy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 20 Nov 2026 09:59:41 GMT</pubDate>
+            <guid isPermaLink="false">2c2763b2-b773-47f7-89b0-f8feef325de0</guid></item></channel>
             </rss>
