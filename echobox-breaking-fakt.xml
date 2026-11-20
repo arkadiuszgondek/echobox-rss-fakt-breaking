@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 20 Nov 2026 11:30:14 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 20 Nov 2026 13:34:11 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Prezydent podpisał ustawę, którą wcześniej odrzucił. Jest także nowe weto</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-zawetowal-ustawe-o-vat-trzy-inne-podpisal/2xdnqhj</link>
@@ -97,8 +97,14 @@
             <guid isPermaLink="false">2c2763b2-b773-47f7-89b0-f8feef325de0</guid></item><item>
             <title>Breaking Tusk potwierdził rosyjską eskalację. &quot;Do Warszawy przyleci szef NATO&quot;</title>
             <link>https://www.fakt.pl/polityka/rosyjskie-rakiety-spadly-na-polske-nowe-informacje-od-donalda-tuska/rl04wh0</link>
-            <description>- Mamy kolejną odsłonę rosyjskiej eskalacji. Najprawdopodobniej trzy rosyjskie obiekty naruszyły polską przestrzeń powietrzną, jeden eksplodował - powiedział na konferencji prasowej 20 listopada premier. Donald Tusk potwierdził, że rozmawiał na temat naruszenia polskiego nieba z sekretarzem generalnym NATO Markiem Rutte, który planuje wizytę w Warszawie dzień później.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <description>— Mamy kolejną odsłonę rosyjskiej eskalacji. Najprawdopodobniej trzy rosyjskie obiekty naruszyły polską przestrzeń powietrzną, jeden eksplodował — powiedział na konferencji prasowej 20 listopada premier. Donald Tusk potwierdził, że rozmawiał na temat naruszenia polskiego nieba z sekretarzem generalnym NATO Markiem Rutte, który planuje wizytę w Warszawie dzień później.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/406d1522-832b-4302-8bcc-9c7786406654.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 20 Nov 2026 11:30:14 GMT</pubDate>
-            <guid isPermaLink="false">063f4748-2c27-4954-9dd8-81e7ba3e6838</guid></item></channel>
+            <guid isPermaLink="false">063f4748-2c27-4954-9dd8-81e7ba3e6838</guid></item><item>
+            <title>Breaking Rakieta spadła na Lubelszczyźnie. Uruchomiono 446 syren. Wojewoda: procedura zadziałała</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/lublin/upadek-obiektu-na-lubelszczyznie-sluzby-sprawdzily-zagrozenie-dla-mieszkancow/51sbn75</link>
+            <description>Na Lubelszczyźnie służby zabezpieczyły miejsce upadku rakiet, które wtargnęły w piątek, 20 listopada na teren Polski. Na terenie 17 powiatów uruchomiono 446 syren alarmowych. System zadziałał już między godz. 6.31 a 6.33, zanim wpłynęło pierwsze zgłoszenie o zdarzeniu. Wojewoda lubelski Krzysztof Komorski przedstawił szczegóły działania systemu ostrzegania oraz pierwszej interwencji ratowników.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/6ba8d9be-4e61-42b5-a7d6-ec9ba947a45e.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 20 Nov 2026 13:34:11 GMT</pubDate>
+            <guid isPermaLink="false">7cf03efa-691c-49a4-b7db-44c6d63eff90</guid></item></channel>
             </rss>
