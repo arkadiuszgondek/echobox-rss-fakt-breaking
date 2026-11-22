@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 22 Nov 2026 14:30:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 22 Nov 2026 19:30:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Stanowcze słowa szefa NATO. &quot;W pełni zjednoczone z Polską&quot;</title>
             <link>https://www.fakt.pl/polityka/stanowcze-slowa-szefa-nato-marka-rutte-w-pelni-zjednoczone-z-polska/e81hdqf</link>
@@ -34,5 +34,17 @@
             <description>Piątkowe naruszenie polskiej przestrzeni powietrznej przez rosyjskie obiekty miało inny przebieg, niż początkowo informowały służby. Prokuratura podała, że we wszystkich trzech lokalizacjach spadły pociski manewrujące. Pierwotnie była mowa o dwóch pociskach i jednym dronie odrzutowym. Komunikat śledczych potwierdza wcześniejsze nieoficjalne ustalenia &quot;Gazety Wyborczej&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/43533220-d184-48d9-a3ff-1da43d274f6a.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 22 Nov 2026 16:09:45 GMT</pubDate>
-            <guid isPermaLink="false">4423c334-b3e0-494d-a652-5032ac37f5f2</guid></item></channel>
+            <guid isPermaLink="false">4423c334-b3e0-494d-a652-5032ac37f5f2</guid></item><item>
+            <title>Breaking Uzbrojony 38-latek siał panikę w centrum Ełku. Po sieci niesie się dramatyczne nagranie </title>
+            <link>https://www.fakt.pl/wydarzenia/polska/szaleniec-z-nozem-biegal-po-elku-straszyl-przechodniow-ukradl-i-rozbil-samochod/fvylzem</link>
+            <description>Dramatyczne sceny w Ełku (woj. warmińsko-mazurskie). Jak ustalił &quot;Fakt&quot;, około godz. 11.00 agresywny 38-latek wtargnął do jednego z mieszkań, skąd ukradł nóż. Następnie wybiegł na ulicę i miał grozić przechodniom. Chwilę później sterroryzował kobietę jadącą samochodem, przejął jej auto, a potem rozbił je podczas ucieczki. Szaleniec został zatrzymany przez policję.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/c46da627-88e9-4963-8a85-50a5ecf555e4.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 22 Nov 2026 15:38:39 GMT</pubDate>
+            <guid isPermaLink="false">a709942e-e781-49fa-b797-34e6fd3f8cc8</guid></item><item>
+            <title>Breaking Rosyjska flota płonie na Morzu Śródziemnym. Co się dzieje?</title>
+            <link>https://www.fakt.pl/wydarzenia/swiat/potezna-eksplozja-na-okrecie-rosyjskiej-floty-w-libii-co-wydarzylo-sie-w-bengazi/e4h51rh</link>
+            <description>W nocy z soboty na niedzielę w porcie Bengazi doszło do potężnej eksplozji na pokładzie rosyjskiej korwety rakietowej &quot;Merkury&quot;. Okręt, formalnie należący do Floty Czarnomorskiej, od kilku dni cumował w Libii, eskortując konwój statków powiązanych z rosyjskim eksportem wojskowym. To nie wszystko — dzień później został zaatakowany i zniszczony kolejny statek w tym rejonie, który miał transportować rosyjskie uzbrojenie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/014c31d2-c5b3-4cdd-a1d7-b51ec0069791.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 22 Nov 2026 19:30:00 GMT</pubDate>
+            <guid isPermaLink="false">4a09ca46-b838-4b87-9eb4-7b808c0ed7f6</guid></item></channel>
             </rss>
