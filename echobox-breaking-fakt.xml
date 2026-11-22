@@ -3,20 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 22 Nov 2026 11:01:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 22 Nov 2026 14:11:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Rakieta spadła na Lubelszczyźnie. Uruchomiono 446 syren. Wojewoda: procedura zadziałała</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lublin/upadek-obiektu-na-lubelszczyznie-sluzby-sprawdzily-zagrozenie-dla-mieszkancow/51sbn75</link>
-            <description>Na Lubelszczyźnie służby zabezpieczyły miejsce upadku rakiet, które wtargnęły w piątek, 20 listopada na teren Polski. Na terenie 17 powiatów uruchomiono 446 syren alarmowych. System zadziałał już między godz. 6.31 a 6.33, zanim wpłynęło pierwsze zgłoszenie o zdarzeniu. Wojewoda lubelski Krzysztof Komorski przedstawił szczegóły działania systemu ostrzegania oraz pierwszej interwencji ratowników.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/6ba8d9be-4e61-42b5-a7d6-ec9ba947a45e.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 20 Nov 2026 13:34:11 GMT</pubDate>
-            <guid isPermaLink="false">7cf03efa-691c-49a4-b7db-44c6d63eff90</guid></item><item>
-            <title>Breaking Piotr Moczulski nie żyje. Polak transportowany samolotem rządowym zmarł w szpitalu</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/bialystok/piotr-moczulski-nie-zyje-zmarl-w-szpitalu-w-polsce-po-powrocie-z-filipn/y7mec6h</link>
-            <description>Nie żyje Piotr Moczulski. Historię 42-latka śledziła cała Polska. Po ciężkim wypadku na Filipinach w tym roku udało się go sprowadzić do ojczyzny. Niestety mężczyzna zmarł w czwartek w nocy w USK w Białymstoku. — Stanęło mu serce — mówi dla &quot;Faktu&quot; brat zmarłego Tomasz Moczulski.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5dd43c54-8997-4ee2-922d-d36a9b263d30.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Fri, 20 Nov 2026 13:52:35 GMT</pubDate>
-            <guid isPermaLink="false">8dc80cc8-4e93-4f94-8df9-97bdecf3a93e</guid></item><item>
             <title>Breaking Stanowcze słowa szefa NATO. &quot;W pełni zjednoczone z Polską&quot;</title>
             <link>https://www.fakt.pl/polityka/stanowcze-slowa-szefa-nato-marka-rutte-w-pelni-zjednoczone-z-polska/e81hdqf</link>
             <description>Sekretarz Generalny NATO Mark Rutte podkreślił w rozmowie z TVP, że &quot;całe NATO jest w pełni zjednoczone z Polską&quot;. W ten sposób odniósł się do piątkowego naruszenia polskiej przestrzeni powietrznej.</description>
@@ -34,5 +22,11 @@
             <description>Dramatyczne wiadomości z Woli Blizockiej (woj. lubelskie). W jednym z domów jednorodzinnych znaleziono ciała starszego małżeństwa. — To 78-letnia kobieta i 75-letni mężczyzna, którzy sami mieszkali w tym budynku. Ciała małżeństwa zostały zabezpieczone do badań sekcyjnych — przekazał &quot;Faktowi&quot; mł. asp. Marcin Bajon z policji w Lubartowie. Zwłoki znalazła dalsza rodzina.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/66752c27-a0e5-48b0-ae6e-50efcb09a27e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 22 Nov 2026 11:01:00 GMT</pubDate>
-            <guid isPermaLink="false">601b1bb5-9b69-40ce-870a-43c1aa374742</guid></item></channel>
+            <guid isPermaLink="false">601b1bb5-9b69-40ce-870a-43c1aa374742</guid></item><item>
+            <title>Breaking Dodatkowy dzień wolny od pracy w grudniu. Szef nie może odmówić</title>
+            <link>https://www.fakt.pl/pieniadze/dodatkowy-dzien-wolny-za-boze-narodzenie-2026-w-tym-terminie-trzeba-odebrac/c3j4py8</link>
+            <description>W tym roku drugi dzień świąt Bożego Narodzenia (26 grudnia) wypada w sobotę. Zgodnie z Kodeksem pracy oznacza to, że zatrudnionym na etacie należy się dodatkowy dzień wolny w innym terminie. Za zignorowanie tego obowiązku firmie grozi surowa grzywna — nawet 60 tys. zł. Rząd podwyższył w tym roku kary, jakie może nakładać Państwowa Inspekcja Pracy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/82ce382f-f8b2-4839-9da1-fb42f9fc1354.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 22 Nov 2026 14:11:00 GMT</pubDate>
+            <guid isPermaLink="false">81a37525-6c6c-4ddc-abb4-496e24a0e64d</guid></item></channel>
             </rss>
