@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 22 Nov 2026 14:11:00 GMT</lastBuildDate>
+              <lastBuildDate>Sun, 22 Nov 2026 14:30:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Stanowcze słowa szefa NATO. &quot;W pełni zjednoczone z Polską&quot;</title>
             <link>https://www.fakt.pl/polityka/stanowcze-slowa-szefa-nato-marka-rutte-w-pelni-zjednoczone-z-polska/e81hdqf</link>
@@ -28,5 +28,11 @@
             <description>W tym roku drugi dzień świąt Bożego Narodzenia (26 grudnia) wypada w sobotę. Zgodnie z Kodeksem pracy oznacza to, że zatrudnionym na etacie należy się dodatkowy dzień wolny w innym terminie. Za zignorowanie tego obowiązku firmie grozi surowa grzywna — nawet 60 tys. zł. Rząd podwyższył w tym roku kary, jakie może nakładać Państwowa Inspekcja Pracy.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/82ce382f-f8b2-4839-9da1-fb42f9fc1354.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 22 Nov 2026 14:11:00 GMT</pubDate>
-            <guid isPermaLink="false">81a37525-6c6c-4ddc-abb4-496e24a0e64d</guid></item></channel>
+            <guid isPermaLink="false">81a37525-6c6c-4ddc-abb4-496e24a0e64d</guid></item><item>
+            <title>Breaking To nie był dron. Na jaw wychodzą nowe ustalenia po piątkowym uderzeniu w Polskę</title>
+            <link>https://www.fakt.pl/polityka/rosyjskie-pociski-spadly-w-polsce-nowe-ustalenia-po-ataku/2v3k2pm</link>
+            <description>Piątkowe naruszenie polskiej przestrzeni powietrznej przez rosyjskie obiekty miało inny przebieg, niż początkowo informowały służby. Prokuratura podała, że we wszystkich trzech lokalizacjach spadły pociski manewrujące. Pierwotnie była mowa o dwóch pociskach i jednym dronie odrzutowym. Komunikat śledczych potwierdza wcześniejsze nieoficjalne ustalenia &quot;Gazety Wyborczej&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/43533220-d184-48d9-a3ff-1da43d274f6a.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sun, 22 Nov 2026 16:09:45 GMT</pubDate>
+            <guid isPermaLink="false">4423c334-b3e0-494d-a652-5032ac37f5f2</guid></item></channel>
             </rss>
