@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 23 Nov 2026 16:51:30 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 23 Nov 2026 19:10:31 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tragiczny pożar w Trzciance. Nie żyją trzy osoby, wśród ofiar dziecko</title>
             <link>https://www.fakt.pl/wydarzenia/polska/poznan/tragiczny-pozar-w-trzciance-nie-zyja-trzy-osoby-wsrod-ofiar-dziecko/ccwz7mx</link>
@@ -61,8 +61,14 @@
             <guid isPermaLink="false">0021ab43-9b70-4463-a3ba-9be560ffd5c6</guid></item><item>
             <title>Breaking Jest odpowiedź NATO na rosyjskie rakiety w Polsce. Wiceszef MON wyjaśnia</title>
             <link>https://www.fakt.pl/polityka/rosyjskie-rakiety-w-polsce-jest-odpowiedz-nato-sojusz-wysyla-samoloty-wczesnego/c0w7rhv</link>
-            <description>Wiceszef MON Paweł Zalewski przekazał wnioski po posiedzeniu Rady Północnoatlantyckiej w odpowiedzi na rosyjskie prowokacje z udziałem rakiet we woj. lubelskim i podkarpackim. Poinformował, że przyjęto wspólne stanowisko solidarności z Polską oraz potwierdzono wysłanie samolotu wczesnego ostrzegania do patrolowania polskiego nieba.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/5a7261bf-181d-4ab4-a953-c77f66a3d4dc.png" length="0" type="image/jpeg"/>
+            <description>Wiceszef MON Paweł Zalewski przekazał wnioski po posiedzeniu Rady Północnoatlantyckiej w odpowiedzi na rosyjskie prowokacje z udziałem rakiet w województwach lubelskim i podkarpackim. Paweł Zalewski poinformował, że Rada przyjęła wspólne stanowisko solidarności z Polską oraz potwierdziła wysłanie samolotu wczesnego ostrzegania do patrolowania polskiego nieba.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/d6a58af3-341b-4039-ad2d-f8fcff907c69.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 23 Nov 2026 16:51:30 GMT</pubDate>
-            <guid isPermaLink="false">fcccb697-a666-40e1-8132-4192a91a1d49</guid></item></channel>
+            <guid isPermaLink="false">fcccb697-a666-40e1-8132-4192a91a1d49</guid></item><item>
+            <title>Breaking Nowy pomysł Tuska. &quot;Wspólna akcja wsparcia dla Ukrainy&quot;</title>
+            <link>https://www.fakt.pl/polityka/donald-tusk-prosi-europe-o-nowa-akcje-pomocy-dla-ukrainy-to-reakcja-na-prowokacje/eyvv2vt</link>
+            <description>Donald Tusk podczas spotkania liderów Grupy Wyszehradzkiej z kanclerzem Austrii podkreślił wagę kremlowskich prowokacji wobec wschodniej flanki NATO. — Rosyjska agresji przekroczyła granicę Ukrainy. Będę was prosił o wspólną akcję europejską wsparcia Ukrainy, bo to wyraz solidarności z Polską, nie tylko z Ukrainą — ogłosił 23 listopada w Bratysławie.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 23 Nov 2026 19:10:31 GMT</pubDate>
+            <guid isPermaLink="false">cf6cc78e-a929-4d8a-9fdc-49c4cd49963c</guid></item></channel>
             </rss>
