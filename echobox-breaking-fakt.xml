@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sun, 22 Nov 2026 19:30:00 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 23 Nov 2026 09:05:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Stanowcze słowa szefa NATO. &quot;W pełni zjednoczone z Polską&quot;</title>
             <link>https://www.fakt.pl/polityka/stanowcze-slowa-szefa-nato-marka-rutte-w-pelni-zjednoczone-z-polska/e81hdqf</link>
@@ -46,5 +46,11 @@
             <description>W nocy z soboty na niedzielę w porcie Bengazi doszło do potężnej eksplozji na pokładzie rosyjskiej korwety rakietowej &quot;Merkury&quot;. Okręt, formalnie należący do Floty Czarnomorskiej, od kilku dni cumował w Libii, eskortując konwój statków powiązanych z rosyjskim eksportem wojskowym. To nie wszystko — dzień później został zaatakowany i zniszczony kolejny statek w tym rejonie, który miał transportować rosyjskie uzbrojenie.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/014c31d2-c5b3-4cdd-a1d7-b51ec0069791.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sun, 22 Nov 2026 19:30:00 GMT</pubDate>
-            <guid isPermaLink="false">4a09ca46-b838-4b87-9eb4-7b808c0ed7f6</guid></item></channel>
+            <guid isPermaLink="false">4a09ca46-b838-4b87-9eb4-7b808c0ed7f6</guid></item><item>
+            <title>Breaking Polski poseł w rękach izraelskich służb. Przekazał niepokojące wieści z aresztu</title>
+            <link>https://www.fakt.pl/polityka/franciszek-sterczewski-zatrzymany-w-izraelu-polski-posel-ma-zostac-deportowany/6x2dkg5</link>
+            <description>Poseł KO Franek Sterczewski trafił do aresztu w Izraelu. Izraelskie władze odmówiły mu wjazdu do kraju i przez 14 godzin przetrzymywały go na lotnisku Ben Gurion. Polski parlamentarzysta przekazał w poniedziałek (23 listopada), że ma zostać deportowany. Zdradził też, w jakim celu wybrał się na Bliski Wschód.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b422e1ab-afc5-4b94-b321-19102be8bcef.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 23 Nov 2026 09:05:00 GMT</pubDate>
+            <guid isPermaLink="false">ba17cb68-5a83-4673-890c-7d30081de585</guid></item></channel>
             </rss>
