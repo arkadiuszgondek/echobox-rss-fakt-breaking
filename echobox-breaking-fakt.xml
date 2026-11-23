@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Mon, 23 Nov 2026 13:26:35 GMT</lastBuildDate>
+              <lastBuildDate>Mon, 23 Nov 2026 14:25:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Tragiczny pożar w Trzciance. Nie żyją trzy osoby, wśród ofiar dziecko</title>
             <link>https://www.fakt.pl/wydarzenia/polska/poznan/tragiczny-pozar-w-trzciance-nie-zyja-trzy-osoby-wsrod-ofiar-dziecko/ccwz7mx</link>
@@ -50,7 +50,13 @@
             <title>Breaking Nowy ruch Korwin-Piotrowskiej. Zaprosiła Trzaskowskiego do TK</title>
             <link>https://www.fakt.pl/polityka/trzaskowski-ma-pojawic-sie-w-tk-korwin-piotrowska-wydala-komunikat/zk6nk0f</link>
             <description>Anna Korwin-Piotrowska zaprosiła prezydenta Warszawy Rafała Trzaskowskiego oraz komendanta stołecznego policji na spotkanie w siedzibie Trybunału Konstytucyjnego. Jak wynika z opublikowanego komunikatu, rozmowy mają dotyczyć ustalenia zasad przywrócenia możliwości wchodzenia i wjeżdżania na teren TK od strony al. Jana Chrystiana Szucha.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/a7963784-6467-4d14-a154-0901b497e089.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 23 Nov 2026 13:26:35 GMT</pubDate>
-            <guid isPermaLink="false">fc5dd56b-2516-4ef1-b6b9-28b78e2636c7</guid></item></channel>
+            <guid isPermaLink="false">fc5dd56b-2516-4ef1-b6b9-28b78e2636c7</guid></item><item>
+            <title>Breaking Sam tamował krwotok, gdy padły strzały. Mamy wspaniałe wieści ze szpitala</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/stan-zdrowia-rannych-policjantow-z-krakowa-jakub-kulik-opuscil-szpital/s813lxn</link>
+            <description>Starszy posterunkowy Jakub Kulik, który z narażeniem życia powstrzymał zamachowca na ulicach Krakowa i sam został trzykrotnie postrzelony, wyszedł już ze szpitala. Choć placówka ze względu na ochronę danych nie podaje nazwisk swoich pacjentów, oficjalny komunikat nie pozostawia żadnych wątpliwości. — W naszym szpitalu nie przebywa już żaden poszkodowany pacjent z Rynku. Nie ma już ich. Wszyscy zostali wypisani — usłyszał &quot;Fakt&quot; w krakowskim szpitalu.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/f8237cd2-3086-4d01-b0ea-62a1d6f50247.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Mon, 23 Nov 2026 14:25:00 GMT</pubDate>
+            <guid isPermaLink="false">0021ab43-9b70-4463-a3ba-9be560ffd5c6</guid></item></channel>
             </rss>
