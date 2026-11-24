@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 24 Nov 2026 11:15:00 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 24 Nov 2026 14:12:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Dodatkowy dzień wolny od pracy w grudniu. Szef nie może odmówić</title>
-            <link>https://www.fakt.pl/pieniadze/dodatkowy-dzien-wolny-za-boze-narodzenie-2026-w-tym-terminie-trzeba-odebrac/c3j4py8</link>
-            <description>W tym roku drugi dzień świąt Bożego Narodzenia (26 grudnia) wypada w sobotę. Zgodnie z Kodeksem pracy oznacza to, że zatrudnionym na etacie należy się dodatkowy dzień wolny w innym terminie. Za zignorowanie tego obowiązku firmie grozi surowa grzywna — nawet 60 tys. zł. Rząd podwyższył w tym roku kary, jakie może nakładać Państwowa Inspekcja Pracy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/82ce382f-f8b2-4839-9da1-fb42f9fc1354.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 22 Nov 2026 14:11:00 GMT</pubDate>
-            <guid isPermaLink="false">81a37525-6c6c-4ddc-abb4-496e24a0e64d</guid></item><item>
             <title>Breaking To nie był dron. Na jaw wychodzą nowe ustalenia po piątkowym uderzeniu w Polskę</title>
             <link>https://www.fakt.pl/polityka/rosyjskie-pociski-spadly-w-polsce-nowe-ustalenia-po-ataku/2v3k2pm</link>
             <description>Piątkowe naruszenie polskiej przestrzeni powietrznej przez rosyjskie obiekty miało inny przebieg, niż początkowo informowały służby. Prokuratura podała, że we wszystkich trzech lokalizacjach spadły pociski manewrujące. Pierwotnie była mowa o dwóch pociskach i jednym dronie odrzutowym. Komunikat śledczych potwierdza wcześniejsze nieoficjalne ustalenia &quot;Gazety Wyborczej&quot;.</description>
@@ -61,8 +55,14 @@
             <guid isPermaLink="false">22eef189-3232-4592-a49f-a910c664be01</guid></item><item>
             <title>Breaking Nowe informacje w sprawie zażalenia Święczkowskiego. Sąd zdecydował</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-zlozyl-zazalenie-nowa-decyzja-sadu/gmf9w75</link>
-            <description>Sąd Okręgowy w Warszawie nie uwzględnił wniosku o wyłączenie sędziego referenta od rozpoznania zażalenia pełnomocnika Bogdana Święczkowskiego na decyzję o odmowie wszczęcia śledztwa w sprawie lipcowej interwencji prokuratora i policji w Trybunale Konstytucyjnym — przekazała &quot;Faktowi&quot; sędzia Anna Ptaszek. O wyłączenie sędziego Konrada Mielcarka wnosiła prokuratura.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Sąd nie uwzględnił wniosku prokuratury o wyłączenie sędziego Konrada Mielcarka od rozpoznania odwołania pełnomocnika Bogdana Święczkowskiego — przekazała &quot;Faktowi&quot; sędzia Anna Ptaszek z Sądu Okręgowego w Warszawie. Zażalenie dotyczy decyzji prokuratury o odmowie wszczęcia śledztwa w sprawie lipcowej interwencji policji i prokuratora w Trybunale Konstytucyjnym.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/YWY7MDA_/179e145d-006e-4151-9e12-7c398b6d7877.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 24 Nov 2026 11:15:00 GMT</pubDate>
-            <guid isPermaLink="false">d420a620-5484-47c7-accf-577c12b8403f</guid></item></channel>
+            <guid isPermaLink="false">d420a620-5484-47c7-accf-577c12b8403f</guid></item><item>
+            <title>Breaking Policjanci z Krakowa sami kupili kamizelki. Zdumiewająca odpowiedź MSWiA. &quot;Nie jest to zabronione&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/policjanci-kupili-kamizelki-z-wlasnej-pensji-mamy-odpowiedz-mswia/90xdpvk</link>
+            <description>Własne kamizelki kuloodporne najprawdopodobniej uratowały im życie, gdy ruszyli w pościg za uzbrojonym w broń długą zamachowcem na krakowskim Rynku Głównym. Kiedy zapytaliśmy Ministerstwo Spraw Wewnętrznych i Administracji, jak ocenia sytuację, w której policjanci muszą kupować sprzęt ochronny za prywatne pieniądze, resort odpowiedział, że... &quot;w świetle przepisów nie jest to zabronione&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b3fe8fab-6ff7-4ba0-9bfe-a897454a9a49.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 24 Nov 2026 14:12:00 GMT</pubDate>
+            <guid isPermaLink="false">9b7ff02a-a02f-468b-96a8-17971194d449</guid></item></channel>
             </rss>
