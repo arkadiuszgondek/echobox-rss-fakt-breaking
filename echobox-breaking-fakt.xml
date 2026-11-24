@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Tue, 24 Nov 2026 01:25:58 GMT</lastBuildDate>
+              <lastBuildDate>Tue, 24 Nov 2026 10:22:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tragiczny pożar w Trzciance. Nie żyją trzy osoby, wśród ofiar dziecko</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/poznan/tragiczny-pozar-w-trzciance-nie-zyja-trzy-osoby-wsrod-ofiar-dziecko/ccwz7mx</link>
-            <description>Trzy osoby zginęły w tragicznym pożarze domu w Trzciance w Wielkopolsce. Ogień pojawił się w budynku w zabudowie szeregowej. Ofiarami są 59-letnia kobieta, 63-letni mężczyzna oraz 12-letnie dziecko.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/83b284a7-7e9a-4a77-8bd0-1142642dd415.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Sun, 22 Nov 2026 06:03:00 GMT</pubDate>
-            <guid isPermaLink="false">8e21416e-0bf5-40f1-a107-ec3207fa1a23</guid></item><item>
             <title>Breaking Ciała małżonków w domu w Woli Blizockiej. Policję wezwała rodzina</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/ciala-malzonkow-w-domu-w-woli-blizockiej-policje-wezwala-rodzina/1ez4e0s</link>
             <description>Dramatyczne wiadomości z Woli Blizockiej (woj. lubelskie). W jednym z domów jednorodzinnych znaleziono ciała starszego małżeństwa. — To 78-letnia kobieta i 75-letni mężczyzna, którzy sami mieszkali w tym budynku. Ciała małżeństwa zostały zabezpieczone do badań sekcyjnych — przekazał &quot;Faktowi&quot; mł. asp. Marcin Bajon z policji w Lubartowie. Zwłoki znalazła dalsza rodzina.</description>
@@ -65,10 +59,16 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/d6a58af3-341b-4039-ad2d-f8fcff907c69.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Mon, 23 Nov 2026 16:51:30 GMT</pubDate>
             <guid isPermaLink="false">fcccb697-a666-40e1-8132-4192a91a1d49</guid></item><item>
-            <title>Breaking Rosyjski dron wleciał w polską przestrzeń. &quot;Dowódca wydał autoryzację na zestrzelenie obiektu&quot;</title>
+            <title>Breaking Rosyjski dron naruszył polską przestrzeń. &quot;Autoryzacja na zestrzelenie obiektu&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/lublin/rosyjski-dron-wlecial-w-polska-przestrzen-wydano-zgode-na-zestrzelenie-obiektu/65djg8m</link>
-            <description>Dowódca Operacyjny RSZ wydał autoryzację na zestrzelenie obiektu, który w nocy z poniedziałku na wtorek przekroczył polską granicę - poinformowało Dowództwo Operacyjne RSZ. Po zmianie kursu bezzałogowego statku powietrznego wojsko odstąpiło od użycia uzbrojenia.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <description>Rosyjski dron w nocy z poniedziałku na wtorek, 23/24 listopada, naruszył polską przestrzeń powietrzną na Lubelszczyźnie. Obiekt, jak podkreśliło Dowództwo Operacyjne Rodzajów Sił Zbrojonych (DORSZ), był nieprzerwanie śledzony na całej trasie przelotu. Wydano &quot;autoryzację na jego zestrzelenie&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/061c2d29-02c0-46e3-9a40-6e48d7275cb3.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Tue, 24 Nov 2026 01:25:58 GMT</pubDate>
-            <guid isPermaLink="false">22eef189-3232-4592-a49f-a910c664be01</guid></item></channel>
+            <guid isPermaLink="false">22eef189-3232-4592-a49f-a910c664be01</guid></item><item>
+            <title>Breaking Prokuratura: nie tylko na Jakuba Kulika wpłynęły donosy. &quot;Nie można ich wyrzucić do kosza&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/policjanci-z-krakowa-zgloszeni-do-prokuratury-zarzut-uzycie-broni/4e2ty0w</link>
+            <description>Gdy 27-letni starszy posterunkowy Artur Morański wciąż walczy w szpitalu o powrót do zdrowia po dwóch postrzałach, do śledczych spływają zawiadomienia wymierzone również w niego. Prokuratura Krajowa potwierdza w rozmowie z &quot;Faktem&quot;, że autorzy donosów zarzucają przekroczenie uprawnień przy użyciu broni palnej obu funkcjonariuszom, którzy z narażeniem życia zatrzymali zamachowca w centrum Krakowa.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Tue, 24 Nov 2026 10:22:00 GMT</pubDate>
+            <guid isPermaLink="false">9e507de2-d127-4b79-8fc5-29d26cd0bc4e</guid></item></channel>
             </rss>
