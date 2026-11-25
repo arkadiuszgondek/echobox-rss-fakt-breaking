@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 25 Nov 2026 11:19:46 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 25 Nov 2026 15:38:59 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Sam tamował krwotok, gdy padły strzały. Mamy wspaniałe wieści ze szpitala</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/stan-zdrowia-rannych-policjantow-z-krakowa-jakub-kulik-opuscil-szpital/s813lxn</link>
-            <description>Starszy posterunkowy Jakub Kulik, który z narażeniem życia powstrzymał zamachowca na ulicach Krakowa i sam został trzykrotnie postrzelony, wyszedł już ze szpitala. Choć placówka ze względu na ochronę danych nie podaje nazwisk swoich pacjentów, oficjalny komunikat nie pozostawia żadnych wątpliwości. — W naszym szpitalu nie przebywa już żaden poszkodowany pacjent z Rynku. Nie ma już ich. Wszyscy zostali wypisani — usłyszał &quot;Fakt&quot; w krakowskim szpitalu.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f8237cd2-3086-4d01-b0ea-62a1d6f50247.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 23 Nov 2026 14:25:00 GMT</pubDate>
-            <guid isPermaLink="false">0021ab43-9b70-4463-a3ba-9be560ffd5c6</guid></item><item>
             <title>Breaking Jest odpowiedź NATO na rosyjskie rakiety w Polsce. Wiceszef MON wyjaśnia</title>
             <link>https://www.fakt.pl/polityka/rosyjskie-rakiety-w-polsce-jest-odpowiedz-nato-sojusz-wysyla-samoloty-wczesnego/c0w7rhv</link>
             <description>Wiceszef MON Paweł Zalewski przekazał wnioski po posiedzeniu Rady Północnoatlantyckiej w odpowiedzi na rosyjskie prowokacje z udziałem rakiet w województwach lubelskim i podkarpackim. Paweł Zalewski poinformował, że Rada przyjęła wspólne stanowisko solidarności z Polską oraz potwierdziła wysłanie samolotu wczesnego ostrzegania do patrolowania polskiego nieba.</description>
@@ -58,5 +52,11 @@
             <description>Dramatyczny poranek na ul. Stradomskiej w Warszawie. Policja, która została wezwana na miejsce przez zaniepokojonych mieszkańców ulicy, dokonała makabrycznego odkrycia. Wewnątrz jednego z budynków znaleziono martwą kobietę. Jak dowiedział się &quot;Fakt&quot;, w związku z tą sprawą zatrzymano młodego mężczyznę. Trwa ustalanie okoliczności zdarzenia. Niewykluczone, że doszło do zabójstwa.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2f155cef-e75d-4d87-92fb-53bb6a839b11.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 25 Nov 2026 11:19:46 GMT</pubDate>
-            <guid isPermaLink="false">083cb10a-5462-4cd5-b900-8bdf94031bb6</guid></item></channel>
+            <guid isPermaLink="false">083cb10a-5462-4cd5-b900-8bdf94031bb6</guid></item><item>
+            <title>Breaking Makabryczne odkrycie w lesie pod Węgrowem. Ciała dwóch mężczyzn w samochodzie</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/ciala-dwoch-mezczyzn-znalezione-w-aucie-pod-wegrowem-trwa-sledztwo/pr0jdcy</link>
+            <description>Ciała dwóch mężczyzn zostały odnalezione w samochodzie zaparkowanym w lesie w miejscowości Słuchocin pod Węgrowem (woj. mazowieckie). Na miejscu od kilku godzin pracują służby, a sprawę nadzoruje prokuratura.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 25 Nov 2026 15:38:59 GMT</pubDate>
+            <guid isPermaLink="false">c8a56199-4d99-4a24-b127-81374dca6a31</guid></item></channel>
             </rss>
