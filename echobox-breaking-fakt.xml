@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 25 Nov 2026 07:58:34 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 25 Nov 2026 09:48:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Polski poseł w rękach izraelskich służb. Przekazał niepokojące wieści z aresztu</title>
-            <link>https://www.fakt.pl/polityka/franciszek-sterczewski-zatrzymany-w-izraelu-polski-posel-ma-zostac-deportowany/6x2dkg5</link>
-            <description>Poseł KO Franek Sterczewski trafił do aresztu w Izraelu. Izraelskie władze odmówiły mu wjazdu do kraju i przez 14 godzin przetrzymywały go na lotnisku Ben Gurion. Polski parlamentarzysta przekazał w poniedziałek (23 listopada), że ma zostać deportowany. Zdradził też, w jakim celu wybrał się na Bliski Wschód.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b422e1ab-afc5-4b94-b321-19102be8bcef.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 23 Nov 2026 09:05:00 GMT</pubDate>
-            <guid isPermaLink="false">ba17cb68-5a83-4673-890c-7d30081de585</guid></item><item>
             <title>Breaking Nowy ruch Korwin-Piotrowskiej. Zaprosiła Trzaskowskiego do TK</title>
             <link>https://www.fakt.pl/polityka/trzaskowski-ma-pojawic-sie-w-tk-korwin-piotrowska-wydala-komunikat/zk6nk0f</link>
             <description>Anna Korwin-Piotrowska zaprosiła prezydenta Warszawy Rafała Trzaskowskiego oraz komendanta stołecznego policji na spotkanie w siedzibie Trybunału Konstytucyjnego. Jak wynika z opublikowanego komunikatu, rozmowy mają dotyczyć ustalenia zasad przywrócenia możliwości wchodzenia i wjeżdżania na teren TK od strony al. Jana Chrystiana Szucha.</description>
@@ -52,5 +46,11 @@
             <description>Złota piła mechaniczna, z którą zapozowali Karol Nawrocki i Javier Milei, nie była prezentem dla żadnego z przywódców. To symbol polityki prowadzonej przez prezydenta Argentyny. Nawrocki wręczył Mileiowi podarunek związany z jego pasją. Szczegóły ujawnił fotograf głowy państwa.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/81aa96a2-8b9d-47de-85d7-7098f03d6ab8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 25 Nov 2026 07:58:34 GMT</pubDate>
-            <guid isPermaLink="false">61bfb55e-3c42-439c-9a4a-c6d23b8f7d18</guid></item></channel>
+            <guid isPermaLink="false">61bfb55e-3c42-439c-9a4a-c6d23b8f7d18</guid></item><item>
+            <title>Breaking Strzały na wrocławskim osiedlu! 25-latek celował do ludzi, przedszkola i samochodów</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/wroclaw-25-latek-strzelal-z-wiatrowki-do-przechodniow-i-przedszkola/s85ehlq</link>
+            <description>Mieszkańcy wrocławskich Gajowic mogli znaleźć się w poważnym niebezpieczeństwie. 25-latek strzelał z wiatrówki w kierunku przypadkowych przechodniów, samochodów i budynku przedszkola. Broń pożyczył od 42-letniego znajomego, który doskonale wiedział, do czego zostanie wykorzystana. Obaj mężczyźni usłyszeli zarzuty.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/fbc0d624-4349-4924-8532-b7991c6c0980.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 25 Nov 2026 09:48:00 GMT</pubDate>
+            <guid isPermaLink="false">9fa88d77-64d6-4521-b2a2-fa85469adbb5</guid></item></channel>
             </rss>
