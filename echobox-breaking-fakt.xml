@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 25 Nov 2026 09:48:00 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 25 Nov 2026 10:16:27 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Nowy ruch Korwin-Piotrowskiej. Zaprosiła Trzaskowskiego do TK</title>
             <link>https://www.fakt.pl/polityka/trzaskowski-ma-pojawic-sie-w-tk-korwin-piotrowska-wydala-komunikat/zk6nk0f</link>
@@ -52,5 +52,11 @@
             <description>Mieszkańcy wrocławskich Gajowic mogli znaleźć się w poważnym niebezpieczeństwie. 25-latek strzelał z wiatrówki w kierunku przypadkowych przechodniów, samochodów i budynku przedszkola. Broń pożyczył od 42-letniego znajomego, który doskonale wiedział, do czego zostanie wykorzystana. Obaj mężczyźni usłyszeli zarzuty.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/fbc0d624-4349-4924-8532-b7991c6c0980.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 25 Nov 2026 09:48:00 GMT</pubDate>
-            <guid isPermaLink="false">9fa88d77-64d6-4521-b2a2-fa85469adbb5</guid></item></channel>
+            <guid isPermaLink="false">9fa88d77-64d6-4521-b2a2-fa85469adbb5</guid></item><item>
+            <title>Breaking Stanowczy ruch Trzaskowskiego. Manifestantom obok TK to się nie spodoba</title>
+            <link>https://www.fakt.pl/polityka/warszawski-ratusz-nie-wyrazil-zgody-na-przedluzenie-protestu-przed-tk/tz9cy18</link>
+            <description>Stołeczny ratusz nie wyraził zgody na przedłużenie protestu środowisk prawicowych przed TK. W swoim uzasadnieniu urzędnicy podlegli prezydentowi miasta Rafałowi Trzaskowskiemu przekazali, że &quot;wolność do zgromadzeń ma swoje ograniczenia&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/3bfa88f9-3b8b-4c1e-9fd6-8d124197ce7f.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 25 Nov 2026 10:16:27 GMT</pubDate>
+            <guid isPermaLink="false">d58614c7-5ea5-4e6b-b045-37ae5a758a64</guid></item></channel>
             </rss>
