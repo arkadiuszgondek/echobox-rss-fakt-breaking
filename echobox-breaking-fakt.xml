@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 25 Nov 2026 11:19:21 GMT</lastBuildDate>
+              <lastBuildDate>Wed, 25 Nov 2026 11:19:46 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nowy ruch Korwin-Piotrowskiej. Zaprosiła Trzaskowskiego do TK</title>
-            <link>https://www.fakt.pl/polityka/trzaskowski-ma-pojawic-sie-w-tk-korwin-piotrowska-wydala-komunikat/zk6nk0f</link>
-            <description>Anna Korwin-Piotrowska zaprosiła prezydenta Warszawy Rafała Trzaskowskiego oraz komendanta stołecznego policji na spotkanie w siedzibie Trybunału Konstytucyjnego. Jak wynika z opublikowanego komunikatu, rozmowy mają dotyczyć ustalenia zasad przywrócenia możliwości wchodzenia i wjeżdżania na teren TK od strony al. Jana Chrystiana Szucha.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/a7963784-6467-4d14-a154-0901b497e089.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Mon, 23 Nov 2026 13:26:35 GMT</pubDate>
-            <guid isPermaLink="false">fc5dd56b-2516-4ef1-b6b9-28b78e2636c7</guid></item><item>
             <title>Breaking Sam tamował krwotok, gdy padły strzały. Mamy wspaniałe wieści ze szpitala</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/stan-zdrowia-rannych-policjantow-z-krakowa-jakub-kulik-opuscil-szpital/s813lxn</link>
             <description>Starszy posterunkowy Jakub Kulik, który z narażeniem życia powstrzymał zamachowca na ulicach Krakowa i sam został trzykrotnie postrzelony, wyszedł już ze szpitala. Choć placówka ze względu na ochronę danych nie podaje nazwisk swoich pacjentów, oficjalny komunikat nie pozostawia żadnych wątpliwości. — W naszym szpitalu nie przebywa już żaden poszkodowany pacjent z Rynku. Nie ma już ich. Wszyscy zostali wypisani — usłyszał &quot;Fakt&quot; w krakowskim szpitalu.</description>
@@ -58,5 +52,11 @@
             <description>Funkcjonariusze CBZC prowadzą przeszukania w kolejnych dziewięciu lokalizacjach w ramach śledztwa dotyczącego nieprawidłowości wokół giełdy kryptowalut Zondacrypto — poinformował Waldemar Żurek. Z nieoficjalnych ustaleń TVN24 wynika, że działania prowadzone są w podmiotach gospodarczych powiązanych z TV Republika. Republika relacjonuje działania policji w siedzibie &quot;Gazety Polskiej&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/1a9018b7-44d4-4966-999d-a13dbf40e9a8.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 25 Nov 2026 11:19:21 GMT</pubDate>
-            <guid isPermaLink="false">27aa3a1e-9889-48c9-b767-0ffc9a863c11</guid></item></channel>
+            <guid isPermaLink="false">27aa3a1e-9889-48c9-b767-0ffc9a863c11</guid></item><item>
+            <title>Breaking Poranna tragedia w Warszawie. Nie żyje starsza kobieta. Jest zatrzymany. &quot;Młody mężczyzna&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/warszawa-makabryczne-odkrycie-na-ul-stradomskiej-zatrzymano-mlodego-mezczyzne/7k7nvr3</link>
+            <description>Dramatyczny poranek na ul. Stradomskiej w Warszawie. Policja, która została wezwana na miejsce przez zaniepokojonych mieszkańców ulicy, dokonała makabrycznego odkrycia. Wewnątrz jednego z budynków znaleziono martwą kobietę. Jak dowiedział się &quot;Fakt&quot;, w związku z tą sprawą zatrzymano młodego mężczyznę. Trwa ustalanie okoliczności zdarzenia. Niewykluczone, że doszło do zabójstwa.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2f155cef-e75d-4d87-92fb-53bb6a839b11.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 25 Nov 2026 11:19:46 GMT</pubDate>
+            <guid isPermaLink="false">083cb10a-5462-4cd5-b900-8bdf94031bb6</guid></item></channel>
             </rss>
