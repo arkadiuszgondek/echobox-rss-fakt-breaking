@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Wed, 25 Nov 2026 20:45:00 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 26 Nov 2026 09:15:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Rosyjski dron naruszył polską przestrzeń. &quot;Autoryzacja na zestrzelenie obiektu&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lublin/rosyjski-dron-wlecial-w-polska-przestrzen-wydano-zgode-na-zestrzelenie-obiektu/65djg8m</link>
-            <description>Rosyjski dron w nocy z poniedziałku na wtorek, 23/24 listopada, naruszył polską przestrzeń powietrzną na Lubelszczyźnie. Obiekt, jak podkreśliło Dowództwo Operacyjne Rodzajów Sił Zbrojonych (DORSZ), był nieprzerwanie śledzony na całej trasie przelotu. Wydano &quot;autoryzację na jego zestrzelenie&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/061c2d29-02c0-46e3-9a40-6e48d7275cb3.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 24 Nov 2026 01:25:58 GMT</pubDate>
-            <guid isPermaLink="false">22eef189-3232-4592-a49f-a910c664be01</guid></item><item>
             <title>Breaking Nowe informacje w sprawie zażalenia Święczkowskiego. Sąd zdecydował</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-zlozyl-zazalenie-nowa-decyzja-sadu/gmf9w75</link>
             <description>Sąd nie uwzględnił wniosku prokuratury o wyłączenie sędziego Konrada Mielcarka od rozpoznania odwołania pełnomocnika Bogdana Święczkowskiego — przekazała &quot;Faktowi&quot; sędzia Anna Ptaszek z Sądu Okręgowego w Warszawie. Zażalenie dotyczy decyzji prokuratury o odmowie wszczęcia śledztwa w sprawie lipcowej interwencji policji i prokuratora w Trybunale Konstytucyjnym.</description>
@@ -70,5 +64,11 @@
             <description>Reporterka &quot;Faktu&quot; Sylwia Bagińska była na miejscu dramatu w centrum Warszawy, gdzie przed budynkiem Ministerstwa Kultury podpalił się 22-letni mężczyzna. Udało nam się dotrzeć do kobiety pracującej w jednym z pobliskich butików. Jak relacjonuje, akcja ratunkowa przebiegała błyskawicznie, a służby natychmiast odgrodziły teren od przechodniów.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/184b3e18-9e59-456e-a747-f364a44f8668.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Wed, 25 Nov 2026 20:45:00 GMT</pubDate>
-            <guid isPermaLink="false">33554535-d15c-4f7a-9b05-4539a7d07157</guid></item></channel>
+            <guid isPermaLink="false">33554535-d15c-4f7a-9b05-4539a7d07157</guid></item><item>
+            <title>Breaking Dorwali sprawcę napadu na aktora z &quot;Rodziny zastępczej&quot;. Policja nie wyklucza kolejnych zatrzymań</title>
+            <link>https://www.fakt.pl/wydarzenia/znany-aktor-napadniety-i-okradziony-w-warszawie-padl-ofiara-bandytow/64y0vke</link>
+            <description>Finał sprawy zuchwałego napadu na aktora z serialu &quot;Rodzina zastępcza&quot;, do którego doszło w czerwcu br. Wszystko wydarzyło się na Nowym Świecie w Warszawie. Aktor został okradziony w samym centrum stolicy. Napastnik najpierw zerwał mu z szyi złoty łańcuszek, a gdy poszkodowany próbował go odzyskać, aktor został uderzony w twarz. Policjanci zatrzymali sprawcę po wielu tygodniach żmudnej pracy. Okazało się, że działał w międzynarodowej zorganizowanej grupy przestępczej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/22f6041c-71f5-4dc2-b440-126e78e06638.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 26 Nov 2026 09:15:00 GMT</pubDate>
+            <guid isPermaLink="false">1b2afd39-8e22-49a5-b7da-bc208eaedad3</guid></item></channel>
             </rss>
