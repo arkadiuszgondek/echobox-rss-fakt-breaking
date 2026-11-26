@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 26 Nov 2026 12:14:48 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 26 Nov 2026 14:58:43 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Policjanci z Krakowa sami kupili kamizelki. Zdumiewająca odpowiedź MSWiA. &quot;Nie jest to zabronione&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/krakow/policjanci-kupili-kamizelki-z-wlasnej-pensji-mamy-odpowiedz-mswia/90xdpvk</link>
-            <description>Własne kamizelki kuloodporne najprawdopodobniej uratowały im życie, gdy ruszyli w pościg za uzbrojonym w broń długą zamachowcem na krakowskim Rynku Głównym. Kiedy zapytaliśmy Ministerstwo Spraw Wewnętrznych i Administracji, jak ocenia sytuację, w której policjanci muszą kupować sprzęt ochronny za prywatne pieniądze, resort odpowiedział, że... &quot;w świetle przepisów nie jest to zabronione&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b3fe8fab-6ff7-4ba0-9bfe-a897454a9a49.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 24 Nov 2026 14:12:00 GMT</pubDate>
-            <guid isPermaLink="false">9b7ff02a-a02f-468b-96a8-17971194d449</guid></item><item>
             <title>Breaking Nawrocki zapozował z niecodziennym &quot;gadżetem&quot;. Zagadka prezentu dla Mileia rozwiązana</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-i-javer-miler-z-pila-mechaniczna-to-nie-prezent/hf2wyww</link>
             <description>Złota piła mechaniczna, z którą zapozowali Karol Nawrocki i Javier Milei, nie była prezentem dla żadnego z przywódców. To symbol polityki prowadzonej przez prezydenta Argentyny. Nawrocki wręczył Mileiowi podarunek związany z jego pasją. Szczegóły ujawnił fotograf głowy państwa.</description>
@@ -88,5 +82,11 @@
             <description>Samopodpalenia na Krakowskim Przedmieściu w Warszawie dokonał 22-letni Ukrainiec — potwierdza w rozmowie z &quot;Faktem&quot; asp. Jakub Pacyniak. — Na miejscu przeprowadziliśmy oględziny, został zabezpieczony materiał dowodowy — słyszymy. W mediach pojawiły się również doniesienia, że 22-latek miał &quot;problemy na studiach&quot;.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4d01b0de-3780-4cdb-9133-f5f9d9e3bf9d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 26 Nov 2026 12:14:48 GMT</pubDate>
-            <guid isPermaLink="false">6f7fe088-03d4-4457-b83e-5f6cfb04b5ac</guid></item></channel>
+            <guid isPermaLink="false">6f7fe088-03d4-4457-b83e-5f6cfb04b5ac</guid></item><item>
+            <title>Breaking Koniec posiedzenia sądu dyscyplinarnego. Jest decyzja ws. Bogdana Święczkowskiego</title>
+            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-sad-dyscyplinarny-zdecydowal-ws-prezesa-tk/9l3l2m7</link>
+            <description>Sąd dyscyplinarny rozpatrzył sprawę zarządzonej wobec prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego przerwy w czynnościach służbowych. W czwartek został on zawieszony na 12 miesięcy — przekazała Magdalena Bentkowska.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 26 Nov 2026 14:58:43 GMT</pubDate>
+            <guid isPermaLink="false">25e48410-b246-4ebb-a2b0-3732f9077dd0</guid></item></channel>
             </rss>
