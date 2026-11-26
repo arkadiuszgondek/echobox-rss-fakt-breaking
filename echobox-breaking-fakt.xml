@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Thu, 26 Nov 2026 09:40:15 GMT</lastBuildDate>
+              <lastBuildDate>Thu, 26 Nov 2026 12:14:48 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nowe informacje w sprawie zażalenia Święczkowskiego. Sąd zdecydował</title>
-            <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-zlozyl-zazalenie-nowa-decyzja-sadu/gmf9w75</link>
-            <description>Sąd nie uwzględnił wniosku prokuratury o wyłączenie sędziego Konrada Mielcarka od rozpoznania odwołania pełnomocnika Bogdana Święczkowskiego — przekazała &quot;Faktowi&quot; sędzia Anna Ptaszek z Sądu Okręgowego w Warszawie. Zażalenie dotyczy decyzji prokuratury o odmowie wszczęcia śledztwa w sprawie lipcowej interwencji policji i prokuratora w Trybunale Konstytucyjnym.</description>
-            <enclosure url="http://ocdn.eu/images/pulscms/YWY7MDA_/179e145d-006e-4151-9e12-7c398b6d7877.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 24 Nov 2026 11:15:00 GMT</pubDate>
-            <guid isPermaLink="false">d420a620-5484-47c7-accf-577c12b8403f</guid></item><item>
             <title>Breaking Policjanci z Krakowa sami kupili kamizelki. Zdumiewająca odpowiedź MSWiA. &quot;Nie jest to zabronione&quot;</title>
             <link>https://www.fakt.pl/wydarzenia/polska/krakow/policjanci-kupili-kamizelki-z-wlasnej-pensji-mamy-odpowiedz-mswia/90xdpvk</link>
             <description>Własne kamizelki kuloodporne najprawdopodobniej uratowały im życie, gdy ruszyli w pościg za uzbrojonym w broń długą zamachowcem na krakowskim Rynku Głównym. Kiedy zapytaliśmy Ministerstwo Spraw Wewnętrznych i Administracji, jak ocenia sytuację, w której policjanci muszą kupować sprzęt ochronny za prywatne pieniądze, resort odpowiedział, że... &quot;w świetle przepisów nie jest to zabronione&quot;.</description>
@@ -82,5 +76,17 @@
             <description>Trybunał Konstytucyjny będzie finansowany przez Bank Gospodarstwa Krajowego — o decyzji Donalda Tuska powiadomił rzecznik rządu Adam Szłapka. &quot;Fakt&quot; skontaktował się z BGK. &quot;Część informacji pozostaje objęta tajemnicą bankową, co ogranicza zakres komentarzy, jakie możemy przekazywać publicznie&quot; — czytamy.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/e627d6a3-7d0a-46c0-abc8-7f78697ca493.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Thu, 26 Nov 2026 09:40:15 GMT</pubDate>
-            <guid isPermaLink="false">07570ecd-acb4-4e37-bc8e-c4912a4de337</guid></item></channel>
+            <guid isPermaLink="false">07570ecd-acb4-4e37-bc8e-c4912a4de337</guid></item><item>
+            <title>Breaking Sąd zdecydował w sprawie byłego agenta CBA. W tle Zondacrypto</title>
+            <link>https://www.fakt.pl/polityka/afera-zondacrypto-sad-zdecydowal-w-sprawie-artura-ch/j4lsdrz</link>
+            <description>Sąd przychylił się do wniosku prokuratury i zdecydował o zastosowaniu wobec Artura Chodzińskiego, byłego agenta Centralnego Biura Antykorupcyjnego, trzymiesięcznego tymczasowego aresztu. Wcześniej mężczyzna usłyszał zarzuty w związku ze śledztwem dotyczącym afery Zondacrypto.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/00014ea6-86b2-4038-af42-97f8539a49c7.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 26 Nov 2026 11:06:16 GMT</pubDate>
+            <guid isPermaLink="false">faf509db-e2f5-4bec-8fd9-cb050fe400ca</guid></item><item>
+            <title>Breaking Nowe doniesienia o 22-latku, który podpalił się w Warszawie</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/samopodpalenie-22-latka-w-warszawie-pojawily-sie-nowe-informacje-o-motywach/ldtxd7e</link>
+            <description>Samopodpalenia na Krakowskim Przedmieściu w Warszawie dokonał 22-letni Ukrainiec — potwierdza w rozmowie z &quot;Faktem&quot; asp. Jakub Pacyniak. — Na miejscu przeprowadziliśmy oględziny, został zabezpieczony materiał dowodowy — słyszymy. W mediach pojawiły się również doniesienia, że 22-latek miał &quot;problemy na studiach&quot;.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4d01b0de-3780-4cdb-9133-f5f9d9e3bf9d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 26 Nov 2026 12:14:48 GMT</pubDate>
+            <guid isPermaLink="false">6f7fe088-03d4-4457-b83e-5f6cfb04b5ac</guid></item></channel>
             </rss>
