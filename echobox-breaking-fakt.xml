@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 27 Nov 2026 06:08:16 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 27 Nov 2026 07:46:52 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Nawrocki zapozował z niecodziennym &quot;gadżetem&quot;. Zagadka prezentu dla Mileia rozwiązana</title>
             <link>https://www.fakt.pl/polityka/karol-nawrocki-i-javer-miler-z-pila-mechaniczna-to-nie-prezent/hf2wyww</link>
@@ -92,7 +92,13 @@
             <title>Breaking Poważny wypadek pod Wrocławiem. Bus uderzył w drzewo. Jest kilka osób rannych</title>
             <link>https://www.fakt.pl/wydarzenia/polska/wroclaw/wypadek-busa-w-gredzinie-cztery-osoby-ranne-trwa-akcja-ratunkowa/j6q7cd6</link>
             <description>Poranny dramat na Dolnym Śląsku. W miejscowości Grędzina w powiecie oławskim doszło do poważnego wypadku drogowego — bus przewożący 12 osób uderzył w drzewo. Cztery osoby zostały ranne, na miejscu trwa akcja ratunkowa.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/5c95c479-90a1-4ab9-b3c4-9a93f0ec8990.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 06:08:16 GMT</pubDate>
-            <guid isPermaLink="false">839a638a-b8fe-4b7e-847a-d1b3c4aaa077</guid></item></channel>
+            <guid isPermaLink="false">839a638a-b8fe-4b7e-847a-d1b3c4aaa077</guid></item><item>
+            <title>Breaking Jest ruch Trzaskowskiego. Chodzi o protest przed Trybunałem Konstytucyjnym</title>
+            <link>https://www.fakt.pl/polityka/jest-ruch-trzaskowskiego-chodzi-o-protest-przed-trybunalem-konstucyjnym/7tgj5s7</link>
+            <description>Prezydent Warszawy Rafał Trzaskowski poinformował 27 listopada w mediach społecznościowych, że miasto złoży zażalenie na decyzję sądu w sprawie protestu przed Trybunałem Konstytucyjnym.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/b94dfac4-abbf-4fe5-88a0-d307b658aeb6.png" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 27 Nov 2026 07:46:52 GMT</pubDate>
+            <guid isPermaLink="false">eef1c303-9082-4921-b606-9391151eb6d4</guid></item></channel>
             </rss>
