@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 27 Nov 2026 11:40:15 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 27 Nov 2026 12:18:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Makabryczne odkrycie w lesie pod Węgrowem. Ciała dwóch mężczyzn w samochodzie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/ciala-dwoch-mezczyzn-znalezione-w-aucie-pod-wegrowem-trwa-sledztwo/pr0jdcy</link>
@@ -95,9 +95,9 @@
             <enclosure url="https://ocdn.eu/pulscms/MDA_/4727405a-ba79-4366-9b18-da659d2f8942.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 09:58:21 GMT</pubDate>
             <guid isPermaLink="false">746ac7c4-6e29-46c7-baa2-f045dc9b89fb</guid></item><item>
-            <title>Breaking Media: zamachowiec pochowany, podano szczegóły</title>
+            <title>Breaking Zamachowiec pochowany, podano szczegóły</title>
             <link>https://www.fakt.pl/wydarzenia/polska/media-informuja-o-pogrzebie-zamachowca-z-krakowa-michala-oksinskiego/8kqjy4y</link>
-            <description>24-letni sprawca zamachu w Krakowie został pochowany — podają media. Według nich mężczyzna spoczął na cmentarzu w Waśniowie (woj. świętokrzyskie) podczas kameralnej uroczystości z udziałem zaledwie kilku osób.</description>
+            <description>24-letni sprawca zamachu w Krakowie został pochowany — ustalił &quot;Fakt&quot;. Mężczyzna spoczął na cmentarzu w Waśniowie (woj. świętokrzyskie) podczas kameralnej uroczystości z udziałem zaledwie kilku osób. Według relacji naszego informatora pożegnanie było ciche i skromne.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/477579cf-0be4-4bc5-a348-d1a54cf68271.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 10:06:17 GMT</pubDate>
             <guid isPermaLink="false">52186ec1-f9fb-451b-8739-a3a41ffb8d6a</guid></item><item>
@@ -106,5 +106,11 @@
             <description>Przyczyną katastrofy smoleńskiej była seria błędów podczas podejścia do lądowania — wynika z opinii międzynarodowego zespołu biegłych, której ustalenia przedstawiła Prokuratura Krajowa. Do wniosków ekspertów odniósł się w rozmowie z &quot;Faktem&quot; Paweł Deresz, mąż zmarłej w katastrofie posłanki Jolanty Szymanek-Deresz. — Najwyższy czas rozliczyć także podkomisję Antoniego Macierewicza — mówi.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/345d3b2f-b19a-4cac-941f-44cde45994cc.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 11:40:15 GMT</pubDate>
-            <guid isPermaLink="false">403ce381-dc72-4692-b69a-522e9e95509f</guid></item></channel>
+            <guid isPermaLink="false">403ce381-dc72-4692-b69a-522e9e95509f</guid></item><item>
+            <title>Breaking Kto zyska, a kto straci w 2027 r.? Prezydent zdecydował w sprawie zmian w PIT. Przypomniał obietnicę</title>
+            <link>https://www.fakt.pl/pieniadze/karol-nawrocki-zawetowal-zmiany-w-pit-i-cit-tyle-straca-podatnicy-w-2027-r-wyliczenia/k9cb6w8</link>
+            <description>Jest decyzja prezydenta w sprawie reformy podatkowej. Karol Nawrocki zawetował ustawę zakładającą zmiany w PIT, CIT i ryczałcie. Pracujący, którzy dziś wpadają w drugi próg podatkowy, mieli na tym zyskać nawet 3600 zł rocznie. — Nie można nazywać powszechną ulgą rozwiązania, które pomija znaczną część obywateli — uzasadniał prezydent.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2bdd6a72-611e-4492-a01a-0fbc2863ad4e.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 27 Nov 2026 12:18:00 GMT</pubDate>
+            <guid isPermaLink="false">189c602e-4c4f-4b17-9b2b-89c3c820a7b3</guid></item></channel>
             </rss>
