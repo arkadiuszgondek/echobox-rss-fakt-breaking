@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 27 Nov 2026 17:45:52 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 27 Nov 2026 19:27:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking 22-letni student z Ukrainy podpalił się koło Pałacu Prezydenckiego. Nowe ustalenia i relacja świadka</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/samopodpalenie-naprzeciwko-palacu-prezydenckiego-w-warszawie-relacja-swiadka/hv2v049</link>
@@ -106,5 +106,11 @@
             <description>Do Sądu Apelacyjnego wpłynęło zażalenie władz Warszawy w sprawie zgromadzenia przed Trybunałem Konstytucyjnym. Wcześniej Rafał Trzaskowski informował, że zamierza złożyć odwołanie od wyroku. Decyzję w sprawie miasteczka przed TK poznamy już niebawem, sąd ma bowiem sztywny termin, w którym musi rozpatrzeć sprawę.</description>
             <enclosure url="http://ocdn.eu/images/pulscms/NTU7MDA_/25cd35de-b5d0-4ac4-9d68-49ed2577880f.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 17:45:52 GMT</pubDate>
-            <guid isPermaLink="false">eef1c303-9082-4921-b606-9391151eb6d4</guid></item></channel>
+            <guid isPermaLink="false">eef1c303-9082-4921-b606-9391151eb6d4</guid></item><item>
+            <title>Breaking Groza w centrum Karpacza. Budynek stanął w płomieniach. Strażacy walczą z żywiołem</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/pozar-w-centrum-karpacza-dramatyczna-akcja-strazy-na-deptaku/1flck17</link>
+            <description>Dramatyczne sceny w centrum Karpacza. Ogień objął budynek usługowy przy ulicy Konstytucji 3 Maja, w pobliżu głównego deptaka. Płomienie szybko rozprzestrzeniły się na obiekt, a sytuacja przez długi czas pozostawała nieopanowana. Na miejscu trwa intensywna akcja gaśnicza. Jedna osoba podtruła się dymem.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/40f43ed5-5b56-42b4-871f-ba45fb549b98.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 27 Nov 2026 19:27:00 GMT</pubDate>
+            <guid isPermaLink="false">ab3622d1-3207-4501-a757-ecf33ecb80f2</guid></item></channel>
             </rss>
