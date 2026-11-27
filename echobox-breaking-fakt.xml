@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 27 Nov 2026 13:59:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 27 Nov 2026 15:55:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Makabryczne odkrycie w lesie pod Węgrowem. Ciała dwóch mężczyzn w samochodzie</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/ciala-dwoch-mezczyzn-znalezione-w-aucie-pod-wegrowem-trwa-sledztwo/pr0jdcy</link>
-            <description>Ciała dwóch mężczyzn zostały odnalezione w samochodzie zaparkowanym w lesie, w miejscowości Słuchocin pod Węgrowem (woj. mazowieckie). Na miejscu od kilku godzin pracują służby, a sprawę nadzoruje prokuratura. — Trwa potwierdzanie tożsamości zmarłych — dowiedział się &quot;Fakt&quot; w Komendzie Powiatowej Policji w Węgrowie.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/33700cfd-1f70-44f2-901a-4005effabded.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 25 Nov 2026 15:38:59 GMT</pubDate>
-            <guid isPermaLink="false">c8a56199-4d99-4a24-b127-81374dca6a31</guid></item><item>
             <title>Breaking Dramat pod ministerstwem. Mężczyzna dokonał samopodpalenia</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/samopodpalenie-przed-budynkiem-ministerstwa-funkcjonariusze-sop-ruszyli-na-ratunek/xp5z95h</link>
             <description>Do dramatycznego zdarzenia doszło 25 listopada naprzeciwko Pałacu Prezydenckiego, przed budynkiem Ministerstwa Kultury. — Pod Ministerstwem Kultury mężczyzna właśnie się podpalił. Nasi funkcjonariusze, widząc to, udzielili mu pomocy — przekazał w rozmowie z &quot;Faktem&quot; płk SOP Bogusław Piórkowski.</description>
@@ -118,5 +112,11 @@
             <description>Rodzice lub opiekunowie dziewczynki, która cudem przeżyła zamach w Krakowie, zgłosili się do prokuratury — potwierdził w rozmowie z &quot;Faktem&quot; prok. Eryk Stasielak. Wcześniej o kontakt apelował prokurator krajowy Dariusz Korneluk. Wiadomo już, jakie dalsze kroki podjęli śledczy.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/49d363e8-c88d-472b-b20f-dc0dc1c14f85.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 13:59:00 GMT</pubDate>
-            <guid isPermaLink="false">de5721a2-d9cd-4449-b379-4012bb26f92e</guid></item></channel>
+            <guid isPermaLink="false">de5721a2-d9cd-4449-b379-4012bb26f92e</guid></item><item>
+            <title>Breaking 14-miesięczne dziecko wypadło z okna. Tragiczny finał akcji ratunkowej w Cedyni</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/pomorze-zachodnie/wypadek-w-cedyni-14-miesieczne-dziecko-nie-przezylo-upadku-z-okna/3jmk2wq</link>
+            <description>Do niewyobrażalnej tragedii doszło w Cedyni w województwie zachodniopomorskim. Małe dziecko wypadło z okna budynku. Na miejsce natychmiast wezwano ratowników medycznych oraz Lotnicze Pogotowie Ratunkowe. Mimo podjętej reanimacji życia malucha nie udało się uratować. Okoliczności dramatu bada policja pod nadzorem prokuratora.</description>
+            <enclosure url="http://ocdn.eu/images/pulscms/Y2Q7MDA_/698fa37e-ed93-43e9-b46b-e5580c44abbe.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 27 Nov 2026 15:55:00 GMT</pubDate>
+            <guid isPermaLink="false">e6c2facd-7f9a-4495-a2ac-a1e0f37d536b</guid></item></channel>
             </rss>
