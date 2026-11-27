@@ -3,7 +3,7 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Fri, 27 Nov 2026 12:18:00 GMT</lastBuildDate>
+              <lastBuildDate>Fri, 27 Nov 2026 13:59:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
             <title>Breaking Makabryczne odkrycie w lesie pod Węgrowem. Ciała dwóch mężczyzn w samochodzie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/ciala-dwoch-mezczyzn-znalezione-w-aucie-pod-wegrowem-trwa-sledztwo/pr0jdcy</link>
@@ -112,5 +112,11 @@
             <description>Jest decyzja prezydenta w sprawie reformy podatkowej. Karol Nawrocki zawetował ustawę zakładającą zmiany w PIT, CIT i ryczałcie. Pracujący, którzy dziś wpadają w drugi próg podatkowy, mieli na tym zyskać nawet 3600 zł rocznie. — Nie można nazywać powszechną ulgą rozwiązania, które pomija znaczną część obywateli — uzasadniał prezydent.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/2bdd6a72-611e-4492-a01a-0fbc2863ad4e.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Fri, 27 Nov 2026 12:18:00 GMT</pubDate>
-            <guid isPermaLink="false">189c602e-4c4f-4b17-9b2b-89c3c820a7b3</guid></item></channel>
+            <guid isPermaLink="false">189c602e-4c4f-4b17-9b2b-89c3c820a7b3</guid></item><item>
+            <title>Breaking Ocalała z zamachu w Krakowie dziewczynka odnaleziona. Prokuratura potwierdza</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/krakow/przezyla-ostrzal-w-krakowie-teraz-zaplanowano-czynnosci-prokuratura-ujawnia/5pp3l8y</link>
+            <description>Rodzice lub opiekunowie dziewczynki, która cudem przeżyła zamach w Krakowie, zgłosili się do prokuratury — potwierdził w rozmowie z &quot;Faktem&quot; prok. Eryk Stasielak. Wcześniej o kontakt apelował prokurator krajowy Dariusz Korneluk. Wiadomo już, jakie dalsze kroki podjęli śledczy.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/49d363e8-c88d-472b-b20f-dc0dc1c14f85.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Fri, 27 Nov 2026 13:59:00 GMT</pubDate>
+            <guid isPermaLink="false">de5721a2-d9cd-4449-b379-4012bb26f92e</guid></item></channel>
             </rss>
