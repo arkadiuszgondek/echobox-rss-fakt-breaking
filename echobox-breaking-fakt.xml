@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 28 Nov 2026 09:37:33 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 28 Nov 2026 10:21:00 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Sąd zdecydował w sprawie byłego agenta CBA. W tle Zondacrypto</title>
-            <link>https://www.fakt.pl/polityka/afera-zondacrypto-sad-zdecydowal-w-sprawie-artura-ch/j4lsdrz</link>
-            <description>Sąd przychylił się do wniosku prokuratury i zdecydował o zastosowaniu wobec Artura Chodzińskiego, byłego agenta Centralnego Biura Antykorupcyjnego, trzymiesięcznego tymczasowego aresztu. Wcześniej mężczyzna usłyszał zarzuty w związku ze śledztwem dotyczącym afery Zondacrypto.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/00014ea6-86b2-4038-af42-97f8539a49c7.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 26 Nov 2026 11:06:16 GMT</pubDate>
-            <guid isPermaLink="false">faf509db-e2f5-4bec-8fd9-cb050fe400ca</guid></item><item>
             <title>Breaking Nowe doniesienia o 22-latku, który podpalił się w Warszawie</title>
             <link>https://www.fakt.pl/wydarzenia/polska/warszawa/samopodpalenie-22-latka-w-warszawie-pojawily-sie-nowe-informacje-o-motywach/ldtxd7e</link>
             <description>Samopodpalenia na Krakowskim Przedmieściu w Warszawie dokonał 22-letni Ukrainiec — potwierdza w rozmowie z &quot;Faktem&quot; asp. Jakub Pacyniak. — Na miejscu przeprowadziliśmy oględziny, został zabezpieczony materiał dowodowy — słyszymy. W mediach pojawiły się również doniesienia, że 22-latek miał &quot;problemy na studiach&quot;.</description>
@@ -94,5 +88,17 @@
             <description>Pełnomocnik Bogdana Święczkowskiego skierował do policji pismo, w którym wezwał Komendanta Stołecznego Policji &quot;do niezwłocznego zapewnienia asysty policyjnej i zaprzestania utrudniania dostępu do siedziby Trybunału Konstytucyjnego&quot;. — Stosowna odpowiedź adresatowi tegoż pisma została udzielona — przekazał &quot;Faktowi&quot; kom. Jacek Wiśniewski.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/9e071b40-7117-4a97-b1c2-dc00fa9b7848.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 28 Nov 2026 09:37:33 GMT</pubDate>
-            <guid isPermaLink="false">1ebd12ca-a56d-499c-bee9-33974eff30e9</guid></item></channel>
+            <guid isPermaLink="false">1ebd12ca-a56d-499c-bee9-33974eff30e9</guid></item><item>
+            <title>Breaking Pożar wybuchł o świcie. Ucierpieli 45-letni mężczyzna i jego maleńki syn </title>
+            <link>https://www.fakt.pl/wydarzenia/polska/trojmiasto/dramatyczny-pozar-w-lutomiu-ucierpieli-45-letni-mezczyzna-i-jego-poltoraroczny-syn/z2zs8y6</link>
+            <description>Dramatyczne informacje spod Chojnic (woj. pomorskie). W pożarze domku letniskowego we wsi Lutom ucierpiały dwie osoby. To ojciec z maleńkim dzieckiem. — W wyniku zdarzenia poszkodowani zostali 45-letni mężczyzna oraz półtoraroczne dziecko. Na dzisiaj zaplanowano oględziny z udziałem technika kryminalistyki oraz biegłego z zakresu pożarnictwa. Ich opinia będzie miała kluczowe znaczenie dla ustalenia przyczyny pożaru — mówi &quot;Faktowi&quot; st. asp. Magdalena Zblewska z chojnickiej policji.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/895b0b1f-fae4-4f57-8c12-374ed2faa941.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 28 Nov 2026 09:51:00 GMT</pubDate>
+            <guid isPermaLink="false">c51f1b50-d5c5-4b45-b05c-3a467717dfd5</guid></item><item>
+            <title>Breaking Trzcianka utonie we łzach. &quot;Trzy serca, trzy istnienia, jeden niewyobrażalny ból…&quot;</title>
+            <link>https://www.fakt.pl/wydarzenia/polska/poznan/trzcianka-utonie-we-lzach-pogrzeb-ofiar-tragicznego-pozaru/2njnzbe</link>
+            <description>59-letnia Małgorzata, 63-letni Wiesław oraz ich 12-letni wnuk Mikołaj spoczną w sobotę, 28 listopada, na cmentarzu w Trzciance (woj. wielkopolskie). Rodzina zginęła w tragicznym pożarze domu przy ul. Kasztanowej. Pokazano wieńce w kształcie serc, które ułożone zostaną na ich grobie. Trudno nie płakać, patrząc na białego pluszowego misia wtulonego w białe kwiaty.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/cff000f2-074c-45e5-bb95-ad97f00fb23d.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 28 Nov 2026 10:21:00 GMT</pubDate>
+            <guid isPermaLink="false">d8235d90-6d83-415d-a09c-c47959edf6a8</guid></item></channel>
             </rss>
