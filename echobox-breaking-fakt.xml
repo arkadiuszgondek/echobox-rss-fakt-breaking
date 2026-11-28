@@ -3,14 +3,8 @@
               <title>FAKT RSS (echobox)</title>
               <link>https://www.fakt.pl/</link>
               <description>Test Echobox</description>
-              <lastBuildDate>Sat, 28 Nov 2026 10:21:00 GMT</lastBuildDate>
+              <lastBuildDate>Sat, 28 Nov 2026 13:10:02 GMT</lastBuildDate>
               <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Nowe doniesienia o 22-latku, który podpalił się w Warszawie</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/warszawa/samopodpalenie-22-latka-w-warszawie-pojawily-sie-nowe-informacje-o-motywach/ldtxd7e</link>
-            <description>Samopodpalenia na Krakowskim Przedmieściu w Warszawie dokonał 22-letni Ukrainiec — potwierdza w rozmowie z &quot;Faktem&quot; asp. Jakub Pacyniak. — Na miejscu przeprowadziliśmy oględziny, został zabezpieczony materiał dowodowy — słyszymy. W mediach pojawiły się również doniesienia, że 22-latek miał &quot;problemy na studiach&quot;.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/4d01b0de-3780-4cdb-9133-f5f9d9e3bf9d.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 26 Nov 2026 12:14:48 GMT</pubDate>
-            <guid isPermaLink="false">6f7fe088-03d4-4457-b83e-5f6cfb04b5ac</guid></item><item>
             <title>Breaking Koniec posiedzenia sądu dyscyplinarnego. Jest decyzja ws. Bogdana Święczkowskiego</title>
             <link>https://www.fakt.pl/polityka/bogdan-swieczkowski-sad-dyscyplinarny-zdecydowal-ws-prezesa-tk/9l3l2m7</link>
             <description>Sąd dyscyplinarny rozpatrzył sprawę zarządzonej wobec prezesa Trybunału Konstytucyjnego Bogdana Święczkowskiego przerwy w czynnościach służbowych. W czwartek został on zawieszony na 12 miesięcy — przekazała Magdalena Bentkowska.</description>
@@ -100,5 +94,11 @@
             <description>59-letnia Małgorzata, 63-letni Wiesław oraz ich 12-letni wnuk Mikołaj spoczną w sobotę, 28 listopada, na cmentarzu w Trzciance (woj. wielkopolskie). Rodzina zginęła w tragicznym pożarze domu przy ul. Kasztanowej. Pokazano wieńce w kształcie serc, które ułożone zostaną na ich grobie. Trudno nie płakać, patrząc na białego pluszowego misia wtulonego w białe kwiaty.</description>
             <enclosure url="https://ocdn.eu/pulscms/MDA_/cff000f2-074c-45e5-bb95-ad97f00fb23d.jpeg" length="0" type="image/jpeg"/>
             <pubDate>Sat, 28 Nov 2026 10:21:00 GMT</pubDate>
-            <guid isPermaLink="false">d8235d90-6d83-415d-a09c-c47959edf6a8</guid></item></channel>
+            <guid isPermaLink="false">d8235d90-6d83-415d-a09c-c47959edf6a8</guid></item><item>
+            <title>Breaking Prezydent z nową inicjatywą. Karol Nawrocki właśnie to ogłosił</title>
+            <link>https://www.fakt.pl/polityka/prezydent-karol-nawrocki-z-nowa-inicjatywa-rusza-akademia-prezydencka/f0gnvyn</link>
+            <description>Prezydent ogłosił nową inicjatywę. — Polska potrzebuje młodych liderów, którzy będą zmieniać nasz kraj na lepsze, dlatego rozpoczynamy nabór do Akademii Prezydenckiej, bezpłatnego programu edukacyjnego — poinformował Karol Nawrocki.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/343ae68a-6fa3-4eb9-9e98-3f8197812543.jpeg" length="0" type="image/jpeg"/>
+            <pubDate>Sat, 28 Nov 2026 13:10:02 GMT</pubDate>
+            <guid isPermaLink="false">ba10edd0-7fb8-4430-9038-fa90db64a7d0</guid></item></channel>
             </rss>
